@@ -5,6 +5,8 @@ const updatedEl = document.querySelector("#updated");
 const categoryTemplate = document.querySelector("#category-template");
 const itemTemplate = document.querySelector("#item-template");
 
+const NEWS_URL = "./news.json";
+
 const dateTimeFormatter = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric",
   day: "numeric",
@@ -53,7 +55,14 @@ function createEmptyMessage() {
   return message;
 }
 
+function validateNews(data) {
+  if (!data || !Array.isArray(data.categories)) {
+    throw new Error("news.json の形式が正しくありません。categories 配列が必要です。");
+  }
+}
+
 function render(data) {
+  validateNews(data);
   newsRoot.textContent = "";
   tabs.textContent = "";
   updatedEl.textContent = formatUpdatedAt(data.generatedAt);
@@ -101,14 +110,15 @@ function render(data) {
 
 async function loadNews() {
   try {
-    const response = await fetch("data/news.json", { cache: "no-store" });
+    const response = await fetch(NEWS_URL, { cache: "no-store" });
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      throw new Error(`${NEWS_URL} の取得に失敗しました。HTTP ${response.status}`);
     }
     const data = await response.json();
     render(data);
   } catch (error) {
-    statusEl.textContent = "ニュースを読み込めませんでした。しばらくしてから再読み込みしてください。";
+    statusEl.hidden = false;
+    statusEl.textContent = `ニュースを読み込めませんでした: ${error.message}`;
     updatedEl.textContent = "読み込み失敗";
     console.error(error);
   }
