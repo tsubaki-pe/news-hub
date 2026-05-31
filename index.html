@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Morning RSS News</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Daily RSS Digest</p>
+        <h1>朝のニュース一覧</h1>
+      </div>
+      <p class="updated" id="updated">更新確認中</p>
+    </header>
+
+    <nav class="tabs" id="tabs" aria-label="カテゴリ"></nav>
+
+    <main class="content">
+      <div class="status" id="status">ニュースを読み込んでいます。</div>
+      <section class="news-grid" id="news" aria-live="polite"></section>
+    </main>
+
+    <template id="category-template">
+      <article class="category-panel">
+        <div class="category-heading">
+          <h2></h2>
+          <span class="count"></span>
+        </div>
+        <div class="items"></div>
+      </article>
+    </template>
+
+    <template id="item-template">
+      <a class="news-item" target="_blank" rel="noopener noreferrer">
+        <span class="source-row">
+          <span class="source"></span>
+          <time></time>
+        </span>
+        <strong></strong>
+        <span class="excerpt"></span>
+      </a>
+    </template>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
