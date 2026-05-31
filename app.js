@@ -6,6 +6,16 @@ const categoryTemplate = document.querySelector("#category-template");
 const itemTemplate = document.querySelector("#item-template");
 
 const NEWS_URL = "./news.json";
+const CATEGORY_IDS = {
+  "世界ニュース": "world",
+  "日本ニュース": "japan",
+  "投資ニュース": "investment",
+  "AIニュース": "ai",
+  "教育ニュース": "education",
+};
+
+let newsData = null;
+let activeCategoryId = "world";
 
 const dateTimeFormatter = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric",
@@ -23,6 +33,11 @@ const fullDateTimeFormatter = new Intl.DateTimeFormat("ja-JP", {
   timeZoneName: "short",
 });
 
+function normalizeCategoryId(category) {
+  if (category.id === "investing") return "investment";
+  return CATEGORY_IDS[category.name] || category.id;
+}
+
 function formatDate(value, fallback = "") {
   if (!value) return fallback;
   const date = new Date(value);
@@ -35,17 +50,6 @@ function formatUpdatedAt(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "更新日時不明";
   return `最終更新 ${fullDateTimeFormatter.format(date)}`;
-}
-
-function showCategory(id) {
-  document.querySelectorAll(".category-panel").forEach((panel) => {
-    panel.hidden = panel.dataset.category !== id;
-  });
-  document.querySelectorAll(".tab-button").forEach((button) => {
-    const selected = button.dataset.category === id;
-    button.classList.toggle("is-active", selected);
-    button.setAttribute("aria-selected", String(selected));
-  });
 }
 
 function createEmptyMessage() {
@@ -61,51 +65,79 @@ function validateNews(data) {
   }
 }
 
-function render(data) {
-  validateNews(data);
-  newsRoot.textContent = "";
-  tabs.textContent = "";
-  updatedEl.textContent = formatUpdatedAt(data.generatedAt);
+function setActiveTab(categoryId) {
+  document.querySelectorAll(".tab-button").forEach((button) => {
+    const selected = button.dataset.category === categoryId;
+    button.classList.toggle("is-active", selected);
+    button.setAttribute("aria-selected", String(selected));
+  });
+}
 
-  data.categories.forEach((category, index) => {
+function renderCategory(categoryId) {
+  if (!newsData) return;
+
+  const category = newsData.categories.find((item) => normalizeCategoryId(item) === categoryId);
+  if (!category) {
+    throw new Error(`カテゴリ ${categoryId} が news.json に見つかりません。`);
+  }
+
+  activeCategoryId = categoryId;
+  setActiveTab(categoryId);
+  newsRoot.textContent = "";
+
+  const panel = categoryTemplate.content.firstElementChild.cloneNode(true);
+  panel.dataset.category = categoryId;
+  panel.hidden = false;
+  panel.querySelector("h2").textContent = category.name;
+  panel.querySelector(".count").textContent = `${category.items.length}件`;
+
+  const itemsRoot = panel.querySelector(".items");
+  if (!category.items.length) {
+    itemsRoot.append(createEmptyMessage());
+  }
+
+  category.items.forEach((item) => {
+    const itemNode = itemTemplate.content.firstElementChild.cloneNode(true);
+    itemNode.href = item.link;
+    itemNode.querySelector(".source").textContent = item.source;
+    itemNode.querySelector("time").textContent = formatDate(item.publishedAt, "日時不明");
+    itemNode.querySelector("time").dateTime = item.publishedAt || "";
+    itemNode.querySelector("strong").textContent = item.title;
+    itemNode.querySelector(".excerpt").textContent = item.excerpt || "抜粋はありません。";
+    itemsRoot.append(itemNode);
+  });
+
+  newsRoot.append(panel);
+}
+
+function renderTabs(categories) {
+  tabs.textContent = "";
+  categories.forEach((category) => {
+    const categoryId = normalizeCategoryId(category);
     const button = document.createElement("button");
     button.className = "tab-button";
     button.type = "button";
-    button.dataset.category = category.id;
+    button.dataset.category = categoryId;
     button.setAttribute("role", "tab");
     button.textContent = category.name;
-    button.addEventListener("click", () => showCategory(category.id));
+    button.addEventListener("click", () => renderCategory(categoryId));
     tabs.append(button);
-
-    const panel = categoryTemplate.content.firstElementChild.cloneNode(true);
-    panel.dataset.category = category.id;
-    panel.hidden = index !== 0;
-    panel.querySelector("h2").textContent = category.name;
-    panel.querySelector(".count").textContent = `${category.items.length}件`;
-
-    const itemsRoot = panel.querySelector(".items");
-    if (!category.items.length) {
-      itemsRoot.append(createEmptyMessage());
-    }
-
-    category.items.forEach((item) => {
-      const itemNode = itemTemplate.content.firstElementChild.cloneNode(true);
-      itemNode.href = item.link;
-      itemNode.querySelector(".source").textContent = item.source;
-      itemNode.querySelector("time").textContent = formatDate(item.publishedAt, "日時不明");
-      itemNode.querySelector("time").dateTime = item.publishedAt || "";
-      itemNode.querySelector("strong").textContent = item.title;
-      itemNode.querySelector(".excerpt").textContent = item.excerpt || "抜粋はありません。";
-      itemsRoot.append(itemNode);
-    });
-
-    newsRoot.append(panel);
   });
+}
 
+function render(data) {
+  validateNews(data);
+  newsData = data;
+  updatedEl.textContent = formatUpdatedAt(data.generatedAt);
+  renderTabs(data.categories);
+
+  const firstCategory = data.categories[0];
+  const initialCategoryId = data.categories.some((category) => normalizeCategoryId(category) === activeCategoryId)
+    ? activeCategoryId
+    : normalizeCategoryId(firstCategory);
+
+  renderCategory(initialCategoryId);
   statusEl.hidden = true;
-  if (data.categories.length) {
-    showCategory(data.categories[0].id);
-  }
 }
 
 async function loadNews() {
