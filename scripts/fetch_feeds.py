@@ -7,6 +7,7 @@ import json
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -16,7 +17,7 @@ from xml.etree import ElementTree
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG = ROOT / "scripts" / "feeds.json"
-DEFAULT_OUTPUT = ROOT / "data" / "news.json"
+DEFAULT_OUTPUT = ROOT / "news.json"
 MAX_ITEMS_PER_CATEGORY = 30
 REQUEST_TIMEOUT_SECONDS = 20
 
@@ -38,6 +39,7 @@ def truncate(text: str, limit: int = 140) -> str:
 
 
 def child_text(element: ElementTree.Element, names: tuple[str, ...]) -> str:
+    names = tuple(name.rsplit(":", 1)[-1].lower() for name in names)
     for child in element.iter():
         local_name = child.tag.rsplit("}", 1)[-1].lower()
         if local_name in names and child.text:
@@ -88,7 +90,16 @@ def fetch_xml(url: str) -> bytes:
         },
     )
     with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+        content_type = response.headers.get_content_type()
+        if content_type not in {"application/rss+xml", "application/atom+xml", "application/xml", "text/xml"}:
+            raise ValueError(f"unexpected content type: {content_type}")
         return response.read()
+
+
+def safe_link(value: str) -> str:
+    value = value.strip()
+    parsed = urllib.parse.urlparse(value)
+    return value if parsed.scheme in {"http", "https"} and parsed.netloc else ""
 
 
 def parse_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
@@ -102,7 +113,7 @@ def parse_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for entry in entries:
         title = child_text(entry, ("title",))
-        link = child_text(entry, ("link",)) or atom_link(entry)
+        link = safe_link(child_text(entry, ("link",)) or atom_link(entry))
         published_raw = child_text(entry, ("pubdate", "published", "updated", "dc:date"))
         description = child_text(entry, ("description", "summary", "content", "encoded"))
         published_at, sort_time = parse_date(published_raw)
@@ -136,7 +147,7 @@ def build_news(config_path: Path) -> dict[str, Any]:
                         continue
                     seen.add(key)
                     items.append(item)
-            except (urllib.error.URLError, ElementTree.ParseError, TimeoutError, OSError) as exc:
+            except (urllib.error.URLError, ElementTree.ParseError, TimeoutError, OSError, ValueError) as exc:
                 errors.append(
                     {
                         "category": category["name"],
@@ -172,11 +183,17 @@ def main() -> int:
     args = parser.parse_args()
 
     news = build_news(args.config)
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    args.output.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
-
     item_count = sum(len(category["items"]) for category in news["categories"])
     error_count = len(news["errors"])
+    if item_count == 0:
+        print("No items were fetched; keeping the existing output unchanged.", file=sys.stderr)
+        return 1
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    temporary_output = args.output.with_suffix(args.output.suffix + ".tmp")
+    temporary_output.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
+    temporary_output.replace(args.output)
+
     print(f"Wrote {item_count} items to {args.output}")
     if error_count:
         print(f"{error_count} feed(s) failed; site will still publish available items.", file=sys.stderr)
