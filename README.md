@@ -2,7 +2,7 @@
 
 世界ニュース、日本ニュース、投資ニュース、AIニュース、教育ニュースのRSSを集約し、GitHub Pagesで公開する静的ニュースサイトです。
 
-Gemini APIキーをGitHub ActionsのSecretに登録している場合は、各カテゴリの記事に日本語タイトルと3〜5行の日本語要約を追加します。APIキーがない場合やGeminiの呼び出しに失敗した場合でも、従来どおりRSS本文を表示します。
+Gemini APIキーをGitHub ActionsのSecretに登録している場合は、各カテゴリの記事に日本語タイトルと3〜5行の日本語要約を追加します。APIキーがない場合はRSS本文を表示します。APIキーがあるのにGemini要約が0件だった場合は、既存の公開ページを英語版で上書きしないよう更新を停止します。
 
 ## 公開ページ
 
@@ -12,11 +12,12 @@ https://tsubaki-pe.github.io/news-hub/
 
 GitHub Actionsの `.github/workflows/update-news.yml` で自動更新します。
 
-- 実行タイミング: 毎日 21:17 UTC
-- 日本時間: 毎日 朝 6:17
-- 補足: GitHub Actionsの定期実行は毎時00分が混みやすいため、少しずらして安定しやすくしています
+- 実行タイミング: 毎日 21:00 UTC / 09:00 UTC
+- 日本時間: 毎日 朝 6:00 / 夕方 18:00
+- 取得件数: 各カテゴリ10件、合計50件
 - 手動実行: GitHubの `Actions` タブから `Update RSS news` を選び、`Run workflow` で実行できます
 - 公開反映: RSS取得、Gemini要約、テスト、静的サイト生成のあと、GitHub Pagesへ自動デプロイされます
+- 非常用復元: 手動実行時に `use_existing_news` を有効にすると、RSS/Gemini取得をスキップしてリポジトリ内の `news.json` をそのまま再デプロイします
 
 ## Gemini APIキー
 
@@ -64,9 +65,10 @@ python -m unittest discover -s tests
 - `GEMINI_API_KEY is not set`: Secretが未登録です
 - `Gemini returned HTTP 429`: Gemini APIの無料枠やレート制限に当たっています
 - `Gemini did not return usable translations`: Geminiの返答形式が期待と違います
+- `Gemini returned no usable translations`: Gemini要約が0件だったため、英語版で既存公開ページを上書きしないよう更新を停止しています
 - `No items were fetched`: RSS取得に失敗し、記事が0件です
 
-Geminiが失敗しても、RSS記事自体が取得できていれば英語のまま公開されます。記事が0件の場合だけ、既存の公開データを壊さないために更新を止めます。
+APIキーがある状態でGemini要約が0件だった場合は、既存の公開データを壊さないために更新を止め、GitHub Pagesへデプロイしません。RSS記事が0件の場合も同じく更新を止めます。
 
 ## 公開対象ファイル
 

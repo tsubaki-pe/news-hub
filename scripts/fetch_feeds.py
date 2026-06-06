@@ -20,11 +20,11 @@ from xml.etree import ElementTree
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG = ROOT / "scripts" / "feeds.json"
 DEFAULT_OUTPUT = ROOT / "news.json"
-MAX_ITEMS_PER_CATEGORY = 30
+MAX_ITEMS_PER_CATEGORY = 10
 REQUEST_TIMEOUT_SECONDS = 20
 GEMINI_TIMEOUT_SECONDS = 120
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
-DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY = 30
+DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY = 10
 DEFAULT_TRANSLATION_DELAY_SECONDS = 70
 GEMINI_MAX_RETRIES = 3
 
@@ -410,8 +410,15 @@ def main() -> int:
     )
     item_count = sum(len(category["items"]) for category in news["categories"])
     error_count = len(news["errors"])
+    translated_count = news.get("translation", {}).get("translatedItems", 0)
     if item_count == 0:
         print("No items were fetched; keeping the existing output unchanged.", file=sys.stderr)
+        return 1
+    if os.environ.get("GEMINI_API_KEY") and args.translation_limit_per_category and translated_count == 0:
+        print(
+            "Gemini returned no usable translations; keeping the existing published site unchanged.",
+            file=sys.stderr,
+        )
         return 1
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
@@ -422,7 +429,6 @@ def main() -> int:
     print(f"Wrote {item_count} items to {args.output}")
     if error_count:
         print(f"{error_count} feed(s) failed; site will still publish available items.", file=sys.stderr)
-    translated_count = news.get("translation", {}).get("translatedItems", 0)
     if translated_count:
         print(f"Added Japanese summaries for {translated_count} item(s).")
     elif os.environ.get("GEMINI_API_KEY"):

@@ -2,10 +2,17 @@ name: Update RSS news
 
 on:
   schedule:
-    # 06:17 Asia/Tokyo is 21:17 UTC on the previous day.
-    # Avoid the top of the hour because scheduled GitHub Actions can be delayed or dropped during peak load.
-    - cron: "17 21 * * *"
+    # 06:00 Asia/Tokyo is 21:00 UTC on the previous day.
+    - cron: "0 21 * * *"
+    # 18:00 Asia/Tokyo is 09:00 UTC on the same day.
+    - cron: "0 9 * * *"
   workflow_dispatch:
+    inputs:
+      use_existing_news:
+        description: "Skip RSS/Gemini fetch and deploy the repository news.json"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -29,10 +36,11 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch RSS feeds
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.use_existing_news != true }}
         run: python scripts/fetch_feeds.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TRANSLATION_LIMIT_PER_CATEGORY: "30"
+          TRANSLATION_LIMIT_PER_CATEGORY: "10"
           TRANSLATION_DELAY_SECONDS: "70"
 
       - name: Run tests
