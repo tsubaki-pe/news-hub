@@ -2,8 +2,9 @@ name: Update RSS news
 
 on:
   schedule:
-    # 06:00 Asia/Tokyo is 21:00 UTC on the previous day.
-    - cron: "0 21 * * *"
+    # 06:17 Asia/Tokyo is 21:17 UTC on the previous day.
+    # Avoid the top of the hour because scheduled GitHub Actions can be delayed or dropped during peak load.
+    - cron: "17 21 * * *"
   workflow_dispatch:
 
 permissions:

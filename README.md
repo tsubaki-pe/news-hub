@@ -12,8 +12,9 @@ https://tsubaki-pe.github.io/news-hub/
 
 GitHub Actionsの `.github/workflows/update-news.yml` で自動更新します。
 
-- 実行タイミング: 毎日 21:00 UTC
-- 日本時間: 毎日 朝 6:00
+- 実行タイミング: 毎日 21:17 UTC
+- 日本時間: 毎日 朝 6:17
+- 補足: GitHub Actionsの定期実行は毎時00分が混みやすいため、少しずらして安定しやすくしています
 - 手動実行: GitHubの `Actions` タブから `Update RSS news` を選び、`Run workflow` で実行できます
 - 公開反映: RSS取得、Gemini要約、テスト、静的サイト生成のあと、GitHub Pagesへ自動デプロイされます
 
