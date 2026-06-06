@@ -4,19 +4,30 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light" />
-    <title>Morning RSS News</title>
+    <meta name="description" content="世界・日本・投資・AI・教育の最新ニュースをまとめて読めるRSSニュースハブ" />
+    <title>世界ニュース母艦</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <header class="site-header">
       <div>
-        <p class="eyebrow">Daily RSS Digest</p>
-        <h1>朝のニュース一覧</h1>
+        <p class="eyebrow">Daily RSS Intelligence</p>
+        <h1>世界ニュース母艦</h1>
+        <p class="tagline">重要な動きを、ひとつの場所で。</p>
       </div>
-      <p class="updated" id="updated">更新確認中</p>
+      <div class="header-meta">
+        <p class="updated" id="updated">更新を確認中</p>
+        <p class="feed-health" id="feed-health"></p>
+      </div>
     </header>
 
-    <nav class="tabs" id="tabs" aria-label="カテゴリ"></nav>
+    <div class="toolbar">
+      <nav class="tabs" id="tabs" aria-label="ニュースカテゴリ" role="tablist"></nav>
+      <label class="search">
+        <span class="visually-hidden">ニュースを検索</span>
+        <input id="search" type="search" placeholder="見出し・媒体・要約を検索" autocomplete="off" />
+      </label>
+    </div>
 
     <main class="content">
       <div class="status" id="status">ニュースを読み込んでいます。</div>
@@ -24,7 +35,7 @@
     </main>
 
     <template id="category-template">
-      <article class="category-panel">
+      <article class="category-panel" role="tabpanel">
         <div class="category-heading">
           <h2></h2>
           <span class="count"></span>

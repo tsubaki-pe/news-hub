@@ -4,98 +4,47 @@
       "id": "world",
       "name": "世界ニュース",
       "feeds": [
-        {
-          "name": "BBC News",
-          "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
-        },
-        {
-          "name": "NPR World",
-          "url": "https://feeds.npr.org/1004/rss.xml"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/xml/rss/all.xml"
-        }
+        { "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { "name": "NPR World", "url": "https://feeds.npr.org/1004/rss.xml" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml" }
       ]
     },
     {
       "id": "japan",
       "name": "日本ニュース",
       "feeds": [
-        {
-          "name": "NHK NEWS WEB",
-          "url": "https://www3.nhk.or.jp/rss/news/cat0.xml"
-        },
-        {
-          "name": "Yahoo!ニュース 国内",
-          "url": "https://news.yahoo.co.jp/rss/categories/domestic.xml"
-        },
-        {
-          "name": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/feed/"
-        }
+        { "name": "NHK NEWS WEB", "url": "https://www3.nhk.or.jp/rss/news/cat0.xml" },
+        { "name": "Yahoo!ニュース 国内", "url": "https://news.yahoo.co.jp/rss/categories/domestic.xml" },
+        { "name": "The Japan Times", "url": "https://www.japantimes.co.jp/feed/" }
       ]
     },
     {
       "id": "investment",
       "name": "投資ニュース",
       "feeds": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rssindex"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
-        }
+        { "name": "CNBC Markets", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex" },
+        { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories" }
       ]
     },
     {
       "id": "ai",
       "name": "AIニュース",
       "feeds": [
-        {
-          "name": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
-        },
-        {
-          "name": "VentureBeat AI",
-          "url": "https://venturebeat.com/category/ai/feed/"
-        },
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-        },
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
+        { "name": "MIT Technology Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+        { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/" },
+        { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+        { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" }
       ]
     },
     {
       "id": "education",
       "name": "教育ニュース",
       "feeds": [
-        {
-          "name": "Chalkbeat",
-          "url": "https://www.chalkbeat.org/arc/outboundfeeds/rss/"
-        },
-        {
-          "name": "Inside Higher Ed",
-          "url": "https://www.insidehighered.com/rss.xml"
-        },
-        {
-          "name": "The 74",
-          "url": "https://www.the74million.org/feed/"
-        },
-        {
-          "name": "The Hechinger Report",
-          "url": "https://hechingerreport.org/feed/"
-        }
+        { "name": "Chalkbeat", "url": "https://www.chalkbeat.org/arc/outboundfeeds/rss/" },
+        { "name": "Inside Higher Ed", "url": "https://www.insidehighered.com/rss.xml" },
+        { "name": "The 74", "url": "https://www.the74million.org/feed/" },
+        { "name": "The Hechinger Report", "url": "https://hechingerreport.org/feed/" }
       ]
     }
   ]
