@@ -4,9 +4,11 @@ import argparse
 import email.utils
 import html
 import json
+import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,9 +21,14 @@ DEFAULT_CONFIG = ROOT / "scripts" / "feeds.json"
 DEFAULT_OUTPUT = ROOT / "news.json"
 MAX_ITEMS_PER_CATEGORY = 30
 REQUEST_TIMEOUT_SECONDS = 20
+GEMINI_TIMEOUT_SECONDS = 40
+DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
+DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY = 30
+DEFAULT_TRANSLATION_BATCH_SIZE = 5
 
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
+JSON_OBJECT_RE = re.compile(r"\{.*\}", re.DOTALL)
 
 
 def text_or_empty(value: str | None) -> str:
@@ -38,6 +45,7 @@ def truncate(text: str, limit: int = 140) -> str:
 
 
 def child_text(element: ElementTree.Element, names: tuple[str, ...]) -> str:
+    names = tuple(name.rsplit(":", 1)[-1].lower() for name in names)
     for child in element.iter():
         local_name = child.tag.rsplit("}", 1)[-1].lower()
         if local_name in names and child.text:
@@ -88,7 +96,16 @@ def fetch_xml(url: str) -> bytes:
         },
     )
     with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+        content_type = response.headers.get_content_type()
+        if content_type not in {"application/rss+xml", "application/atom+xml", "application/xml", "text/xml"}:
+            raise ValueError(f"unexpected content type: {content_type}")
         return response.read()
+
+
+def safe_link(value: str) -> str:
+    value = value.strip()
+    parsed = urllib.parse.urlparse(value)
+    return value if parsed.scheme in {"http", "https"} and parsed.netloc else ""
 
 
 def parse_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
@@ -102,7 +119,7 @@ def parse_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for entry in entries:
         title = child_text(entry, ("title",))
-        link = child_text(entry, ("link",)) or atom_link(entry)
+        link = safe_link(child_text(entry, ("link",)) or atom_link(entry))
         published_raw = child_text(entry, ("pubdate", "published", "updated", "dc:date"))
         description = child_text(entry, ("description", "summary", "content", "encoded"))
         published_at, sort_time = parse_date(published_raw)
@@ -118,6 +135,175 @@ def parse_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
                 }
             )
     return items
+
+
+def env_int(name: str, default: int) -> int:
+    value = os.environ.get(name)
+    if not value:
+        return default
+    try:
+        return max(0, int(value))
+    except ValueError:
+        return default
+
+
+def build_translation_prompt(category_name: str, items: list[dict[str, Any]]) -> str:
+    compact_items = [
+        {
+            "index": index,
+            "title": item["title"],
+            "excerpt": item.get("excerpt", ""),
+            "source": item.get("source", ""),
+        }
+        for index, item in enumerate(items)
+    ]
+    return (
+        "次のニュース記事を日本語にしてください。\n"
+        "条件:\n"
+        "- titleJa は自然な日本語タイトルにする\n"
+        "- summaryJa は読みやすい日本語の3〜5行にする\n"
+        "- 専門用語は必要に応じて短く補足する\n"
+        "- 事実を足さない。RSSのtitleとexcerptから分かる範囲だけを書く\n"
+        "- 必ずJSONだけを返す\n"
+        '形式: {"items":[{"index":0,"titleJa":"...","summaryJa":["...","...","..."]}]}\n'
+        f"カテゴリ: {category_name}\n"
+        f"記事: {json.dumps(compact_items, ensure_ascii=False)}"
+    )
+
+
+def extract_response_text(response: dict[str, Any]) -> str:
+    parts = response.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+    return "".join(part.get("text", "") for part in parts if isinstance(part, dict))
+
+
+def parse_json_response(text: str) -> dict[str, Any]:
+    text = text.strip()
+    if not text:
+        raise ValueError("empty Gemini response")
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        match = JSON_OBJECT_RE.search(text)
+        if not match:
+            raise
+        return json.loads(match.group(0))
+
+
+def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    request_body = {
+        "system_instruction": {
+            "parts": [
+                {
+                    "text": (
+                        "あなたはニュースをやさしい日本語にする編集者です。"
+                        "一般読者に伝わる自然な日本語で、事実だけを簡潔にまとめます。"
+                    )
+                }
+            ]
+        },
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 4096,
+            "responseMimeType": "application/json",
+        },
+    }
+    request = urllib.request.Request(
+        endpoint,
+        data=json.dumps(request_body).encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "x-goog-api-key": api_key,
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(request, timeout=GEMINI_TIMEOUT_SECONDS) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def normalize_summary(value: Any) -> list[str]:
+    if isinstance(value, str):
+        lines = [line.strip(" ・-") for line in value.splitlines()]
+    elif isinstance(value, list):
+        lines = [text_or_empty(str(line)) for line in value]
+    else:
+        lines = []
+    lines = [line for line in lines if line]
+    return lines[:5]
+
+
+def apply_translation(item: dict[str, Any], translated: dict[str, Any]) -> bool:
+    title_ja = text_or_empty(str(translated.get("titleJa", "")))
+    summary_ja = normalize_summary(translated.get("summaryJa"))
+    if not title_ja or len(summary_ja) < 3:
+        return False
+    item["titleJa"] = title_ja
+    item["summaryJa"] = summary_ja
+    item["translationStatus"] = "translated"
+    return True
+
+
+def enrich_with_gemini(
+    news: dict[str, Any],
+    *,
+    api_key: str | None,
+    model: str,
+    limit_per_category: int,
+    batch_size: int,
+) -> None:
+    batch_size = max(1, batch_size)
+    news["translation"] = {
+        "provider": "gemini",
+        "model": model,
+        "enabled": bool(api_key and limit_per_category),
+        "limitPerCategory": limit_per_category,
+        "batchSize": batch_size,
+        "translatedItems": 0,
+        "failedBatches": [],
+    }
+    if not api_key or limit_per_category <= 0:
+        for category in news["categories"]:
+            for item in category["items"]:
+                item.setdefault("translationStatus", "not_configured")
+        return
+
+    for category in news["categories"]:
+        candidates = category["items"][:limit_per_category]
+        if not candidates:
+            continue
+        for item in candidates:
+            item["translationStatus"] = "pending"
+        for start in range(0, len(candidates), batch_size):
+            batch = candidates[start : start + batch_size]
+            try:
+                prompt = build_translation_prompt(category["name"], batch)
+                response = call_gemini(prompt, api_key, model)
+                payload = parse_json_response(extract_response_text(response))
+                translated_items = payload.get("items", [])
+                if not isinstance(translated_items, list):
+                    raise ValueError("Gemini response does not contain an items array")
+
+                by_index = {entry.get("index"): entry for entry in translated_items if isinstance(entry, dict)}
+                for index, item in enumerate(batch):
+                    if apply_translation(item, by_index.get(index, {})):
+                        news["translation"]["translatedItems"] += 1
+                    else:
+                        item["translationStatus"] = "failed"
+            except (urllib.error.URLError, TimeoutError, OSError, ValueError, KeyError, json.JSONDecodeError) as exc:
+                news["translation"]["failedBatches"].append(
+                    {
+                        "category": category["name"],
+                        "start": start,
+                        "count": len(batch),
+                        "error": str(exc),
+                    }
+                )
+                for item in batch:
+                    item["translationStatus"] = "failed"
+
+        for item in category["items"][limit_per_category:]:
+            item.setdefault("translationStatus", "not_requested")
 
 
 def build_news(config_path: Path) -> dict[str, Any]:
@@ -136,7 +322,7 @@ def build_news(config_path: Path) -> dict[str, Any]:
                         continue
                     seen.add(key)
                     items.append(item)
-            except (urllib.error.URLError, ElementTree.ParseError, TimeoutError, OSError) as exc:
+            except (urllib.error.URLError, ElementTree.ParseError, TimeoutError, OSError, ValueError) as exc:
                 errors.append(
                     {
                         "category": category["name"],
@@ -169,17 +355,46 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch RSS feeds and write static news JSON.")
     parser.add_argument("--config", type=Path, default=DEFAULT_CONFIG)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument("--gemini-model", default=os.environ.get("GEMINI_MODEL", DEFAULT_GEMINI_MODEL))
+    parser.add_argument(
+        "--translation-limit-per-category",
+        type=int,
+        default=env_int("TRANSLATION_LIMIT_PER_CATEGORY", DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY),
+    )
+    parser.add_argument(
+        "--translation-batch-size",
+        type=int,
+        default=env_int("TRANSLATION_BATCH_SIZE", DEFAULT_TRANSLATION_BATCH_SIZE),
+    )
     args = parser.parse_args()
 
     news = build_news(args.config)
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    args.output.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
-
+    enrich_with_gemini(
+        news,
+        api_key=os.environ.get("GEMINI_API_KEY"),
+        model=args.gemini_model,
+        limit_per_category=args.translation_limit_per_category,
+        batch_size=args.translation_batch_size,
+    )
     item_count = sum(len(category["items"]) for category in news["categories"])
     error_count = len(news["errors"])
+    if item_count == 0:
+        print("No items were fetched; keeping the existing output unchanged.", file=sys.stderr)
+        return 1
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    temporary_output = args.output.with_suffix(args.output.suffix + ".tmp")
+    temporary_output.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
+    temporary_output.replace(args.output)
+
     print(f"Wrote {item_count} items to {args.output}")
     if error_count:
         print(f"{error_count} feed(s) failed; site will still publish available items.", file=sys.stderr)
+    translated_count = news.get("translation", {}).get("translatedItems", 0)
+    if translated_count:
+        print(f"Added Japanese summaries for {translated_count} item(s).")
+    elif not os.environ.get("GEMINI_API_KEY"):
+        print("GEMINI_API_KEY is not set; published RSS text without translation.")
     return 0
 
 
