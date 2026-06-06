@@ -60,6 +60,84 @@ class FetchFeedsTests(unittest.TestCase):
                 self.assertEqual(fetch_feeds.main(), 1)
             self.assertEqual(output.read_text(encoding="utf-8"), "existing")
 
+    def test_enrich_without_api_key_keeps_original_fields(self) -> None:
+        news = {
+            "categories": [
+                {
+                    "name": "世界ニュース",
+                    "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
+                }
+            ]
+        }
+
+        fetch_feeds.enrich_with_gemini(
+            news, api_key=None, model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
+        )
+
+        item = news["categories"][0]["items"][0]
+        self.assertEqual(item["title"], "Original")
+        self.assertEqual(item["excerpt"], "Original excerpt")
+        self.assertEqual(item["translationStatus"], "not_configured")
+        self.assertFalse(news["translation"]["enabled"])
+
+    def test_enrich_with_gemini_adds_japanese_summary(self) -> None:
+        news = {
+            "categories": [
+                {
+                    "name": "世界ニュース",
+                    "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
+                }
+            ]
+        }
+        response = {
+            "candidates": [
+                {
+                    "content": {
+                        "parts": [
+                            {
+                                "text": (
+                                    '{"items":[{"index":0,"titleJa":"日本語タイトル",'
+                                    '"summaryJa":["一つ目の文です。","二つ目の文です。","三つ目の文です。"]}]}'
+                                )
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+
+        with patch.object(fetch_feeds, "call_gemini", return_value=response):
+            fetch_feeds.enrich_with_gemini(
+                news, api_key="key", model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
+            )
+
+        item = news["categories"][0]["items"][0]
+        self.assertEqual(item["titleJa"], "日本語タイトル")
+        self.assertEqual(len(item["summaryJa"]), 3)
+        self.assertEqual(item["translationStatus"], "translated")
+        self.assertEqual(news["translation"]["translatedItems"], 1)
+
+    def test_enrich_with_gemini_failure_keeps_original_article(self) -> None:
+        news = {
+            "categories": [
+                {
+                    "name": "世界ニュース",
+                    "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
+                }
+            ]
+        }
+
+        with patch.object(fetch_feeds, "call_gemini", side_effect=ValueError("bad response")):
+            fetch_feeds.enrich_with_gemini(
+                news, api_key="key", model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
+            )
+
+        item = news["categories"][0]["items"][0]
+        self.assertEqual(item["title"], "Original")
+        self.assertNotIn("titleJa", item)
+        self.assertEqual(item["translationStatus"], "failed")
+        self.assertEqual(len(news["translation"]["failedBatches"]), 1)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -33,6 +33,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TRANSLATION_LIMIT_PER_CATEGORY: "30"
           TRANSLATION_BATCH_SIZE: "5"
+          TRANSLATION_DELAY_SECONDS: "8"
 
       - name: Run tests
         run: python -m unittest discover -s tests

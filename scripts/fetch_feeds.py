@@ -7,6 +7,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -25,6 +26,8 @@ GEMINI_TIMEOUT_SECONDS = 40
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
 DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY = 30
 DEFAULT_TRANSLATION_BATCH_SIZE = 5
+DEFAULT_TRANSLATION_DELAY_SECONDS = 8
+GEMINI_MAX_RETRIES = 3
 
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
@@ -189,7 +192,7 @@ def parse_json_response(text: str) -> dict[str, Any]:
         return json.loads(match.group(0))
 
 
-def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
+def call_gemini_once(prompt: str, api_key: str, model: str) -> dict[str, Any]:
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     request_body = {
         "system_instruction": {
@@ -222,6 +225,29 @@ def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
         return json.loads(response.read().decode("utf-8"))
 
 
+def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
+    last_error: Exception | None = None
+    for attempt in range(GEMINI_MAX_RETRIES):
+        try:
+            return call_gemini_once(prompt, api_key, model)
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            if exc.code not in {429, 500, 502, 503, 504}:
+                raise
+            retry_after = exc.headers.get("Retry-After")
+            wait_seconds = int(retry_after) if retry_after and retry_after.isdigit() else 10 * (attempt + 1)
+            print(f"Gemini returned HTTP {exc.code}; retrying in {wait_seconds}s.", file=sys.stderr)
+            time.sleep(wait_seconds)
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            last_error = exc
+            wait_seconds = 10 * (attempt + 1)
+            print(f"Gemini request failed; retrying in {wait_seconds}s: {exc}", file=sys.stderr)
+            time.sleep(wait_seconds)
+    if last_error:
+        raise last_error
+    raise RuntimeError("Gemini request failed")
+
+
 def normalize_summary(value: Any) -> list[str]:
     if isinstance(value, str):
         lines = [line.strip(" ・-") for line in value.splitlines()]
@@ -251,14 +277,17 @@ def enrich_with_gemini(
     model: str,
     limit_per_category: int,
     batch_size: int,
+    delay_seconds: int,
 ) -> None:
     batch_size = max(1, batch_size)
+    delay_seconds = max(0, delay_seconds)
     news["translation"] = {
         "provider": "gemini",
         "model": model,
         "enabled": bool(api_key and limit_per_category),
         "limitPerCategory": limit_per_category,
         "batchSize": batch_size,
+        "delaySeconds": delay_seconds,
         "translatedItems": 0,
         "failedBatches": [],
     }
@@ -272,10 +301,13 @@ def enrich_with_gemini(
         candidates = category["items"][:limit_per_category]
         if not candidates:
             continue
+        translated_before = news["translation"]["translatedItems"]
         for item in candidates:
             item["translationStatus"] = "pending"
         for start in range(0, len(candidates), batch_size):
             batch = candidates[start : start + batch_size]
+            if start and delay_seconds:
+                time.sleep(delay_seconds)
             try:
                 prompt = build_translation_prompt(category["name"], batch)
                 response = call_gemini(prompt, api_key, model)
@@ -304,6 +336,10 @@ def enrich_with_gemini(
 
         for item in category["items"][limit_per_category:]:
             item.setdefault("translationStatus", "not_requested")
+        translated_after = news["translation"]["translatedItems"]
+        print(
+            f"Translated {translated_after - translated_before}/{len(candidates)} item(s) in {category['name']}."
+        )
 
 
 def build_news(config_path: Path) -> dict[str, Any]:
@@ -366,6 +402,11 @@ def main() -> int:
         type=int,
         default=env_int("TRANSLATION_BATCH_SIZE", DEFAULT_TRANSLATION_BATCH_SIZE),
     )
+    parser.add_argument(
+        "--translation-delay-seconds",
+        type=int,
+        default=env_int("TRANSLATION_DELAY_SECONDS", DEFAULT_TRANSLATION_DELAY_SECONDS),
+    )
     args = parser.parse_args()
 
     news = build_news(args.config)
@@ -375,6 +416,7 @@ def main() -> int:
         model=args.gemini_model,
         limit_per_category=args.translation_limit_per_category,
         batch_size=args.translation_batch_size,
+        delay_seconds=args.translation_delay_seconds,
     )
     item_count = sum(len(category["items"]) for category in news["categories"])
     error_count = len(news["errors"])
