@@ -64,15 +64,13 @@ class FetchFeedsTests(unittest.TestCase):
         news = {
             "categories": [
                 {
-                    "name": "世界ニュース",
+                    "name": "World",
                     "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
                 }
             ]
         }
 
-        fetch_feeds.enrich_with_gemini(
-            news, api_key=None, model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
-        )
+        fetch_feeds.enrich_with_gemini(news, api_key=None, model="gemini-test", limit_per_category=10)
 
         item = news["categories"][0]["items"][0]
         self.assertEqual(item["title"], "Original")
@@ -84,7 +82,7 @@ class FetchFeedsTests(unittest.TestCase):
         news = {
             "categories": [
                 {
-                    "name": "世界ニュース",
+                    "name": "World",
                     "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
                 }
             ]
@@ -96,8 +94,9 @@ class FetchFeedsTests(unittest.TestCase):
                         "parts": [
                             {
                                 "text": (
-                                    '{"items":[{"index":0,"titleJa":"日本語タイトル",'
-                                    '"summaryJa":["一つ目の文です。","二つ目の文です。","三つ目の文です。"]}]}'
+                                    '{"items":[{"categoryIndex":0,"itemIndex":0,'
+                                    '"titleJa":"Japanese title",'
+                                    '"summaryJa":["line one","line two","line three"]}]}'
                                 )
                             }
                         ]
@@ -107,12 +106,10 @@ class FetchFeedsTests(unittest.TestCase):
         }
 
         with patch.object(fetch_feeds, "call_gemini", return_value=response):
-            fetch_feeds.enrich_with_gemini(
-                news, api_key="key", model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
-            )
+            fetch_feeds.enrich_with_gemini(news, api_key="key", model="gemini-test", limit_per_category=10)
 
         item = news["categories"][0]["items"][0]
-        self.assertEqual(item["titleJa"], "日本語タイトル")
+        self.assertEqual(item["titleJa"], "Japanese title")
         self.assertEqual(len(item["summaryJa"]), 3)
         self.assertEqual(item["translationStatus"], "translated")
         self.assertEqual(news["translation"]["translatedItems"], 1)
@@ -121,16 +118,14 @@ class FetchFeedsTests(unittest.TestCase):
         news = {
             "categories": [
                 {
-                    "name": "世界ニュース",
+                    "name": "World",
                     "items": [{"title": "Original", "excerpt": "Original excerpt", "link": "https://example.com"}],
                 }
             ]
         }
 
         with patch.object(fetch_feeds, "call_gemini", side_effect=ValueError("bad response")):
-            fetch_feeds.enrich_with_gemini(
-                news, api_key="key", model="gemini-test", limit_per_category=10, batch_size=5, delay_seconds=0
-            )
+            fetch_feeds.enrich_with_gemini(news, api_key="key", model="gemini-test", limit_per_category=10)
 
         item = news["categories"][0]["items"][0]
         self.assertEqual(item["title"], "Original")

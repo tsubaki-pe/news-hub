@@ -22,11 +22,9 @@ DEFAULT_CONFIG = ROOT / "scripts" / "feeds.json"
 DEFAULT_OUTPUT = ROOT / "news.json"
 MAX_ITEMS_PER_CATEGORY = 30
 REQUEST_TIMEOUT_SECONDS = 20
-GEMINI_TIMEOUT_SECONDS = 40
+GEMINI_TIMEOUT_SECONDS = 120
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
 DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY = 30
-DEFAULT_TRANSLATION_BATCH_SIZE = 5
-DEFAULT_TRANSLATION_DELAY_SECONDS = 8
 GEMINI_MAX_RETRIES = 3
 
 TAG_RE = re.compile(r"<[^>]+>")
@@ -150,27 +148,32 @@ def env_int(name: str, default: int) -> int:
         return default
 
 
-def build_translation_prompt(category_name: str, items: list[dict[str, Any]]) -> str:
-    compact_items = [
-        {
-            "index": index,
-            "title": item["title"],
-            "excerpt": item.get("excerpt", ""),
-            "source": item.get("source", ""),
-        }
-        for index, item in enumerate(items)
-    ]
+def build_combined_translation_prompt(news: dict[str, Any], limit_per_category: int) -> str:
+    compact_items = []
+    for category_index, category in enumerate(news["categories"]):
+        for item_index, item in enumerate(category["items"][:limit_per_category]):
+            compact_items.append(
+                {
+                    "categoryIndex": category_index,
+                    "itemIndex": item_index,
+                    "category": category["name"],
+                    "title": item["title"],
+                    "excerpt": item.get("excerpt", ""),
+                    "source": item.get("source", ""),
+                }
+            )
     return (
-        "次のニュース記事を日本語にしてください。\n"
-        "条件:\n"
-        "- titleJa は自然な日本語タイトルにする\n"
-        "- summaryJa は読みやすい日本語の3〜5行にする\n"
-        "- 専門用語は必要に応じて短く補足する\n"
-        "- 事実を足さない。RSSのtitleとexcerptから分かる範囲だけを書く\n"
-        "- 必ずJSONだけを返す\n"
-        '形式: {"items":[{"index":0,"titleJa":"...","summaryJa":["...","...","..."]}]}\n'
-        f"カテゴリ: {category_name}\n"
-        f"記事: {json.dumps(compact_items, ensure_ascii=False)}"
+        "Translate and summarize every news item below in Japanese.\n"
+        "Rules:\n"
+        "- Translate every item. Do not skip categories.\n"
+        "- titleJa must be a natural Japanese news headline.\n"
+        "- summaryJa must be 3 to 5 concise Japanese lines for a general adult reader.\n"
+        "- Keep the meaning neutral and factual.\n"
+        "- Do not add facts that are not in the RSS title or excerpt.\n"
+        "- Return JSON only.\n"
+        "- Preserve categoryIndex and itemIndex exactly.\n"
+        'Format: {"items":[{"categoryIndex":0,"itemIndex":0,"titleJa":"...","summaryJa":["...","...","..."]}]}\n'
+        f"Items: {json.dumps(compact_items, ensure_ascii=False)}"
     )
 
 
@@ -199,8 +202,8 @@ def call_gemini_once(prompt: str, api_key: str, model: str) -> dict[str, Any]:
             "parts": [
                 {
                     "text": (
-                        "あなたはニュースをやさしい日本語にする編集者です。"
-                        "一般読者に伝わる自然な日本語で、事実だけを簡潔にまとめます。"
+                        "You are a Japanese news editor. Translate headlines and summarize RSS excerpts "
+                        "in concise, natural Japanese. Use only facts present in the input."
                     )
                 }
             ]
@@ -208,7 +211,7 @@ def call_gemini_once(prompt: str, api_key: str, model: str) -> dict[str, Any]:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 4096,
+            "maxOutputTokens": 32768,
             "responseMimeType": "application/json",
         },
     }
@@ -235,12 +238,12 @@ def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
             if exc.code not in {429, 500, 502, 503, 504}:
                 raise
             retry_after = exc.headers.get("Retry-After")
-            wait_seconds = int(retry_after) if retry_after and retry_after.isdigit() else 10 * (attempt + 1)
+            wait_seconds = int(retry_after) if retry_after and retry_after.isdigit() else 20 * (attempt + 1)
             print(f"Gemini returned HTTP {exc.code}; retrying in {wait_seconds}s.", file=sys.stderr)
             time.sleep(wait_seconds)
         except (urllib.error.URLError, TimeoutError, OSError) as exc:
             last_error = exc
-            wait_seconds = 10 * (attempt + 1)
+            wait_seconds = 20 * (attempt + 1)
             print(f"Gemini request failed; retrying in {wait_seconds}s: {exc}", file=sys.stderr)
             time.sleep(wait_seconds)
     if last_error:
@@ -250,7 +253,7 @@ def call_gemini(prompt: str, api_key: str, model: str) -> dict[str, Any]:
 
 def normalize_summary(value: Any) -> list[str]:
     if isinstance(value, str):
-        lines = [line.strip(" ・-") for line in value.splitlines()]
+        lines = [line.strip(" -") for line in value.splitlines()]
     elif isinstance(value, list):
         lines = [text_or_empty(str(line)) for line in value]
     else:
@@ -276,18 +279,12 @@ def enrich_with_gemini(
     api_key: str | None,
     model: str,
     limit_per_category: int,
-    batch_size: int,
-    delay_seconds: int,
 ) -> None:
-    batch_size = max(1, batch_size)
-    delay_seconds = max(0, delay_seconds)
     news["translation"] = {
         "provider": "gemini",
         "model": model,
         "enabled": bool(api_key and limit_per_category),
         "limitPerCategory": limit_per_category,
-        "batchSize": batch_size,
-        "delaySeconds": delay_seconds,
         "translatedItems": 0,
         "failedBatches": [],
     }
@@ -297,49 +294,48 @@ def enrich_with_gemini(
                 item.setdefault("translationStatus", "not_configured")
         return
 
+    candidates: list[dict[str, Any]] = []
     for category in news["categories"]:
-        candidates = category["items"][:limit_per_category]
-        if not candidates:
-            continue
-        translated_before = news["translation"]["translatedItems"]
-        for item in candidates:
+        for item in category["items"][:limit_per_category]:
             item["translationStatus"] = "pending"
-        for start in range(0, len(candidates), batch_size):
-            batch = candidates[start : start + batch_size]
-            if start and delay_seconds:
-                time.sleep(delay_seconds)
-            try:
-                prompt = build_translation_prompt(category["name"], batch)
-                response = call_gemini(prompt, api_key, model)
-                payload = parse_json_response(extract_response_text(response))
-                translated_items = payload.get("items", [])
-                if not isinstance(translated_items, list):
-                    raise ValueError("Gemini response does not contain an items array")
-
-                by_index = {entry.get("index"): entry for entry in translated_items if isinstance(entry, dict)}
-                for index, item in enumerate(batch):
-                    if apply_translation(item, by_index.get(index, {})):
-                        news["translation"]["translatedItems"] += 1
-                    else:
-                        item["translationStatus"] = "failed"
-            except (urllib.error.URLError, TimeoutError, OSError, ValueError, KeyError, json.JSONDecodeError) as exc:
-                news["translation"]["failedBatches"].append(
-                    {
-                        "category": category["name"],
-                        "start": start,
-                        "count": len(batch),
-                        "error": str(exc),
-                    }
-                )
-                for item in batch:
-                    item["translationStatus"] = "failed"
-
+            candidates.append(item)
         for item in category["items"][limit_per_category:]:
             item.setdefault("translationStatus", "not_requested")
-        translated_after = news["translation"]["translatedItems"]
-        print(
-            f"Translated {translated_after - translated_before}/{len(candidates)} item(s) in {category['name']}."
+
+    try:
+        prompt = build_combined_translation_prompt(news, limit_per_category)
+        response = call_gemini(prompt, api_key, model)
+        payload = parse_json_response(extract_response_text(response))
+        translated_items = payload.get("items", [])
+        if not isinstance(translated_items, list):
+            raise ValueError("Gemini response does not contain an items array")
+
+        by_position: dict[tuple[int, int], dict[str, Any]] = {}
+        for entry in translated_items:
+            if isinstance(entry, dict):
+                by_position[(entry.get("categoryIndex"), entry.get("itemIndex"))] = entry
+
+        for category_index, category in enumerate(news["categories"]):
+            translated_in_category = 0
+            category_candidates = category["items"][:limit_per_category]
+            for item_index, item in enumerate(category_candidates):
+                if apply_translation(item, by_position.get((category_index, item_index), {})):
+                    news["translation"]["translatedItems"] += 1
+                    translated_in_category += 1
+                else:
+                    item["translationStatus"] = "failed"
+            print(f"Translated {translated_in_category}/{len(category_candidates)} item(s) in {category['name']}.")
+    except (urllib.error.URLError, TimeoutError, OSError, ValueError, KeyError, json.JSONDecodeError) as exc:
+        news["translation"]["failedBatches"].append(
+            {
+                "category": "all",
+                "start": 0,
+                "count": len(candidates),
+                "error": str(exc),
+            }
         )
+        for item in candidates:
+            item["translationStatus"] = "failed"
 
 
 def build_news(config_path: Path) -> dict[str, Any]:
@@ -397,16 +393,6 @@ def main() -> int:
         type=int,
         default=env_int("TRANSLATION_LIMIT_PER_CATEGORY", DEFAULT_TRANSLATION_LIMIT_PER_CATEGORY),
     )
-    parser.add_argument(
-        "--translation-batch-size",
-        type=int,
-        default=env_int("TRANSLATION_BATCH_SIZE", DEFAULT_TRANSLATION_BATCH_SIZE),
-    )
-    parser.add_argument(
-        "--translation-delay-seconds",
-        type=int,
-        default=env_int("TRANSLATION_DELAY_SECONDS", DEFAULT_TRANSLATION_DELAY_SECONDS),
-    )
     args = parser.parse_args()
 
     news = build_news(args.config)
@@ -415,8 +401,6 @@ def main() -> int:
         api_key=os.environ.get("GEMINI_API_KEY"),
         model=args.gemini_model,
         limit_per_category=args.translation_limit_per_category,
-        batch_size=args.translation_batch_size,
-        delay_seconds=args.translation_delay_seconds,
     )
     item_count = sum(len(category["items"]) for category in news["categories"])
     error_count = len(news["errors"])
@@ -435,7 +419,9 @@ def main() -> int:
     translated_count = news.get("translation", {}).get("translatedItems", 0)
     if translated_count:
         print(f"Added Japanese summaries for {translated_count} item(s).")
-    elif not os.environ.get("GEMINI_API_KEY"):
+    elif os.environ.get("GEMINI_API_KEY"):
+        print("Gemini did not return usable translations; published RSS text without translation.", file=sys.stderr)
+    else:
         print("GEMINI_API_KEY is not set; published RSS text without translation.")
     return 0
 
