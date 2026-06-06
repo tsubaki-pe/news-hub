@@ -129,7 +129,7 @@ function renderTabs(categories) {
 function render(data) {
   validateNews(data);
   newsData = data;
-  updatedEl.textContent = formatUpdatedAt(data.generatedAt);
+  updatedEl.textContent = formatUpdatedAt(data.generatedAt || data.generated_at || data.updatedAt);
   feedHealthEl.textContent = data.errors?.length
     ? `${data.errors.length}件の配信元を取得できませんでした`
     : "すべての配信元を取得済み";

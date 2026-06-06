@@ -43,6 +43,23 @@ jobs:
           TRANSLATION_LIMIT_PER_CATEGORY: "10"
           TRANSLATION_DELAY_SECONDS: "70"
 
+      - name: Refresh existing news timestamp
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.use_existing_news == true }}
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          path = Path("news.json")
+          data = json.loads(path.read_text(encoding="utf-8-sig"))
+          now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+          data["generatedAt"] = now
+          data["generated_at"] = now
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+          print(f"Refreshed news.json timestamp to {now}")
+          PY
+
       - name: Run tests
         run: python -m unittest discover -s tests
 
