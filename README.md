@@ -1,6 +1,34 @@
 # 世界ニュース母艦
 
-世界・日本・投資・AI・教育のRSSを毎朝収集し、カテゴリ切替と全文検索で確認できる静的ニュースハブです。APIキーやサーバーは不要で、GitHub ActionsとGitHub Pagesだけで運用できます。
+世界ニュース、日本ニュース、投資ニュース、AIニュース、教育ニュースのRSSを集約し、GitHub Pagesで公開する静的ニュースサイトです。
+
+Gemini APIキーをGitHub ActionsのSecretに登録している場合は、各カテゴリの記事に日本語タイトルと3〜5行の日本語要約を追加します。APIキーがない場合やGeminiの呼び出しに失敗した場合でも、従来どおりRSS本文を表示します。
+
+## 公開ページ
+
+https://tsubaki-pe.github.io/news-hub/
+
+## 自動更新
+
+GitHub Actionsの `.github/workflows/update-news.yml` で自動更新します。
+
+- 実行タイミング: 毎日 21:00 UTC
+- 日本時間: 毎日 朝 6:00
+- 手動実行: GitHubの `Actions` タブから `Update RSS news` を選び、`Run workflow` で実行できます
+- 公開反映: RSS取得、Gemini要約、テスト、静的サイト生成のあと、GitHub Pagesへ自動デプロイされます
+
+## Gemini APIキー
+
+GitHubリポジトリのSecretに `GEMINI_API_KEY` を登録すると、日本語化が有効になります。
+
+登録場所:
+
+1. GitHubで `tsubaki-pe/news-hub` を開く
+2. `Settings` を開く
+3. `Secrets and variables` → `Actions` を開く
+4. `Repository secrets` に `GEMINI_API_KEY` を登録する
+
+現在のワークフローでは `GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}` を使っています。
 
 ## ローカル実行
 
@@ -10,7 +38,7 @@ python scripts/build_site.py
 python -m http.server 8000 --directory _site
 ```
 
-`http://localhost:8000` を開くと確認できます。RSS取得を伴わず既存の `news.json` で表示確認する場合は、2行目以降だけ実行してください。
+ブラウザで `http://localhost:8000` を開くと確認できます。
 
 ## テスト
 
@@ -18,14 +46,33 @@ python -m http.server 8000 --directory _site
 python -m unittest discover -s tests
 ```
 
-## 自動更新と公開
+## 失敗した時のログ確認
 
-`.github/workflows/update-news.yml` が毎日 21:00 UTC（日本時間 6:00）にRSS取得、テスト、公開用ビルド、GitHub Pagesへのデプロイを行います。手動実行にも対応しています。
+自動更新や手動実行が失敗した場合は、GitHub Actionsのログを確認します。
 
-公開対象は `_site` に生成される `index.html`、`app.js`、`styles.css`、`news.json`、`.nojekyll` のみです。取得できない配信元があっても残りのニュースは公開され、全配信元が失敗した場合は既存データを空データで上書きせずワークフローを停止します。
+1. GitHubで `tsubaki-pe/news-hub` を開く
+2. 上部メニューの `Actions` を開く
+3. 左側の `Update RSS news` を選ぶ
+4. 一覧から失敗した実行をクリックする
+5. `build` を開く
+6. `Fetch RSS feeds` を開く
+7. Gemini関連のエラー、RSS取得エラー、テスト失敗を確認する
 
-## 日本語翻訳と要約
+よく見るポイント:
 
-GitHub ActionsのSecretに `GEMINI_API_KEY` を登録すると、各カテゴリの上位記事に日本語タイトルと3〜5行のやさしい日本語要約を追加します。APIキーが未登録、またはAPI呼び出しに失敗した場合でも、従来どおりRSSのタイトルと要約を表示します。
+- `GEMINI_API_KEY is not set`: Secretが未登録です
+- `Gemini returned HTTP 429`: Gemini APIの無料枠やレート制限に当たっています
+- `Gemini did not return usable translations`: Geminiの返答形式が期待と違います
+- `No items were fetched`: RSS取得に失敗し、記事が0件です
 
-無料枠を使いやすくするため、初期設定では各カテゴリ10件まで翻訳・要約します。件数はワークフローの `TRANSLATION_LIMIT_PER_CATEGORY` で変更できます。
+Geminiが失敗しても、RSS記事自体が取得できていれば英語のまま公開されます。記事が0件の場合だけ、既存の公開データを壊さないために更新を止めます。
+
+## 公開対象ファイル
+
+GitHub Pagesには `_site` に生成された以下のファイルが公開されます。
+
+- `index.html`
+- `app.js`
+- `styles.css`
+- `news.json`
+- `.nojekyll`
