@@ -53,7 +53,7 @@ function validateNews(data) {
 
 function matchesSearch(item) {
   if (!searchQuery) return true;
-  return [item.title, item.source, item.excerpt].some((value) =>
+  return [item.titleJa, item.title, item.source, item.excerpt, ...(item.summaryJa || [])].some((value) =>
     String(value || "").toLocaleLowerCase("ja").includes(searchQuery),
   );
 }
@@ -101,8 +101,11 @@ function renderCategory(categoryId) {
     itemNode.querySelector(".source").textContent = item.source;
     itemNode.querySelector("time").textContent = formatDate(item.publishedAt, "日時不明");
     itemNode.querySelector("time").dateTime = item.publishedAt || "";
-    itemNode.querySelector("strong").textContent = item.title;
-    itemNode.querySelector(".excerpt").textContent = item.excerpt || "要約はありません。";
+    itemNode.querySelector("strong").textContent = item.titleJa || item.title;
+    itemNode.querySelector(".excerpt").textContent = Array.isArray(item.summaryJa) && item.summaryJa.length
+      ? item.summaryJa.join("\n")
+      : item.excerpt || "要約はありません。";
+    itemNode.querySelector(".read-more").textContent = item.summaryJa?.length ? "元記事を読む" : "元記事を読む（英語）";
     itemsRoot.append(itemNode);
   });
 
@@ -130,6 +133,9 @@ function render(data) {
   feedHealthEl.textContent = data.errors?.length
     ? `${data.errors.length}件の配信元を取得できませんでした`
     : "すべての配信元を取得済み";
+  if (data.translation?.translatedItems) {
+    feedHealthEl.textContent += ` / 日本語要約 ${data.translation.translatedItems}件`;
+  }
   feedHealthEl.classList.toggle("has-errors", Boolean(data.errors?.length));
   renderTabs(data.categories);
 

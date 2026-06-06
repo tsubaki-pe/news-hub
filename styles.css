@@ -257,6 +257,14 @@ time {
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.55;
+  white-space: pre-line;
+}
+
+.read-more {
+  align-self: end;
+  color: var(--accent-strong);
+  font-size: 0.86rem;
+  font-weight: 800;
 }
 
 @media (max-width: 720px) {
