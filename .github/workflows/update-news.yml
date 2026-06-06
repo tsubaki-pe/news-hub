@@ -31,7 +31,8 @@ jobs:
         run: python scripts/fetch_feeds.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TRANSLATION_LIMIT_PER_CATEGORY: "10"
+          TRANSLATION_LIMIT_PER_CATEGORY: "30"
+          TRANSLATION_BATCH_SIZE: "5"
 
       - name: Run tests
         run: python -m unittest discover -s tests
