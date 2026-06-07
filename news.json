@@ -1,749 +1,710 @@
-﻿{
-    "generatedAt":  "2026-06-06T22:46:24.082206Z",
-    "categories":  [
-                       {
-                           "id":  "world",
-                           "name":  "世界ニュース",
-                           "items":  [
-                                         {
-                                             "title":  "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T12:01:32Z",
-                                             "excerpt":  "Iranian officials say a \u0027large\u0027 number of key staff have been denied visas as the team is set to travel to Mexico.",
-                                             "link":  "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "イランW杯代表、米国ビザ問題でメキシコへ出発",
-                                             "summaryJa":  [
-                                                               "2026年ワールドカップに向け、イラン代表チームがメキシコへ出発しました。",
-                                                               "しかし、米国への渡航を巡り、多数の主要スタッフのビザが拒否されたとイラン当局が発表しました。",
-                                                               "これにより、米国との間でビザに関する問題が発生しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Russia says hundreds of Ukrainian drones downed as economic forum ends",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T11:59:15Z",
-                                             "excerpt":  "Russia\u0027s defence ministry said the drones were downed over 16 areas and regions, including Crimea.",
-                                             "link":  "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ロシア、経済フォーラム終了時にウクライナ無人機数百機を撃墜と発表",
-                                             "summaryJa":  [
-                                                               "ロシア国防省は、経済フォーラム終了後、ウクライナの無人機数百機を撃墜したと発表しました。",
-                                                               "これらの無人機は、クリミアを含む16の地域で撃墜されたとのことです。",
-                                                               "ロシア側は、ウクライナによる大規模な攻撃を退けたと主張しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Iran says staff blocked from entering US after players given World Cup visas",
-                                             "source":  "BBC News",
-                                             "publishedAt":  "2026-06-06T11:56:25Z",
-                                             "excerpt":  "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-                                             "link":  "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS\u0026at_campaign=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "イラン、W杯選手ビザ発給後もスタッフの米国入国拒否と発表",
-                                             "summaryJa":  [
-                                                               "イラン当局は、ワールドカップ出場選手への米国ビザ発給後も、技術スタッフのビザが拒否されたと発表しました。",
-                                                               "米国が選手団の入国を許可した数時間後に、このスタッフのビザ拒否が明らかになりました。",
-                                                               "イラン側は、この措置に不満を表明しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "‘Cockroach Party’ leader returns to India for first New Delhi protest",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T11:47:45Z",
-                                             "excerpt":  "\u0027Cockroach Party\u0027 leader returns to India for first New Delhi protest.",
-                                             "link":  "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "「ゴキブリ党」党首、インド帰国後初のニューデリー抗議活動に参加",
-                                             "summaryJa":  [
-                                                               "「ゴキブリ党」の党首がインドに帰国し、ニューデリーで初の抗議活動を行いました。",
-                                                               "この抗議活動は、教育大臣の辞任を求めるもので、試験スキャンダルに起因しています。",
-                                                               "インドのシステムへの信頼喪失を象徴する動きとされています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Ukrainian drones target St Petersburg in attack Russia calls \u0027unprecedented\u0027",
-                                             "source":  "BBC News",
-                                             "publishedAt":  "2026-06-06T11:37:19Z",
-                                             "excerpt":  "The city\u0027s governor urges residents to remain indoors for the first time since the beginning of the war.",
-                                             "link":  "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS\u0026at_campaign=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ウクライナ無人機がサンクトペテルブルクを標的、ロシアは「前例のない」攻撃と非難",
-                                             "summaryJa":  [
-                                                               "ウクライナの無人機がロシアのサンクトペテルブルクを標的とした攻撃を行いました。",
-                                                               "ロシア側はこの攻撃を「前例のない」ものと表現しています。",
-                                                               "市の知事は、戦争開始以来初めて住民に屋内待機を呼びかけました。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Cockroach Janta Party rallies at New Delhi for youth protests",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T11:07:41Z",
-                                             "excerpt":  "Protesters call for education minister\u0027s resignation after exam scandals, symbolizing a lost faith in India\u0027s system.",
-                                             "link":  "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "「ゴキブリ・ジャンタ党」がニューデリーで若者主導の抗議集会",
-                                             "summaryJa":  [
-                                                               "「ゴキブリ・ジャンタ党」がニューデリーで若者による抗議集会を開催しました。",
-                                                               "参加者は試験スキャンダルを受け、教育大臣の辞任を要求しています。",
-                                                               "これはインドのシステムへの信頼喪失を象徴する動きとされています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Lebanon says three soldiers killed in Israeli attack on car",
-                                             "source":  "BBC News",
-                                             "publishedAt":  "2026-06-06T10:57:28Z",
-                                             "excerpt":  "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-                                             "link":  "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS\u0026at_campaign=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "レバノン、イスラエル攻撃で兵士3人死亡と発表",
-                                             "summaryJa":  [
-                                                               "レバノンは、イスラエルによる車両への攻撃で兵士3人が死亡したと発表しました。",
-                                                               "イスラエル軍は、ヒズボラと交戦中の南レバノンでのこの事件を調査しています。",
-                                                               "両国間の緊張が高まっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
-                                             "source":  "NPR World",
-                                             "publishedAt":  "2026-06-06T10:54:34Z",
-                                             "excerpt":  "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon\u0027s President Joseph Aoun called the strike...",
-                                             "link":  "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "停戦合意後、イスラエル空爆でレバノン軍将校含む9人死亡",
-                                             "summaryJa":  [
-                                                               "停戦合意が成立したにもかかわらず、イスラエル軍の空爆によりレバノン軍将校を含む9人が死亡しました。",
-                                                               "イスラエル軍は車両を攻撃したことを確認し、現在この事件を調査中と述べています。",
-                                                               "レバノンのアウン大統領はこの攻撃を非難しました。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T10:52:07Z",
-                                             "excerpt":  "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
-                                             "link":  "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "イスラエル軍、ヨルダン川西岸でパレスチナ乳児を射殺、両親負傷",
-                                             "summaryJa":  [
-                                                               "イスラエル軍がヨルダン川西岸でパレスチナ人の乳児を射殺し、その両親も負傷させました。",
-                                                               "この地域での暴力は、2023年にイスラエルがガザでの戦争を開始して以来、激化しています。",
-                                                               "人権団体などから非難の声が上がっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad",
-                                             "source":  "Al Jazeera",
-                                             "publishedAt":  "2026-06-06T10:35:30Z",
-                                             "excerpt":  "Fresh off his heroics in the IPL, teenage sensation Sooryavanshi could become the youngest-ever debutant for India.",
-                                             "link":  "https://www.aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "15歳の新星ヴァイバブ・スーリヤヴァンシ、インドT20代表に招集",
-                                             "summaryJa":  [
-                                                               "15歳のクリケット界の新星ヴァイバブ・スーリヤヴァンシが、インドのT20代表チームに招集されました。",
-                                                               "IPLでの活躍が記憶に新しいスーリヤヴァンシは、インド代表史上最年少デビューを果たす可能性があります。",
-                                                               "彼の今後の活躍に大きな期待が寄せられています。"
-                                                           ]
-                                         }
-                                     ]
-                       },
-                       {
-                           "id":  "japan",
-                           "name":  "日本ニュース",
-                           "items":  [
-                                         {
-                                             "title":  "「道を尋ねるふり」をした男に現金2万円入りの手提げ袋奪われる 手押し車を押しながら歩行中の95歳女性 行き先を説明中に…名古屋・西区(CBCテレビ)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:17:13Z",
-                                             "excerpt":  "きょう午前、名古屋市西区の路上で、手押し車を押しながら歩いていた90代の女性が、道を尋ねるふりをして近づいてきた男に現金入りの手提げ袋を奪われました。 警察によりますと、きょう午前10時半ごろ、名古",
-                                             "link":  "https://news.yahoo.co.jp/articles/17b122bc6252b0b8e11d932e3b1341863a2c0746?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "名古屋市西区で95歳女性、道尋ねるふりの男に現金入り手提げ袋奪われる",
-                                             "summaryJa":  [
-                                                               "名古屋市西区の路上で、手押し車を押して歩いていた95歳の女性が男に現金の入った手提げ袋を奪われました。",
-                                                               "男は道を尋ねるふりをして女性に近づき、行き先を説明している最中に犯行に及んだとのことです。",
-                                                               "警察は強盗事件として捜査を進めています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "海水浴場で男子中学生死亡 溺れたか、富山(共同通信)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:16:15Z",
-                                             "excerpt":  "6日午後3時55分ごろ、富山市四方西岩瀬の八重津浜海水浴場で「友達と遊んでいたところ、一人溺れている」と一緒にいた中学生から118番があった。伏木海上保安部によると、同市の男子中学生（13）が付近で",
-                                             "link":  "https://news.yahoo.co.jp/articles/3c7e6fe818b221910d44f743e7c349601fc5eebe?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "富山市の海水浴場で男子中学生が死亡、溺れたか",
-                                             "summaryJa":  [
-                                                               "6日午後、富山市四方西岩瀬の八重津浜海水浴場で、男子中学生（13）が溺れて死亡しました。",
-                                                               "一緒にいた友人からの通報で救助活動が行われましたが、搬送先の病院で死亡が確認されました。",
-                                                               "伏木海上保安部が事故の原因を調べています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "九州南部 線状降水帯発生のおそれ あす未明～昼前 警戒を",
-                                             "source":  "NHK NEWS WEB",
-                                             "publishedAt":  "2026-06-06T12:15:18Z",
-                                             "excerpt":  "前線上の低気圧が7日、九州南部を通過して本州の南岸へ進む影響で、西日本の太平洋側を中心に非常に激しい雨が降る見込みです。九州南部では7日未明から昼前にかけて線状降水帯が発生するおそれがあり、気象庁は土砂災害などに警戒するよう呼びかけています。",
-                                             "link":  "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "九州南部で線状降水帯発生のおそれ、あす未明から昼前にかけ警戒を",
-                                             "summaryJa":  [
-                                                               "前線上の低気圧の影響で、7日未明から昼前にかけて九州南部で線状降水帯が発生するおそれがあります。",
-                                                               "西日本の太平洋側を中心に非常に激しい雨が予想されており、気象庁は警戒を呼びかけています。",
-                                                               "土砂災害や低い土地の浸水などに厳重な警戒が必要です。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "宮崎県と鹿児島県で線状降水帯発生の恐れ 7日未明から昼前にかけ(テレビ朝日系（ANN）)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:13:29Z",
-                                             "excerpt":  "気象庁は、宮崎県と奄美地方を除く鹿児島県に線状降水帯の予測情報を発表しました。 気象庁は、宮崎県で7日明け方から昼前にかけて、奄美地方を除く鹿児島県は7日未明から昼前にかけて線状降水帯が発生する恐",
-                                             "link":  "https://news.yahoo.co.jp/articles/27e966a2c7286c290fb0be99d54874aaed6f071d?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "宮崎県と鹿児島県で線状降水帯発生の恐れ、7日未明から昼前にかけ",
-                                             "summaryJa":  [
-                                                               "気象庁は、宮崎県と奄美地方を除く鹿児島県に線状降水帯の予測情報を発表しました。",
-                                                               "宮崎県では7日明け方から昼前にかけて、鹿児島県では7日未明から昼前にかけて発生する恐れがあります。",
-                                                               "大雨による災害の危険度が急激に高まる可能性があるため、厳重な警戒が必要です。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "【速報】宮崎県で「線状降水帯」発生の可能性 7日明け方～昼前 避難の検討や準備を(tenki.jp)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:07:45Z",
-                                             "excerpt":  "宮崎県では、7日明け方～昼前にかけて線状降水帯が発生して、大雨による災害の危険度が急激に高まる可能性があります。6日夕方には鹿児島県にも線状降水帯半日前予測が発表されています。大雨に対する心構えを一段",
-                                             "link":  "https://news.yahoo.co.jp/articles/56f1912185fe17a1d912ae910bfae1a4dac2d931?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "【速報】宮崎県で「線状降水帯」発生の可能性、7日明け方～昼前 避難の検討・準備を",
-                                             "summaryJa":  [
-                                                               "宮崎県では、7日明け方から昼前にかけて線状降水帯が発生し、大雨災害の危険度が急激に高まる可能性があります。",
-                                                               "6日夕方には鹿児島県にも線状降水帯の半日前予測が発表されており、警戒が必要です。",
-                                                               "気象庁は、土砂災害や浸水への厳重な警戒とともに、避難の検討や準備を呼びかけています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "宮崎県 あす明け方～昼前にかけ 線状降水帯 発生のおそれ",
-                                             "source":  "NHK NEWS WEB",
-                                             "publishedAt":  "2026-06-06T12:03:22Z",
-                                             "excerpt":  "低気圧と前線の影響で宮崎県では7日、明け方から昼前にかけて線状降水帯が発生し、災害の危険度が急激に高まるおそれがあり、気象庁が警戒を呼びかけています。",
-                                             "link":  "http://www3.nhk.or.jp/news/html/20260606/k10015143081000.html",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "宮崎県、あす明け方～昼前にかけ線状降水帯発生のおそれ",
-                                             "summaryJa":  [
-                                                               "低気圧と前線の影響により、宮崎県では7日明け方から昼前にかけて線状降水帯が発生するおそれがあります。",
-                                                               "これにより、災害の危険度が急激に高まる可能性があると気象庁が警戒を呼びかけています。",
-                                                               "住民は土砂災害や浸水に厳重な注意が必要です。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "宮崎、鹿児島で線状降水帯発生の可能性(共同通信)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:01:54Z",
-                                             "excerpt":  "気象庁は6日、宮崎県と鹿児島県で線状降水帯が発生する可能性があると発表した。",
-                                             "link":  "https://news.yahoo.co.jp/articles/9c7d7e18f8afe03a1a7382cf18136c9ff75a1048?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "宮崎、鹿児島で線状降水帯発生の可能性",
-                                             "summaryJa":  [
-                                                               "気象庁は6日、宮崎県と鹿児島県で線状降水帯が発生する可能性があると発表しました。",
-                                                               "これにより、両県では大雨による災害の危険度が急激に高まる恐れがあります。",
-                                                               "住民は今後の気象情報に注意し、警戒を怠らないよう呼びかけられています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "中国地方はなぜ「中国」？カスピ海は湖なのに「海」？…名前の意味を池上解説！(テレビ朝日系（ANN）)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:00:37Z",
-                                             "excerpt":  "どうしてこんな名前なんだろう、なぜこんな漢字を使うんだろう、そんなこと考えたことありませんか?名前の由来には意外な事実がたくさんあります。今回は改めて聞かれると意外と知らない名前の由来や意味について解",
-                                             "link":  "https://news.yahoo.co.jp/articles/8fa92f47ebc5e75d7113ed7244af980d21883c25?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "中国地方はなぜ「中国」？カスピ海はなぜ「海」？池上氏が名前の由来を解説",
-                                             "summaryJa":  [
-                                                               "「中国地方」や「カスピ海」など、地名や名称の由来には意外な事実が隠されています。",
-                                                               "池上彰氏が、改めて聞かれると知らないような名前の意味や漢字の背景を解説します。",
-                                                               "歴史や地理にまつわる興味深い知識が紹介されます。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "【独自】障害福祉の不正受給80億円 20～24年度、処分936件(共同通信)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:00:04Z",
-                                             "excerpt":  "障害者の生活や就労を支援する障害福祉サービスで、運営事業者による公的な給付費（報酬）の不正受給が2020～24年度の5年間に全国で約80億円に上ることが6日、分かった。厚生労働省のデータを共同通信が",
-                                             "link":  "https://news.yahoo.co.jp/articles/866841fb30e9d328ea507d86f3df96101c076480?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "【独自】障害福祉の不正受給80億円、20～24年度に処分936件",
-                                             "summaryJa":  [
-                                                               "障害福祉サービスにおいて、運営事業者による公的給付費の不正受給が全国で約80億円に上ることが判明しました。",
-                                                               "共同通信が厚生労働省のデータを分析した結果、2020年度から2024年度の5年間で936件の処分が行われています。",
-                                                               "障害者の支援を目的とした制度の悪用が深刻な問題となっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "【独自】国旗寄せ書きは処罰の対象外 自民、損壊罪法案で想定例(共同通信)",
-                                             "source":  "Yahoo!ニュース 国内",
-                                             "publishedAt":  "2026-06-06T12:00:01Z",
-                                             "excerpt":  "自民党が議員立法で今国会成立を目指す日本国旗損壊罪法案を巡り、処罰対象になる場合と、ならない場合の想定例をまとめたことが分かった。関係者が6日、明らかにした。 対象外と想定する例として、寄せ書き",
-                                             "link":  "https://news.yahoo.co.jp/articles/57c9e8a549353d115e31d3efc03d3d3876aa85b8?source=rss",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "【独自】国旗寄せ書きは処罰対象外、自民が損壊罪法案で想定例",
-                                             "summaryJa":  [
-                                                               "自民党が今国会での成立を目指す日本国旗損壊罪法案について、処罰対象となるケースと対象外の想定例がまとまりました。",
-                                                               "関係者によると、国旗への寄せ書きは処罰の対象外と想定されていることが明らかになりました。",
-                                                               "法案の具体的な適用範囲が示された形です。"
-                                                           ]
-                                         }
-                                     ]
-                       },
-                       {
-                           "id":  "investment",
-                           "name":  "投資ニュース",
-                           "items":  [
-                                         {
-                                             "title":  "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T12:14:00Z",
-                                             "excerpt":  "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
-                                             "link":  "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "メディケア保険料を上げずに401(k)から追加資金を引き出す方法とは",
-                                             "summaryJa":  [
-                                                               "メディケア保険料の引き上げを避けつつ、401(k)から追加資金を引き出す方法が議論されています。",
-                                                               "「プロジェクトや大きな出費、あるいは今後の支払いに備えるため、通常401(k)からお金を引き出している」という声があります。",
-                                                               "一度限りのイベントとして資金を引き出す際の戦略が注目されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "The next NVIDIA? These 3 stocks below $50 are poised to win the next AI boom (and they’re still flying under the radar)",
-                                             "source":  "Yahoo Finance",
-                                             "publishedAt":  "2026-06-06T12:05:00Z",
-                                             "excerpt":  "",
-                                             "link":  "https://finance.yahoo.com/markets/stocks/articles/next-nvidia-3-stocks-below-120500020.html",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "次のNVIDIAは？50ドル以下の3銘柄が次のAIブームを牽引か",
-                                             "summaryJa":  [
-                                                               "次のAIブームで成功を収める可能性のある、株価50ドル以下の3銘柄が注目されています。",
-                                                               "これらの銘柄はまだ市場であまり知られていないものの、将来性が期待されています。",
-                                                               "投資家は、NVIDIAに続く成長株としてこれらの企業に注目しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
-                                             "source":  "CNBC Markets",
-                                             "publishedAt":  "2026-06-06T12:00:01Z",
-                                             "excerpt":  "The U.S. and Iran have yet to reach a peace deal or address Iran\u0027s nuclear ambitions, despite signals from Trump that talks are progressing.",
-                                             "link":  "https://www.cnbc.com/2026/06/06/trump-iran-jcpoa-nuclear-deal-obama.html",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "トランプ政権が離脱したオバマ時代のイラン核合意の内幕",
-                                             "summaryJa":  [
-                                                               "トランプ政権が離脱したオバマ時代のイラン核合意の内幕が報じられています。",
-                                                               "トランプ大統領が協議の進展を示唆しているにもかかわらず、米国とイランは和平合意やイランの核開発問題に対処できていません。",
-                                                               "この合意は、イランの核兵器開発を制限することを目的としていました。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "America’s crude inventories are getting perilously low. But that’s not the full story.",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T12:00:00Z",
-                                             "excerpt":  "U.S. commercial oil inventories may be too low for comfort as the war with Iran enters its fourth month far from a clear resolution — and a...",
-                                             "link":  "https://www.marketwatch.com/story/americas-crude-inventories-are-getting-perilously-low-but-thats-not-the-full-story-c3104976?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "米国の原油在庫が危険なほど低水準に、しかしそれだけではない",
-                                             "summaryJa":  [
-                                                               "米国の商業用原油在庫が危険なほど低水準に達していると報じられています。",
-                                                               "イランとの戦争が解決の見通しなく4ヶ月目に入る中、この低水準は懸念材料となっています。",
-                                                               "しかし、これが原油市場の全体像ではないと指摘されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Apple’s WWDC will be a make-or-break moment for the company’s fledgling AI strategy",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T11:30:00Z",
-                                             "excerpt":  "At Monday’s keynote, Apple will get a second chance to show users it can make Siri smarter and more contextually aware.",
-                                             "link":  "https://www.marketwatch.com/story/apples-wwdc-will-be-a-make-or-break-moment-for-the-companys-fledgling-ai-strategy-42086cc1?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "AppleのWWDC、AI戦略の成否を分ける重要な局面",
-                                             "summaryJa":  [
-                                                               "AppleのWWDC（世界開発者会議）は、同社の初期段階にあるAI戦略にとって成否を分ける重要な局面となります。",
-                                                               "月曜日の基調講演で、AppleはSiriをより賢く、文脈を理解できるようにする2度目の機会を得ます。",
-                                                               "AI分野でのAppleの今後の方向性が注目されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T11:14:00Z",
-                                             "excerpt":  "“I’ve been to many shows, operas, big parties and fundraisers.”",
-                                             "link":  "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "「誰も派手な装飾品を着けない」：人々が宝飾品を身につけるのを恐れる米国社会の現状",
-                                             "summaryJa":  [
-                                                               "「誰も派手な装飾品を着けない」という現状が、人々が宝飾品を身につけるのを恐れる米国社会の状況を物語っています。",
-                                                               "「多くのショー、オペラ、大規模なパーティーや資金調達イベントに行ったことがある」という声も聞かれます。",
-                                                               "社会の安全に対する懸念が、個人の行動に影響を与えている可能性があります。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T11:00:00Z",
-                                             "excerpt":  "The new Fed chair might make swift changes to how the central bank communicates.",
-                                             "link":  "https://www.marketwatch.com/story/the-key-to-the-upcoming-fed-meeting-how-warsh-reacts-to-all-the-hints-of-a-rate-hike-3cbdce15?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "次回のFRB会合の鍵は？ウォーシュ氏の利上げ示唆への反応",
-                                             "summaryJa":  [
-                                                               "次回のFRB（連邦準備制度理事会）会合の鍵は、ウォーシュ新議長が利上げの示唆にどう反応するかです。",
-                                                               "新FRB議長は、中央銀行のコミュニケーション方法に迅速な変更を加える可能性があります。",
-                                                               "市場は、ウォーシュ氏の政策スタンスと発言に注目しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-06T11:00:00Z",
-                                             "excerpt":  "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-                                             "link":  "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "「彼は短気だ」：夫が家を売らず、経済統合と快適な生活を拒否。私は不合理か？",
-                                             "summaryJa":  [
-                                                               "夫が自分の家を売却せず、夫婦の財産統合と快適な生活を拒否しているという相談が寄せられています。",
-                                                               "「私たちの家は20マイル離れており、彼はほとんど毎日行き来している」とのことです。",
-                                                               "相談者は、自身の要求が不合理なのかどうか悩んでいます。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Social media bans on teens risk strengthening Big Tech\u0027s grip on the sector, Bluesky exec warns",
-                                             "source":  "CNBC Markets",
-                                             "publishedAt":  "2026-06-06T05:00:01Z",
-                                             "excerpt":  "\"We\u0027re living in a world where it\u0027s almost impossible for smaller entrants to come in and build healthier spaces,\" Bluesky\u0027s COO, Rose Wang...",
-                                             "link":  "https://www.cnbc.com/2026/06/06/bluesky-teen-social-media-ban-monopolies.html",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ティーンエイジャーのSNS禁止、大手テック企業の支配を強化するリスク",
-                                             "summaryJa":  [
-                                                               "ティーンエイジャーに対するソーシャルメディアの禁止が、大手テック企業の業界支配を強化するリスクがあると警告されています。",
-                                                               "BlueskyのCOOは、「小規模な新規参入企業がより健全な空間を構築することはほぼ不可能になっている」と述べています。",
-                                                               "この禁止措置が、市場競争に与える影響が懸念されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Here’s what’s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
-                                             "source":  "MarketWatch",
-                                             "publishedAt":  "2026-06-05T23:00:00Z",
-                                             "excerpt":  "HBO’s ‘House of the Dragon,’ Hulu’s ‘The Bear’ and Apple’s ‘Cape Fear’ will try to compete with the World Cup",
-                                             "link":  "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "2026年6月、Netflix、Hulu、HBO Maxなどで注目すべき配信作品",
-                                             "summaryJa":  [
-                                                               "2026年6月には、Netflix、Hulu、HBO Maxなどで多くの注目作品が配信されます。",
-                                                               "HBOの「ハウス・オブ・ザ・ドラゴン」、Huluの「ザ・ベア」、Appleの「ケープ・フィアー」などが予定されています。",
-                                                               "これらの作品は、ワールドカップと競合しながら視聴者の関心を集めることになりそうです。"
-                                                           ]
-                                         }
-                                     ]
-                       },
-                       {
-                           "id":  "ai",
-                           "name":  "AIニュース",
-                           "items":  [
-                                         {
-                                             "title":  "Startup Battlefield 200 applications officially close in 3 days",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T20:00:00Z",
-                                             "excerpt":  "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don\u0027t wait any longer. Secure your shot at competing on...",
-                                             "link":  "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "Startup Battlefield 200の応募締め切りまであと3日",
-                                             "summaryJa":  [
-                                                               "Startup Battlefield 200の応募締め切りが、太平洋時間6月8日午後11時59分に迫っています。",
-                                                               "この機会を逃さず、コンペティションへの参加権を確保するよう呼びかけられています。",
-                                                               "スタートアップ企業にとって、大きなチャンスとなるイベントです。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Google will pay SpaceX $920M per month for compute",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T18:57:20Z",
-                                             "excerpt":  "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-                                             "link":  "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "Google、SpaceXに月額9.2億ドルで計算能力を契約",
-                                             "summaryJa":  [
-                                                               "GoogleはSpaceXに対し、月額9.2億ドルで計算能力を契約すると発表しました。",
-                                                               "Googleの担当者は、この契約は最近発売されたAI製品への予想外の需要の結果だと説明しています。",
-                                                               "AI分野でのインフラ投資が加速していることを示しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "The most interesting startups right now want to get you off your phone",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T17:17:06Z",
-                                             "excerpt":  "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Pu...",
-                                             "link":  "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "最も興味深いスタートアップは「スマホ離れ」を促進",
-                                             "summaryJa":  [
-                                                               "AIの資金調達が記録を更新し続ける一方で、一部の創業者は「スマホ離れ」を促す方向で事業を展開しています。",
-                                                               "Mirrorの創業者Brynn Pu氏のような企業は、デジタルデトックスを支援する製品やサービスを提供しています。",
-                                                               "テクノロジーとの健全な関係を模索する動きが注目されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "New York lawmakers pass one-year ban on new data centers",
-                                             "source":  "The Verge AI",
-                                             "publishedAt":  "2026-06-05T16:48:45Z",
-                                             "excerpt":  "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Go...",
-                                             "link":  "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ニューヨーク州議会、新規データセンターの1年間禁止法案を可決",
-                                             "summaryJa":  [
-                                                               "ニューヨーク州議会が、新規大規模データセンターの1年間建設禁止法案を可決しました。",
-                                                               "これは、州全体で初めての同様の禁止措置となります。",
-                                                               "民主党知事が署名すれば、この法案が成立することになります。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "This is your laptop… on AI",
-                                             "source":  "The Verge AI",
-                                             "publishedAt":  "2026-06-05T16:39:07Z",
-                                             "excerpt":  "We\u0027re now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI...",
-                                             "link":  "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "これがあなたのノートパソコン…AI搭載",
-                                             "summaryJa":  [
-                                                               "現在、開発者会議シーズンが本格化しており、そのテーマの一つは大手テック企業がAIに relentless な確信を抱いていることです。",
-                                                               "AIがノートパソコンに深く統合され、ユーザー体験を根本的に変えることが期待されています。",
-                                                               "AIがデバイスの未来を形作る主要な要素となっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T14:49:12Z",
-                                             "excerpt":  "\"The whole conversation shifted from tokenmaxxing and \u0027go fast\u0027 to \u0027we need guardrails, how do we control this?\u0027\"",
-                                             "link":  "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "トークン請求の期限到来：AIの暴走するコスト管理に業界が奔走",
-                                             "summaryJa":  [
-                                                               "AIのコスト管理が業界の喫緊の課題となっています。",
-                                                               "「トークンを最大化し、高速化する」という従来の議論から、「ガードレールが必要で、どう制御するか」という議論にシフトしました。",
-                                                               "AIの運用コストをいかに効率的に抑えるかが、今後のビジネスの鍵となります。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "This AI startup says it can tell if a script will make a hit film",
-                                             "source":  "The Verge AI",
-                                             "publishedAt":  "2026-06-05T14:26:50Z",
-                                             "excerpt":  "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film\u0027s success just...",
-                                             "link":  "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "このAIスタートアップ、脚本からヒット映画を予測できると主張",
-                                             "summaryJa":  [
-                                                               "あるAIスタートアップ「Quilty」が、脚本から映画の成功を正確に予測できるツールを提供すると主張しています。",
-                                                               "今年初めに業界で話題となったこのツールは、映画製作における意思決定に大きな影響を与える可能性があります。",
-                                                               "AIがエンターテイメント業界に新たな変革をもたらすか注目されます。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T14:00:00Z",
-                                             "excerpt":  "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Pu...",
-                                             "link":  "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "「トゥギャザー・テック」の波が2026年の最も興味深いスタートアップ投資に",
-                                             "summaryJa":  [
-                                                               "AIの資金調達が記録を更新し続ける中、「トゥギャザー・テック」の波が2026年の最も興味深いスタートアップ投資になると見られています。",
-                                                               "Mirrorの創業者Brynn Pu氏のように、一部の創業者は別の方向性で事業を構築しています。",
-                                                               "これは、人々のつながりや協力を重視するテクノロジーを指すと考えられます。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "AirTrunk commits $30B to build 5GW of AI data centers in India",
-                                             "source":  "TechCrunch AI",
-                                             "publishedAt":  "2026-06-05T13:03:10Z",
-                                             "excerpt":  "The Australian data center operator plans to set up 5GW of capacity in India.",
-                                             "link":  "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "AirTrunk、インドに5GWのAIデータセンター建設へ300億ドルを投資",
-                                             "summaryJa":  [
-                                                               "オーストラリアのデータセンター事業者AirTrunkが、インドに5GWのAIデータセンターを建設するため300億ドルを投資すると発表しました。",
-                                                               "同社はインドに大規模な容量を設置する計画です。",
-                                                               "これは、インドにおけるAIインフラ需要の急増に対応するための動きです。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Kevin O’Leary agrees to downsize massive Utah data center",
-                                             "source":  "The Verge AI",
-                                             "publishedAt":  "2026-06-05T12:41:17Z",
-                                             "excerpt":  "Kevin O\u0027Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists,...",
-                                             "link":  "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ケビン・オレアリー氏、ユタ州の大規模データセンター縮小に同意",
-                                             "summaryJa":  [
-                                                               "ケビン・オレアリー氏が、ユタ州で計画していた4万エーカーの大規模データセンターの規模を半分に縮小することに同意しました。",
-                                                               "これは、住民や活動家からの圧力が高まったことを受けての決定です。",
-                                                               "環境への影響や地域社会との調和が考慮された結果とみられます。"
-                                                           ]
-                                         }
-                                     ]
-                       },
-                       {
-                           "id":  "education",
-                           "name":  "教育ニュース",
-                           "items":  [
-                                         {
-                                             "title":  "Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success",
-                                             "source":  "The 74",
-                                             "publishedAt":  "2026-06-06T10:30:00Z",
-                                             "excerpt":  "Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing...",
-                                             "link":  "https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "意見：学校外での時間が登校率と学業成績向上に貢献する方法",
-                                             "summaryJa":  [
-                                                               "慢性的な欠席は、今日の学校が直面する最も根深い課題の一つです。",
-                                                               "ある生徒は、年間で授業の多くを欠席すると慢性的な欠席とみなされます。",
-                                                               "学校外での活動が、登校意欲や学業成績の向上に繋がる可能性が指摘されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "NYC proposal would add younger students to school leadership teams — and pay them for it",
-                                             "source":  "Chalkbeat",
-                                             "publishedAt":  "2026-06-05T21:30:16Z",
-                                             "excerpt":  "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. New York C...",
-                                             "link":  "https://www.chalkbeat.org/newyork/2026/06/05/nyc-school-leadership-teams-student-members-stipend/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ニューヨーク市、学校リーダーシップチームに若年層の生徒を追加し報酬を支払う提案",
-                                             "summaryJa":  [
-                                                               "ニューヨーク市で、学校のリーダーシップチームに若年層の生徒を追加し、その活動に対して報酬を支払うという提案がなされています。",
-                                                               "これは、生徒の意見を学校運営に反映させ、リーダーシップを育成することを目的としています。",
-                                                               "この取り組みが、生徒のエンゲージメント向上に繋がると期待されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Auburn Board Takes Full Curricular Control, Dissolves Faculty Senate",
-                                             "source":  "Inside Higher Ed",
-                                             "publishedAt":  "2026-06-05T19:50:47Z",
-                                             "excerpt":  "Auburn Board Takes Full Curricular Control, Dissolves Faculty Senate Emma Whitford Fri, 06/05/2026 - 03:50 PM The policies mirror the direc...",
-                                             "link":  "https://www.insidehighered.com/news/governance/trustees-regents/2026/06/05/auburn-board-takes-curricular-control-dissolves-senate",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "オーバーン大学理事会、カリキュラムの全面的な管理権を掌握し教員評議会を解散",
-                                             "summaryJa":  [
-                                                               "オーバーン大学の理事会が、カリキュラムに対する全面的な管理権を掌握し、教員評議会を解散しました。",
-                                                               "この政策は、大学の運営方針に大きな変化をもたらすものです。",
-                                                               "教員の自治権が制限されることに対し、懸念の声も上がっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Newark educators, students say schools could do more as clashes at Delaney Hall continue",
-                                             "source":  "Chalkbeat",
-                                             "publishedAt":  "2026-06-05T19:40:39Z",
-                                             "excerpt":  "Sign up for Chalkbeat Newark’s free newsletter to get the latest news about the city’s public school system delivered to your inbox. Newark...",
-                                             "link":  "https://www.chalkbeat.org/newark/2026/06/05/educators-say-schools-could-do-more-as-clashes-at-delaney-hall-continue/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ニューアークの教育者と生徒、デラニー・ホールでの衝突継続に対し学校のさらなる対応を求める",
-                                             "summaryJa":  [
-                                                               "ニューアークの教育者と生徒たちは、デラニー・ホールで続く衝突に対し、学校がさらなる対応を取るべきだと訴えています。",
-                                                               "この衝突は、学校環境における安全と秩序の問題を浮き彫りにしています。",
-                                                               "生徒たちの安全確保と教育環境の改善が求められています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Students across Pennsylvania step up on Election Day to keep democracy working",
-                                             "source":  "Chalkbeat",
-                                             "publishedAt":  "2026-06-05T18:52:21Z",
-                                             "excerpt":  "This story was originally published by Votebeat. Sign up for Votebeat Pennsylvania’s free newsletter here. If you’ve voted in person in Pen...",
-                                             "link":  "https://www.chalkbeat.org/philadelphia/2026/06/05/student-poll-worker-program-2026-primary/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "ペンシルベニア州の学生、選挙日に民主主義維持のため尽力",
-                                             "summaryJa":  [
-                                                               "ペンシルベニア州の学生たちが、選挙日に民主主義の機能を維持するために尽力しました。",
-                                                               "彼らは投票所での支援活動などを通じて、選挙プロセスを支えました。",
-                                                               "若者の政治参加と社会貢献の意識の高さが示されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
-                                             "source":  "The 74",
-                                             "publishedAt":  "2026-06-05T18:30:00Z",
-                                             "excerpt":  "Top Takeaways With millions of ballots still to be counted in California, Chino Valley Unified school board President Sonja Shaw has a clea...",
-                                             "link":  "https://www.the74million.org/article/shaw-barrera-emerge-as-front-runners-in-california-superintendent-race/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "カリフォルニア州教育長選、ショー氏とバレラ氏が有力候補に",
-                                             "summaryJa":  [
-                                                               "カリフォルニア州教育長選挙で、チノバレー統一学区のソニア・ショー理事長とバレラ氏が有力候補として浮上しています。",
-                                                               "数百万票がまだ集計中ですが、ショー氏が明確なリードを保っています。",
-                                                               "選挙結果は、州の教育政策に大きな影響を与えることになります。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Colorado needed more specialized schools. Now this one is facing scrutiny for restraining students.",
-                                             "source":  "Chalkbeat",
-                                             "publishedAt":  "2026-06-05T18:10:21Z",
-                                             "excerpt":  "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
-                                             "link":  "https://www.chalkbeat.org/colorado/2026/06/05/westminster-specialized-school-in-trouble-for-restraint/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "コロラド州、専門学校の必要性高まるも、生徒拘束で監視強化",
-                                             "summaryJa":  [
-                                                               "コロラド州では、より専門的な学校の必要性が高まっています。",
-                                                               "しかし、ある専門学校が生徒を拘束したことで、現在監視が強化されています。",
-                                                               "生徒の安全と権利保護に関する懸念が浮上しています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Opinion: Students Nationwide Are Demanding to Be Heard — Whether Adults Like It or Not",
-                                             "source":  "The 74",
-                                             "publishedAt":  "2026-06-05T16:30:00Z",
-                                             "excerpt":  "At the end of my junior year of high school, I was elected Student Council president. I spent all summer making plans. Before the first cou...",
-                                             "link":  "https://www.the74million.org/article/students-nationwide-are-demanding-to-be-heard-whether-adults-like-it-or-not/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "意見：全国の学生が声を上げている、大人が好むと好まざるとにかかわらず",
-                                             "summaryJa":  [
-                                                               "全国の学生たちが、大人が好むと好まざるとにかかわらず、自分たちの意見を主張しています。",
-                                                               "高校3年生の終わりに生徒会長に選出された筆者は、夏休み中に多くの計画を立てました。",
-                                                               "若者の社会参加と自己表現の重要性が強調されています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "How Detroit parents are searching for new schools amid uncertainty, closures",
-                                             "source":  "Chalkbeat",
-                                             "publishedAt":  "2026-06-05T14:44:29Z",
-                                             "excerpt":  "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy. For Takiyah...",
-                                             "link":  "https://www.chalkbeat.org/detroit/2026/06/04/dpscd-schools-closing-leave-parents-hunting-for-new-schools/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "デトロイトの親たち、不確実性と閉鎖の中で新しい学校を模索",
-                                             "summaryJa":  [
-                                                               "デトロイトの親たちは、学校の不確実性や閉鎖が続く中で、新しい学校を模索しています。",
-                                                               "これは、子供たちの教育環境を確保するための切実な問題となっています。",
-                                                               "地域の教育システムが直面する課題が浮き彫りになっています。"
-                                                           ]
-                                         },
-                                         {
-                                             "title":  "Colorado’s ‘First Public Christian School’ Closes Permanently",
-                                             "source":  "The 74",
-                                             "publishedAt":  "2026-06-05T14:30:00Z",
-                                             "excerpt":  "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
-                                             "link":  "https://www.the74million.org/article/colorados-first-public-christian-school-closes-permanently/",
-                                             "translationStatus":  "translated",
-                                             "titleJa":  "コロラド州初の公立キリスト教学校が永久閉鎖",
-                                             "summaryJa":  [
-                                                               "コロラド州で「初の公立キリスト教学校」が永久閉鎖されることになりました。",
-                                                               "この学校の閉鎖は、州の教育政策や宗教教育のあり方について議論を呼んでいます。",
-                                                               "今後の教育環境への影響が注目されます。"
-                                                           ]
-                                         }
-                                     ]
-                       }
-                   ],
-    "errors":  [
-
-               ],
-    "translation":  {
-                        "provider":  "gemini",
-                        "model":  "gemini-2.5-flash",
-                        "enabled":  true,
-                        "limitPerCategory":  10,
-                        "translatedItems":  50,
-                        "failedBatches":  [
-
-                                          ]
-                    },
-    "generated_at":  "2026-06-06T22:46:24.082206Z"
+{
+  "generatedAt": "2026-06-07T09:46:15.538816Z",
+  "categories": [
+    {
+      "id": "world",
+      "name": "世界ニュース",
+      "items": [
+        {
+          "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T09:19:58Z",
+          "excerpt": "Iran’s ambassador to Mexico expressed concern over the reported denial of US visas to the World Cup delegation.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イラン、W杯代表団への米国ビザ発給拒否を批判",
+          "summaryJa": [
+            "イランのメキシコ大使は、W杯代表団への米国ビザ発給拒否の報道に対し懸念を表明しました。",
+            "米国がビザ発給を拒否したことについて、イラン側は批判しています。",
+            "この問題は、両国間の外交関係に影響を与える可能性があります。"
+          ]
+        },
+        {
+          "title": "Who are the best star players to watch at World Cup 2026?",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T09:07:33Z",
+          "excerpt": "The FIFA World Cup will bring together football stars from across the globe, ranging from legends to emerging talents.",
+          "link": "https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "2026年W杯、注目すべきスター選手は誰か",
+          "summaryJa": [
+            "2026年のFIFAワールドカップには、世界中からサッカーのスター選手が集結します。",
+            "伝説的なベテラン選手から、台頭する若手才能まで、幅広い選手が参加する予定です。",
+            "大会では、これらの注目選手たちの活躍が期待されます。"
+          ]
+        },
+        {
+          "title": "Massive human wave in Mexico ahead of World Cup 2026",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T08:59:13Z",
+          "excerpt": "Massive human wave in Mexico ahead of World Cup 2026",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/massive-human-wave-in-mexico-ahead-of-world-cup-2026?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "2026年W杯を前にメキシコで大規模な「人波」",
+          "summaryJa": [
+            "2026年のワールドカップ開催を前に、メキシコで大規模な「人波」現象が発生しました。",
+            "これは、大勢の人が集まって波のように動く様子を指します。",
+            "大会への期待感が高まっていることを示唆している可能性があります。"
+          ]
+        },
+        {
+          "title": "The accomplishments of 100 days of war on Iran are undeniable",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T08:55:20Z",
+          "excerpt": "The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime.",
+          "link": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イランへの100日間の戦争、その成果は明白",
+          "summaryJa": [
+            "米国によるイランへの100日間の戦争で、その成果は否定できないと報じられています。",
+            "米国はイランの核開発計画と軍事力を壊滅させたとされています。",
+            "さらに、イラン政権の権力も弱体化させたと伝えられています。"
+          ]
+        },
+        {
+          "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+          "source": "BBC News",
+          "publishedAt": "2026-06-07T08:53:43Z",
+          "excerpt": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+          "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ローマ教皇の野外ミサにマドリードで大勢の群衆",
+          "summaryJa": [
+            "マドリードのシベーレス広場で開催されたローマ教皇の野外ミサに、大勢の群衆が押し寄せました。",
+            "教皇は到着時、専用車「教皇車」から集まった人々に向けて手を振りました。",
+            "多くの信者が教皇の姿を一目見ようと通りを埋め尽くしました。"
+          ]
+        },
+        {
+          "title": "Iran after 100 days of war: The triumph of survival",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T08:52:20Z",
+          "excerpt": "Tehran sees its ability to preserve its governing system amid a regime-change war as a clear victory.",
+          "link": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "100日間の戦争後のイラン：生き残りの勝利",
+          "summaryJa": [
+            "100日間の戦争後、イランは自国の統治体制を維持できたことを明確な勝利と見ています。",
+            "テヘランは、政権交代を目的とした戦争の中で生き残ったことを「生き残りの勝利」と捉えています。",
+            "これは、イランが外部からの圧力に耐え抜いたという認識を示しています。"
+          ]
+        },
+        {
+          "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+          "source": "BBC News",
+          "publishedAt": "2026-06-07T08:46:39Z",
+          "excerpt": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-we...",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国防長官、ノルマンディーで移民問題巡り欧州を批判",
+          "summaryJa": [
+            "米国防長官がノルマンディーで演説し、移民問題を巡って欧州を批判しました。",
+            "演説は、連合軍がナチス占領下の北西ヨーロッパ解放作戦を開始してから82年後に行われました。",
+            "長官は、移民の流入を「侵略」と表現し、D-デイの文脈で語ったと報じられています。"
+          ]
+        },
+        {
+          "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T08:45:01Z",
+          "excerpt": "Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countries warn of escalation.",
+          "link": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "パキスタンのナクヴィ氏、イラン最高指導者に「特別書簡」携え訪問",
+          "summaryJa": [
+            "パキスタンのナクヴィ氏が、イランの最高指導者に対し「特別書簡」を携えてイランを訪問しました。",
+            "仲介役のパキスタンは、米国とイランの戦争終結に向けた外交努力を強化しています。",
+            "湾岸諸国が事態のエスカレートを警告する中、この訪問は緊張緩和を目指す動きと見られます。"
+          ]
+        },
+        {
+          "title": "At least a dozen injured from shooting attack near Ohio festival",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T08:18:10Z",
+          "excerpt": "At least 12 people were wounded, two critically, in a shooting near the Old West End Festival in Toledo, Ohio.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "オハイオ州の祭典近くで銃撃、少なくとも12人負傷",
+          "summaryJa": [
+            "オハイオ州トレドのオールド・ウェスト・エンド・フェスティバル近くで銃撃事件が発生しました。",
+            "この事件により、少なくとも12人が負傷し、うち2人が重体と報じられています。",
+            "祭典の会場付近で起きた銃撃に、地域住民に衝撃が広がっています。"
+          ]
+        },
+        {
+          "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-07T07:59:02Z",
+          "excerpt": "Lebanon's army chief Rodolphe Haykal left for Pakistan in a surprise visit as relentless fighting continues.",
+          "link": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "レバノン軍司令官がパキスタン訪問、イスラエルに殺害された兵士の葬儀計画も",
+          "summaryJa": [
+            "レバノン軍のロドルフ・ハイカル司令官が、パキスタンへ電撃訪問しました。",
+            "イスラエルによって殺害された兵士たちの葬儀計画も進められています。",
+            "絶え間ない戦闘が続く中での訪問であり、その目的が注目されています。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "日本ニュース",
+      "items": [
+        {
+          "title": "【動画】8日の天気 - 北海道や沖縄・奄美で激しい雨も 土砂災害などに警戒 全国的に雨雲広がる（7日19時更新）(ウェザーマップ)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:37:53Z",
+          "excerpt": "月曜日は梅雨前線や低気圧の影響で、雨の所が多くなりそうです。北海道や沖縄、奄美では激しい雨の降る所もあるでしょう。低い土地の浸水や土砂災害などに警戒が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/5a27f7b20168993b0f6628dc8e0c3f6342d54bee?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "8日は全国的に雨、北海道・沖縄・奄美で激しい雨に警戒",
+          "summaryJa": [
+            "月曜日は梅雨前線や低気圧の影響で、全国的に雨が予想されます。",
+            "特に北海道、沖縄、奄美地方では激しい雨が降る恐れがあります。",
+            "低い土地の浸水や土砂災害などへの厳重な警戒が必要です。"
+          ]
+        },
+        {
+          "title": "栃木強盗殺人 現場指示役か夫婦再逮捕「知らない」容疑を否認",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-07T09:37:11Z",
+          "excerpt": "栃木県上三川町の住宅に強盗が押し入り親子3人が死傷した事件で、警察は強盗殺人の疑いで逮捕していた現場の指示役とみられる夫婦を、実行役とみられる高校生らに続き、7日、強盗殺人未遂の疑いで再逮捕しました。調べに対し夫婦は「知らない」と供述し、いずれも容疑を否認しているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143501000.html",
+          "translationStatus": "translated",
+          "titleJa": "栃木強盗殺人、現場指示役とみられる夫婦を再逮捕 容疑否認",
+          "summaryJa": [
+            "栃木県上三川町の強盗殺人事件で、警察は現場の指示役とみられる夫婦を強盗殺人未遂の疑いで再逮捕しました。",
+            "この夫婦は既に強盗殺人の疑いで逮捕されていました。",
+            "調べに対し夫婦は「知らない」と供述し、いずれも容疑を否認しているとのことです。"
+          ]
+        },
+        {
+          "title": "霧雨の大山で夏山開き、鳥取 安全願う「山頂祭」、80回目(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:34:02Z",
+          "excerpt": "中国地方最高峰、鳥取県の大山（1729メートル）で7日、夏山開きの神事「山頂祭」が行われた。冷たい霧雨の中、主峰の一つ弥山頂上（1709メートル）には神職や登山者ら約100人が集まり、安全を祈願した",
+          "link": "https://news.yahoo.co.jp/articles/d5ca23df51579a04684e7b97f596b0e53f408523?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "鳥取・大山で夏山開き、霧雨の中100人が安全祈願",
+          "summaryJa": [
+            "中国地方最高峰の鳥取県大山で7日、夏山開きの神事「山頂祭」が開催されました。",
+            "冷たい霧雨が降る中、弥山頂上には神職や登山者ら約100人が集まりました。",
+            "参加者たちは、今年の夏山シーズン中の安全を祈願しました。"
+          ]
+        },
+        {
+          "title": "WWDC26直前！新AIに高い関心 50年史が示すアップルの戦略 新Siriは「その人専用AI」へ(AERA DIGITAL)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:30:38Z",
+          "excerpt": "6月8日（日本時間9日午前2時）に開幕する米アップルの世界開発者会議「WWDC26」では新SiriとApple Intelligenceの発表が予想されている。「アップルはAIで出遅れた」——そんな",
+          "link": "https://news.yahoo.co.jp/articles/077af81a8a33a28c0949187e177388831f4e537a?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アップルWWDC26直前、新SiriとApple Intelligence発表に注目",
+          "summaryJa": [
+            "米アップルの世界開発者会議「WWDC26」が日本時間9日午前2時に開幕します。",
+            "新SiriとApple Intelligenceの発表が予想されており、高い関心が寄せられています。",
+            "新Siriは「その人専用AI」となる戦略が示唆されています。",
+            "アップルのAI分野での今後の動向が注目されます。"
+          ]
+        },
+        {
+          "title": "三重県を中心に8日にかけて大雨のおそれ 土砂災害に注意 台風6号の影響も(CBCテレビ)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:22:14Z",
+          "excerpt": "東海地方は、三重県を中心に大雨のおそれがあり、気象台が土砂災害などに注意を呼びかけています。 7日、平年より1日遅く去年より21日遅い梅雨入りの発表があった東海地方。 名古屋市内でも午前中から断続",
+          "link": "https://news.yahoo.co.jp/articles/0c4106a9775a1ae23c385e014cf316cba505e275?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "東海地方が梅雨入り、三重県中心に8日にかけ大雨警戒",
+          "summaryJa": [
+            "東海地方は7日、平年より遅れて梅雨入りが発表されました。",
+            "三重県を中心に8日にかけて大雨となる恐れがあります。",
+            "気象台は土砂災害などへの注意を呼びかけています。",
+            "台風6号の影響も懸念されています。"
+          ]
+        },
+        {
+          "title": "クマが商店街に 目撃相次ぐ「なんでこんな所まで…」 宇都宮市(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:21:23Z",
+          "excerpt": "宇都宮市でクマが現れ、商店街を歩く様子がカメラで捉えられました。また、同じ宇都宮市内でクマの目撃情報があり、警戒が続いています。 ■クマが商店街に 目撃相次ぐ 北関東最大の都市、宇都宮市の中心に",
+          "link": "https://news.yahoo.co.jp/articles/58cd9f2d730ddf1bf0fae62ab66d0cac71228f32?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "宇都宮市でクマの目撃相次ぐ、商店街にも出没し警戒続く",
+          "summaryJa": [
+            "宇都宮市内でクマの目撃情報が相次いでいます。",
+            "商店街を歩くクマの姿がカメラに捉えられました。",
+            "市内では複数の目撃情報があり、住民に警戒が呼びかけられています。",
+            "北関東最大の都市の中心部での出没に驚きの声が上がっています。"
+          ]
+        },
+        {
+          "title": "関東甲信と東海が梅雨入り 九州南部や沖縄で大雨",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-07T09:18:32Z",
+          "excerpt": "前線や低気圧の影響で、7日、九州南部では局地的な大雨となったほか東日本でも雲が広がり、気象庁は「関東甲信と東海が梅雨入りしたとみられる」と発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143271000.html",
+          "translationStatus": "translated",
+          "titleJa": "関東甲信と東海が梅雨入り、九州南部・沖縄は大雨に",
+          "summaryJa": [
+            "気象庁は7日、関東甲信と東海地方が梅雨入りしたとみられると発表しました。",
+            "前線や低気圧の影響で、九州南部では局地的な大雨となりました。",
+            "東日本でも雲が広がり、本格的な雨のシーズンに入ります。",
+            "各地で今後の天候に注意が必要です。"
+          ]
+        },
+        {
+          "title": "Parliament leaders adopt draft proposal for imperial succession",
+          "source": "The Japan Times",
+          "publishedAt": "2026-06-07T09:14:00Z",
+          "excerpt": "The draft calls for allowing female members of the imperial family to retain their status after marriage and male heirs to be adopted from...",
+          "link": "https://www.japantimes.co.jp/news/2026/06/07/japan/politics/imperial-succession-ok-draft-proposal/",
+          "translationStatus": "translated",
+          "titleJa": "皇位継承に関する提言案を国会幹部が了承",
+          "summaryJa": [
+            "皇位継承に関する提言案が国会幹部によって了承されました。",
+            "この提言案には、女性皇族が結婚後も皇族の身分を保持できることなどが盛り込まれています。",
+            "また、男系男子の養子縁組を可能にすることも含まれています。",
+            "皇位継承の安定化に向けた議論が進められています。"
+          ]
+        },
+        {
+          "title": "日韓訓練、予定通り実施 海自、五島列島沖で救難(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:13:38Z",
+          "excerpt": "海上自衛隊は7日、韓国海軍と捜索救難訓練を長崎県・五島列島西方の海域で実施したと明らかにした。両者による人道目的の捜索救難訓練は2017年に実施後、途絶えていた。今年1月、日韓防衛相が部隊間交流を活",
+          "link": "https://news.yahoo.co.jp/articles/be5ba1e09fb09c5e7fb31d231b445e1b531019ae?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "【関東の天気】関東梅雨入り 今夜から本降りの雨 あす行きも帰りも傘の出番(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-07T09:12:16Z",
+          "excerpt": "関東甲信も梅雨入りの発表がありましたね。早速7日夜は低気圧の影響で広く雨となりそうです。 夜7時頃には各地で雨が降り出し、特に南部の地域ほど本降りとなりそうです。8日朝にはピークはすぎますが、各地",
+          "link": "https://news.yahoo.co.jp/articles/e6dde1fe7983eb691a747bce7e1f1d24c08fd3c7?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "関東甲信が梅雨入り、7日夜から本降りの雨に",
+          "summaryJa": [
+            "関東甲信地方が梅雨入りしたと発表されました。",
+            "7日夜からは低気圧の影響で広い範囲で雨が降る見込みです。",
+            "特に南部の地域では本降りの雨となるでしょう。",
+            "8日朝には雨のピークは過ぎますが、外出時には傘が必要となりそうです。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investment",
+      "name": "投資ニュース",
+      "items": [
+        {
+          "title": "‘He’s taking advantage of me’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-07T07:40:00Z",
+          "excerpt": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
+          "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "夫が自宅売却を拒否、夫婦別居状態での生活に不満",
+          "summaryJa": [
+            "夫婦がそれぞれ自宅を所有し、約32km離れた場所で生活している。",
+            "夫は自宅の売却を拒否しており、夫婦の財産統合や快適な同居生活が実現していない。",
+            "夫はほぼ毎日、自宅と妻の家を行き来している状況。",
+            "妻は夫が自分を利用していると感じ、この状況に不満を抱いている。"
+          ]
+        },
+        {
+          "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-07T05:00:01Z",
+          "excerpt": "The conflict is about to reach its 100th day, with peace negotiations hanging in the balance.",
+          "link": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+          "translationStatus": "translated",
+          "titleJa": "イラン紛争100日、世界市場と経済への影響を分析",
+          "summaryJa": [
+            "イラン紛争が間もなく100日目を迎える。",
+            "この紛争が世界市場と経済に与えた影響が分析されている。",
+            "平和交渉は依然として不確実な状況にある。"
+          ]
+        },
+        {
+          "title": "Global week ahead: Soccer isn't the only thing that's kicking off",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-07T05:00:01Z",
+          "excerpt": "World Cup fever grips football fans worldwide ahead of the opening game on June 11th, but it's not just soccer that's kicking off next week.",
+          "link": "https://www.cnbc.com/2026/06/07/investors-watch-world-cup-ai-stocks-spacex-ipo.html",
+          "translationStatus": "translated",
+          "titleJa": "来週の世界情勢、サッカーW杯以外にも注目イベント",
+          "summaryJa": [
+            "6月11日の開幕戦を控え、サッカーワールドカップへの熱狂が世界中のファンを捉えている。",
+            "来週はサッカー以外にも、世界的に注目される様々な重要な出来事が始まる予定。",
+            "グローバルな視点から、サッカー以外の動きにも注目が集まる。"
+          ]
+        },
+        {
+          "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T23:15:00Z",
+          "excerpt": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+          "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "米国で宝飾品着用をためらう風潮、社会状況を反映か",
+          "summaryJa": [
+            "米国では、人々が宝飾品を身につけることをためらう風潮が見られる。",
+            "これは、社会の特定の状況を反映している可能性が指摘されている。",
+            "以前は多くのショーやパーティー、資金調達イベントなどで宝飾品が着用されていた。"
+          ]
+        },
+        {
+          "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T22:51:00Z",
+          "excerpt": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+          "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "401(k)からの追加引き出し、メディケア保険料増額を避ける方法",
+          "summaryJa": [
+            "401(k)から一時的に追加資金を引き出したいというニーズがある。",
+            "通常、401(k)からはプロジェクトや高額な出費、あるいは今後の請求に備えて資金が引き出される。",
+            "しかし、追加引き出しがメディケア保険料の増額を招かない方法が模索されている。"
+          ]
+        },
+        {
+          "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T22:51:00Z",
+          "excerpt": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+          "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "理想の高級退職者コミュニティ、数百万ドルの負債が判明",
+          "summaryJa": [
+            "理想的と思われた高級退職者コミュニティが、数百万ドルの負債を抱えていることが判明した。",
+            "入居者は、もし退去すれば初期費用の一部、約8万ドルを失うことになる。",
+            "この状況により、入居者が「閉じ込められている」と感じている。"
+          ]
+        },
+        {
+          "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T21:10:00Z",
+          "excerpt": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and kn...",
+          "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "新たな減量療法、既存薬GLP-1を上回る効果目指す",
+          "summaryJa": [
+            "新しい減量療法が開発されており、現在のGLP-1受容体作動薬よりも優れた効果を目指している。",
+            "その一つであるレタトルチドは、臨床試験で大幅な体重減少をもたらした。",
+            "また、睡眠時無呼吸症候群の改善効果も示されている。"
+          ]
+        },
+        {
+          "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-06T19:33:38Z",
+          "excerpt": "New World screwworm larvae feed on the living tissue of warm-blooded animals, creating severe wounds that can be fatal if left untreated.",
+          "link": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+          "translationStatus": "translated",
+          "titleJa": "米テキサス州でスクリューワーム症例確認、カナダは家畜輸入制限",
+          "summaryJa": [
+            "米国テキサス州で、2例目の新世界スクリューワーム症例が確認された。",
+            "新世界スクリューワームの幼虫は温血動物の生きた組織を食害し、重度の傷を引き起こす。",
+            "放置すれば致命的となる可能性があり、これを受けカナダは家畜の輸入を制限した。"
+          ]
+        },
+        {
+          "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T18:50:00Z",
+          "excerpt": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
+          "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "ロボアドバイザー、AI株価予測からの利益享受は困難か",
+          "summaryJa": [
+            "ほとんどのロボアドバイザーは、ウォール街のAIが生成する株価予測から利益を得ることはないだろうとされている。",
+            "個人向けロボアドバイザーは、損益通算やポートフォリオの規律維持には優れている。",
+            "しかし、市場平均を上回るリターンは、そのサービス内容には含まれていない。"
+          ]
+        },
+        {
+          "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-06T18:16:00Z",
+          "excerpt": "Here’s your new playbook to protect your retirement cash.",
+          "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "RMDsへの課税は避けられないのか？退職資金保護の新戦略",
+          "summaryJa": [
+            "RMDs（Required Minimum Distributions：必要最低分配金）には課税されるのが一般的である。",
+            "しかし、退職資金を保護するための新たな戦略が提案されている。",
+            "この新しい戦略により、RMDsへの課税を回避または軽減する方法があるかどうかが検討される。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AIニュース",
+      "items": [
+        {
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-06T20:32:24Z",
+          "excerpt": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive da...",
+          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-06T18:13:36Z",
+          "excerpt": "Apple's WWDC nears: Here's what you can look forward to.",
+          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "translationStatus": "translated",
+          "titleJa": "WWDC 2026の注目点：Siriの大幅刷新とApple Intelligenceの更新",
+          "summaryJa": [
+            "Appleの世界開発者会議（WWDC）が近づいています。",
+            "今回のWWDCでは、Siriの大幅な機能刷新が期待されています。",
+            "また、Apple Intelligenceに関する新たなアップデートも発表される見込みです。"
+          ]
+        },
+        {
+          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-06T17:42:15Z",
+          "excerpt": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+          "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "The Trump administration might take an equity stake in OpenAI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-06T16:17:21Z",
+          "excerpt": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+          "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-06T15:14:49Z",
+          "excerpt": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Meta made its own AI-generated clickbait news feed",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-05T20:17:26Z",
+          "excerpt": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+          "translationStatus": "translated",
+          "titleJa": "MetaがAI生成のクリックベイトニュースフィードを導入",
+          "summaryJa": [
+            "Facebookでは以前からクリックベイト記事が多数存在していました。",
+            "Metaは今回、AIを用いて独自のクリックベイト記事を生成するようになりました。",
+            "スタンドアロンのMetaサービスとして提供される予定です。"
+          ]
+        },
+        {
+          "title": "Startup Battlefield 200 applications officially close in 3 days",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-05T20:00:00Z",
+          "excerpt": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on...",
+          "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Google will pay SpaceX $920M per month for compute",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-05T18:57:20Z",
+          "excerpt": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+          "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Here comes new Siri again",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-05T18:40:17Z",
+          "excerpt": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. A...",
+          "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+          "translationStatus": "translated",
+          "titleJa": "新しいSiriが再び登場へ",
+          "summaryJa": [
+            "Appleはここ数年、AI分野で後れを取っているとされてきました。",
+            "しかし、この状況が必ずしも悪いことではないという見方もあります。",
+            "新しいSiriの登場が期待されています。"
+          ]
+        },
+        {
+          "title": "The most interesting startups right now want to get you off your phone",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-05T17:17:06Z",
+          "excerpt": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Pu...",
+          "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+          "translationStatus": "translated",
+          "titleJa": "注目スタートアップ、スマートフォンからの離脱を促進",
+          "summaryJa": [
+            "AI分野の資金調達が記録を更新し続ける一方で、別の方向を目指す創業者もいます。",
+            "現在最も興味深いスタートアップの中には、ユーザーがスマートフォンから離れることを促す製品を開発している企業があります。",
+            "Mirrorの創業者Brynn Pu氏などがその例です。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "教育ニュース",
+      "items": [
+        {
+          "title": "Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship",
+          "source": "The 74",
+          "publishedAt": "2026-06-06T16:30:00Z",
+          "excerpt": "On Friday, New Hampshire Gov. Kelly Ayotte signed Senate Bill 608 into law, which allows retirees taking care of children to access the sta...",
+          "link": "https://www.the74million.org/zero2eight/gov-ayotte-signs-bill-to-give-retired-grandparents-access-to-state-childcare-scholarship/",
+          "translationStatus": "translated",
+          "titleJa": "ニューハンプシャー州、退職した祖父母に育児奨学金を提供へ",
+          "summaryJa": [
+            "ニューハンプシャー州のケリー・アヨット知事は金曜日、上院法案608に署名しました。",
+            "この法案は、退職者が子供の世話をしている場合に州の育児奨学金を利用できるようにするものです。",
+            "これにより、退職した祖父母が育児支援を受けられるようになります。"
+          ]
+        },
+        {
+          "title": "Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success",
+          "source": "The 74",
+          "publishedAt": "2026-06-06T10:30:00Z",
+          "excerpt": "Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing...",
+          "link": "https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/",
+          "translationStatus": "translated",
+          "titleJa": "意見：学校外での時間が登校率と学業成績向上に寄与する可能性",
+          "summaryJa": [
+            "慢性的な欠席は、今日の学校が直面する最も根深い課題の一つです。",
+            "生徒は一定期間学校を欠席すると、慢性的な欠席とみなされます。",
+            "この意見記事では、学校外での活動が登校率と学業成績の向上に役立つ可能性を探っています。"
+          ]
+        },
+        {
+          "title": "NYC proposal would add younger students to school leadership teams — and pay them for it",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-05T21:30:16Z",
+          "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. New York C...",
+          "link": "https://www.chalkbeat.org/newyork/2026/06/05/nyc-school-leadership-teams-student-members-stipend/",
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク市、学校運営チームに年少生徒を加え報酬を支払う提案",
+          "summaryJa": [
+            "ニューヨーク市で、学校のリーダーシップチームに年少の生徒を加える提案が浮上しています。",
+            "この提案では、参加する生徒には報酬が支払われる予定です。",
+            "これは、NYCの公立学校に関する重要なニュースとして報じられています。"
+          ]
+        },
+        {
+          "title": "Auburn Board Takes Full Curricular Control, Dissolves Faculty Senate",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-06-05T19:50:47Z",
+          "excerpt": "Auburn Board Takes Full Curricular Control, Dissolves Faculty Senate Emma Whitford Fri, 06/05/2026 - 03:50 PM The policies mirror the direc...",
+          "link": "https://www.insidehighered.com/news/governance/trustees-regents/2026/06/05/auburn-board-takes-curricular-control-dissolves-senate",
+          "translationStatus": "translated",
+          "titleJa": "オーバーン理事会がカリキュラムの全面的な管理権を掌握、教員評議会を解散",
+          "summaryJa": [
+            "オーバーン理事会がカリキュラムに対する全面的な管理権を取得しました。",
+            "これに伴い、教員評議会が解散されました。",
+            "この方針は、特定の方向性を反映していると報じられています。"
+          ]
+        },
+        {
+          "title": "Newark educators, students say schools could do more as clashes at Delaney Hall continue",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-05T19:40:39Z",
+          "excerpt": "Sign up for Chalkbeat Newark’s free newsletter to get the latest news about the city’s public school system delivered to your inbox. Newark...",
+          "link": "https://www.chalkbeat.org/newark/2026/06/05/educators-say-schools-could-do-more-as-clashes-at-delaney-hall-continue/",
+          "translationStatus": "translated",
+          "titleJa": "デラニーホールでの衝突続く中、ニューアークの教育者と生徒が学校の対応強化を求める",
+          "summaryJa": [
+            "デラニーホールで衝突が続いている状況を受け、ニューアークの教育者と生徒が発言しています。",
+            "彼らは、学校が現状に対してさらに多くの対応をすべきだと主張しています。",
+            "これは、市内の公立学校システムに関する最新ニュースとして報じられています。"
+          ]
+        },
+        {
+          "title": "Students across Pennsylvania step up on Election Day to keep democracy working",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-05T18:52:21Z",
+          "excerpt": "This story was originally published by Votebeat. Sign up for Votebeat Pennsylvania’s free newsletter here. If you’ve voted in person in Pen...",
+          "link": "https://www.chalkbeat.org/philadelphia/2026/06/05/student-poll-worker-program-2026-primary/",
+          "translationStatus": "translated",
+          "titleJa": "ペンシルベニア州の学生、選挙日に民主主義維持のため活動",
+          "summaryJa": [
+            "ペンシルベニア州の学生たちが、選挙日に積極的に活動しました。",
+            "彼らの目的は、民主主義が機能し続けるよう支援することです。",
+            "この活動は、Votebeatによって報じられました。"
+          ]
+        },
+        {
+          "title": "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
+          "source": "The 74",
+          "publishedAt": "2026-06-05T18:30:00Z",
+          "excerpt": "Top Takeaways With millions of ballots still to be counted in California, Chino Valley Unified school board President Sonja Shaw has a clea...",
+          "link": "https://www.the74million.org/article/shaw-barrera-emerge-as-front-runners-in-california-superintendent-race/",
+          "translationStatus": "translated",
+          "titleJa": "カリフォルニア州教育長選挙、ショー氏とバレラ氏が有力候補に浮上",
+          "summaryJa": [
+            "カリフォルニア州の教育長選挙で、ソニア・ショー氏とバレラ氏が有力候補として浮上しています。",
+            "数百万票の開票がまだ残る中、チノバレー統一学区の理事長であるショー氏が優勢です。",
+            "これは、選挙の主要な動向として注目されています。"
+          ]
+        },
+        {
+          "title": "Colorado needed more specialized schools. Now this one is facing scrutiny for restraining students.",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-05T18:10:21Z",
+          "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
+          "link": "https://www.chalkbeat.org/colorado/2026/06/05/westminster-specialized-school-in-trouble-for-restraint/",
+          "translationStatus": "translated",
+          "titleJa": "コロラド州の専門学校、生徒拘束で監視の対象に",
+          "summaryJa": [
+            "コロラド州では、より多くの専門学校が必要とされていました。",
+            "しかし、ある専門学校が生徒を拘束したとして現在、厳しい監視に直面しています。",
+            "この問題は、コロラド州の教育に関する最新の報道として注目されています。"
+          ]
+        },
+        {
+          "title": "Opinion: Students Nationwide Are Demanding to Be Heard — Whether Adults Like It or Not",
+          "source": "The 74",
+          "publishedAt": "2026-06-05T16:30:00Z",
+          "excerpt": "At the end of my junior year of high school, I was elected Student Council president. I spent all summer making plans. Before the first cou...",
+          "link": "https://www.the74million.org/article/students-nationwide-are-demanding-to-be-heard-whether-adults-like-it-or-not/",
+          "translationStatus": "translated",
+          "titleJa": "意見：全国の学生が声を聞かれることを要求、大人の意向に関わらず",
+          "summaryJa": [
+            "この意見記事では、全国の学生が自分たちの声を聞かれることを強く求めていると述べています。",
+            "彼らは、大人がそれを好むかどうかにかかわらず、意見を表明しています。",
+            "筆者は高校3年生の終わりに生徒会長に選出され、夏休みに計画を立てた経験を語っています。"
+          ]
+        },
+        {
+          "title": "How Detroit parents are searching for new schools amid uncertainty, closures",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-05T14:44:29Z",
+          "excerpt": "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy. For Takiyah...",
+          "link": "https://www.chalkbeat.org/detroit/2026/06/04/dpscd-schools-closing-leave-parents-hunting-for-new-schools/",
+          "translationStatus": "translated",
+          "titleJa": "デトロイトの保護者、不確実性と閉鎖の中で新たな学校を模索",
+          "summaryJa": [
+            "デトロイトでは、不確実な状況や学校の閉鎖が続く中で、保護者たちが新たな学校を探しています。",
+            "これは、市内の公立学校システムとミシガン州の教育政策に関する最新の動向です。",
+            "保護者たちは、子供たちの教育環境を確保するため、様々な選択肢を検討しています。"
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "translation": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "enabled": true,
+    "limitPerCategory": 10,
+    "delaySeconds": 70,
+    "translatedItems": 43,
+    "failedBatches": []
+  }
 }
