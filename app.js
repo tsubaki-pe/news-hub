@@ -8,6 +8,8 @@ const categoryTemplate = document.querySelector("#category-template");
 const itemTemplate = document.querySelector("#item-template");
 
 const NEWS_URL = "./news.json";
+const newsUrlWithCacheBuster = () => `${NEWS_URL}?updated=${Date.now()}`;
+
 let newsData;
 let activeCategoryId = "world";
 let searchQuery = "";
@@ -44,11 +46,6 @@ function validateNews(data) {
   if (!data || !Array.isArray(data.categories)) {
     throw new Error("news.json の categories 配列が見つかりません。");
   }
-  data.categories.forEach((category) => {
-    if (!category.id || !category.name || !Array.isArray(category.items)) {
-      throw new Error("news.json に不正なカテゴリがあります。");
-    }
-  });
 }
 
 function matchesSearch(item) {
@@ -130,18 +127,22 @@ function render(data) {
   validateNews(data);
   newsData = data;
   updatedEl.textContent = formatUpdatedAt(data.generatedAt || data.generated_at || data.updatedAt);
+
   feedHealthEl.textContent = data.errors?.length
     ? `${data.errors.length}件の配信元を取得できませんでした`
     : "すべての配信元を取得済み";
+
   if (data.translation?.translatedItems) {
     feedHealthEl.textContent += ` / 日本語要約 ${data.translation.translatedItems}件`;
   }
+
   feedHealthEl.classList.toggle("has-errors", Boolean(data.errors?.length));
   renderTabs(data.categories);
 
   if (!data.categories.some((category) => category.id === activeCategoryId)) {
     activeCategoryId = data.categories[0]?.id;
   }
+
   if (activeCategoryId) renderCategory(activeCategoryId);
   statusEl.hidden = true;
 }
@@ -153,7 +154,7 @@ searchEl.addEventListener("input", () => {
 
 async function loadNews() {
   try {
-    const response = await fetch(NEWS_URL, { cache: "no-store" });
+    const response = await fetch(newsUrlWithCacheBuster(), { cache: "reload" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     render(await response.json());
   } catch (error) {
