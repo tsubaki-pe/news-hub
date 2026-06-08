@@ -1,112 +1,148 @@
 {
-  "generatedAt": "2026-06-08T13:16:16.158414Z",
+  "generatedAt": "2026-06-08T18:34:25.277136Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T12:59:46Z",
-          "excerpt": "Police crack down down on supporters of the Joint Awami Action Committee, which plans to hold a rally Tuesday.",
-          "link": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "The retaking of Cuba",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T12:49:58Z",
-          "excerpt": "Decades-old property claims, frozen since the 1960s, are being turned into live instruments of reconquest.",
-          "link": "https://www.aljazeera.com/opinions/2026/6/8/the-retaking-of-cuba?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Xi and Kim express hopes for greater ties between China and North Korea",
-          "source": "NPR World",
-          "publishedAt": "2026-06-08T12:49:50Z",
-          "excerpt": "Xi traveled to Pyongyang on Monday in a likely attempt to reassert China's unique influence over its socialist neighbor.",
-          "link": "https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Stock markets fall on tech plunge and renewed Middle East attacks",
+          "title": "'City's gonna be crazy:' Long-awaited Knicks run electrifies NYC, as Trump's attendance locks down arena",
           "source": "BBC News",
-          "publishedAt": "2026-06-08T12:40:16Z",
-          "excerpt": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks on each other.",
-          "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-06-08T18:19:32Z",
+          "excerpt": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
+          "link": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "株式市場が下落、中東情勢悪化とハイテク株売却が影響",
+          "titleJa": "ニックスの快進撃がNYを熱狂、トランプ氏観戦でアリーナ厳戒",
           "summaryJa": [
-            "欧州とアジアの株式市場は、ハイテク株の売却によって打撃を受けました。",
-            "イランとイスラエルが互いに攻撃を開始したことで、原油価格が上昇しています。",
-            "これら複数の要因が重なり、株式市場全体が下落しました。"
+            "NBAファイナル第3戦を控えるニックスの目覚ましい連勝が、ニューヨーク市を活気づけています。",
+            "チームはホームでの試合に向けて準備を進めています。",
+            "トランプ氏の観戦により、アリーナは厳戒態勢となりました。"
           ]
         },
         {
-          "title": "Watch: Why is China's Xi Jinping visiting North Korea?",
+          "title": "US judge strikes down Trump’s $100,000 H1-B visa fee",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-08T18:00:57Z",
+          "excerpt": "In a ruling on Monday, a federal judge said the fee was a tax that Trump didn't have authority to impose.",
+          "link": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米連邦判事、トランプ氏のH1-Bビザ手数料を無効化",
+          "summaryJa": [
+            "米国の連邦判事は月曜日の判決で、トランプ氏が課した10万ドルのH1-Bビザ手数料を無効としました。",
+            "判事は、この手数料がトランプ氏に課す権限のない税金であると指摘しました。",
+            "この判決により、手数料の法的根拠が否定されました。"
+          ]
+        },
+        {
+          "title": "Race tied between left- and right-wing rivals in Peru’s presidential vote",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-08T17:47:37Z",
+          "excerpt": "The split illustrates deep political polarisation in the South American country.",
+          "link": "https://www.aljazeera.com/news/2026/6/8/race-tied-between-left-and-right-wing-rivals-in-perus-presidential-vote?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ペルー大統領選、左右両候補が接戦",
+          "summaryJa": [
+            "ペルーの大統領選挙では、左派と右派のライバル候補が同率で並び、接戦となっています。",
+            "この結果は、同国における深い政治的二極化を浮き彫りにしています。",
+            "国民の意見が二分されている状況が示されています。"
+          ]
+        },
+        {
+          "title": "Somali referee Artan barred from entering USA",
           "source": "BBC News",
-          "publishedAt": "2026-06-08T12:18:56Z",
-          "excerpt": "The Chinese President Xi received a colourful welcome to Pyongyang for his first visit in seven years.",
-          "link": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T12:00:42Z",
-          "excerpt": "Chinese President Xi Jinping visits North Korea as Beijing aims to boost ties amid growing Pyongyang-Moscow relations.",
-          "link": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
+          "publishedAt": "2026-06-08T17:39:06Z",
+          "excerpt": "Somali referee Omar Artan, who was set to be the first from his country to officiate at the World Cup finals, is denied entry to the United...",
+          "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "習近平主席が北朝鮮訪問、中朝関係強化目指す",
+          "titleJa": "W杯初のソマリア人審判、米国入国を拒否される",
           "summaryJa": [
-            "習近平中国国家主席が北朝鮮を訪問しました。",
-            "これは、平壌とモスクワの関係が深まる中で、中国が北朝鮮との関係を強化する狙いがあるためです。",
-            "北朝鮮は生存のために中国を必要としています。"
+            "サッカーワールドカップ決勝で審判を務める予定だったソマリア人審判オマル・アルタン氏が、米国への入国を拒否されました。",
+            "彼は自国から初めてW杯決勝で審判を務めることになっていました。",
+            "米国への入国が認められなかったため、その機会を失いました。"
           ]
         },
         {
-          "title": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T11:56:31Z",
-          "excerpt": "Smoke was seen in an illegal Israeli settlement in the occupied West Bank after Iran launched launched missiles.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Video: Israel claims strike on Iranian petrochemical complex",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T11:50:00Z",
-          "excerpt": "Video shows plumes of smoke rising from Mahshahr Petrochemical Complex in Iran’s Khuzestan Province on Monday.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Which European nation has the best chance to win World Cup 2026?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-08T11:48:58Z",
-          "excerpt": "Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?",
-          "link": "https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026?traffic_source=rss",
+          "title": "At least 35 dead after major earthquake strikes southern Philippines",
+          "source": "BBC News",
+          "publishedAt": "2026-06-08T17:28:40Z",
+          "excerpt": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+          "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "2026年ワールドカップ、欧州勢の優勝国は？",
+          "titleJa": "フィリピン南部でM7.8の地震、少なくとも35人死亡",
           "summaryJa": [
-            "ワールドカップの歴史上、欧州は最も多くの優勝国を輩出しています。",
-            "2026年大会において、欧州大陸の国々が優勝する可能性について考察されています。",
-            "どの欧州国が最も優勝に近いのかが注目されています。"
+            "フィリピン南部でマグニチュード7.8の大地震が発生し、少なくとも35人が死亡しました。",
+            "この地震は、フィリピン、インドネシア、日本で小さな津波を引き起こしました。",
+            "広範囲にわたる影響が出ています。"
           ]
         },
         {
-          "title": "Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate",
-          "source": "NPR World",
-          "publishedAt": "2026-06-08T11:26:58Z",
-          "excerpt": "Israel and Iran's recent exchange of fire is threatening the truce in the Middle East. And, the Ebola outbreak in the Democratic Republic o...",
-          "link": "https://www.npr.org/2026/06/08/g-s1-126858/up-first-newsletter-iran-lebanon-israel-trump-meet-the-press-interview-congo-ebola",
+          "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+          "source": "BBC News",
+          "publishedAt": "2026-06-08T17:18:21Z",
+          "excerpt": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
+          "link": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "イスラエルとイランの攻撃が停戦を脅かす、エボラ出血熱も拡大",
+          "titleJa": "収監中のFTX創業者、トランプ氏に恩赦を申請",
           "summaryJa": [
-            "イスラエルとイランによる最近の交戦が、中東の停戦を脅かしています。",
-            "また、コンゴ民主共和国ではエボラ出血熱が前例のない速さで拡大しています。",
-            "これら二つの異なる危機が同時に報じられています。"
+            "仮想通貨プラットフォームFTXの元リーダー、サム・バンクマン＝フリード氏が、トランプ氏に恩赦を申請しました。",
+            "彼は現在、25年の刑に服しています。",
+            "月曜日に正式な恩赦申請を行いました。"
+          ]
+        },
+        {
+          "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+          "source": "BBC News",
+          "publishedAt": "2026-06-08T17:11:32Z",
+          "excerpt": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
+          "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "イランとイスラエル、停戦後初の攻撃応酬を停止と発表",
+          "summaryJa": [
+            "イランとイスラエルは、停戦後初の攻撃応酬を停止したと発表しました。",
+            "イランはレバノンでの攻撃を受け、イスラエルに約30発のミサイルを発射。",
+            "イスラエルはイラン国内で2波の空爆を実施していました。"
+          ]
+        },
+        {
+          "title": "How Eriksen's heart device kicked into action",
+          "source": "BBC News",
+          "publishedAt": "2026-06-08T16:55:15Z",
+          "excerpt": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+          "link": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "エリクセン選手、心臓デバイスが正常作動と医師が説明",
+          "summaryJa": [
+            "デンマーク代表チームの医師は、エリクセン選手が日曜日に倒れた後、胸に植え込まれたICD（植え込み型除細動器）が正常に作動したと述べました。",
+            "デバイスは期待通りに反応したとのことです。",
+            "彼の状態は安定していると伝えられています。"
+          ]
+        },
+        {
+          "title": "Three rescued, one killed in Russian drone strike on Ukraine block",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-08T16:48:18Z",
+          "excerpt": "Three rescued, one killed in Russian drone strike on Ukraine block.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/three-rescued-one-killed-in-russian-drone-strike-on-ukraine-block?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ロシアのドローン攻撃、ウクライナの建物で1人死亡3人救助",
+          "summaryJa": [
+            "ロシアによるウクライナの建物へのドローン攻撃が発生しました。",
+            "この攻撃により、1人が死亡しました。",
+            "3人が救助されました。"
+          ]
+        },
+        {
+          "title": "Eriksen at home and 'doing well' after collapse",
+          "source": "BBC News",
+          "publishedAt": "2026-06-08T16:29:19Z",
+          "excerpt": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
+          "link": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "エリクセン選手、倒れた後自宅で「元気」と報告",
+          "summaryJa": [
+            "クリスチャン・エリクセン選手は、日曜日のウクライナ戦で倒れた後、自宅で家族と過ごしています。",
+            "彼は自身の状態について「元気だ」と述べています。",
+            "順調に回復していることが伝えられました。"
           ]
         }
       ]
@@ -116,143 +152,153 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "複数が目やのどに痛み 8人を救急搬送 名古屋・西区の商業施設(メ〜テレ（名古屋テレビ）)",
+          "title": "【解説】女性皇族結婚後も＆“旧宮家”男系男子を養子…皇族数確保案(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T13:12:01Z",
-          "excerpt": "名古屋市西区の商業施設で8日夕方に複数人が目やのどの痛みを訴え、0歳から40代までの男女8人が救急搬送されました。 「やばい」（視聴者提供映像） 警察によりますと、午後5時半ごろ、名古屋市西",
-          "link": "https://news.yahoo.co.jp/articles/6c60b9c86982b40be6c8c9df5725969f31c43886?source=rss",
+          "publishedAt": "2026-06-08T16:24:15Z",
+          "excerpt": "安定的な皇位継承に向けた皇族数の確保に向け、衆参両院の議長・副議長4人がとりまとめた案が、与野党全13党派の代表に示されました。 4人はまず、議論の前提を次のように押さえました。 石井啓一衆院副議",
+          "link": "https://news.yahoo.co.jp/articles/fc55742df1103f1cea8c6f8128c01422ad7ba2c8?source=rss",
           "translationStatus": "translated",
-          "titleJa": "名古屋の商業施設で8人救急搬送、目やのどの痛み訴え",
+          "titleJa": "皇族数確保案、女性皇族の結婚後も皇族維持と旧宮家男系男子の養子縁組を提示",
           "summaryJa": [
-            "8日夕方、名古屋市西区の商業施設で複数の人が目やのどの痛みを訴えました。",
-            "0歳から40代までの男女8人が救急搬送されました。",
-            "警察によると、午後5時半ごろに発生しました。"
+            "安定的な皇位継承に向けた皇族数確保のため、衆参両院の議長・副議長4人が案をまとめました。",
+            "この案は与野党全13党派の代表に示されています。",
+            "主な内容は、女性皇族が結婚後も皇族の身分を保持することと、旧宮家の男系男子を養子として迎えることです。",
+            "これらが今後の議論の前提として提示されました。"
           ]
         },
         {
-          "title": "0歳児から40代までの8人を搬送…商業施設で計23人が喉に痛みを訴える 現場は4階のゲームコーナーか(東海テレビ)",
+          "title": "国道交差点で多重事故、生後8カ月の男児が意識不明 パートの女を逮捕 兵庫・三田市(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T13:07:21Z",
-          "excerpt": "8日夕方、名古屋市西区の商業施設で複数の人が喉に痛みを訴え、8人が搬送されました。 警察と消防によりますと、西区二方町の「mozoワンダーシティ」で午後5時半頃、警備員の男性から「多数の人が咳き",
-          "link": "https://news.yahoo.co.jp/articles/80485ad27d9c7c5b457b826b0ef68697345d5f24?source=rss",
+          "publishedAt": "2026-06-08T15:15:27Z",
+          "excerpt": "8日午後2時50分ごろ、兵庫県三田市東本庄の国道176号の交差点で、右折しようとした軽乗用車に乗用車が追突した。兵庫県警三田署によると、軽乗用車の後部座席のチャイルドシートに乗っていた生後8カ月の男児",
+          "link": "https://news.yahoo.co.jp/articles/3fd58dc967bcac16bde19bb9ad9ceb0f79244a9d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "名古屋の商業施設で23人が喉の痛み、0歳児含む8人搬送",
+          "titleJa": "兵庫・三田市で多重事故、生後8カ月の男児が意識不明 パートの女を逮捕",
           "summaryJa": [
-            "8日夕方、名古屋市西区の商業施設「mozoワンダーシティ」で計23人が喉の痛みを訴えました。",
-            "このうち0歳児から40代までの8人が搬送されました。",
-            "警察と消防によると、午後5時半頃に発生し、現場は4階のゲームコーナーとみられています。"
+            "8日午後、兵庫県三田市の国道交差点で多重事故が発生しました。",
+            "右折しようとした軽乗用車に乗用車が追突したものです。",
+            "この事故で、軽乗用車の後部座席にいた生後8カ月の男児が意識不明の重体となっています。",
+            "警察は、事故を起こしたパートの女を逮捕しました。"
           ]
         },
         {
-          "title": "改正目指す皇室典範とは 旧11宮家の皇籍離脱で危機に 求められる脆弱性の克服(産経新聞)",
+          "title": "複数いる？付近に潜伏か…宇都宮市中心部に“連日クマ”市内の全小中学校あすも休校(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:55:22Z",
-          "excerpt": "政府は皇族数確保策に関する「立法府の総意」がまとまり次第、皇室典範改正案作成に着手する。現在の皇室典範は先の大戦後、昭和22年5月3日に新たな法律として施行された。皇位の男系継承という原則を維持しなが",
-          "link": "https://news.yahoo.co.jp/articles/51fe5582ad392bc8a16810e81179dc2f9d015e11?source=rss",
+          "publishedAt": "2026-06-08T15:06:16Z",
+          "excerpt": "栃木県宇都宮市の中心部では、7日未明、商店街をさっそうと横切るクマの姿が防犯カメラに映っていました。付近では、8日もクマの目撃が相次いでいて、公立の小中学校すべてが臨時休校になるなど、生活への影響も出",
+          "link": "https://news.yahoo.co.jp/articles/a2413c75c47718dd9c3e323709aeab6fb8df0d7e?source=rss",
           "translationStatus": "translated",
-          "titleJa": "皇室典範改正へ政府が着手、皇族数確保策で立法府の総意待ち",
+          "titleJa": "宇都宮市中心部で連日クマ目撃、全小中学校が休校に",
           "summaryJa": [
-            "政府は皇族数確保策に関する「立法府の総意」がまとまり次第、皇室典範改正案の作成に着手する方針です。",
-            "現在の皇室典範は、戦後の昭和22年5月3日に新たな法律として施行されました。",
-            "皇位の男系継承という原則を維持しつつ、改正が目指されています。"
+            "栃木県宇都宮市の中心部で、7日未明に商店街を横切るクマが防犯カメラに映りました。",
+            "8日も付近でクマの目撃情報が相次いでいます。",
+            "この影響で、市内の公立小中学校すべてが臨時休校となるなど、市民生活に影響が出ています。",
+            "クマが複数いる可能性や、付近に潜伏している可能性も指摘されています。"
           ]
         },
         {
-          "title": "再処理工場 審査で説明ほぼ終了も目標時期までの完成見通せず",
+          "title": "内田被告に懲役27年を求刑 旭川高校生殺害 父親が涙の訴え(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-08T14:54:15Z",
+          "excerpt": "北海道旭川市の神居古潭で、17歳の女子高校生を橋から転落させ、殺害したとして、殺人などの罪に問われている内田梨瑚被告（23）の裁判。8日、すべての審理が終わりました。 争点は、殺意の有無と、殺害の実",
+          "link": "https://news.yahoo.co.jp/articles/588cd5e4b5185d22d267b6ff1ec1b092d16e8705?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "旭川高校生殺害事件、内田被告に懲役27年を求刑",
+          "summaryJa": [
+            "北海道旭川市で17歳の女子高校生を殺害したとして、殺人などの罪に問われている内田梨瑚被告（23）の裁判で、8日にすべての審理が終了しました。",
+            "検察側は内田被告に対し、懲役27年を求刑しました。",
+            "裁判では、殺意の有無と殺害行為の実行犯が誰であるかが主な争点となっていました。",
+            "被害者の父親は法廷で涙ながらに訴えを行いました。"
+          ]
+        },
+        {
+          "title": "佳子さま児童出版賞でお言葉「本は他者の視点を教えてくれる」(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-08T14:42:09Z",
+          "excerpt": "秋篠宮ご夫妻の次女・佳子さまは優れた児童書を表彰する式典に出席し、読書への思いを述べられました。 佳子さま 「私自身にとって本が大切な理由の1つは、本が読む人の考えを深め、自分とは異なる様々な状況や",
+          "link": "https://news.yahoo.co.jp/articles/7b1ddbc543ee64907ee351d62239c9c8c4345951?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "佳子さま、児童出版文化賞式典で「本は他者の視点を教えてくれる」",
+          "summaryJa": [
+            "秋篠宮ご夫妻の次女である佳子さまが、優れた児童書を表彰する式典に出席されました。",
+            "佳子さまは式典で、読書に対するご自身の思いを述べられました。",
+            "「本は読む人の考えを深め、自分とは異なる様々な状況や他者の視点を教えてくれる」と語られました。",
+            "読書が他者理解を深める上で重要であるとの考えを示されました。"
+          ]
+        },
+        {
+          "title": "愛子さま「ウィーン少年合唱団」の公演へ「日本の歌を歌って頂けるのは嬉しいですね」(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-08T14:40:10Z",
+          "excerpt": "天皇皇后両陛下の長女・愛子さまが「天使の歌声」として知られるウィーン少年合唱団の公演をご覧になりました。 愛子さまは8日、東京・豊島区の東京芸術劇場を訪れ、観客から大きな拍手で迎えられると笑顔で応",
+          "link": "https://news.yahoo.co.jp/articles/ef50a902c7f61476fc3f4e61b825f26e5e4fb5d4?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "愛子さま、ウィーン少年合唱団の公演鑑賞「日本の歌嬉しい」",
+          "summaryJa": [
+            "天皇皇后両陛下の長女である愛子さまが、ウィーン少年合唱団の公演を鑑賞されました。",
+            "愛子さまは8日、東京芸術劇場を訪れ、観客の拍手に笑顔で応えられました。",
+            "合唱団が日本の歌を歌うことについて、「日本の歌を歌って頂けるのは嬉しいですね」と述べられました。",
+            "「天使の歌声」と称される合唱団の歌声に耳を傾けられました。"
+          ]
+        },
+        {
+          "title": "津波注意報発表で高台に避難者も 東日本大震災では大きな被害 千葉・旭市(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-08T14:38:13Z",
+          "excerpt": "フィリピン付近の地震の影響で発表された津波注意報は8日午後5時に解除されました。東日本大震災で被害を受けた自治体では、高台に避難する住民の姿が見られました。 午前8時半ごろ、フィリピン付近を震源と",
+          "link": "https://news.yahoo.co.jp/articles/3b9b4d00b0b18d2b678acc9b7a16ab9d0dc529fc?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "フィリピン地震による津波注意報、千葉・旭市で住民が高台に避難",
+          "summaryJa": [
+            "フィリピン付近の地震の影響で発表された津波注意報が、8日午後5時に解除されました。",
+            "東日本大震災で大きな被害を受けた千葉県旭市などでは、住民が高台に避難する姿が見られました。",
+            "午前8時半ごろにフィリピン付近を震源とする地震が発生し、これを受けて津波注意報が発令されていました。",
+            "過去の経験から、住民は迅速な避難行動をとりました。"
+          ]
+        },
+        {
+          "title": "50〜60代男性死亡 腹部と左目に刃物(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-08T14:27:16Z",
+          "excerpt": "神戸市で腹部と左目に刃物が刺さった状態で倒れている男性が見つかりました。 警察によりますと、午後1時半ごろ、神戸市須磨区若宮町で、「コンテナから足が見えている」と通報がありました。 倒れてい",
+          "link": "https://news.yahoo.co.jp/articles/5c99d7cea471166eedb29870faa6e0d1444d1168?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "神戸市で50〜60代男性が死亡、腹部と左目に刃物",
+          "summaryJa": [
+            "神戸市須磨区若宮町で、50〜60代とみられる男性が死亡しているのが見つかりました。",
+            "男性は腹部と左目に刃物が刺さった状態で倒れていました。",
+            "午後1時半ごろ、「コンテナから足が見えている」との通報があり、警察が駆けつけました。",
+            "警察は事件の可能性も視野に入れ、詳しい状況を調べています。"
+          ]
+        },
+        {
+          "title": "安保3文書の有識者会議 非核三原則の議論すべきか賛否",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-08T12:54:23Z",
-          "excerpt": "青森県に建設中の使用済み核燃料の再処理工場について、事業者の日本原燃は8日、原子力規制委員会の審査で、設備の設計などに関する説明をおおむね終えました。ただ、説明の終了が当初の予定より半年ほど遅れるなどしていて、目標としている今年度中に完成するか、見通せない状況となっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144531000.html",
+          "publishedAt": "2026-06-08T14:14:27Z",
+          "excerpt": "安全保障関連の3文書の改定に向けた政府の有識者会議の2回目の会合が開かれ、非核三原則の見直しを議論の対象とすべきかどうかをめぐり、出席者から賛否双方の意見が出されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144581000.html",
           "translationStatus": "translated",
-          "titleJa": "再処理工場、審査説明ほぼ終了も今年度中の完成見通せず",
+          "titleJa": "安保3文書有識者会議、非核三原則議論の是非で賛否",
           "summaryJa": [
-            "青森県に建設中の使用済み核燃料再処理工場について、日本原燃は8日、原子力規制委員会の審査で説明をほぼ終えました。",
-            "しかし、説明終了が当初予定より半年ほど遅れました。",
-            "このため、目標としている今年度中の完成は見通せない状況です。"
+            "安全保障関連3文書の改定に向けた政府の有識者会議の2回目の会合が開催されました。",
+            "会議では、非核三原則の見直しを議論の対象とすべきかどうかが議題となりました。",
+            "出席者からは、見直しを議論すべきとする意見と、すべきではないとする意見の双方が出されました。",
+            "今後の議論の方向性が注目されます。"
           ]
         },
         {
-          "title": "高市首相 G7サミットにあわせて欧州訪問表明 “連携深化を”",
-          "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-08T12:51:54Z",
-          "excerpt": "高市総理大臣は自民党の役員会で、今月中旬にフランスで開催されるG7サミット＝主要7か国首脳会議にあわせてヨーロッパを訪問するとしたうえで、各国首脳との連携を深めたいという考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144501000.html",
-          "translationStatus": "translated",
-          "titleJa": "高市首相、G7サミットに合わせ欧州訪問表明 連携深化へ",
-          "summaryJa": [
-            "高市総理大臣は自民党の役員会で、今月中旬にフランスで開催されるG7サミットに合わせヨーロッパを訪問すると表明しました。",
-            "これは主要7か国首脳会議の機会を利用するものです。",
-            "各国首脳との連携を深めたいという考えを示しました。"
-          ]
-        },
-        {
-          "title": "当時32歳の女性が刺されて死亡した事件 交際相手とみられその後自殺した男を容疑者死亡のまま書類送検 愛知・豊川市(CBCテレビ)",
+          "title": "兵庫・斎藤知事の給与カット条例改正案 自民、一転継続審議の意向 議会での発言を問題視(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:44:13Z",
-          "excerpt": "ことし1月、愛知県豊川市のアパートで女性が刺されて死亡した事件で、交際相手とみられ、その後自殺した男が容疑者死亡のまま書類送検されました。 この事件は、ことし1月豊川市御油町のアパートで静岡県湖西市",
-          "link": "https://news.yahoo.co.jp/articles/ed1d1c5b7672f569466fda94104d519fa57de82e?source=rss",
+          "publishedAt": "2026-06-08T14:08:29Z",
+          "excerpt": "兵庫県の斎藤元彦知事の疑惑を告発した元県幹部の私的情報が漏洩（ろうえい）した問題を巡り、県議会の最大会派の自民党は8日、管理責任を取るとして斎藤氏が再提出した自身の給与を減額する条例改正案について、賛",
+          "link": "https://news.yahoo.co.jp/articles/e1b4a3a150d9115afbd4090125ad98d295e64811?source=rss",
           "translationStatus": "translated",
-          "titleJa": "豊川市女性刺殺事件、自殺した交際相手の男を容疑者死亡のまま書類送検",
+          "titleJa": "兵庫・斎藤知事の給与減額案、自民が継続審議へ 議会発言を問題視",
           "summaryJa": [
-            "今年1月、愛知県豊川市のアパートで女性が刺されて死亡する事件が発生しました。",
-            "警察は、交際相手とみられ、その後自殺した男を容疑者死亡のまま書類送検しました。",
-            "事件は豊川市御油町のアパートで起きました。"
-          ]
-        },
-        {
-          "title": "大阪教育大学付属池田小の生徒死傷事件から25年 学校の安全対策どこまで進んだ？ 今なお「人の努力」に頼らざるを得ない現状も・・・(ABCニュース)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:41:35Z",
-          "excerpt": "大阪教育大学付属池田小学校で２３人が死傷する事件から8日で25年となり、学校では追悼行事が開かれました。 事件後、教育現場の安全対策はどう変わっていったのか。 事件後、付属池田小の校長にも就任し",
-          "link": "https://news.yahoo.co.jp/articles/6ec2c835eb9c59ca4c0b9f7e778b64efdf9c2db5?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "大阪教育大付属池田小事件から25年、追悼行事開催",
-          "summaryJa": [
-            "大阪教育大学付属池田小学校で23人が死傷した事件から、8日で25年となりました。",
-            "学校では追悼行事が開かれました。",
-            "事件後、教育現場の安全対策がどのように変化したかに関心が集まっています。"
-          ]
-        },
-        {
-          "title": "安保3文書、第2回有識者会議で非核三原則を議論 賛否割れる(産経新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:34:26Z",
-          "excerpt": "政府は8日、国家安全保障戦略など「安保3文書」の年内改定に向けた有識者会議を首相官邸で開いた。日本を取り巻く安全保障環境の変化に応じた外交力と防衛力をテーマに意見交換。非核三原則の見直しについても議論",
-          "link": "https://news.yahoo.co.jp/articles/e63ff0a5cce71b12758adb2ca7b0c04ec8f7e67d?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "安保3文書改定へ有識者会議、非核三原則の見直しも議論",
-          "summaryJa": [
-            "政府は8日、国家安全保障戦略など「安保3文書」の年内改定に向けた有識者会議を首相官邸で開催しました。",
-            "会議では、日本を取り巻く安全保障環境の変化に応じた外交力と防衛力がテーマとなりました。",
-            "非核三原則の見直しについても議論が行われました。"
-          ]
-        },
-        {
-          "title": "カンボジア特殊詐欺拠点に“かけ子”を紹介した疑いで 30歳リクルーターの男逮捕 出国のため男性を空港まで連れて行ったか(CBCテレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:25:23Z",
-          "excerpt": "カンボジアを拠点とした特殊詐欺事件。リクルーターの男が逮捕されました。 逮捕されたのは大阪市の職業不詳山本克哉容疑者（30）です。 警察によりますと山本容疑者はおととし12月下旬、カンボジアにある",
-          "link": "https://news.yahoo.co.jp/articles/931c2ac68a8868d7e62303d1b5cf832643e62551?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "カンボジア拠点特殊詐欺、かけ子紹介の疑いで30歳男逮捕",
-          "summaryJa": [
-            "カンボジアを拠点とした特殊詐欺事件で、リクルーターの男が逮捕されました。",
-            "逮捕されたのは大阪市の職業不詳、山本克哉容疑者（30）です。",
-            "山本容疑者は、おととし12月下旬にカンボジアにある特殊詐欺拠点に「かけ子」を紹介した疑いが持たれています。"
-          ]
-        },
-        {
-          "title": "「米イラン交渉を支援」 理事会でIAEA事務局長(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-08T12:23:03Z",
-          "excerpt": "【ウィーン共同】国際原子力機関（IAEA）の定例理事会が8日、ウィーンで始まった。グロッシ事務局長は冒頭、米国とイランの戦闘終結に向けた交渉について「安全な軌道に乗るようにIAEAは支援していく」と",
-          "link": "https://news.yahoo.co.jp/articles/74422ccac3cc4b2049274a61f499b650dd65ecc6?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "IAEA事務局長、米イラン交渉支援を表明 理事会で",
-          "summaryJa": [
-            "国際原子力機関（IAEA）の定例理事会が8日、ウィーンで始まりました。",
-            "グロッシ事務局長は冒頭、米国とイランの戦闘終結に向けた交渉について言及しました。",
-            "IAEAとして、交渉が「安全な軌道に乗るように支援していく」と表明しました。"
+            "兵庫県の斎藤元彦知事の疑惑告発に関する情報漏洩問題を巡り、知事が再提出した給与減額条例改正案について、県議会最大会派の自民党が継続審議の意向を示しました。",
+            "自民党は、斎藤知事の議会での発言を問題視しているとのことです。",
+            "知事は情報漏洩の管理責任を取るとして、給与減額案を提出していました。",
+            "今後の審議の行方が注目されます。"
           ]
         }
       ]
@@ -262,144 +308,126 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "SoftBank drops 6% as tech stock sell-off accelerates in Asia",
+          "title": "Airlines find the grass isn't always greener with new engines",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T13:11:38Z",
-          "excerpt": "The tech stock sell-off accelerates in Asia. Tech stocks fell in Europe but rebounded later on Monday.",
-          "link": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
+          "publishedAt": "2026-06-08T18:33:43Z",
+          "excerpt": "Airline CEOs complained that manufacturers aren't making enough of their engines and that they're falling short on reliability.",
+          "link": "https://www.cnbc.com/2026/06/08/airline-engines-ge-pratt-rtx.html",
           "translationStatus": "translated",
-          "titleJa": "ソフトバンク株6%下落、アジアでハイテク株売り加速",
+          "titleJa": "航空会社、新型エンジンに不満 製造不足と信頼性欠如を指摘",
           "summaryJa": [
-            "アジア市場でハイテク株の売りが加速し、ソフトバンク株が6%下落しました。",
-            "欧州市場でもハイテク株は下落しましたが、月曜日後半には回復しました。",
-            "この動きは、広範なハイテク株の売却トレンドを反映しています。"
+            "航空会社の最高経営責任者（CEO）らが、新型エンジンに関する不満を表明しました。",
+            "エンジンメーカーが十分な数のエンジンを製造していないと指摘されています。",
+            "また、新型エンジンの信頼性が不足していることも問題視されています。"
           ]
         },
         {
-          "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+          "title": "Judge blocks Trump's $100,000 H-1B visa fee",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T13:06:42Z",
-          "excerpt": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms,...",
-          "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+          "publishedAt": "2026-06-08T18:30:43Z",
+          "excerpt": "Trump had imposed the $100,000 fee in order to restrict the program, arguing that it has undermined U.S. security through the \"replacement...",
+          "link": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
           "translationStatus": "translated",
-          "titleJa": "ビットコインが2024年最安値、新たな仮想通貨投資に注目集まる",
+          "titleJa": "裁判官、トランプ氏のH-1Bビザ10万ドル手数料を差し止め",
           "summaryJa": [
-            "ビットコインが2024年以来の最安値に下落しました。",
-            "その一方で、ウォール街では新たな仮想通貨投資への関心が高まっています。",
-            "投資家は、ハイパーリキッドプラットフォームに関連する新しいタイプの仮想通貨投資に殺到しています。"
+            "裁判官が、トランプ氏が課したH-1Bビザの10万ドル手数料を差し止めました。",
+            "トランプ氏は、この手数料をプログラムの制限目的で導入していました。",
+            "彼は、H-1Bビザが「代替」を通じて米国の安全保障を損なうと主張していました。"
           ]
         },
         {
-          "title": "The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio",
+          "title": "Kalshi traders say Strait of Hormuz traffic won't return to normal before January",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-08T18:29:55Z",
+          "excerpt": "Two weeks ago traders on Kalshi saw a 60% chance that the Strait of Hormuz would open before August. Now traders see a higher chance it won...",
+          "link": "https://www.cnbc.com/2026/06/08/strait-of-hormuz-traffic-wont-return-to-normal-until-end-of-the-year-traders-say.html",
+          "translationStatus": "translated",
+          "titleJa": "ホルムズ海峡の交通正常化、1月以前は困難とKalshiトレーダー予測",
+          "summaryJa": [
+            "Kalshiのトレーダーは、ホルムズ海峡の交通が1月以前には正常に戻らないと見ています。",
+            "2週間前には8月までに開通する可能性が60%とされていました。",
+            "現在では、それよりも遅れる可能性が高いと予測されています。"
+          ]
+        },
+        {
+          "title": "Oil prices ease after Iran says military operations against Israel are over",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-08T18:28:06Z",
+          "excerpt": "Oil rises on Monday amid heightened tensions in the Middle East, raising concerns that the conflict may drag on.",
+          "link": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
+          "translationStatus": "translated",
+          "titleJa": "イランの軍事作戦終了宣言で原油価格が下落",
+          "summaryJa": [
+            "イランがイスラエルに対する軍事作戦の終了を宣言したことを受け、原油価格が下落しました。",
+            "月曜日には中東情勢の緊迫化により原油価格が上昇していました。",
+            "紛争が長期化する懸念が高まっていた中で、今回の発表がありました。"
+          ]
+        },
+        {
+          "title": "Your next videogame console could cost $1,000 — and it has nothing to do with better hardware",
           "source": "MarketWatch",
-          "publishedAt": "2026-06-08T13:06:00Z",
-          "excerpt": "Low-volatility stocks give investors a smoother ride — and they are beating the market on a risk-adjusted basis.",
-          "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories",
+          "publishedAt": "2026-06-08T18:21:00Z",
+          "excerpt": "The chip shortage is damaging shares of companies that build devices and boosting the ones supplying the parts.",
+          "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "米株式市場が歴史的下落リスクに直面、低ボラティリティ株がポートフォリオ保護に有効",
+          "titleJa": "次世代ゲーム機、1000ドルに高騰か ハードウェア性能向上とは無関係",
           "summaryJa": [
-            "米国株式市場は歴史的な下落リスクに直面しています。",
-            "低ボラティリティ株は、投資家にとってより安定した運用を提供します。",
-            "これらの銘柄は、リスク調整後ベースで市場を上回る成績を収めており、ポートフォリオ保護に役立つとされます。"
+            "次世代のビデオゲーム機が1000ドルに達する可能性が指摘されています。",
+            "この価格高騰は、ハードウェアの性能向上とは関係がないとされています。",
+            "チップ不足がデバイス製造企業の株価に悪影響を与え、部品供給企業の株価を押し上げています。"
           ]
         },
         {
-          "title": "We're trimming 2 recent winners to raise cash in case of another day like Friday",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T13:05:41Z",
-          "excerpt": "We're booking some profits in two hot stocks.",
-          "link": "https://www.cnbc.com/2026/06/08/were-trimming-2-recent-winners-to-raise-cash-in-case-of-another-day-like-friday.html",
-          "translationStatus": "translated",
-          "titleJa": "最近好調な2銘柄を利益確定、現金確保で市場変動に備える",
-          "summaryJa": [
-            "最近好調だった2つの銘柄で利益を確定しました。",
-            "これは、市場のさらなる変動に備えて現金を確保するためです。",
-            "投資家は、金曜日のような市場の動きを警戒し、ポートフォリオ調整を行っています。"
-          ]
-        },
-        {
-          "title": "Market Correction: Why This S&P 500 ETF Becomes a No-Brainer Buy at a Discount",
+          "title": "Digital wallet vs. traditional bank account: Which is best for your money?",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-08T13:05:00Z",
+          "publishedAt": "2026-06-08T18:20:17Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/market-correction-why-p-500-130500279.html",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/digital-wallet-vs-traditional-bank-account-182017727.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-08T18:06:00Z",
+          "excerpt": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency.",
+          "link": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-08T18:05:00Z",
+          "excerpt": "Most investors who pile into the S&P 500 in 2026 think they own the entire stock market. What they actually own is nothing more than a heav...",
+          "link": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "市場調整局面、S&P 500 ETFが割安で魅力的な買いに",
+          "titleJa": "米国株式市場に「危険信号」とBofAが指摘、今買うべき銘柄は",
           "summaryJa": [
-            "市場の調整局面において、あるS&P 500 ETFが注目されています。",
-            "このETFは現在割安となっており、購入の好機と見なされています。",
-            "投資家にとって、この状況は魅力的な買い場となる可能性があります。"
+            "バンク・オブ・アメリカ（BofA）は、米国株式市場に「危険信号」が見られると指摘しています。",
+            "2026年にS&P 500に投資する多くの投資家は、市場全体を所有していると考えがちです。",
+            "しかし、実際にはごく一部の銘柄に集中しているに過ぎないとされています。"
           ]
         },
         {
-          "title": "Stock Market Today: Dow Rises On Trump, Iran Comments; Marvell Surges On S&P 500 Addition (Live Coverage)",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-08T13:04:12Z",
-          "excerpt": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo",
-          "translationStatus": "translated",
-          "titleJa": "本日の株式市場：ダウ平均上昇、トランプ氏とイラン関連発言が影響、マーベルはS&P 500採用で急騰",
-          "summaryJa": [
-            "本日の株式市場では、ダウ平均株価が上昇しました。",
-            "これは、トランプ氏とイランに関するコメントが影響したと見られます。",
-            "また、マーベル株はS&P 500指数への採用を受け、急騰しました。"
-          ]
-        },
-        {
-          "title": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund",
+          "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T13:03:22Z",
-          "excerpt": "The president said he would like to see the weaponization fund proceed despite setbacks.",
-          "link": "https://www.cnbc.com/2026/06/07/trump-election-fraud-doj-fund-weaponization-storms-out.html",
+          "publishedAt": "2026-06-08T18:01:13Z",
+          "excerpt": "Instead of selling AI tools to companies, venture firms are buying legacy companies outright and rebuilding them around AI from the inside.",
+          "link": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏、選挙不正疑惑と司法省資金に関する質問に激怒しインタビュー退席",
+          "titleJa": "シリコンバレーの新たな買収戦略がウォール街に波及",
           "summaryJa": [
-            "トランプ前大統領は、選挙不正疑惑と司法省の資金に関する質問に対し、インタビューを途中で退席しました。",
-            "同氏は、逆風があるにもかかわらず、兵器化資金の進行を望むと述べました。",
-            "この出来事は、政治的な緊張の高まりを示しています。"
+            "シリコンバレーのベンチャー企業が、新たな買収戦略をウォール街に持ち込んでいます。",
+            "AIツールを企業に販売する代わりに、既存企業を直接買収する手法です。",
+            "買収後、内部からAIを中心に企業を再構築することを目指しています。"
           ]
         },
         {
-          "title": "Weight loss drug maker sinks 25% after new safety data spooks investors",
+          "title": "Convicted FTX founder Sam Bankman-Fried files formal request for Trump pardon",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T13:02:52Z",
-          "excerpt": "While the experimental drug met its key targets, analysts are concerned over the commercial opportunity due to side effects.",
-          "link": "https://www.cnbc.com/2026/06/08/weight-loss-drug-stock-zealand-pharma-data-ada.html",
-          "translationStatus": "translated",
-          "titleJa": "減量薬メーカー株が25%下落、安全性データで投資家不安",
-          "summaryJa": [
-            "ある減量薬メーカーの株価が、新たな安全性データを受けて25%下落しました。",
-            "開発中の薬剤は主要な目標を達成したものの、副作用が懸念されています。",
-            "アナリストは、副作用が商業的な機会に影響を与える可能性を指摘し、投資家の不安を招いています。"
-          ]
-        },
-        {
-          "title": "United CEO brushes off airline mergers after American rejection: 'There's nothing'",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-08T12:59:07Z",
-          "excerpt": "When asked about a wave of consolidation among airlines, Kirby said further combination opportunities look unlikely: \"There's nothing.\"",
-          "link": "https://www.cnbc.com/2026/06/08/united-ceo-airline-mergers.html",
-          "translationStatus": "translated",
-          "titleJa": "ユナイテッド航空CEO、アメリカン航空の拒否受け航空会社合併の可能性を否定",
-          "summaryJa": [
-            "ユナイテッド航空のカービーCEOは、航空会社の統合の波について質問されました。",
-            "同氏は、アメリカン航空による拒否の後、さらなる合併の機会は「何もない」と述べました。",
-            "これにより、航空業界における大規模な統合の可能性は低いとの見方が示されました。"
-          ]
-        },
-        {
-          "title": "From Powering Machines to Powering Intelligence—The New Age of Electricity",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-08T12:54:23Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/powering-machines-powering-intelligence-age-125423658.html",
-          "translationStatus": "translated",
-          "titleJa": "機械を動かす電力から知能を動かす電力へ、電気の新時代",
-          "summaryJa": [
-            "電力は、単に機械を動かすだけでなく、知能を動かす時代へと進化しています。",
-            "これは、電気の新たな時代が到来していることを示唆しています。",
-            "技術の進歩により、電力の役割が大きく変化しています。"
-          ]
+          "publishedAt": "2026-06-08T17:59:50Z",
+          "excerpt": "The co-founder of the now defunct FTX crypto exchange is currently serving a 25-year federal prison sentence.",
+          "link": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
+          "translationStatus": "failed"
         }
       ]
     },
@@ -408,143 +436,143 @@
       "name": "AIニュース",
       "items": [
         {
-          "title": "Is this the dawn of the Tokenpocalypse?",
+          "title": "Apple gives Siri its own dedicated app",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-07T20:26:13Z",
-          "excerpt": "We're likely to see more price increases as the big AI companies plan to go public.",
-          "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "publishedAt": "2026-06-08T18:33:42Z",
+          "excerpt": "Siri is finally getting its own app.",
+          "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
           "translationStatus": "translated",
-          "titleJa": "AI大手企業の上場計画で価格高騰の可能性",
+          "titleJa": "AppleがSiri専用アプリを提供",
           "summaryJa": [
-            "大手AI企業が株式公開を計画している。",
-            "これに伴い、AI関連サービスの価格がさらに上昇する可能性が高い。",
-            "「Tokenpocalypse」という表現が使われている。"
+            "Appleが音声アシスタントSiriに専用アプリを導入します。",
+            "これにより、Siriが独立したアプリケーションとして利用可能になります。",
+            "長らく待たれていたSiriの機能拡張の一環です。"
           ]
         },
         {
-          "title": "Notion restores access to Anthropic after service disruption",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-07T17:56:22Z",
-          "excerpt": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-          "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-08T18:29:44Z",
+          "excerpt": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just reve...",
+          "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
           "translationStatus": "translated",
-          "titleJa": "Notion、サービス中断後Anthropicへのアクセスを再開",
+          "titleJa": "Apple、Siri AIと次世代Apple Intelligenceを発表",
           "summaryJa": [
-            "Notionがサービス中断後、Anthropicへのアクセスを復旧した。",
-            "この件に関して、Notionの製品責任者は発言した。",
-            "彼はリツイートの多さに「驚いた」と述べている。"
+            "AppleはWWDCで、2年前に計画を明かしたSiri AIとApple Intelligenceの次世代版を発表しました。",
+            "これらは、よりスマートなSiriとAI機能の実現を目指すものです。",
+            "長らく具体化していなかった計画が、今回ついに明らかにされました。"
           ]
         },
         {
-          "title": "OpenAI is still working on that ‘super app’",
+          "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-07T16:23:22Z",
-          "excerpt": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-          "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "publishedAt": "2026-06-08T18:23:04Z",
+          "excerpt": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with App...",
+          "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、「スーパーアプリ」の開発を継続中",
+          "titleJa": "Apple、新Siriカメラ機能で割り勘の悩みを解消",
           "summaryJa": [
-            "OpenAIは現在も「スーパーアプリ」の開発に取り組んでいる。",
-            "同社の幹部社員は「チャットは死んだ」と発言した。",
-            "この発言は、同社の今後の戦略を示唆している可能性がある。"
+            "Appleは、Siriの新しいカメラ機能で割り勘を容易にします。",
+            "iPhoneをレシートに向けると、注文した品を選択して支払いを分割できます。",
+            "友人との食事での会計時の手間を省くことが期待されます。"
+          ]
+        },
+        {
+          "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-08T17:56:21Z",
+          "excerpt": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+          "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+          "translationStatus": "translated",
+          "titleJa": "Apple、待望のSiri AI刷新をついに発表",
+          "summaryJa": [
+            "Appleは、長らく待たれていたSiriのAI刷新を実施しました。",
+            "新しい「Siri AI」は、音声制御アシスタントから多機能なAIコンパニオンへと進化します。",
+            "これにより、Siriの機能が大幅に拡張される見込みです。"
+          ]
+        },
+        {
+          "title": "Amazon is launching AI-generated custom merch",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-08T17:52:51Z",
+          "excerpt": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water...",
+          "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+          "translationStatus": "translated",
+          "titleJa": "Amazon、AI生成カスタムグッズの販売を開始",
+          "summaryJa": [
+            "Amazonは、AIが生成したデザインによるカスタムグッズの販売を開始します。",
+            "Alexa for Shoppingを使ってデザインを作成し、Tシャツや水筒などにプリントできます。",
+            "プリントオンデマンド機能をAI生成デザインに拡大するものです。"
+          ]
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-08T17:42:26Z",
+          "excerpt": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iO...",
+          "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "translationStatus": "translated",
+          "titleJa": "WWDC 2026：Siri AI、iOS 27、Apple Intelligenceなどの発表内容まとめ",
+          "summaryJa": [
+            "AppleのWWDC 2026イベントがApple Parkで開幕しました。",
+            "Siri AI、iOS 27、Apple Intelligenceなどに関する発表が予定されています。",
+            "今後1週間にわたり、様々な新情報が公開される見込みです。"
           ]
         },
         {
           "title": "WWDC 2026: How to watch and what to expect",
           "source": "The Verge AI",
-          "publishedAt": "2026-06-06T22:12:51Z",
+          "publishedAt": "2026-06-08T16:39:13Z",
           "excerpt": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and a...",
           "link": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
           "translationStatus": "translated",
-          "titleJa": "AppleのWWDC 2026開催迫る：iOSやmacOSの更新に注目",
+          "titleJa": "WWDC 2026：視聴方法と期待される発表内容",
           "summaryJa": [
-            "Appleの年間最大のイベントであるWorldwide Developers Conference（WWDC）2026が間もなく開催される。",
-            "このカンファレンスでは、iOSやmacOSのアップデートが発表される予定だ。",
-            "詳細はまだ不明だが、注目が集まっている。"
+            "Apple最大のイベントであるWorldwide Developers Conferenceが間もなく開催されます。",
+            "この会議では、iOSやmacOSなどのアップデートが注目されます。",
+            "視聴方法や期待される発表内容について情報が提供されています。"
           ]
         },
         {
-          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-06T20:32:24Z",
-          "excerpt": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive da...",
-          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-08T16:07:38Z",
+          "excerpt": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model,...",
+          "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、プロンプトインジェクション攻撃対策の「ロックダウンモード」を発表",
+          "titleJa": "NotebookLM、Gemini 3.5へのアップグレードでクラウドコンピューターと情報源検索機能を追加",
           "summaryJa": [
-            "OpenAIは、機密データをプロンプトインジェクション攻撃から保護するための「ロックダウンモード」を発表した。",
-            "このモードを導入してもChatGPTがプロンプトインジェクションに対して脆弱である可能性は残る。",
-            "しかし、機密データが漏洩する可能性を減らすことが目標とされている。"
+            "Googleは、AI搭載ノート作成アプリNotebookLMに全面的なアップデートを展開しています。",
+            "アップグレードされたGemini 3.5モデルを採用し、クラウドコンピューター機能が追加されました。",
+            "また、情報源の検索を支援する機能も利用可能になります。"
           ]
         },
         {
-          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+          "title": "Amazon now lets you design custom merch using AI",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-06T18:13:36Z",
+          "publishedAt": "2026-06-08T15:49:12Z",
+          "excerpt": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, a...",
+          "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+          "translationStatus": "translated",
+          "titleJa": "Amazon、AIでカスタムグッズをデザイン可能に",
+          "summaryJa": [
+            "Amazonショッピングアプリの新機能により、AIを使ったカスタムグッズのデザインが可能になります。",
+            "ユーザーはAlexaでデザインを生成し、Tシャツやパーカーなどの商品にプリントできます。",
+            "これにより、パーソナライズされた商品の作成が手軽になります。"
+          ]
+        },
+        {
+          "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-08T15:34:59Z",
           "excerpt": "Apple's WWDC nears: Here's what you can look forward to.",
-          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
           "translationStatus": "translated",
-          "titleJa": "WWDC 2026の注目点：Siriの大幅刷新とApple Intelligenceの更新",
+          "titleJa": "WWDC 2026：Siri刷新からApple Intelligence、iOS 27まで期待される発表内容",
           "summaryJa": [
-            "AppleのWorldwide Developers Conference（WWDC）2026が間もなく開催される。",
-            "イベントでは、Siriの大幅な刷新が期待されている。",
-            "また、Apple Intelligenceのアップデートも発表される見込みだ。"
-          ]
-        },
-        {
-          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-06T17:42:15Z",
-          "excerpt": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-          "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-          "translationStatus": "translated",
-          "titleJa": "スリラム・クリシュナン氏、ホワイトハウスAI顧問を退任",
-          "summaryJa": [
-            "スリラム・クリシュナン氏がホワイトハウスのAI顧問の職を辞任する。",
-            "同氏はトランプ政権のAI政策形成を継続するため、新たな機関を設立すると報じられている。",
-            "この動きは、今後のAI政策に影響を与える可能性がある。"
-          ]
-        },
-        {
-          "title": "The Trump administration might take an equity stake in OpenAI",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-06T16:17:21Z",
-          "excerpt": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-          "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-          "translationStatus": "translated",
-          "titleJa": "トランプ政権、OpenAIへの株式取得を検討か",
-          "summaryJa": [
-            "ドナルド・トランプ大統領は、OpenAIへの株式取得を含む取引を協議していると述べた。",
-            "これは「アメリカ国民がAIの成功から恩恵を受けられる」ようにするためだという。",
-            "政権がAI企業に直接関与する可能性が浮上している。"
-          ]
-        },
-        {
-          "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-06T15:14:49Z",
-          "excerpt": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-          "translationStatus": "translated",
-          "titleJa": "インディアナ州シェルビービル市長、データセンター反対派を批判",
-          "summaryJa": [
-            "インディアナ州シェルビービル市で提案されている20億ドルのデータセンター計画が政治的な争点となっている。",
-            "同市の市長は、このデータセンターに反対しているのは「みすぼらしい家に住む人々」だけだと発言した。",
-            "この発言はさらなる論争を呼んでいる。"
-          ]
-        },
-        {
-          "title": "Meta made its own AI-generated clickbait news feed",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-05T20:17:26Z",
-          "excerpt": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-          "translationStatus": "translated",
-          "titleJa": "Meta、AI生成のクリックベイトニュースフィードを開発",
-          "summaryJa": [
-            "Facebookは以前からクリックベイト記事のフィードで溢れていた。",
-            "Metaは現在、AIを使って独自のクリックベイト記事を作成している。",
-            "これはスタンドアロンのMeta製品として提供される予定だ。"
+            "AppleのWWDC 2026が間近に迫っています。",
+            "待望のSiri刷新やApple Intelligence、iOS 27など、多くの発表が期待されます。",
+            "イベントで何が発表されるか、注目が集まっています。"
           ]
         }
       ]
@@ -554,17 +582,59 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Texas Schools Say They Still Face Budget Difficulties Despite $8.5 Billion Boost",
+          "source": "The 74",
+          "publishedAt": "2026-06-08T18:30:00Z",
+          "excerpt": "The influx of nearly $8.5 billion to Texas schools last year was not enough to stop schools from making tough cuts, district officials told...",
+          "link": "https://www.the74million.org/article/texas-schools-say-they-still-face-budget-difficulties-despite-8-5-billion-boost/",
+          "translationStatus": "translated",
+          "titleJa": "テキサス州の学校、85億ドルの予算増にもかかわらず財政難が続く",
+          "summaryJa": [
+            "昨年、テキサス州の学校には約85億ドルの予算が追加されました。",
+            "しかし、学区当局者によると、この増額だけでは厳しい予算削減を避けるには不十分でした。",
+            "学校は依然として財政的な困難に直面していると報じられています。"
+          ]
+        },
+        {
+          "title": "Opinion: How a Student Health Bill Got Tangled in Kansas Politics",
+          "source": "The 74",
+          "publishedAt": "2026-06-08T16:30:00Z",
+          "excerpt": "Just weeks after Kansas lawmakers passed legislation promoting daily recess and physical fitness in K-12 schools, Democratic Gov. Laura Kel...",
+          "link": "https://www.the74million.org/article/how-a-student-health-bill-got-tangled-in-kansas-politics/",
+          "translationStatus": "translated",
+          "titleJa": "カンザス州の学生健康法案、政治的対立に巻き込まれる",
+          "summaryJa": [
+            "カンザス州議会は、K-12学校での毎日の休憩時間と体力向上を推進する法案を可決しました。",
+            "しかし、その数週間後、民主党のローラ・ケリー知事がこの法案を巡る政治的対立に巻き込まれました。",
+            "学生の健康を目的とした法案が、州の政治問題と複雑に絡み合っている状況です。"
+          ]
+        },
+        {
+          "title": "Opinion: Businesses Want Bilingual Workers, Families Want Bilingual Kids, So Why the Gap?",
+          "source": "The 74",
+          "publishedAt": "2026-06-08T14:30:00Z",
+          "excerpt": "For a few years now, the United States has been marinating in a particular version of the American story. Specifically, we’ve been awash in...",
+          "link": "https://www.the74million.org/article/businesses-want-bilingual-workers-families-want-bilingual-kids-so-why-the-gap/",
+          "translationStatus": "translated",
+          "titleJa": "企業はバイリンガル人材を求めるが、なぜ育成が進まないのか",
+          "summaryJa": [
+            "企業はバイリンガルな従業員を求めており、家庭も子供にバイリンガル教育を望んでいます。",
+            "しかし、米国ではバイリンガル人材の育成と需要の間にギャップが存在しています。",
+            "この数年間、米国社会は特定の「アメリカ物語」に浸っており、その背景が指摘されています。"
+          ]
+        },
+        {
           "title": "Opinion: Three Schools, One Direction: Combining High School, College and CTE Work",
           "source": "The 74",
           "publishedAt": "2026-06-08T12:30:00Z",
           "excerpt": "I’ve always thought about the future. What would it look like? What fantastical creations existed there that I was incapable of anticipatin...",
           "link": "https://www.the74million.org/article/three-schools-one-direction-combining-high-school-college-and-cte-work/",
           "translationStatus": "translated",
-          "titleJa": "高校、大学、職業訓練を統合する教育の方向性",
+          "titleJa": "高校・大学・職業訓練を統合する教育モデルの提言",
           "summaryJa": [
-            "筆者は将来の教育のあり方について考察しています。",
-            "高校、大学、職業訓練（CTE）を組み合わせるという提案です。",
-            "これにより、生徒の将来の可能性を広げることを目指します。"
+            "筆者は、高校、大学、そしてキャリア・技術教育（CTE）を組み合わせる新しい教育モデルを提案しています。",
+            "このモデルは、未来の教育のあり方を考慮し、生徒が将来に備えるためのものです。",
+            "3つの異なる教育段階を統合することで、より効果的な学習とキャリア形成を目指します。"
           ]
         },
         {
@@ -574,11 +644,11 @@
           "excerpt": "Tulsa, Oklahoma, STEM teacher Jacqueline Lanning had long had her eye on the Dove Schools. The public charter network incorporated science,...",
           "link": "https://www.the74million.org/article/aquatic-robots-drones-and-power-tools-stem-spans-all-grades-in-oklahoma-school/",
           "translationStatus": "translated",
-          "titleJa": "オクラホマ州の学校で全学年対象のSTEM教育にロボットやドローンを導入",
+          "titleJa": "オクラホマ州の学校、全学年でSTEM教育を推進",
           "summaryJa": [
-            "オクラホマ州タルサのSTEM教師は、Dove Schoolsの教育に注目していました。",
-            "この公立チャータースクールでは、科学、技術、工学、数学（STEM）教育を全学年で実施しています。",
-            "水中ロボット、ドローン、電動工具などを活用し、実践的な学習を提供しています。"
+            "オクラホマ州タルサのSTEM教師ジャクリーン・ラニング氏は、ダブ・スクールズに注目していました。",
+            "この公立チャータースクールネットワークは、科学、技術、工学、数学（STEM）教育を全学年で取り入れています。",
+            "水中ロボット、ドローン、電動工具などを活用し、実践的な学習を通じてSTEM分野への関心を高めています。"
           ]
         },
         {
@@ -588,11 +658,11 @@
           "excerpt": "As colleges scramble to write rules for artificial intelligence in the classroom, one basic question remains unknown: How many students are...",
           "link": "https://hechingerreport.org/proof-points-ai-use-college-campuses/",
           "translationStatus": "translated",
-          "titleJa": "大学でのAI利用、学生は他者の利用頻度を過大評価か",
+          "titleJa": "大学におけるAI利用の実態、学生間の認識にずれか",
           "summaryJa": [
-            "大学が教室での人工知能（AI）利用に関する規則策定に追われています。",
-            "しかし、実際にどれくらいの学生がAIを利用しているのかは不明です。",
-            "学生は、他の学生が自分よりもAIを頻繁に利用していると考えているようです。"
+            "大学が教室での人工知能（AI）利用に関する規則策定に奔走しています。",
+            "しかし、基本的な疑問として、実際にどれくらいの学生がAIを利用しているのかは不明です。",
+            "学生たちは、他の学生が自分よりもAIを多く利用していると考えている可能性があります。"
           ]
         },
         {
@@ -602,11 +672,11 @@
           "excerpt": "Ohio State Settles With Nearly 300 Strauss Victims Katherine Knott Mon, 06/08/2026 - 03:00 AM Byline(s) Katherine Knott",
           "link": "https://www.insidehighered.com/news/quick-takes/2026/06/08/ohio-state-settles-nearly-300-strauss-victims",
           "translationStatus": "translated",
-          "titleJa": "オハイオ州立大学、ストラウス医師の被害者約300人と和解",
+          "titleJa": "オハイオ州立大学、約300人のストラウス被害者と和解",
           "summaryJa": [
-            "オハイオ州立大学が、元医師ストラウス氏による被害者約300人と和解しました。",
-            "この和解は、長年にわたる問題に終止符を打つものです。",
-            "詳細な和解条件は記事には記載されていません。"
+            "オハイオ州立大学は、元医師リチャード・ストラウスによる性的虐待の被害者約300人と和解しました。",
+            "この和解は、長年にわたる訴訟と被害者への補償を巡る問題に終止符を打つものです。",
+            "大学は、過去の過ちに対する責任を認め、被害者への対応を進めています。"
           ]
         },
         {
@@ -616,11 +686,11 @@
           "excerpt": "New Mexico Highlands President Dismissed Without Cause Susan H. Greenberg Mon, 06/08/2026 - 03:00 AM Byline(s) Susan H. Greenberg",
           "link": "https://www.insidehighered.com/news/quick-takes/2026/06/08/new-mexico-highlands-president-dismissed-without-cause",
           "translationStatus": "translated",
-          "titleJa": "ニューメキシコ・ハイランズ大学学長が理由なく解任",
+          "titleJa": "ニューメキシコ・ハイランズ大学学長、理由なく解任される",
           "summaryJa": [
-            "ニューメキシコ・ハイランズ大学の学長が、理由なく解任されました。",
-            "解任の具体的な原因は記事には明記されていません。",
-            "この決定は大学運営に影響を与える可能性があります。"
+            "ニューメキシコ・ハイランズ大学の学長が、明確な理由なく解任されました。",
+            "この決定は、大学運営における透明性や説明責任について疑問を投げかけています。",
+            "学長解任の背景については、現時点では詳細が明らかにされていません。"
           ]
         },
         {
@@ -632,9 +702,9 @@
           "translationStatus": "translated",
           "titleJa": "糖尿病学会から研究者が警察により排除される",
           "summaryJa": [
-            "糖尿病学会の会場から、複数の研究者が警察によって排除されました。",
-            "排除された理由や背景については、記事に詳細な説明がありません。",
-            "この出来事が学会にどのような影響を与えたかは不明です。"
+            "糖尿病に関する学会において、複数の研究者が警察によって会場から排除されました。",
+            "排除の具体的な理由については、記事には明記されていません。",
+            "学術会議でのこのような事態は異例であり、その背景が注目されます。"
           ]
         },
         {
@@ -644,53 +714,11 @@
           "excerpt": "What Do We Know About Who Isn’t Reporting Race on College Applications? Johanna Alonso Mon, 06/08/2026 - 03:00 AM Two admissions cycles int...",
           "link": "https://www.insidehighered.com/news/admissions/2026/06/08/new-report-sheds-light-students-who-dont-report-race",
           "translationStatus": "translated",
-          "titleJa": "大学出願時に人種を報告しない学生に関する調査",
+          "titleJa": "大学出願で人種を報告しない志願者に関する考察",
           "summaryJa": [
-            "大学出願の際に人種を報告しない学生について、どのような情報があるのかが問われています。",
-            "2回の入学選考期間を経て、この傾向が注目されています。",
-            "記事は、その背景や影響について考察しているようです。"
-          ]
-        },
-        {
-          "title": "Where First-Generation Students Find Support",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-08T07:00:00Z",
-          "excerpt": "Where First-Generation Students Find Support Joshua.Bay Mon, 06/08/2026 - 03:00 AM Community College Research Center study finds first-gen...",
-          "link": "https://www.insidehighered.com/news/student-success/academic-life/2026/06/08/where-first-generation-students-find-support",
-          "translationStatus": "translated",
-          "titleJa": "初めて大学に進学する学生への支援に関する調査",
-          "summaryJa": [
-            "コミュニティカレッジ研究センターの調査が、初めて大学に進学する学生（ファーストジェネレーション学生）がどこで支援を見つけるかについて報告しています。",
-            "これらの学生が学業や生活面で直面する課題を乗り越えるためのサポート体制が重要です。",
-            "調査結果は、支援プログラムの改善に役立つ可能性があります。"
-          ]
-        },
-        {
-          "title": "How to Save the Take-Home Essay With Oral Assessments",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-08T07:00:00Z",
-          "excerpt": "How to Save the Take-Home Essay With Oral Assessments Elizabeth Redden Mon, 06/08/2026 - 03:00 AM Rather than attempt to police AI usage, p...",
-          "link": "https://www.insidehighered.com/opinion/career-advice/teaching/2026/06/08/saving-take-home-essay-oral-assessments-opinion",
-          "translationStatus": "translated",
-          "titleJa": "持ち帰り課題のエッセイを口頭評価で救う方法",
-          "summaryJa": [
-            "持ち帰り課題のエッセイを、口頭評価によって有効に活用する方法が提案されています。",
-            "これは、AIの使用を監視するのではなく、別の評価方法を導入する試みです。",
-            "口頭評価は、学生の理解度や思考プロセスをより深く把握するのに役立つと期待されます。"
-          ]
-        },
-        {
-          "title": "DOJ Investigates 15 More Med Schools, Alleging Race-Based Admissions",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-08T07:00:00Z",
-          "excerpt": "DOJ Investigates 15 More Med Schools, Alleging Race-Based Admissions jessica.blake@… Mon, 06/08/2026 - 03:00 AM The Justice Department has...",
-          "link": "https://www.insidehighered.com/news/government/2026/06/08/doj-alleges-15-med-schools-admit-students-based-race",
-          "translationStatus": "translated",
-          "titleJa": "司法省、人種に基づく入学選考の疑いで追加の医学部15校を調査",
-          "summaryJa": [
-            "司法省が、人種に基づく入学選考を行っている疑いで、さらに15の医学部を調査しています。",
-            "これは、入学選考における公平性に関する懸念が高まっていることを示しています。",
-            "調査の結果によっては、各医学部の入学方針に影響が出る可能性があります。"
+            "大学出願時に人種を報告しない志願者について、どのような情報が得られているのかが議論されています。",
+            "過去2回の入学選考期間を経て、この傾向に関するデータが蓄積されつつあります。",
+            "人種報告の有無が、大学の多様性や入試プロセスに与える影響について分析が進められています。"
           ]
         }
       ]
@@ -703,7 +731,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 44,
+    "translatedItems": 47,
     "failedBatches": []
   }
 }
