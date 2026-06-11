@@ -1,125 +1,149 @@
 {
-  "generatedAt": "2026-06-10T18:47:11.377037Z",
+  "generatedAt": "2026-06-11T12:30:20.614318Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Whale graveyard dating back five million years discovered",
+          "title": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+          "source": "NPR World",
+          "publishedAt": "2026-06-11T12:12:18Z",
+          "excerpt": "The National Museum of Korea is home to the Room of Quiet Contemplation, which features two of South Korea's most treasured artworks: gilt-...",
+          "link": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+          "translationStatus": "translated",
+          "titleJa": "ソウル国立博物館、仏教美術が都会の喧騒から安らぎを提供",
+          "summaryJa": [
+            "韓国国立中央博物館には「静観の部屋」がある。",
+            "この部屋には、韓国で最も貴重な美術品が2点展示されている。",
+            "仏教美術の傑作が、都会の喧騒から離れた静けさを提供している。"
+          ]
+        },
+        {
+          "title": "US and Iran exchange strikes across Middle East for second day in a row",
           "source": "BBC News",
-          "publishedAt": "2026-06-10T18:24:09Z",
-          "excerpt": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
-          "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "US military chief Hegseth warns Cuba against acquiring military arms",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T18:09:11Z",
-          "excerpt": "Hegseth's visit to Guantanamo Bay, Cuba, comes as the Trump administration increases pressure against Cuba's government.",
-          "link": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
+          "publishedAt": "2026-06-11T12:09:44Z",
+          "excerpt": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city...",
+          "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "米軍幹部、キューバの軍事兵器取得に警告",
+          "titleJa": "米国とイラン、中東で2日連続の報復攻撃",
           "summaryJa": [
-            "米軍幹部のヘグセス氏がキューバのグアンタナモ湾を訪問しました。",
-            "同氏はキューバに対し、軍事兵器の取得をしないよう警告しています。",
-            "この訪問は、トランプ政権がキューバ政府への圧力を強める中で行われました。"
+            "米国とイランが中東地域で2日連続となる攻撃を応酬した。",
+            "イランは米国の攻撃に対し、クウェート、ヨルダン、バーレーンの米軍施設を標的としたと発表。",
+            "バーレーンは首都に被害が出たと報告している。"
           ]
         },
         {
-          "title": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
+          "title": "Massive Neymar mural unveiled on Brazil street",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T18:00:06Z",
-          "excerpt": "Anti-immigrant violence swept through Belfast, with homes and vehicles torched following a knife attack.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
+          "publishedAt": "2026-06-11T12:04:40Z",
+          "excerpt": "A massive 850-square-meter street mural of football star Neymar da Silva has been unveiled in Brazil's Novo Hamburgo.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/massive-neymar-mural-unveiled-on-brazil-street?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "英首相、ベルファストでの反移民暴力を非難",
+          "titleJa": "ブラジルでネイマール選手の巨大壁画公開",
           "summaryJa": [
-            "ベルファストで反移民暴力が発生し、住宅や車両が放火されました。",
-            "これはナイフ襲撃事件の後に起きたものです。",
-            "スターマー英首相は、この「不当な」暴力を強く非難しました。"
+            "ブラジルのノボ・アンブルゴで、サッカー選手ネイマール・ダ・シウバの巨大な壁画が公開された。",
+            "この壁画は850平方メートルの広さがある。",
+            "ストリートアートとして注目を集めている。"
           ]
         },
         {
-          "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+          "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-11T12:02:57Z",
+          "excerpt": "Arwa Elrayess, the first Palestinian to lead University of Oxford's debating society, has been troubled by falsehoods.",
+          "link": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "オックスフォード大学ディベート協会初のパレスチナ人会長「辞任しない」",
+          "summaryJa": [
+            "オックスフォード大学ディベート協会の会長を務めるアルバ・エルライエス氏が辞任を否定した。",
+            "エルライエス氏は同協会初のパレスチナ人会長。",
+            "彼女は虚偽の情報に悩まされているという。"
+          ]
+        },
+        {
+          "title": "India says US hit another ship off Oman, confirms 3 dead in separate attack",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-11T11:58:22Z",
+          "excerpt": "All 20 Indians aboard vessel involved in the latest incident are safe, said an Indian shipping ministry official.",
+          "link": "https://www.aljazeera.com/news/2026/6/11/india-says-incident-on-vessel-off-oman-confirms-3-dead-in-seperate-strike?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "インド、オマーン沖で別の船舶が攻撃されたと発表、別の攻撃で3人死亡確認",
+          "summaryJa": [
+            "インドは、オマーン沖で別の船舶が米国に攻撃されたと発表した。",
+            "最新の事件に関与した船舶に乗っていたインド人20人全員は無事だという。",
+            "また、別の攻撃で3人が死亡したことを確認した。"
+          ]
+        },
+        {
+          "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
           "source": "BBC News",
-          "publishedAt": "2026-06-10T17:48:54Z",
-          "excerpt": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oma...",
-          "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-06-11T11:58:14Z",
+          "excerpt": "Wednesday's result means the team are now just one win away from a famous Finals win.",
+          "link": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "オマーン湾でタンカー被弾、インド人船員3名が行方不明",
+          "titleJa": "ニックスがNBAファイナル史上最大の逆転勝利、ファン熱狂",
           "summaryJa": [
-            "米国がオマーン湾でタンカーを攻撃したと発表しました。",
-            "インド政府によると、タンカー「セッテベロ」が被弾し、インド人船員3名が行方不明です。",
-            "乗組員21名は救助されました。"
+            "ニューヨークのニックスがNBAファイナルで史上最大の逆転劇を演じ、ファンを熱狂させた。",
+            "水曜日の試合結果により、チームは優勝まであと1勝に迫った。",
+            "歴史的なファイナル勝利への期待が高まっている。"
           ]
         },
         {
-          "title": "Is Fortress Europe becoming more strict?",
+          "title": "Top five ‘must-watch’ matches of the group stage at World Cup 2026",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T17:33:44Z",
-          "excerpt": "The new EU's Pact on Migration and Asylum is the most sweeping overhaul of European asylum law in decades.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss",
+          "publishedAt": "2026-06-11T11:56:47Z",
+          "excerpt": "There are a record 72 group games at this summer's tournament, and we've picked the matches that you shouldn't miss.",
+          "link": "https://www.aljazeera.com/sports/2026/6/11/top-five-must-watch-matches-of-the-group-stage-at-world-cup-2026?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "欧州の移民・難民政策、厳格化へ",
+          "titleJa": "2026年ワールドカップ、グループステージ「必見」の5試合",
           "summaryJa": [
-            "EUの新たな「移民・難民に関する協定」が発表されました。",
-            "これは欧州の難民法における数十年ぶりの大規模な見直しとなります。",
-            "欧州がより厳格な政策に移行するのか注目されています。"
+            "今夏の2026年ワールドカップでは、過去最多となる72試合のグループステージが行われる。",
+            "その中から見逃せない「必見」の5試合が選出された。",
+            "サッカーファンにとって注目の対戦カードが紹介されている。"
           ]
         },
         {
-          "title": "Trump says US will hit Iran 'hard' again today",
-          "source": "BBC News",
-          "publishedAt": "2026-06-10T17:33:22Z",
-          "excerpt": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-          "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "US inflation hits new three-year high amid energy price surge",
+          "title": "The university must not become a supply chain for AI",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T16:53:32Z",
-          "excerpt": "US markets stumbled as inflation data sparked fears of interest rate rises in the coming months.",
-          "link": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "LIVE: Portugal vs Nigeria – World Cup 2026 international friendly",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T16:45:34Z",
-          "excerpt": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the World Cup warm-up.",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/10/live-portugal-vs-nigeria-world-cup-2026-international-friendly?traffic_source=rss",
+          "publishedAt": "2026-06-11T11:45:17Z",
+          "excerpt": "Cash-strapped universities are being told to make AI central to their missions, by the people selling the AI.",
+          "link": "https://www.aljazeera.com/opinions/2026/6/11/the-university-must-not-become-a-supply-chain-for-ai?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "【速報】ポルトガル対ナイジェリア ワールドカップ2026国際親善試合",
+          "titleJa": "大学はAIのサプライチェーンになるべきではない",
           "summaryJa": [
-            "ワールドカップ2026に向けた国際親善試合、ポルトガル対ナイジェリア戦が開催されます。",
-            "試合前の最新情報やチームニュースをライブでお届けします。",
-            "テキスト実況中継で試合の模様をフォローできます。"
+            "資金難に陥っている大学に対し、AI販売業者からAIを大学の使命の中心に据えるよう促されている。",
+            "大学がAIの供給源となることへの警鐘が鳴らされている。",
+            "大学の本来の役割とAIとの関係について議論が提起されている。"
           ]
         },
         {
-          "title": "Mass shooting with at least 10 attackers in Johannesburg",
+          "title": "Ethiopia must not be dragged back into war",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T16:30:54Z",
-          "excerpt": "A manhunt is underway for at least 10 suspects in a mass shooting that left 12 people dead near Johannesburg.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
+          "publishedAt": "2026-06-11T11:31:08Z",
+          "excerpt": "TPLF hardliners, backed by Eritrea, are threatening to drag Ethiopia back into a war its people have already rejected.",
+          "link": "https://www.aljazeera.com/opinions/2026/6/11/ethiopia-must-not-be-dragged-back-into-war?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "ヨハネスブルグ近郊で銃乱射事件、12人死亡 容疑者10人以上を捜索",
+          "titleJa": "エチオピア、再び戦争に引き戻されるべきではない",
           "summaryJa": [
-            "ヨハネスブルグ近郊で銃乱射事件が発生し、12人が死亡しました。",
-            "少なくとも10人以上の容疑者が関与したとみられています。",
-            "現在、容疑者の大規模な捜索が行われています。"
+            "エリトリアに支援されたTPLF強硬派が、エチオピアを再び戦争に引き戻そうと脅している。",
+            "エチオピア国民は既に戦争を拒否している。",
+            "国民が望まない紛争への再突入を避けるべきだという主張。"
           ]
         },
         {
-          "title": "The Light Within | Ep 5 – El Salvador",
+          "title": "Britain’s defence ⁠minister Healey quits over defence spending",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-10T16:00:00Z",
-          "excerpt": "In a Salvadoran prison, young women from rival gangs learn to co-exist and prepare for life beyond penitentiary walls.",
-          "link": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-11T11:24:17Z",
+          "excerpt": "This is a breaking news story.",
+          "link": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "英国のヒーリー国防大臣、国防費を巡り辞任",
+          "summaryJa": [
+            "英国のヒーリー国防大臣が国防費を巡って辞任した。",
+            "これは速報ニュースとして報じられている。",
+            "辞任の背景には国防予算に関する意見の相違があるとみられる。"
+          ]
         }
       ]
     },
@@ -128,143 +152,142 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "京都 日本三景の天橋立に出没したクマを麻酔銃で捕獲",
+          "title": "欧州中央銀行 0.25％の利上げ決定 2年9か月ぶり",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-10T16:13:10Z",
-          "excerpt": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」にクマ1頭が出没し、近くの住宅街の雑木林にとどまっていましたが、午後10時半すぎに麻酔銃で捕獲されました。京都府は「天橋立」の中を通る道路を通行止めにして立ち入りを禁止していましたが、11日午前9時に措置を解除することにして...",
-          "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146401000.html",
+          "publishedAt": "2026-06-11T12:26:17Z",
+          "excerpt": "ヨーロッパ中央銀行は金融政策を決める理事会を開き、11日、0.25％の利上げを決めました。利上げは2023年9月以来、2年9か月ぶりで、主要な政策金利である金融機関から資金を預かる際の金利は、これまでの2％から2.25％に引き上げられます。イラン情勢を受けたエネルギー価格の高騰...",
+          "link": "http://www3.nhk.or.jp/news/html/20260611/k10015147831000.html",
           "translationStatus": "translated",
-          "titleJa": "京都・天橋立に出没したクマを麻酔銃で捕獲",
+          "titleJa": "欧州中央銀行、2年9か月ぶり0.25%の利上げ決定",
           "summaryJa": [
-            "10日夕方、京都府宮津市の日本三景「天橋立」にクマ1頭が出没しました。",
-            "クマは近くの住宅街の雑木林にとどまっていましたが、午後10時半すぎに麻酔銃で捕獲されました。",
-            "京都府は天橋立内の道路を通行止めにしていましたが、11日午前9時に解除する予定です。"
+            "欧州中央銀行は11日、金融政策理事会で0.25%の利上げを決定しました。",
+            "利上げは2023年9月以来、2年9か月ぶりとなります。",
+            "主要な政策金利である預金金利は、これまでの2%から2.25%に引き上げられます。",
+            "これはイラン情勢を受けたエネルギー価格の高騰などを背景としています。"
           ]
         },
         {
-          "title": "天橋立付近にクマ、麻酔銃で捕獲 京都・宮津、体長137センチ(共同通信)",
+          "title": "＜独自＞高市首相、英国に次期戦闘機の資金拠出働きかけへ 14日首脳会談 配備遅れ懸念(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T16:06:08Z",
-          "excerpt": "10日午後4時35分ごろ、日本三景の一つとして知られる京都府宮津市の観光地「天橋立」付近で「クマが出て松並木の方に走って行った」と110番があった。宮津署によるとクマ1頭が海を泳ぎ、雑木林へ逃げ込ん",
-          "link": "https://news.yahoo.co.jp/articles/5f4a620f64a3265f4cdc5b193299e2dbb1750b2a?source=rss",
+          "publishedAt": "2026-06-11T12:24:59Z",
+          "excerpt": "高市早苗首相は14日にロンドンで開かれる日英首脳会談で、日本と英国、イタリアの3カ国による次期戦闘機の共同開発に向けた長期の資金拠出をスターマー首相に働きかける意向を固めた。英国が財政難で防衛投資の長",
+          "link": "https://news.yahoo.co.jp/articles/07b6b490ee0b21494bc01ed844e00cff3a760b97?source=rss",
           "translationStatus": "translated",
-          "titleJa": "京都・天橋立付近でクマを麻酔銃で捕獲、体長137センチ",
+          "titleJa": "高市首相、日英首脳会談で英国に次期戦闘機開発の資金拠出を働きかけへ",
           "summaryJa": [
-            "10日午後4時35分ごろ、京都府宮津市の観光地「天橋立」付近でクマの目撃情報がありました。",
-            "クマは海を泳ぎ、雑木林へ逃げ込んだとされています。",
-            "その後、麻酔銃で捕獲され、体長は137センチでした。"
+            "高市早苗首相は14日の日英首脳会談で、英国のスターマー首相に対し、次期戦闘機の共同開発に向けた長期の資金拠出を働きかける意向です。",
+            "これは日本、英国、イタリアの3カ国による次期戦闘機共同開発計画に関するものです。",
+            "英国の財政難による防衛投資の遅れが懸念されています。"
           ]
         },
         {
-          "title": "天橋立でクマ、麻酔銃で捕獲、京都(共同通信)",
+          "title": "相模原市の女子生徒遺体、前日夜に外出し行方不明 位置情報から発見(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:42:21Z",
-          "excerpt": "京都府警によると10日午後4時35分ごろ、日本三景の一つとして知られる観光地「天橋立」で「クマが出て松並木の方に走って行った」と110番があった。その後、クマ1頭を発見、麻酔銃を使い午後10時40分",
-          "link": "https://news.yahoo.co.jp/articles/c8caca203688f45079b6163870672f5b8c4dc1ac?source=rss",
+          "publishedAt": "2026-06-11T12:23:58Z",
+          "excerpt": "相模原市南区の河川敷で11日未明、神奈川県座間市栗原中央の高校3年の女子生徒（17）の遺体が見つかり、知人で相模原市南区の自称塗装工の男（19）が殺人容疑で逮捕された。 発見現場は遊歩道にかかった橋",
+          "link": "https://news.yahoo.co.jp/articles/cf637f907ad4832eab4a4c247cd4b74cc11aabfc?source=rss",
           "translationStatus": "translated",
-          "titleJa": "京都・天橋立でクマが出没、麻酔銃で捕獲",
+          "titleJa": "相模原市河川敷で女子生徒遺体、知人の19歳男を殺人容疑で逮捕",
           "summaryJa": [
-            "10日午後4時35分ごろ、京都府の観光地「天橋立」でクマの目撃情報が寄せられました。",
-            "クマは松並木の方へ走っていったと通報がありました。",
-            "その後、クマ1頭が発見され、午後10時40分に麻酔銃で捕獲されました。"
+            "11日未明、相模原市南区の河川敷で、神奈川県座間市の高校3年女子生徒（17）の遺体が見つかりました。",
+            "女子生徒は前日夜に外出後、行方不明となっていました。",
+            "知人で相模原市南区の自称塗装工の男（19）が殺人容疑で逮捕されました。",
+            "遺体発見現場は遊歩道にかかった橋の付近です。"
           ]
         },
         {
-          "title": "インターネットカジノ店摘発 従業員の男4人逮捕 常習賭博の疑い 「バカラ」と呼ばれるゲームで 名古屋・中区(CBCテレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:39:16Z",
-          "excerpt": "名古屋市中区にあるインターネットカジノ店が摘発され、従業員の男4人が逮捕されました。 逮捕されたのは、千種区に住む自称・風俗店従業員の瀬古進悟容疑者（44）ら男4人です。 警察によりますと、瀬古容",
-          "link": "https://news.yahoo.co.jp/articles/d4c7b0b2c2010bf317790c10ffa5f78b420c8e34?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "名古屋のインターネットカジノ店を摘発、従業員4人を逮捕",
-          "summaryJa": [
-            "名古屋市中区のインターネットカジノ店が摘発され、従業員の男4人が常習賭博の疑いで逮捕されました。",
-            "逮捕されたのは、自称・風俗店従業員の瀬古進悟容疑者（44）らです。",
-            "店では「バカラ」と呼ばれるゲームが行われていたとみられています。"
-          ]
-        },
-        {
-          "title": "姿なき“もう1頭”？生活に影響…クマ捕獲後も市民の警戒続く(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:39:15Z",
-          "excerpt": "9日に宇都宮市内で捕獲されたクマ。さらにもう一頭いる可能性は捨てきれず、影響が続いています。 9日までの4日間、60件以上あった警察への目撃情報が、10日はゼロでした。 ただ、市の中心部では。",
-          "link": "https://news.yahoo.co.jp/articles/48a4dd63ae2bb81593b0606e3aaa44d9e2fb1cce?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "宇都宮市、クマ捕獲後も市民の警戒続く",
-          "summaryJa": [
-            "9日に宇都宮市内でクマが捕獲されましたが、もう1頭いる可能性も指摘されています。",
-            "9日までの4日間で60件以上あった目撃情報は、10日にはゼロとなりました。",
-            "しかし、市民生活への影響は続き、市の中心部では警戒が続いています。"
-          ]
-        },
-        {
-          "title": "大手金融各社 米アンソロピック・NEC連携に参加の方針固める",
+          "title": "「期間限定」繰り返し ゲオストアに全国初の措置命令 消費者庁",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-10T15:35:13Z",
-          "excerpt": "高性能なAIの登場でシステムのセキュリティー対策が課題となる中、国内の銀行、証券、保険の大手各社が、アメリカの新興AI企業、アンソロピックとNECが作る連携の枠組みに参加する方針を固めました。セキュリティー対策や金融サービスの高度化などで協業を進める見通しです。",
-          "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146481000.html",
+          "publishedAt": "2026-06-11T12:13:54Z",
+          "excerpt": "「期間限定で買い取り金額がアップする」と告知してキャンペーンを行いながら、その期間が終わったあとも同様のキャンペーンを繰り返していたのは景品表示法違反の不当表示にあたるとして、消費者庁は、名古屋市のスマホ売買大手「ゲオ」の運営会社に対し、再発防止などを求める措置命令を出しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20260611/k10015147771000.html",
           "translationStatus": "translated",
-          "titleJa": "大手金融各社、米アンソロピックとNECのAI連携に参加へ",
+          "titleJa": "ゲオストアに消費者庁が措置命令、「期間限定」繰り返し景品表示法違反",
           "summaryJa": [
-            "高性能AIの普及に伴うシステムセキュリティ対策が課題となる中、国内の大手金融各社が新たな動きを見せています。",
-            "銀行、証券、保険の大手企業が、アメリカの新興AI企業アンソロピックとNECが構築する連携枠組みへの参加方針を固めました。",
-            "今後、セキュリティ対策の強化や金融サービスの高度化に向けて協業を進める見通しです。"
+            "消費者庁は、スマホ売買大手「ゲオ」の運営会社に対し、景品表示法違反で措置命令を出しました。",
+            "同社は「期間限定で買い取り金額がアップする」と告知しながら、期間終了後も同様のキャンペーンを繰り返していました。",
+            "これは不当表示にあたると判断されました。",
+            "消費者庁は、再発防止などを求めています。"
           ]
         },
         {
-          "title": "飲酒運転容疑で57歳公務員逮捕 山形県警、玉突き事故から発覚(共同通信)",
+          "title": "「13歳だと忘れていた。ハグしただけ」少女の体触る 容疑で団体職員の23歳男逮捕(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:28:18Z",
-          "excerpt": "山形県警寒河江署は10日、乗用車を飲酒運転したとして道交法違反（酒気帯び運転）の疑いで朝日町、公務員阿部勝彦容疑者（57）を現行犯逮捕した。容疑を認めている。容疑者が別の乗用車に追突し計4台が絡む玉",
-          "link": "https://news.yahoo.co.jp/articles/e67ba906cc2c588bf5f2263028a2d8bffb0b88cf?source=rss",
+          "publishedAt": "2026-06-11T12:12:04Z",
+          "excerpt": "自宅で13歳の少女の体を触るなどしたとして、京都府警左京署は11日、不同意わいせつの疑いで京都市伏見区竹田内畑町の環境保護団体職員の男（23）を逮捕した。「13歳であることは忘れていた。ハグはしたがわ",
+          "link": "https://news.yahoo.co.jp/articles/ccbbbbbcb5bba263077cb459195d9b6c8fb6fceb?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "「頑張れば夢はかなう」メンバー全員がダウン症や自閉症などのダンスチーム 夢の“アジアパラ大会”への挑戦(FNNプライムオンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-11T12:01:18Z",
+          "excerpt": "2026年秋に開催されるアジアパラ競技大会、そのステージに立つことを夢見て、地元・愛知の知的障がい者のダンスチームが練習を続けています。「頑張れば夢はかなう」挑戦を続けるメンバーたちの姿を追いました",
+          "link": "https://news.yahoo.co.jp/articles/e90bd02458b5490835dc1a776e344b97d972acd2?source=rss",
           "translationStatus": "translated",
-          "titleJa": "山形県警、飲酒運転容疑で57歳公務員を逮捕",
+          "titleJa": "知的障がい者のダンスチーム、2026年アジアパラ競技大会出場目指し練習",
           "summaryJa": [
-            "山形県警寒河江署は10日、飲酒運転の疑いで朝日町の公務員、阿部勝彦容疑者（57）を現行犯逮捕しました。",
-            "容疑者は容疑を認めています。",
-            "この飲酒運転は、容疑者が別の乗用車に追突し、計4台が絡む玉突き事故から発覚しました。"
+            "2026年秋に開催されるアジアパラ競技大会への出場を目指し、愛知県の知的障がい者のダンスチームが練習を続けています。",
+            "メンバー全員がダウン症や自閉症などの障がいを持っています。",
+            "チームは「頑張れば夢はかなう」を合言葉に、大会のステージに立つことを夢見ています。"
           ]
         },
         {
-          "title": "高濃縮ウランの情報要求 イランに決議、IAEA(共同通信)",
+          "title": "「天橋立」にクマ出没 海を泳いで逃げる様子も 「こんなところで出るんや」地元住民も驚き(FNNプライムオンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:11:45Z",
-          "excerpt": "【ウィーン共同】国際原子力機関（IAEA）の定例理事会は10日、イランに対し、IAEAの査察に協力し、貯蔵する高濃縮ウランに関する情報をIAEAに提供するよう求める決議案を賛成多数で採択した。",
-          "link": "https://news.yahoo.co.jp/articles/06066e306f4aa6415b039f450e80934b6f8b52e4?source=rss",
+          "publishedAt": "2026-06-11T11:51:23Z",
+          "excerpt": "日本三景の一つにも数えられる人気の観光地・天橋立に10日クマが出没した。 海を泳いで渡り、その後住宅街に逃げ込んだところを駆除され、その間、街は緊張に包まれた。 爆竹が海に投げ込まれ、盾を持った警",
+          "link": "https://news.yahoo.co.jp/articles/ca729e4d68d477c2b5944644731582c718727e17?source=rss",
           "translationStatus": "translated",
-          "titleJa": "IAEA、イランに高濃縮ウラン情報提供を求める決議採択",
+          "titleJa": "日本三景「天橋立」にクマ出没、海を泳ぎ住宅街で駆除",
           "summaryJa": [
-            "国際原子力機関（IAEA）の定例理事会は10日、イランに対し決議を採択しました。",
-            "決議は、イランがIAEAの査察に協力し、貯蔵する高濃縮ウランに関する情報を提供するよう求めています。",
-            "この決議案は賛成多数で採択されました。"
+            "10日、日本三景の一つである観光地「天橋立」にクマが出没しました。",
+            "クマは海を泳いで渡り、その後住宅街に逃げ込みました。",
+            "住民が驚く中、クマは駆除されました。",
+            "現場では爆竹が投げ込まれるなど、一時緊張に包まれました。"
           ]
         },
         {
-          "title": "どうなる？総理“肝いり政策”『国旗損壊罪』修正協議へ『食料品消費減税』溝埋まらず(テレビ朝日系（ANN）)",
+          "title": "国民民主、再審見直しの改正案に反対へ(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:03:14Z",
-          "excerpt": "高市総理“肝いり”の『食料品の消費減税』は先週、「1％にする」案が突如浮上しましたが、10日に行われた与野党の協議では、野党から異論が相次ぎました。同じく“肝いり”の『国旗損壊罪』でも、野党からの異論",
-          "link": "https://news.yahoo.co.jp/articles/14939885ec63e6ded2bec8cf899969b04e7237a8?source=rss",
+          "publishedAt": "2026-06-11T11:47:15Z",
+          "excerpt": "国民民主党は11日、再審制度の見直しを巡る政府の刑事訴訟法改正案に反対する方針を固めた。関係者が明らかにした。",
+          "link": "https://news.yahoo.co.jp/articles/61e64533004697d8e5b82fa8f3a3855974c914d1?source=rss",
           "translationStatus": "translated",
-          "titleJa": "総理の「食料品消費減税」と「国旗損壊罪」で与野党協議難航",
+          "titleJa": "国民民主党、再審制度見直し巡る刑事訴訟法改正案に反対方針",
           "summaryJa": [
-            "高市総理が推進する「食料品の消費減税」について、先週「1％にする」案が浮上しました。",
-            "しかし、10日の与野党協議では野党から異論が相次ぎ、溝は埋まっていません。",
-            "同様に総理の「国旗損壊罪」についても、野党から異論が出ており、修正協議が行われる見通しです。"
+            "国民民主党は11日、政府が提出した刑事訴訟法改正案に対し、反対する方針を固めました。",
+            "この改正案は、再審制度の見直しを巡るものです。",
+            "関係者が明らかにしました。"
           ]
         },
         {
-          "title": "東日本大震災から15年3か月(レスキューナウニュース)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-10T15:00:00Z",
-          "excerpt": "6月11日、東日本大震災が発生してから15年3か月 ◆人的被害・避難者数・避難指示（避難者数 更新あり） ・2011年3月11日、国内最大規模となるM9.0の地震が発生し、大津波により東北地方の太",
-          "link": "https://news.yahoo.co.jp/articles/af8f28640771031a8e8000cbe68784ee09d1dfa4?source=rss",
+          "title": "米とイラン 攻撃の応酬 米はさらなる攻撃の構えで圧力か",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-11T11:46:00Z",
+          "excerpt": "アメリカ中央軍は前日に続き、10日もイランへの攻撃を行ったと発表した一方で、イランの革命防衛隊は報復としてクウェートなどにあるアメリカ軍基地を攻撃したと主張しました。イランとの戦闘終結に向けた協議が停滞する中、トランプ大統領はさらに攻撃を行う構えも示していて、軍事力で圧力を強め...",
+          "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146671000.html",
           "translationStatus": "translated",
-          "titleJa": "東日本大震災から15年3か月が経過",
+          "titleJa": "米とイランが攻撃応酬、米国はさらなる軍事圧力の構え",
           "summaryJa": [
-            "6月11日、東日本大震災の発生から15年3か月が経過しました。",
-            "2011年3月11日に発生した国内最大規模のM9.0の地震と大津波は、東北地方に甚大な被害をもたらしました。",
-            "人的被害や避難者数、避難指示に関する情報が更新されています。"
+            "アメリカ中央軍は10日、前日に続きイランへの攻撃を行ったと発表しました。",
+            "一方、イランの革命防衛隊は、報復としてクウェートなどにあるアメリカ軍基地を攻撃したと主張しています。",
+            "イランとの戦闘終結に向けた協議が停滞する中、トランプ大統領はさらなる攻撃を行う構えを示しています。",
+            "米国は軍事力で圧力を強める方針とみられます。"
+          ]
+        },
+        {
+          "title": "静岡で放課後デイサービス利用の6歳児死亡(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-11T11:44:52Z",
+          "excerpt": "静岡県磐田市で障害児が利用する放課後デイサービスに通っていた男児（6）が5月下旬に死亡していたことが11日、関係者への取材で分かった。屋外活動中、職員が目を離した隙に川で溺れたとみられ、県警が詳しい",
+          "link": "https://news.yahoo.co.jp/articles/85657e97216d0ce1bcd82b1fd5a8f8b8f38824df?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "静岡・磐田市の放課後デイサービスで6歳男児が死亡、川で溺れたか",
+          "summaryJa": [
+            "静岡県磐田市にある障害児向け放課後デイサービスに通っていた6歳の男児が、5月下旬に死亡していたことが11日、関係者への取材で分かりました。",
+            "男児は屋外活動中、職員が目を離した隙に川で溺れたとみられています。",
+            "県警が詳しい状況を調べています。"
           ]
         }
       ]
@@ -274,143 +297,144 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Company that bet big on Trump-backed crypto says its fortunes have improved",
+          "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps-up energy costs",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T18:45:45Z",
-          "excerpt": "AI Financial Corp. says it has mitigated some of the concerns that prompted it to say earlier that it may not be able to stay in business.",
-          "link": "https://www.cnbc.com/2026/06/10/trump-crypto-alt-5-sigma-ai-financial.html",
+          "publishedAt": "2026-06-11T12:29:17Z",
+          "excerpt": "",
+          "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏支援仮想通貨に投資の企業、経営状況改善を報告",
+          "titleJa": "ECBが2023年以来初の利上げ、イラン戦争でエネルギーコスト上昇",
           "summaryJa": [
-            "AIフィナンシャル社は、以前に事業継続が困難になる可能性を示唆していた懸念を一部緩和したと発表しました。",
-            "同社はトランプ氏が支援する仮想通貨に多額の投資を行っていました。",
-            "経営状況の改善により、事業の先行きに対する不安が和らいでいます。"
+            "欧州中央銀行（ECB）は、イラン戦争によるエネルギーコスト上昇を受け、2023年以来初めて利上げを実施しました。",
+            "これはインフレ抑制を目的とした金融政策の一環とみられます。",
+            "エネルギー価格の高騰が金融政策に影響を与えています。"
           ]
         },
         {
-          "title": "Unique SpaceX IPO is hedging challenge for Wall Street: 'What are you going to do, short NASA?'",
+          "title": "SpaceX Just Got Its First Analyst Ratings",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:23:00Z",
+          "excerpt": "",
+          "link": "https://www.barrons.com/articles/spacex-stock-analyst-rating-buy-price-target-ipo-4e6e9724?siteid=yhoof2&yptr=yahoo",
+          "translationStatus": "translated",
+          "titleJa": "SpaceXが初のアナリスト評価を獲得",
+          "summaryJa": [
+            "宇宙開発企業SpaceXが、初めてアナリストによる評価を受けました。",
+            "これは同社の市場における注目度が高まっていることを示唆します。",
+            "今後の企業価値評価に影響を与える可能性があります。"
+          ]
+        },
+        {
+          "title": "Is SpaceX's New Deal With Google a Game Changer? Here's My Honest Take.",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:22:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-deal-google-game-changer-122200365.html",
+          "translationStatus": "translated",
+          "titleJa": "SpaceXとGoogleの新たな提携は市場を変えるか",
+          "summaryJa": [
+            "SpaceXとGoogleが新たな提携を結んだと報じられています。",
+            "この提携が業界に大きな変化をもたらすかどうかが注目されています。",
+            "専門家の間では、その影響について様々な見方が示されています。"
+          ]
+        },
+        {
+          "title": "As OpenAI leans into enterprise business, Apple and Google set sights on the masses",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T18:39:39Z",
-          "excerpt": "Millbank Dartmoor Portsmouth CIO Dennis Davitt says he hasn't seen anything like the SpaceX IPO since 2004. Investors are nervous about the...",
-          "link": "https://www.cnbc.com/2026/06/10/spacex-ipo-hedging-challenge-wall-street-short-nasa.html",
+          "publishedAt": "2026-06-11T12:17:17Z",
+          "excerpt": "OpenAI's aggressive push into the enterprise, where it competes with Anthropic, coincides with efforts by Apple and Google to bring advance...",
+          "link": "https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html",
           "translationStatus": "translated",
-          "titleJa": "SpaceXの異例なIPO、ウォール街にヘッジの課題",
+          "titleJa": "OpenAIが法人事業に注力、AppleとGoogleは一般消費者市場を狙う",
           "summaryJa": [
-            "ミルバンク・ダートムーア・ポーツマス社のデニス・ダビットCIOは、SpaceXのIPOは2004年以来の異例なものだと述べています。",
-            "投資家はSpaceXのIPOに対して神経質になっており、そのユニークな性質が課題となっています。",
-            "ウォール街では、このようなIPOに対する新たなヘッジ戦略の構築が求められています。"
+            "OpenAIは法人向け事業への積極的な展開を進めており、Anthropicなどと競合しています。",
+            "一方、AppleとGoogleは先進技術を一般消費者向けに提供する取り組みを強化しています。",
+            "各社が異なる市場戦略でAI分野の競争を繰り広げています。",
+            "法人市場と一般消費者市場でAI技術の普及が進む見込みです。"
           ]
         },
         {
-          "title": "A will isn’t enough: 3 ways to help your loved ones before you die",
-          "source": "MarketWatch",
-          "publishedAt": "2026-06-10T18:27:00Z",
-          "excerpt": "There are countless ways to mess up estate planning — even if you’re organized.",
-          "link": "https://www.marketwatch.com/story/a-will-isnt-enough-3-ways-to-help-your-loved-ones-before-you-die-be522804?mod=mw_rss_topstories",
+          "title": "Lovesac Q1 fiscal 2027 earnings: loss smaller than expected",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:15:45Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-q1-fiscal-2027-earnings-121545862.html",
           "translationStatus": "translated",
-          "titleJa": "遺言書だけでは不十分：生前に愛する人を助ける3つの方法",
+          "titleJa": "Lovesac 2027年度第1四半期決算、損失が予想を下回る",
           "summaryJa": [
-            "遺産計画は、たとえ整理整頓された人であっても失敗する可能性が多々あります。",
-            "遺言書を作成するだけでは、愛する人を助けるには不十分な場合があります。",
-            "生前に適切な対策を講じることで、家族が困らないように準備することができます。"
+            "家具小売企業Lovesacの2027年度第1四半期決算が発表されました。",
+            "同社の損失は市場の予想よりも小幅にとどまりました。",
+            "これは投資家にとってポジティブな材料となる可能性があります。"
           ]
         },
         {
-          "title": "As gold's tumble continues, traders bet the pain may last for two more years",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T18:23:22Z",
-          "excerpt": "Selling in the precious metal just keeps getting worse, with the GLD ETF now down 25% from its intraday record in February.",
-          "link": "https://www.cnbc.com/2026/06/10/as-golds-tumble-continues-traders-bet-the-pain-may-last-for-two-more-years.html",
+          "title": "ECB Hikes Rates to Tame Inflation. The Fed Could Follow.",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:15:00Z",
+          "excerpt": "",
+          "link": "https://www.barrons.com/articles/ecb-rates-fed-iran-war-inflation-89750f0a?siteid=yhoof2&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "金価格の下落続く、トレーダーは今後2年間苦境が続くと予想",
+          "titleJa": "ECBがインフレ抑制のため利上げ、FRBも追随の可能性",
           "summaryJa": [
-            "貴金属の売却が続き、金価格の下落が止まりません。",
-            "金の上場投資信託（ETF）であるGLDは、2月の場中最高値から現在25%下落しています。",
-            "トレーダーたちは、この金価格の低迷がさらに2年間続く可能性があると見ています。"
+            "欧州中央銀行（ECB）は、インフレ抑制を目的として利上げを実施しました。",
+            "これを受け、米連邦準備制度理事会（FRB）も同様の利上げに踏み切る可能性が指摘されています。",
+            "世界的な金融引き締めが加速するとの見方が広がっています。"
           ]
         },
         {
-          "title": "Here are all the red flags in the SpaceX IPO",
-          "source": "MarketWatch",
-          "publishedAt": "2026-06-10T18:22:00Z",
-          "excerpt": "You have to give Elon Musk credit for his vision — and chutzpah.",
-          "link": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
+          "title": "Why These 2 Analyst Say Oracle’s Post-Earnings Stock Slump Is a Buying Opportunity",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:15:00Z",
+          "excerpt": "",
+          "link": "https://www.barrons.com/articles/oracle-stock-price-earnings-buy-analysts-bfb005a2?siteid=yhoof2&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "SpaceX IPOにおける全ての危険信号",
+          "titleJa": "オラクルの株価下落は買い時、アナリスト2名が指摘",
           "summaryJa": [
-            "SpaceXのIPOには複数の懸念点が存在します。",
-            "イーロン・マスク氏のビジョンと大胆さは評価されるべきです。",
-            "しかし、投資家はIPOにおける潜在的なリスクを考慮する必要があります。"
+            "オラクルの株価が決算発表後に下落しました。",
+            "しかし、2人のアナリストはこれを買いの好機と見ています。",
+            "同社の将来性に対する期待が背景にあるとみられます。"
           ]
         },
         {
-          "title": "Worried about a lower Social Security benefit? How to calculate the exact impact it will have on your retirement.",
-          "source": "MarketWatch",
-          "publishedAt": "2026-06-10T18:20:00Z",
-          "excerpt": "If benefits go down 22% in 2032 as predicted by the latest Trustees report, you need to know what that means for you.",
-          "link": "https://www.marketwatch.com/story/you-can-calculate-the-exact-impact-a-reduced-social-security-check-will-have-on-your-retirement-success-f0f58429?mod=mw_rss_topstories",
+          "title": "Developing world's 'complex' debt could raise costs, stall restructurings, Lazard says",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:13:33Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/news/developing-worlds-complex-debt-could-121333172.html",
           "translationStatus": "translated",
-          "titleJa": "社会保障給付額の減少に懸念？退職後の影響を正確に計算する方法",
+          "titleJa": "発展途上国の「複雑な債務」がコスト増と再編停滞を招く恐れ、ラザードが警告",
           "summaryJa": [
-            "最新の受託者報告書によると、2032年には社会保障給付が22%減少すると予測されています。",
-            "この給付額の減少が自身の退職後の生活にどのような影響を与えるかを知る必要があります。",
-            "その影響を正確に計算する方法を学ぶことが重要です。"
+            "金融アドバイザリー会社ラザードは、発展途上国の債務問題について警告しました。",
+            "「複雑な債務」が、コスト上昇や債務再編の停滞を引き起こす可能性があると指摘しています。",
+            "これは世界経済に影響を及ぼす懸念があります。"
           ]
         },
         {
-          "title": "Trump doubles down on Pulte for DNI, calls for short-term extension of foreign surveillance law",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T18:17:59Z",
-          "excerpt": "Unless Congress acts, a key provision of the Foreign Intelligence Surveillance Act will expire at the end of this week.",
-          "link": "https://www.cnbc.com/2026/06/10/trump-pulte-fisa-extension.html",
+          "title": "Stock Market Today: Dow Rallies 400 Points Amid U.S. Strikes; Oracle Plunges On Earnings (Live Coverage)",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:11:50Z",
+          "excerpt": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl/?src=A00220&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏、DNIにパルテ氏を再指名、外国情報監視法の短期延長を要求",
+          "titleJa": "本日の株式市場：ダウ平均400ポイント上昇、オラクルは決算で急落",
           "summaryJa": [
-            "ドナルド・トランプ氏は、国家情報長官（DNI）にパルテ氏を改めて指名しました。",
-            "また、外国情報監視法（FISA）の短期延長を議会に求めました。",
-            "議会が行動しなければ、FISAの主要な条項は今週末に期限切れとなります。"
+            "本日の株式市場では、ダウ平均株価が400ポイント上昇しました。",
+            "米国の空爆が報じられる中での動きです。",
+            "一方、オラクルの株価は決算発表を受けて急落しました。"
           ]
         },
         {
-          "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T18:17:33Z",
-          "excerpt": "When OpenAI and Anthropic make their IPO prospectuses available to the public, investors are going to have to learn about a whole new econo...",
-          "link": "https://www.cnbc.com/2026/06/10/wall-street-needs-crash-course-in-tokens-ahead-openai-anthropic-ipos.html",
+          "title": "With Consumer Sentiment Near a Record Low, Investors Should Watch This in the Upcoming Reading",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-11T12:10:50Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/economy/articles/consumer-sentiment-near-record-low-121050029.html",
           "translationStatus": "translated",
-          "titleJa": "AI企業のIPOに備え、ウォール街はトークン経済の集中講座が必要：SpaceXがその前触れ",
+          "titleJa": "消費者信頼感が過去最低水準に迫る中、投資家は今後の指標に注目すべき",
           "summaryJa": [
-            "OpenAIやAnthropicなどのAI企業がIPO目論見書を公開する際、投資家は新たな経済について学ぶ必要があります。",
-            "ウォール街は、これらのAI企業のIPOに備えて、トークン経済に関する集中講座が必要とされています。",
-            "SpaceXのIPOは、この新たな経済への移行の予習を提供しています。"
-          ]
-        },
-        {
-          "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T17:46:32Z",
-          "excerpt": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
-          "link": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html",
-          "translationStatus": "translated",
-          "titleJa": "ノースカロライナ州財務官、SpaceXの評価額懸念で投資見送り、OpenAIとAnthropicを支持",
-          "summaryJa": [
-            "ノースカロライナ州財務官は、SpaceXの評価額に対する懸念を理由に、同社への投資を見送りました。",
-            "その一方で、AIスタートアップであるOpenAIとAnthropicには多額の投資を行っています。",
-            "同州は、SpaceXへの直接的な出資を避ける方針を示しています。"
-          ]
-        },
-        {
-          "title": "Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard'",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-10T17:30:17Z",
-          "excerpt": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was...",
-          "link": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、イランへの追加攻撃を表明、「非常に強く攻撃する」と発言",
-          "summaryJa": [
-            "ドナルド・トランプ大統領は、今週攻撃が再開されたことを受け、イランへの追加攻撃を約束しました。",
-            "大統領は、米国がイランを「非常に強く攻撃する」と述べました。",
-            "今週初めには、戦争を終わらせるための合意があったと発言していました。"
+            "消費者信頼感が過去最低水準に近づいていることが示されています。",
+            "投資家は、今後発表される関連指標に注目する必要があります。",
+            "これは経済の先行きや消費動向を測る上で重要な要素となります。"
           ]
         }
       ]
@@ -420,17 +444,129 @@
       "name": "AIニュース",
       "items": [
         {
-          "title": "Fable won’t answer basic biology questions",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
           "source": "The Verge AI",
-          "publishedAt": "2026-06-10T18:43:34Z",
+          "publishedAt": "2026-06-11T11:40:43Z",
+          "excerpt": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic、新AIモデル「Claude Fable 5」の隠れた制限を謝罪",
+          "summaryJa": [
+            "Anthropicは、新しいAIモデル「Claude Fable 5」に隠れた制限を密かに導入したことについて謝罪しました。",
+            "これらのステルス的なガードレールは、研究者にとって問題となるものでした。",
+            "同社は、モデルの性能を抑制する措置を適用していたことを認めました。"
+          ]
+        },
+        {
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-06-11T11:00:45Z",
+          "excerpt": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other...",
+          "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+          "translationStatus": "translated",
+          "titleJa": "Google DeepMind、数百万のAIエージェント相互作用の危険性を懸念",
+          "summaryJa": [
+            "Google DeepMindは、数百万もの異なるAIエージェントが互いに相互作用する状況における潜在的な危険性について懸念を表明しています。",
+            "同社は、この問題に関する研究に資金を提供しています。",
+            "AIエージェントの複雑な相互作用がもたらすリスクを調査することが目的です。"
+          ]
+        },
+        {
+          "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-11T04:02:19Z",
+          "excerpt": "The decision comes as India emerges as the world’s largest GCC market.",
+          "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+          "translationStatus": "translated",
+          "titleJa": "Opendoorのインド撤退、AIとアウトソーシングに関する議論を加速",
+          "summaryJa": [
+            "Opendoorのインド撤退が、AIとアウトソーシングに関する広範な議論を促しています。",
+            "この決定は、インドが世界最大のGCC（グローバル・ケイパビリティ・センター）市場として台頭する中で下されました。",
+            "インド市場におけるAIとアウトソーシングの将来について、注目が集まっています。"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei has just one direct report",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-11T03:53:06Z",
+          "excerpt": "If you doubted his genius, doubt no more.",
+          "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropicのダリオ・アモデイ氏、直属の部下は一人",
+          "summaryJa": [
+            "Anthropicのダリオ・アモデイ氏の直属の部下は一人だけであることが報じられました。",
+            "この事実は、彼の経営スタイルや組織構造に関する注目を集めています。",
+            "彼のリーダーシップと能力に対する評価が改めて示唆されています。"
+          ]
+        },
+        {
+          "title": "Deezer launches an AI music detector for other streaming services",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-10T23:42:48Z",
+          "excerpt": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming se...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+          "translationStatus": "translated",
+          "titleJa": "Deezer、他社ストリーミングサービス向けAI生成音楽検出器を発表",
+          "summaryJa": [
+            "Deezerは、他のストリーミングプラットフォーム上のプレイリストをスキャンし、AI生成音楽を検出する機能を発表しました。",
+            "同社は主要なストリーミングサービスの中で、AI生成音楽への対応をいち早く進めています。",
+            "この新機能により、ユーザーはAIが作成した音楽を識別できるようになります。"
+          ]
+        },
+        {
+          "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-10T22:31:19Z",
+          "excerpt": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's...",
+          "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "translationStatus": "translated",
+          "titleJa": "xAI、Grokの安全性懸念を提起したエンジニアを解雇と新訴訟で主張",
+          "summaryJa": [
+            "元xAIのエンジニアが、同社とSpaceXを提訴しました。",
+            "訴状によると、彼はGrokのAI安全性に関する懸念を提起したために解雇されたと主張しています。",
+            "この解雇は、SpaceXのイベントの数日前に発生したとされています。"
+          ]
+        },
+        {
+          "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-10T20:19:31Z",
+          "excerpt": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+          "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+          "translationStatus": "translated",
+          "titleJa": "Amazon、AI投資継続で銀行から175億ドルを借り入れ",
+          "summaryJa": [
+            "Amazonは、社債発行に続き、AIへの継続的な投資のため銀行から175億ドルを借り入れました。",
+            "企業はAI開発競争に追いつくため、多額の資金を投入しています。",
+            "これにより、各社の負債が増加傾向にあります。"
+          ]
+        },
+        {
+          "title": "Claude Fable won’t answer basic biology questions",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-10T19:02:08Z",
           "excerpt": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
           "translationStatus": "translated",
-          "titleJa": "Fable、基本的な生物学の質問に回答せず",
+          "titleJa": "Claude Fable、基本的な生物学の質問に回答せず",
           "summaryJa": [
-            "Anthropicが最新のAIモデル「Claude Fable 5」を公開しました。",
-            "同社はこれをこれまでで最も強力なAIモデルと称しています。",
-            "しかし、Fableは基本的な生物学の質問に答えることができないと報じられています。"
+            "Anthropicがリリースした新AIモデル「Claude Fable 5」が、基本的な生物学の質問に回答できないことが判明しました。",
+            "同社は「Claude Fable 5」をこれまでで最も強力なAIモデルとして広く提供し、その能力を高く評価していました。",
+            "この事実は、モデルの性能に関する疑問を提起しています。"
+          ]
+        },
+        {
+          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-10T18:58:05Z",
+          "excerpt": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tel...",
+          "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+          "translationStatus": "translated",
+          "titleJa": "Microsoft、データ保持懸念で従業員によるClaude Fable利用を制限",
+          "summaryJa": [
+            "AnthropicがリリースしたAIモデル「Claude Fable」について、Microsoft社内で懸念が生じています。",
+            "情報源によると、Microsoftはデータ保持に関する懸念から、従業員による「Claude Fable」の利用を制限しています。",
+            "このモデルは、Anthropic初のMythosクラスAIモデルとして発表されました。"
           ]
         },
         {
@@ -440,123 +576,11 @@
           "excerpt": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington,...",
           "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
           "translationStatus": "translated",
-          "titleJa": "AI規制の未来、異例の協力関係が生まれる可能性",
+          "titleJa": "AI規制の未来、異例の協力関係が生まれる",
           "summaryJa": [
-            "AI規制の将来に関して、これまでになかったような協力関係が形成されつつあります。",
-            "これは、テクノロジー業界の政治、影響力、そしてワシントンでの動向に関するものです。",
-            "規制の方向性を巡り、様々な関係者が複雑な状況で連携する可能性があります。"
-          ]
-        },
-        {
-          "title": "I tried Siri AI, and so far it actually works",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-10T17:51:34Z",
-          "excerpt": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly...",
-          "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-          "translationStatus": "translated",
-          "titleJa": "Siri AIを試用、現時点では機能していると報告",
-          "summaryJa": [
-            "筆者がSiri AIを試用したところ、今のところ実際に機能していると報告されています。",
-            "親たちがAIに求めるのは、メールなどからサッカーの試合日程やイベント情報をリストに追加することです。",
-            "この機能がSiri AIで実現されているようです。"
-          ]
-        },
-        {
-          "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-10T17:45:11Z",
-          "excerpt": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone...",
-          "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-          "translationStatus": "translated",
-          "titleJa": "マイクロソフト、AIを称賛する卒業式講演者への学生の反発を理解",
-          "summaryJa": [
-            "全国の大学卒業生が、AIを過度に称賛する卒業式の講演者に対しブーイングや野次を飛ばしています。",
-            "マイクロソフトは、学生たちのこうした反発の理由を十分に理解していると表明しています。",
-            "同社は、この状況について皆に理解を求めたいと考えているようです。"
-          ]
-        },
-        {
-          "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-10T17:26:56Z",
-          "excerpt": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't...",
-          "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-          "translationStatus": "translated",
-          "titleJa": "Google、YouTubeクリエイターの楽曲をAI学習に利用していることを認めず",
-          "summaryJa": [
-            "Googleは、YouTubeにアップロードされた楽曲を音楽AI「Lyria」の学習に利用していると見られています。",
-            "しかし、同社はこの事実を明確に認めることを避けています。",
-            "ユーザーの動画がAI学習の対象となっている可能性が高いと指摘されています。"
-          ]
-        },
-        {
-          "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T17:07:35Z",
-          "excerpt": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's sa...",
-          "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-          "translationStatus": "translated",
-          "titleJa": "AIに熱心な企業、従業員一人当たり月7,500ドルをAIに投資",
-          "summaryJa": [
-            "Ramp AI Indexによると、AIに最も熱心な企業は従業員一人当たり毎月約7,500ドルをAIに費やしています。",
-            "この投資額は、エンジニアの給与よりも少ない額ではありません。",
-            "AIへの積極的な投資が企業の戦略として進められていることが示されています。"
-          ]
-        },
-        {
-          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-10T16:50:23Z",
-          "excerpt": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tel...",
-          "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-          "translationStatus": "translated",
-          "titleJa": "マイクロソフト、データ保持の懸念から従業員によるClaude Fable利用を制限",
-          "summaryJa": [
-            "Anthropicが初のMythosクラスAIモデル「Claude Fable」をリリースしました。",
-            "しかし、このモデルはマイクロソフト社内で懸念を引き起こしています。",
-            "データ保持に関する懸念から、マイクロソフトは従業員によるClaude Fableの利用を制限しています。"
-          ]
-        },
-        {
-          "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-10T16:18:45Z",
-          "excerpt": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images...",
-          "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-          "translationStatus": "translated",
-          "titleJa": "Google、Lens写真や検索音声、翻訳音声をAI学習用に保存へ",
-          "summaryJa": [
-            "Googleは、検索とのインタラクションの保存方法に変更を加えています。",
-            "ユーザーに送られたメールによると、GoogleはLensで撮影された画像や検索のライブ録音を保存します。",
-            "また、翻訳機能の音声データもAI学習のために保存されるとのことです。"
-          ]
-        },
-        {
-          "title": "How memory tools can make AI models worse",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T16:11:08Z",
-          "excerpt": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-          "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-          "translationStatus": "translated",
-          "titleJa": "AIの記憶ツールがモデル性能を低下させる可能性",
-          "summaryJa": [
-            "新しい研究によると、AIの記憶システムがモデルの性能を低下させる可能性があります。",
-            "また、記憶システムはAIに追従的な傾向を助長する可能性も示唆されています。",
-            "これは、AIの記憶機能の設計における課題を示しています。"
-          ]
-        },
-        {
-          "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T15:41:22Z",
-          "excerpt": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-          "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-          "translationStatus": "translated",
-          "titleJa": "サイバーセキュリティ研究者、AnthropicのFableの厳しすぎるガードレールに不満",
-          "summaryJa": [
-            "サイバーセキュリティ研究者たちが、Anthropicの新しいAIモデル「Fable」について不満を表明しています。",
-            "Fableに設定されているガードレールが厳しすぎると指摘されています。",
-            "これにより、サイバーセキュリティ関連の作業に支障が出ると懸念されています。"
+            "AI規制の将来において、これまでになかったような異例の協力関係が形成されつつあります。",
+            "これは、テクノロジー政治、影響力、そしてワシントンでの動きに関するものです。",
+            "異なる立場の人々が、AI規制の枠組みを巡って連携を模索しています。"
           ]
         }
       ]
@@ -566,143 +590,143 @@
       "name": "教育ニュース",
       "items": [
         {
-          "title": "Colorado group that started controversial ‘public Christian school’ faces member defections",
+          "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
+          "source": "The 74",
+          "publishedAt": "2026-06-11T12:30:00Z",
+          "excerpt": "For years, many teachers at Frederick Douglass Elementary School didn’t know the names of all their students. Those were dark years before...",
+          "link": "https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/",
+          "translationStatus": "translated",
+          "titleJa": "デラウェア州の小学校、かつての「刑務所」から全国的模範校へ",
+          "summaryJa": [
+            "デラウェア州のフレデリック・ダグラス小学校は、かつて多くの教師が生徒全員の名前を知らないような状況でした。",
+            "長年にわたり、学校は「刑務所」のように感じられる暗い時期を経験していました。",
+            "しかし、現在では全国的な模範校として注目されています。"
+          ]
+        },
+        {
+          "title": "Exclusive: 7 Things to Know About Microschools in 2026",
+          "source": "The 74",
+          "publishedAt": "2026-06-11T10:30:00Z",
+          "excerpt": "Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educati...",
+          "link": "https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/",
+          "translationStatus": "translated",
+          "titleJa": "2026年のマイクロスクールに関する7つの注目点（独占情報）",
+          "summaryJa": [
+            "マイクロスクールのリーダーは、主に白人の教育者や保護者で構成されています。",
+            "彼らは従来の公立または私立学校を離れ、異なる教育環境を構築しています。",
+            "2026年におけるマイクロスクールの動向について、7つの重要な点が挙げられています。"
+          ]
+        },
+        {
+          "title": "Inside the diversity program at a selective NYC high school",
           "source": "Chalkbeat",
-          "publishedAt": "2026-06-10T18:22:03Z",
-          "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
-          "link": "https://www.chalkbeat.org/colorado/2026/06/10/education-group-erboces-that-launched-public-christian-school-loses-support/",
+          "publishedAt": "2026-06-11T09:00:00Z",
+          "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. A decade a...",
+          "link": "https://www.chalkbeat.org/newyork/2026/06/11/ps-weekly-bard-high-school-support-student-diversity-admission/",
           "translationStatus": "translated",
-          "titleJa": "コロラド州の「公立キリスト教学校」設立団体、メンバー離脱に直面",
+          "titleJa": "ニューヨーク市のエリート高校における多様性プログラムの内情",
           "summaryJa": [
-            "コロラド州で物議を醸している「公立キリスト教学校」を設立した団体が、メンバーの離脱に直面しています。",
-            "この学校は、公立でありながらキリスト教教育を行うという点で議論を呼んでいます。",
-            "団体の内部で意見の相違が生じている可能性が示唆されています。"
+            "ニューヨーク市のある選抜制高校で実施されている多様性プログラムが取り上げられています。",
+            "このプログラムは、学校内の多様性を促進することを目的としています。",
+            "詳細はChalkbeat New Yorkのニュースレターで報じられています。"
           ]
         },
         {
-          "title": "After delay, Chicago school board renews charters amid revamped oversight",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-06-10T18:15:14Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. The Chicago Board of Educa...",
-          "link": "https://www.chalkbeat.org/chicago/2026/06/10/chicago-school-board-renews-charters/",
-          "translationStatus": "translated",
-          "titleJa": "シカゴ教育委員会、監督体制刷新後にチャータースクール認可を更新",
-          "summaryJa": [
-            "シカゴ教育委員会は、遅延の後、チャータースクールの認可を更新しました。",
-            "これは、監督体制が刷新された中で行われた決定です。",
-            "シカゴの公立学校に関する最新情報が報じられています。"
-          ]
-        },
-        {
-          "title": "North Carolina Set to Nearly Double Remote Charter Academies Next Year",
-          "source": "The 74",
-          "publishedAt": "2026-06-10T17:30:00Z",
-          "excerpt": "The number of remote charter academies operating in North Carolina is expected to nearly double next school year, according to state educat...",
-          "link": "https://www.the74million.org/article/north-carolina-set-to-nearly-double-remote-charter-academies-next-year/",
-          "translationStatus": "translated",
-          "titleJa": "ノースカロライナ州、来年度に遠隔チャータースクールが倍増へ",
-          "summaryJa": [
-            "ノースカロライナ州では、来年度に運営される遠隔チャータースクールの数がほぼ倍増する見込みです。",
-            "これは州教育当局の発表によるものです。",
-            "遠隔教育の機会が拡大することを示しています。"
-          ]
-        },
-        {
-          "title": "Illinois approves numeracy plan to improve math education",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-06-10T17:17:35Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. The Illinois State Board o...",
-          "link": "https://www.chalkbeat.org/chicago/2026/06/10/illinois-approves-numeracy-plan/",
-          "translationStatus": "translated",
-          "titleJa": "イリノイ州、算数教育改善のための数値能力計画を承認",
-          "summaryJa": [
-            "イリノイ州は、算数教育を改善するための数値能力計画を承認しました。",
-            "これはイリノイ州教育委員会による決定です。",
-            "シカゴの公立学校に関する最新情報も提供されています。"
-          ]
-        },
-        {
-          "title": "‘A Sea Change’: Public School Supporters See Potential in New Tax Credit",
-          "source": "The 74",
-          "publishedAt": "2026-06-10T15:10:56Z",
-          "excerpt": "Federal, state and local. Historically, those are the three pots of funding districts have relied on to educate America’s students. One of...",
-          "link": "https://www.the74million.org/article/a-sea-change-public-school-supporters-see-potential-in-new-tax-credit/",
-          "translationStatus": "translated",
-          "titleJa": "新税額控除で公立学校支援に「大きな変化」の可能性",
-          "summaryJa": [
-            "公立学校の支援者たちは、新たな税額控除に大きな可能性を見出しています。",
-            "これまで学校の資金源は連邦、州、地方の3つに依存してきました。",
-            "新しい税額控除が、資金調達の状況に「大きな変化」をもたらすと期待されています。"
-          ]
-        },
-        {
-          "title": "Under Mamdani, New York Will Be the First to Open Free Childcare Center for City Workers",
-          "source": "The 74",
-          "publishedAt": "2026-06-10T14:30:00Z",
-          "excerpt": "Tucked in New York City Mayor Zohran Mamdani’s sprawling universal childcare plan is a little-talked-about milestone: In September, the cit...",
-          "link": "https://www.the74million.org/zero2eight/under-mamdani-ny-will-be-the-first-to-open-free-childcare-center-for-city-workers/",
-          "translationStatus": "translated",
-          "titleJa": "マムダニ市長の下、ニューヨーク市が市職員向け無料託児所を初開設へ",
-          "summaryJa": [
-            "ニューヨーク市は、ゾーラン・マムダニ市長の包括的な保育計画の一環として、市職員向けの無料託児所を初めて開設します。",
-            "この託児所は9月に開設される予定です。",
-            "これは、市職員への支援を強化する画期的な取り組みとされています。"
-          ]
-        },
-        {
-          "title": "Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading",
-          "source": "The 74",
-          "publishedAt": "2026-06-10T12:30:00Z",
-          "excerpt": "During my first year as a fifth-grade teacher, I taught a student who had moved from the Dominican Republic three weeks before school start...",
-          "link": "https://www.the74million.org/article/for-struggling-middle-and-high-schoolers-all-reading-is-good-reading/",
-          "translationStatus": "translated",
-          "titleJa": "意見：苦戦する中高生にとって、あらゆる読書は良い読書である",
-          "summaryJa": [
-            "苦戦している中学生や高校生にとって、どのような読書でも有益であるという意見が述べられています。",
-            "筆者は小学校5年生の教師だった頃の経験を例に挙げています。",
-            "ドミニカ共和国から転校してきた生徒の事例が紹介されています。"
-          ]
-        },
-        {
-          "title": "The World Cup Comes to Campus",
+          "title": "How One College Is Rethinking Free Tuition",
           "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-10T07:00:00Z",
-          "excerpt": "The World Cup Comes to Campus jessica.blake@… Wed, 06/10/2026 - 03:00 AM At least 12 colleges and universities from coast to coast will hos...",
-          "link": "https://www.insidehighered.com/news/students/athletics/2026/06/10/how-colleges-are-helping-world-cup-teams-prepare",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "How One College Is Rethinking Free Tuition Joshua.Bay Thu, 06/11/2026 - 03:00 AM Austin Community College pairs free tuition with wraparoun...",
+          "link": "https://www.insidehighered.com/news/student-success/college-experience/2026/06/11/how-one-college-rethinking-free-tuition",
           "translationStatus": "translated",
-          "titleJa": "ワールドカップが大学キャンパスにやってくる",
+          "titleJa": "ある大学が無償授業料制度を再考、包括的支援と組み合わせ",
           "summaryJa": [
-            "少なくとも12の大学がワールドカップの開催地となる予定です。",
-            "全米各地の大学がこのイベントを主催します。",
-            "キャンパスが国際的なスポーツイベントの舞台となります。"
+            "オースティン・コミュニティ・カレッジは、無償授業料制度のあり方を再検討しています。",
+            "同校は無償授業料と包括的な支援プログラムを組み合わせて提供しています。",
+            "これは、学生への支援を強化し、教育機会を広げるための取り組みです。"
           ]
         },
         {
-          "title": "DOJ Investigates CUNY’s Black Male Initiative",
+          "title": "DOJ Finds That UC Davis Medical School Considers Race in Admissions",
           "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-10T07:00:00Z",
-          "excerpt": "DOJ Investigates CUNY’s Black Male Initiative Katherine Knott Wed, 06/10/2026 - 03:00 AM Byline(s) Katherine Knott",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/10/cunys-black-male-initiative-facing-federal-investigation",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "DOJ Finds That UC Davis Medical School Considers Race in Admissions jessica.blake@… Thu, 06/11/2026 - 03:00 AM Byline(s) Jessica Blake",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/11/doj-says-uc-davis-medical-school-considers-race-admissions",
           "translationStatus": "translated",
-          "titleJa": "司法省、CUNYの黒人男性支援プログラムを調査",
+          "titleJa": "UCデイビス医科大学、入学選考で人種を考慮と司法省が指摘",
           "summaryJa": [
-            "司法省が、ニューヨーク市立大学（CUNY）の「黒人男性支援イニシアチブ」について調査を行っています。",
-            "このプログラムは、黒人男性学生を支援することを目的としています。",
-            "調査の具体的な内容は記事には明記されていません。"
+            "司法省の調査により、UCデイビス医科大学が入学選考において人種を考慮していることが判明しました。",
+            "この指摘は、大学の入試方針に関する重要な問題提起となります。",
+            "詳細はInside Higher Edで報じられています。"
           ]
         },
         {
-          "title": "‘All or Nothing’ Approach to AI ‘Risks Shutting Down Innovation’",
+          "title": "The Key Podcast: Accreditation, the Pell Shortfall and Grant Funding",
           "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-10T07:00:00Z",
-          "excerpt": "‘All or Nothing’ Approach to AI ‘Risks Shutting Down Innovation’ Susan H. Greenberg Wed, 06/10/2026 - 03:00 AM The head of learning initiat...",
-          "link": "https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/06/10/all-or-nothing-approach-ai-risks-shutting-down",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "The Key Podcast: Accreditation, the Pell Shortfall and Grant Funding sara.custer@in… Thu, 06/11/2026 - 03:00 AM Byline(s) IHE Staff",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/11/key-podcast-accreditation-pell-shortfall-grants",
           "translationStatus": "translated",
-          "titleJa": "AIへの「全か無か」のアプローチは「イノベーションを阻害するリスク」",
+          "titleJa": "ポッドキャスト「The Key」：認定制度、ペル奨学金不足、助成金について",
           "summaryJa": [
-            "AIに対する「全か無か」という極端なアプローチは、イノベーションを阻害するリスクがあると指摘されています。",
-            "学習イニシアチブの責任者がこの見解を示しました。",
-            "AIの導入や規制において、より柔軟な姿勢が求められていることを示唆しています。"
+            "ポッドキャスト「The Key」が、高等教育における重要なテーマを取り上げています。",
+            "議論されるのは、大学の認定制度、ペル奨学金の不足問題、そして助成金制度です。",
+            "これらの話題は、高等教育の財政と質に深く関わるものです。"
+          ]
+        },
+        {
+          "title": "The ‘commander’s intent’ and science",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "The ‘commander’s intent’ and science sara.custer@in… Thu, 06/11/2026 - 03:00 AM Proposed changes to the federal grant guidance could let po...",
+          "link": "https://www.insidehighered.com/opinion/columns/editors-note/2026/06/11/commanders-intent-and-science",
+          "translationStatus": "translated",
+          "titleJa": "「指揮官の意図」と科学：連邦助成金ガイドライン変更の可能性",
+          "summaryJa": [
+            "連邦助成金ガイドラインの変更案が提示されており、その影響が注目されています。",
+            "この変更は、「指揮官の意図」という概念と科学研究の関連性に影響を与える可能性があります。",
+            "詳細はInside Higher Edで報じられています。"
+          ]
+        },
+        {
+          "title": "Are Waitlists Getting Bigger?",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "Are Waitlists Getting Bigger? Johanna Alonso Thu, 06/11/2026 - 03:00 AM New data from Niche aims to illuminate how many students were waitl...",
+          "link": "https://www.insidehighered.com/news/admissions/traditional-age/2026/06/11/waitlists-might-be-getting-bigger-niche-survey-shows",
+          "translationStatus": "translated",
+          "titleJa": "大学の入学待機者リストは増加傾向か？新たなデータが示唆",
+          "summaryJa": [
+            "大学の入学待機者リストが拡大しているかどうかが議論されています。",
+            "Nicheからの新しいデータが、待機者数に関する実態を明らかにしようとしています。",
+            "このデータは、大学入試の競争激化を示唆する可能性があります。"
+          ]
+        },
+        {
+          "title": "8 University of Michigan–Affiliated Protesters Indicted",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "8 University of Michigan–Affiliated Protesters Indicted jessica.blake@… Thu, 06/11/2026 - 03:00 AM Byline(s) Jessica Blake",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/11/8-university-michigan-affiliated-protesters-indicted",
+          "translationStatus": "translated",
+          "titleJa": "ミシガン大学関係者8名が抗議活動で起訴される",
+          "summaryJa": [
+            "ミシガン大学に関連する8名の抗議活動参加者が起訴されました。",
+            "この件は、大学構内での抗議活動とその法的結果に関するものです。",
+            "詳細はInside Higher Edで報じられています。"
+          ]
+        },
+        {
+          "title": "Kentucky State Projects Enrollment Plunge After New Law",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-06-11T07:00:00Z",
+          "excerpt": "Kentucky State Projects Enrollment Plunge After New Law Ryan Quinn Thu, 06/11/2026 - 03:00 AM Byline(s) Ryan Quinn",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/11/kentucky-state-projects-enrollment-plunge-after-new-law",
+          "translationStatus": "translated",
+          "titleJa": "ケンタッキー州立大学、新法導入後に学生登録者数の大幅減少を予測",
+          "summaryJa": [
+            "ケンタッキー州立大学は、新しい法律の導入後、学生登録者数が大幅に減少すると予測しています。",
+            "この法律が大学の学生募集に大きな影響を与えると考えられています。",
+            "詳細はInside Higher Edで報じられています。"
           ]
         }
       ]
@@ -715,7 +739,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 46,
+    "translatedItems": 49,
     "failedBatches": []
   }
 }
