@@ -1,89 +1,149 @@
 {
-  "generatedAt": "2026-06-22T16:00:59.940258Z",
+  "generatedAt": "2026-06-22T20:20:07.076468Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+          "title": "Qatar PM on preventing US-Iran talks from escalation",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T20:04:43Z",
+          "excerpt": "Qatar's PM said that safeguards have been put in place to prevent US-Iran negotiations from regional escalation.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カタール首相、米イラン協議のエスカレーション防止策を表明",
+          "summaryJa": [
+            "カタール首相は、米国とイランの交渉に関して発言しました。",
+            "首相は、この交渉が地域的なエスカレーションに発展するのを防ぐための安全策が講じられたと述べました。",
+            "この措置は、協議の安定的な進行を確保することを目的としています。"
+          ]
+        },
+        {
+          "title": "Lionel Messi scores brace as Argentina beat Austria 2–0 at World Cup 2026",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T19:26:42Z",
+          "excerpt": "Messi scores twice to become all-time leading scorer in men's World Cup history as Argentina reach knockout rounds.",
+          "link": "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "メッシ選手が2得点、アルゼンチンがオーストリアに勝利し決勝トーナメント進出",
+          "summaryJa": [
+            "サッカーワールドカップ2026で、アルゼンチンがオーストリアを2対0で破りました。",
+            "リオネル・メッシ選手は2得点を挙げ、男子ワールドカップ史上最多得点者となりました。",
+            "この勝利により、アルゼンチンは決勝トーナメント進出を決めました。"
+          ]
+        },
+        {
+          "title": "Canadian police officer, suspect among 3 dead in Montreal shooting",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T19:20:55Z",
+          "excerpt": "Few details available after law enforcement say suspected attacker 'neutralised' in Quebec city.",
+          "link": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カナダ・モントリオールで銃撃事件、警官と容疑者含む3人死亡",
+          "summaryJa": [
+            "カナダのケベック州モントリオールで銃撃事件が発生し、3人が死亡しました。",
+            "死亡者の中には、警察官1人と容疑者が含まれています。",
+            "警察当局は、容疑者が「無力化された」と発表しましたが、詳細はほとんど明らかにされていません。"
+          ]
+        },
+        {
+          "title": "Thousands of kites soar over Denmark at annual beach festival",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T19:02:48Z",
+          "excerpt": "Roughly 25,000 kites flew over the Danish island of Fano for its annual International Kite Fliers Meeting.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/thousands-of-kites-soar-over-denmark-at-annual-beach-festival?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "デンマークのビーチフェスティバルで数千の凧が空を舞う",
+          "summaryJa": [
+            "デンマークのファノ島で毎年恒例の国際凧揚げ大会が開催されました。",
+            "このイベントでは、およそ2万5千個の凧が空高く舞い上がりました。",
+            "数千もの凧がデンマークの空を彩りました。"
+          ]
+        },
+        {
+          "title": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T19:00:57Z",
+          "excerpt": "US calls for negotiated solution and expresses alarm over potential 'mass atrocities' as paramilitary surrounds city.",
+          "link": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "スーダン・エルオベイド市包囲で米国が懸念表明、交渉による解決を要求",
+          "summaryJa": [
+            "スーダンのエルオベイド市が準軍事組織RSFによって包囲されています。",
+            "米国は、この状況に対し懸念を表明しました。",
+            "米国は、交渉による解決を求めるとともに、潜在的な「大規模残虐行為」について警鐘を鳴らしています。"
+          ]
+        },
+        {
+          "title": "A leftward lurch? What to know about the Democratic primaries in New York",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T18:28:13Z",
+          "excerpt": "Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.",
+          "link": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク州民主党予備選、社会主義系候補が優勢目指す",
+          "summaryJa": [
+            "ニューヨーク州の民主党予備選では、民主社会主義系の候補者が優位に立とうと動いています。",
+            "これらの選挙は、イスラエル政策や不平等といった問題が重要な争点となっています。",
+            "候補者たちは、これらの課題を巡って競争を繰り広げています。"
+          ]
+        },
+        {
+          "title": "Messi breaks World Cup’s all-time scoring record with 17th goal vs Austria",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T18:22:36Z",
+          "excerpt": "Lionel Messi is tournament's all-time and current edition's leading goal scorer with 17 and four goals, respectively.",
+          "link": "https://www.aljazeera.com/sports/2026/6/22/messi-breaks-world-cups-all-time-scoring-record-with-17th-goal-vs-austria?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "メッシ選手、オーストリア戦でW杯歴代最多得点記録を更新",
+          "summaryJa": [
+            "リオネル・メッシ選手が、ワールドカップの歴代最多得点記録を更新しました。",
+            "オーストリア戦でのゴールにより、通算17得点を達成しました。",
+            "メッシ選手は、今大会でも4得点を挙げ、得点ランキングのトップに立っています。"
+          ]
+        },
+        {
+          "title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-22T18:18:17Z",
+          "excerpt": "Mediators Qatar and Pakistan say plan seeks to ensure the end of military operations in Lebanon.",
+          "link": "https://www.aljazeera.com/news/2026/6/22/lebanon-discusses-de-confliction-mechanism-ahead-of-israel-talks?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "レバノン、イスラエルとの協議前に「衝突回避メカニズム」を議論",
+          "summaryJa": [
+            "レバノンは、イスラエルとの協議に先立ち、「衝突回避メカニズム」について議論しています。",
+            "仲介役のカタールとパキスタンは、この計画がレバノンでの軍事作戦の終結を確実にすることを目指していると述べています。",
+            "このメカニズムは、軍事衝突の再発防止を目的としています。"
+          ]
+        },
+        {
+          "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
           "source": "BBC News",
-          "publishedAt": "2026-06-22T15:57:46Z",
-          "excerpt": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-          "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-22T18:11:56Z",
+          "excerpt": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
+          "link": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ホイットニー・ヒューストンらを育てた音楽界の大物クライヴ・デイヴィス氏が94歳で死去",
+          "summaryJa": [
+            "ホイットニー・ヒューストンやブルース・スプリングスティーンなど、数々の有名アーティストを手がけた音楽界の大物、クライヴ・デイヴィス氏が94歳で亡くなりました。",
+            "デイヴィス氏はレコード会社の重役として、ビリー・ジョエルやピンク・フロイドとも協働しました。",
+            "また、アリシア・キーズやエアロスミスといったアーティストのキャリアにも貢献しました。"
+          ]
         },
         {
-          "title": "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green",
+          "title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T15:35:16Z",
-          "excerpt": "Donald Trump, who spent $14m relining the iconic pool, claims it has been vandalised by 'radical left lunatics'.",
-          "link": "https://www.aljazeera.com/news/2026/6/22/why-washingtons-reflecting-pool-has-gone-from-us-blue-to-algae-green?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Myanmar army killed over 700 civilians in six months, UN says",
-          "source": "BBC News",
-          "publishedAt": "2026-06-22T15:31:55Z",
-          "excerpt": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
-          "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T15:26:36Z",
-          "excerpt": "Football fans in Gaza showed overwhelming support for Spain against Saudi Arabia during Sunday's World Cup clash.",
-          "link": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-          "source": "BBC News",
-          "publishedAt": "2026-06-22T15:15:42Z",
-          "excerpt": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T15:12:01Z",
-          "excerpt": "Greenspan presided over economic turbulence, including crises and booms, during his 18-year tenure as Fed chairman.",
-          "link": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "What the World Cup looks like from Gaza",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T15:02:28Z",
-          "excerpt": "Gaza's footballers train on broken pitches with no shoes. Why has FIFA's rebuilding plan gone nowhere?",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Ukraine says it hit missile electronics plant in western Russia",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T14:43:55Z",
-          "excerpt": "Ukraine says facility a 'critical component' in defence production as local Russian authorities confirm attack.",
-          "link": "https://www.aljazeera.com/news/2026/6/22/ukraine-says-it-hit-missile-electronics-plant-in-western-russia?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Ex-Wimbledon champion Vondrousova banned for refusing drug test",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T14:36:37Z",
-          "excerpt": "Marketa Vondrousova, who won Wimbledon in 2023, was issued a four year suspension after she refused to submit a ⁠⁠sample.",
-          "link": "https://www.aljazeera.com/sports/2026/6/22/ex-wimbledon-champion-vondrousova-banned-for-refusing-drug-test?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-22T14:23:45Z",
-          "excerpt": "The United Kingdom will have its seventh prime minister in a decade.",
-          "link": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-22T17:34:56Z",
+          "excerpt": "Qatar's PM said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カタール首相、米イラン協議で進展があったと表明",
+          "summaryJa": [
+            "カタール首相は、アルジャジーラに対し、米国とイランの協議で進展があったと述べました。",
+            "スイスで行われたこの協議は18時間に及びました。",
+            "首相によると、この議論により最終合意に向けた基礎が築かれたとのことです。"
+          ]
         }
       ]
     },
@@ -92,135 +152,145 @@
       "name": "日本ニュース",
       "items": [
         {
+          "title": "W杯 アルゼンチン オーストリアに勝利 メッシは通算得点を18に",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-22T20:09:38Z",
+          "excerpt": "サッカーワールドカップ北中米大会の1次リーグのグループJ、アルゼンチン対オーストリアは、アルゼンチンが2対0で勝ち、決勝トーナメント進出を決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156781000.html",
+          "translationStatus": "translated",
+          "titleJa": "W杯 アルゼンチンがオーストリアに勝利 メッシは通算得点18に",
+          "summaryJa": [
+            "サッカーワールドカップ北中米大会の1次リーグ、グループJでアルゼンチン対オーストリアの試合が行われました。",
+            "アルゼンチンはオーストリアに2対0で勝利を収めました。",
+            "この結果、アルゼンチンは決勝トーナメントへの進出を決めました。"
+          ]
+        },
+        {
+          "title": "都副知事、2人交代で調整 局長から登用検討(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-22T20:00:03Z",
+          "excerpt": "東京都が4人の副知事のうち、栗岡祥一氏、松本明子氏の2人を交代させる方向で調整を進めていることが22日、関係者への取材で分かった。後任には都総務局長の佐藤智秀氏と政策企画局長の佐藤章氏を充てる方針。",
+          "link": "https://news.yahoo.co.jp/articles/a46715806ee4d7048925fa6f7875355fe13e0587?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "東京都、副知事2人交代へ調整 局長級を後任に検討",
+          "summaryJa": [
+            "東京都は、4人の副知事のうち栗岡祥一氏と松本明子氏の2人を交代させる方向で調整を進めています。",
+            "関係者への取材で22日に明らかになりました。",
+            "後任には、都総務局長の佐藤智秀氏と政策企画局長の佐藤章氏を充てる方針です。"
+          ]
+        },
+        {
+          "title": "カタール LNG工業地域で爆発 13人死亡 技術的な不具合が原因か",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-22T19:38:58Z",
+          "excerpt": "カタールの当局はLNG＝液化天然ガスの生産施設がある工業地域で爆発が起き、13人が死亡、66人が負傷したと発表しました。原因は技術的な不具合だとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156771000.html",
+          "translationStatus": "translated",
+          "titleJa": "カタールLNG工業地域で爆発、13人死亡 技術的不具合が原因か",
+          "summaryJa": [
+            "カタールのLNG生産施設がある工業地域で爆発が発生し、当局が発表しました。",
+            "この爆発により、13人が死亡し、66人が負傷しました。",
+            "爆発の原因は技術的な不具合によるものとされています。"
+          ]
+        },
+        {
+          "title": "在留資格は「高度専門職」 逮捕の国際詐欺組織幹部(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-22T19:19:56Z",
+          "excerpt": "米・英政府がアジア最大級の犯罪集団として経済制裁を科したカンボジアの中国系組織「プリンス・グループ」幹部とみられ、警視庁に逮捕された男の在留資格が「高度専門職」だったことが23日、捜査関係者への取材",
+          "link": "https://news.yahoo.co.jp/articles/ff1520622e3d0375808da961ac48d678a394688d?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "逮捕の国際詐欺組織幹部、在留資格は「高度専門職」",
+          "summaryJa": [
+            "警視庁に逮捕された男の在留資格が「高度専門職」だったことが23日、捜査関係者への取材で判明しました。",
+            "この男は、米英政府が経済制裁を科した中国系組織「プリンス・グループ」の幹部とみられています。",
+            "同組織はアジア最大級の犯罪集団とされています。"
+          ]
+        },
+        {
+          "title": "関西大で大屋根リング再現 万博遺産、学生会館で継承(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-22T19:15:52Z",
+          "excerpt": "関西大は千里山キャンパス（大阪府吹田市）に大阪・関西万博のシンボルだった「大屋根リング」の木材を活用し、学生会館を建て替え整備する。柱やはりとして使われていたおよそ300本を用い、会館のエントランス",
+          "link": "https://news.yahoo.co.jp/articles/12fcd68d8cdbd9f1de44ed970c7d640fb767c43a?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "関西大、万博「大屋根リング」木材で学生会館を整備",
+          "summaryJa": [
+            "関西大学は千里山キャンパスに、大阪・関西万博のシンボルだった「大屋根リング」の木材を活用します。",
+            "学生会館を建て替え整備する計画です。",
+            "柱や梁として使われていた約300本の木材が、会館のエントランスなどに用いられます。"
+          ]
+        },
+        {
+          "title": "神戸の遺体、一定期間は冷凍か 「3月から異臭」管理会社に相談(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-22T19:14:37Z",
+          "excerpt": "神戸市中央区のマンション一室で冷凍庫から切断遺体が見つかった事件で、遺体は一定期間冷凍されていたことが23日、兵庫県警への取材で分かった。発見時には部屋の電気が止まっており、凍っていた遺体が溶けて腐",
+          "link": "https://news.yahoo.co.jp/articles/f74c8ffb767b0418dab33df1bdab2514a0efd909?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "神戸の切断遺体、一定期間冷凍か 部屋は電気停止",
+          "summaryJa": [
+            "神戸市中央区のマンションで冷凍庫から切断遺体が見つかった事件で、遺体は一定期間冷凍されていたことが判明しました。",
+            "23日、兵庫県警への取材で明らかになりました。",
+            "発見時、部屋の電気は止まっており、凍っていた遺体が溶けて腐敗が進んだとみられています。"
+          ]
+        },
+        {
+          "title": "円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-22T18:04:24Z",
+          "excerpt": "22日のニューヨーク外国為替市場では、アメリカのFRB＝連邦準備制度理事会による利上げ観測などを背景に円売りドル買いの動きが進み、円相場は一時、1ドル＝161円90銭台まで値下がりし、およそ39年半ぶりの円安水準に迫りました。その後は政府・日銀による市場介入への警戒感などから急...",
+          "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156751000.html",
+          "translationStatus": "translated",
+          "titleJa": "円相場、約39年半ぶり円安水準に迫る 市場介入への警戒感も",
+          "summaryJa": [
+            "22日のニューヨーク外国為替市場で、円相場は一時1ドル＝161円90銭台まで値下がりしました。",
+            "これは約39年半ぶりの円安水準に迫る動きです。",
+            "アメリカFRBの利上げ観測を背景に円売りドル買いが進んだためです。",
+            "その後は政府・日銀による市場介入への警戒感などから、急激な動きが見られました。"
+          ]
+        },
+        {
+          "title": "【報ステ】沖縄から“希望の島”パラオへ 海の向こうにあったもう1つの戦争(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-22T16:45:30Z",
+          "excerpt": "6月23日は沖縄慰霊の日です。かつて沖縄の人々が背負った苦しみは、本島での地上戦だけではありません。戦前、2000キロもの海を渡り、遠くパラオで暮らしを築いた人たちがいました。知られざる戦争の記憶です",
+          "link": "https://news.yahoo.co.jp/articles/3922b65a5a28db9e622b726e0c47d2f296b94395?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "沖縄慰霊の日、パラオにあった知られざる戦争の記憶",
+          "summaryJa": [
+            "6月23日は沖縄慰霊の日です。",
+            "沖縄の人々が経験した苦しみは、本島での地上戦だけではありませんでした。",
+            "戦前、2000キロ離れたパラオで暮らしを築いた人々がおり、そこにも知られざる戦争の記憶がありました。"
+          ]
+        },
+        {
+          "title": "片山財務相 米ベッセント財務長官と会談 為替動向を意見交換か",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-22T16:14:29Z",
+          "excerpt": "片山財務大臣が22日夜、アメリカのベッセント財務長官とオンラインで会談を行ったことが分かりました。外国為替市場で39年半ぶりとなる円安ドル高水準が迫る中、為替の動向について意見を交わした可能性があります。",
+          "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156761000.html",
+          "translationStatus": "translated",
+          "titleJa": "片山財務相、米ベッセント財務長官と会談 為替動向を協議か",
+          "summaryJa": [
+            "片山財務大臣が22日夜、アメリカのベッセント財務長官とオンラインで会談しました。",
+            "外国為替市場で約39年半ぶりの円安ドル高水準が迫る中での会談です。",
+            "両者は為替の動向について意見を交わした可能性があります。"
+          ]
+        },
+        {
           "title": "【台風情報】「台風7号（メーカラー）」最大瞬間風速75m/s・中心気圧915hPa・猛烈な勢力に急発達見込み 新たな熱帯低気圧は24時間以内に台風に…“ダブル台風”へ それぞれの進路予想・雨風シミュレーション【気象庁23日0時45分発表】(BSS山陰放送)",
           "source": "Yahoo!ニュース 国内",
           "publishedAt": "2026-06-22T15:53:12Z",
           "excerpt": "気象庁によりますと、非常に強い台風7号は、23日午前0時現在フィリピンの東を時速15kmで西北西へ進んでいます。 一方、マリアナ諸島をゆっくりと西へ進んでいる熱帯低気圧bは、24時間以内に台風へ発達",
           "link": "https://news.yahoo.co.jp/articles/68abe27ec75ebf7fb4c29a10fb2ac348d50ce49d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風7号が猛烈な勢力に急発達見込み、新たな熱帯低気圧も台風化へ",
+          "titleJa": "台風7号「メーカラー」非常に強い勢力で進行中、新たな熱帯低気圧も台風に発達へ",
           "summaryJa": [
             "気象庁によると、非常に強い台風7号は23日午前0時現在、フィリピンの東を西北西へ進んでいます。",
-            "最大瞬間風速75m/s、中心気圧915hPaの猛烈な勢力に急発達する見込みです。",
-            "一方、マリアナ諸島付近の熱帯低気圧は24時間以内に台風へ発達すると予想されています。",
-            "これにより、\"ダブル台風\"となる可能性があります。"
+            "また、マリアナ諸島をゆっくりと西へ進む熱帯低気圧bは、24時間以内に台風へ発達する見込みです。",
+            "これにより、今後、二つの台風が同時に存在することになります。"
           ]
-        },
-        {
-          "title": "神戸 冷凍庫切断遺体 死体損壊などの疑いで捜査本部設置",
-          "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-22T15:34:01Z",
-          "excerpt": "今月20日、神戸市中央区にあるマンションの部屋の冷凍庫から見つかった男性の遺体について、警察は、死亡したのは現場の部屋の元住人で、遺体が損壊されるなどした疑いがあるとして捜査を始めました。男性は2011年ごろに死亡したと推定されるということで、警察は、当時のいきさつを詳しく調べ...",
-          "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156711000.html",
-          "translationStatus": "translated",
-          "titleJa": "神戸の冷凍庫遺体、死体損壊容疑で捜査本部設置",
-          "summaryJa": [
-            "今月20日、神戸市中央区のマンションで冷凍庫から男性の遺体が見つかりました。",
-            "警察は、遺体は部屋の元住人で、損壊された疑いがあるとして捜査を開始。",
-            "男性は2011年ごろに死亡したと推定されており、当時の経緯を詳しく調べています。",
-            "この事件を受け、警察は死体損壊などの疑いで捜査本部を設置しました。"
-          ]
-        },
-        {
-          "title": "総理「業務時間が確保できない」秘書の“陳述書”で答弁回避？“中傷動画”疑惑で追及(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T15:33:16Z",
-          "excerpt": "22日は衆参両院の予算委員会に出席した、高市総理大臣。“中傷動画”作成疑惑の追及、そして公設秘書の参考人招致が要求される中、総理は「秘書の陳述書をもって答弁に代えさせて」と答えました。答弁拒否とも取れ",
-          "link": "https://news.yahoo.co.jp/articles/e9a42f1adcc8457d23ec24cd5d407f88d3d94079?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "総理、中傷動画疑惑で秘書の陳述書を提出し答弁回避か",
-          "summaryJa": [
-            "22日の衆参予算委員会で、高市総理大臣は中傷動画作成疑惑について追及を受けました。",
-            "公設秘書の参考人招致が求められる中、総理は「秘書の陳述書をもって答弁に代えさせて」と発言。",
-            "答弁準備に業務時間が確保できないためと説明し、答弁を回避したと受け取れる対応でした。"
-          ]
-        },
-        {
-          "title": "遺族「こんなに軽いものなのか」旭川高校生殺害 求刑通り懲役27年の判決(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T15:33:16Z",
-          "excerpt": "北海道旭川市で女子高校生が殺害された事件の判決です。内田梨瑚被告に言い渡されたのは求刑通り懲役27年、遺族は「こんなに軽いものなのか」などとコメントしています。 おととし、北海道旭川市の神居古潭（か",
-          "link": "https://news.yahoo.co.jp/articles/aebe1557a42432a67e7c0c77da4c6c2f06155e47?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "旭川女子高校生殺害事件、被告に懲役27年の判決",
-          "summaryJa": [
-            "北海道旭川市で発生した女子高校生殺害事件の判決が言い渡されました。",
-            "内田梨瑚被告に対し、求刑通り懲役27年の判決が下されました。",
-            "遺族は判決に対し、「こんなに軽いものなのか」とコメントしています。"
-          ]
-        },
-        {
-          "title": "【ダブル台風へ】「台風7号（メーカラー）」は“猛烈な勢力”に…最大瞬間風速75m/s・中心気圧915hPaまで急発達見込み 新たな熱帯低気圧も発生、23日に台風に発達か 進路予想・雨風シミュレーション【気象庁22日発表】今後の台風情報に注意(BSS山陰放送)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T15:12:17Z",
-          "excerpt": "気象庁によりますと、非常に強い台風7号は、22日21時現在、フィリピンの東を時速15kmの速さで西北西へ進んでいます。 また、マリアナ諸島付近には新たな熱帯低気圧が発生しました。 23日には台風に発",
-          "link": "https://news.yahoo.co.jp/articles/f2b494430526225092ea8183914ff628846a8e2c?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "台風7号が猛烈な勢力に発達見込み、新たな熱帯低気圧も台風化へ",
-          "summaryJa": [
-            "気象庁によると、非常に強い台風7号は22日21時現在、フィリピンの東を西北西へ進んでいます。",
-            "最大瞬間風速75m/s、中心気圧915hPaの猛烈な勢力に急発達する見込みです。",
-            "マリアナ諸島付近で発生した新たな熱帯低気圧も、23日には台風に発達する可能性があります。",
-            "今後、\"ダブル台風\"となる可能性があり、今後の情報に注意が必要です。"
-          ]
-        },
-        {
-          "title": "琵琶湖線で人身事故 運転再開(レスキューナウニュース)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T15:10:00Z",
-          "excerpt": "彦根～南彦根駅間で発生した人身事故の影響で、琵琶湖線は米原～野洲駅間の運転を見合わせていましたが、00:03頃、運転を再開しました。なお、ダイヤが乱れています。",
-          "link": "https://news.yahoo.co.jp/articles/903d027065d2820a06a8ae268ffc69728306839a?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "“最後のドクターイエロー”JR西日本所有の「T5編成」 来年1月に引退(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T14:59:18Z",
-          "excerpt": "JR西日本は「新幹線のお医者さん」の愛称で親しまれてきたドクターイエローを老朽化のため来年1月に引退させると発表しました。 JR西日本 倉坂昇治社長 「2027年1月に検測運転を終了することになりま",
-          "link": "https://news.yahoo.co.jp/articles/a803e11d0dd43cd59ad2a0950f11fb2143090256?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "JR西日本、ドクターイエロー「T5編成」が来年1月に引退へ",
-          "summaryJa": [
-            "JR西日本は、新幹線のお医者さんとして親しまれてきたドクターイエロー「T5編成」の引退を発表しました。",
-            "老朽化のため、来年1月に検測運転を終了する予定です。",
-            "これはJR西日本が所有する最後のドクターイエローとなります。"
-          ]
-        },
-        {
-          "title": "首相、中傷動画問題の答弁準備で「業務時間も確保できず」 代わりに秘書陳述書を提出意向(産経新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T14:51:36Z",
-          "excerpt": "高市早苗首相は22日の衆院予算委員会で、首相陣営による自民党総裁選や衆院選での中傷動画作成疑惑などに関し、野党の質問に対する答弁の準備で業務に支障が生じているとして、答弁の代わりに「近日中に（地元の）",
-          "link": "https://news.yahoo.co.jp/articles/c57617c1343b188d92c25c9736bd777e0c23b1e1?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "首相、中傷動画問題で秘書陳述書を提出意向 答弁準備に支障と説明",
-          "summaryJa": [
-            "高市早苗首相は22日の衆院予算委員会で、中傷動画作成疑惑に関する野党の質問に対し言及しました。",
-            "答弁準備に業務時間が確保できず支障が生じていると説明。",
-            "答弁の代わりに、近日中に秘書の陳述書を提出する意向を示しました。"
-          ]
-        },
-        {
-          "title": "【速報】米原駅ー野洲駅間で運転見合わせ、野洲駅ー京都間で遅れも JR西日本、人身事故の影響で(京都新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-22T14:45:28Z",
-          "excerpt": "JR西日本によると、22日午後10時45分ごろ、琵琶湖線彦根駅（滋賀県彦根市）ー南彦根駅（同）間で、列車が人と接触したため、米原駅（滋賀県米原市）ー野洲駅（滋賀県野洲市）間で運転を見合わせているほか",
-          "link": "https://news.yahoo.co.jp/articles/3f148354900e74b03d50d02015fe9289c80f84a8?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "琵琶湖線、人身事故で米原～野洲駅間が運転見合わせ",
-          "summaryJa": [
-            "JR西日本によると、22日午後10時45分ごろ、琵琶湖線彦根～南彦根駅間で人身事故が発生しました。",
-            "この影響で、米原～野洲駅間で運転を見合わせています。",
-            "また、野洲～京都駅間でも遅れが生じています。"
-          ]
-        },
-        {
-          "title": "米FRB グリーンスパン元議長が死去 危機対応で名指揮者の異名",
-          "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-22T14:39:21Z",
-          "excerpt": "アメリカのFRB＝連邦準備制度理事会の議長をおよそ18年半にわたって務め、金融危機への対応などで「マエストロ＝名指揮者」と言われたアラン・グリーンスパン氏が亡くなりました。100歳でした。",
-          "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156551000.html",
-          "translationStatus": "failed"
         }
       ]
     },
@@ -229,143 +299,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "'Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever",
+          "title": "Amazon Prime Day arrives earlier this year. Here's why Wall Street is watching closely",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-22T16:00:31Z",
-          "excerpt": "Target Chair Brian Cornell built the retailer into a $100 billion-plus giant, but recent struggles and underperformance have fueled investo...",
-          "link": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
+          "publishedAt": "2026-06-22T20:10:29Z",
+          "excerpt": "This year could see a major drive to everyday essentials, a growing category for the e-commerce giant's annual shopping event.",
+          "link": "https://www.cnbc.com/2026/06/22/amazon-prime-day-arrives-earlier-this-year-heres-why-wall-street-is-watching-closely.html",
           "translationStatus": "translated",
-          "titleJa": "ターゲット会長への投資家支持が過去最低に、業績不振で",
+          "titleJa": "アマゾン「プライムデー」前倒し開催、ウォール街が注目する理由",
           "summaryJa": [
-            "ターゲットのブライアン・コーネル会長は、同社を1000億ドル規模の巨大小売企業に成長させました。",
-            "しかし、最近の業績不振や期待を下回るパフォーマンスが投資家の不満を募らせています。",
-            "その結果、会長への投資家支持は過去最低水準にまで落ち込んでいます。"
+            "アマゾンの年次セールイベント「プライムデー」が今年は例年より早く開催されます。",
+            "ウォール街は、このイベントを注視しています。",
+            "特に、日用品の販売が大幅に伸びる可能性があり、これが同社の成長分野と見られています。"
           ]
         },
         {
-          "title": "U.S. oil prices fall below $74 a barrel on 60-day pause on Iranian oil sanctions",
+          "title": "SpaceX stock tanks 16%, extending slump following post-IPO rally",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-22T20:10:16Z",
+          "excerpt": "A rally following the company's record breaking IPO on June 12 has cooled, with stock dropping the past three days of trading.",
+          "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+          "translationStatus": "translated",
+          "titleJa": "スペースX株が16%下落、IPO後の上昇基調が失速",
+          "summaryJa": [
+            "スペースXの株価が16%下落し、低迷が続いています。",
+            "6月12日の記録的な新規株式公開（IPO）後の上昇は冷え込みました。",
+            "過去3取引日で株価は下落しています。"
+          ]
+        },
+        {
+          "title": "Nvidia's stock struggles as Kalshi traders bet chip prices are coming down",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-22T20:09:04Z",
+          "excerpt": "Shares of Nvidia have been faltering recently — and Kalshi traders predict that what the company can charge for chips is also declining.",
+          "link": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
+          "translationStatus": "translated",
+          "titleJa": "エヌビディア株が低迷、チップ価格下落をトレーダーが予測",
+          "summaryJa": [
+            "エヌビディアの株価が最近、振るわない状況です。",
+            "Kalshiのトレーダーたちは、同社がチップに設定できる価格が下落していると予測しています。",
+            "この予測が株価の低迷に影響を与えている可能性があります。"
+          ]
+        },
+        {
+          "title": "SpaceX kicks off bond sale days after record IPO, discloses over $100 billion cash pile",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-22T20:07:56Z",
+          "excerpt": "SpaceX on Monday unveiled a senior unsecured notes offering and said it held about $100.8 billion in cash.",
+          "link": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+          "translationStatus": "translated",
+          "titleJa": "スペースX、記録的IPO数日後に社債発行開始 1000億ドル超の現金を保有",
+          "summaryJa": [
+            "スペースXは月曜日に、シニア無担保社債の発行を発表しました。",
+            "同社は現金約1008億ドルを保有していることも明らかにしました。",
+            "これは、記録的な新規株式公開（IPO）からわずか数日後の動きです。"
+          ]
+        },
+        {
+          "title": "The bond market just did something unusual. Why its sudden volatility ‘is here to stay.’",
           "source": "MarketWatch",
-          "publishedAt": "2026-06-22T15:57:00Z",
-          "excerpt": "Oil prices are down as hopes that more Iranian crude will hit the global market as supplies near critically low levels.",
+          "publishedAt": "2026-06-22T20:03:00Z",
+          "excerpt": "New Fed Chair Kevin Warsh appears to be supportive of bond markets leading the way — so he doesn’t have to hike interest rates",
+          "link": "https://www.marketwatch.com/story/the-bond-market-just-did-something-unusual-why-its-sudden-volatility-is-here-to-stay-a60205ff?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "債券市場に異例の動き、突然の変動は「定着する」との見方",
+          "summaryJa": [
+            "債券市場で異例の動きが見られ、突然の変動が「定着する」とされています。",
+            "新たなFRB議長ケビン・ウォーシュ氏は、債券市場が主導することを支持しているようです。",
+            "これは、彼が金利を引き上げる必要がないようにするためと考えられています。"
+          ]
+        },
+        {
+          "title": "Oil prices fall after U.S. authorizes Iranian crude sales",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-22T20:01:02Z",
+          "excerpt": "The discussions at the Swiss resort of Bürgenstock marked the first negotiations since Washington and Tehran signed a memorandum of underst...",
+          "link": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
+          "translationStatus": "translated",
+          "titleJa": "米国がイラン産原油販売を承認、原油価格が下落",
+          "summaryJa": [
+            "米国がイラン産原油の販売を承認したことを受け、原油価格が下落しました。",
+            "スイスのリゾート地ビュルゲンシュトックでの協議は、ワシントンとテヘランが覚書に署名して以来初の交渉でした。",
+            "この承認により、市場への供給が増加するとの期待が高まりました。"
+          ]
+        },
+        {
+          "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-22T19:53:00Z",
+          "excerpt": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts sai...",
+          "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏、ウォール街の住宅購入禁止を主張も法案効果は限定的か",
+          "summaryJa": [
+            "トランプ氏はウォール街による住宅購入を禁止すると述べる可能性があります。",
+            "しかし、超党派の住宅法案が実際にその効果を持つかは疑問視されています。",
+            "アナリストは、この措置が住宅の手頃な価格に意味のある影響を与えるには時間がかかり、有権者の不満を解消することはないと指摘しています。"
+          ]
+        },
+        {
+          "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-06-22T19:49:22Z",
+          "excerpt": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
+          "link": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+          "translationStatus": "translated",
+          "titleJa": "アルファベット株、AI懸念と幹部流出で1年ぶりの大幅安",
+          "summaryJa": [
+            "Googleの親会社であるアルファベットの株価が、この1年で最悪の日を迎えるペースです。",
+            "これは、人工知能（AI）に関する懸念が背景にあります。",
+            "著名なAI研究者が相次いで同社を去っていることが影響しています。"
+          ]
+        },
+        {
+          "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-22T19:45:00Z",
+          "excerpt": "“He also wants me to downsize and move.”",
+          "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "70歳女性、親族からの住宅ローン提案に疑問「1年返済、転居も要求」",
+          "summaryJa": [
+            "70歳の女性が、親族から2万5000ドルの住宅ローンを提案されました。",
+            "このローンは担保付きで、1年以内に返済する必要があります。",
+            "親族はさらに、女性に家を縮小して引っ越すことも求めているとのことです。"
+          ]
+        },
+        {
+          "title": "U.S. oil prices end below $74 a barrel after 60-day pause on Iran sanctions",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-22T19:45:00Z",
+          "excerpt": "Oil prices fell on hopes that more Iranian crude will hit the global market, as supplies have neared critically low levels.",
           "link": "https://www.marketwatch.com/story/u-s-oil-prices-fall-below-74-a-barrel-on-60-day-pause-on-iranian-oil-sanctions-0b7c7130?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "米原油価格が74ドル割れ、イラン産原油制裁の一時停止で",
+          "titleJa": "米原油価格が74ドル割れ、イラン制裁60日間停止で供給増期待",
           "summaryJa": [
-            "イラン産原油に対する制裁が60日間一時停止されたことを受け、米国の原油価格が1バレルあたり74ドルを下回りました。",
-            "世界的な供給量が危機的な低水準に近づく中、より多くのイラン産原油が市場に出回るとの期待が高まっています。",
-            "これが原油価格の下落につながっています。"
-          ]
-        },
-        {
-          "title": "Treasury Department authorizes Iranian oil sales through August",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-22T15:54:00Z",
-          "excerpt": "Iranian supertankers have switched on their transponders, after going dark during the war, as they depart the Persian Gulf loaded with oil.",
-          "link": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
-          "translationStatus": "translated",
-          "titleJa": "米財務省、イラン産原油の8月までの販売を承認",
-          "summaryJa": [
-            "米財務省は、イラン産原油の販売を8月まで承認しました。",
-            "戦争中に信号を停止していたイランの大型タンカーが、ペルシャ湾から原油を積んで出発する際にトランスポンダーを再起動させました。",
-            "この承認により、イラン産原油が市場に供給される見込みです。"
-          ]
-        },
-        {
-          "title": "AI Momentum Outweighs Iran Risks and Fed Concerns, Says Chief Economist",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-22T15:46:43Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/ai-momentum-outweighs-iran-risks-154643313.html",
-          "translationStatus": "translated",
-          "titleJa": "AIの勢いがイランリスクやFRB懸念を上回る、とチーフエコノミスト",
-          "summaryJa": [
-            "あるチーフエコノミストは、現在の市場において、人工知能（AI）関連の勢いが強いと指摘しています。",
-            "このAIの勢いは、イラン情勢に関するリスクや、米連邦準備制度理事会（FRB）の金融政策に対する懸念よりも影響が大きいと見ています。",
-            "（Excerptが空のため、タイトルからのみ情報を抽出）"
-          ]
-        },
-        {
-          "title": "Why Alamos Gold Stock Is Plummeting Today",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-22T15:45:09Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-alamos-gold-stock-plummeting-154509266.html",
-          "translationStatus": "translated",
-          "titleJa": "アラモス・ゴールド株が本日急落した理由",
-          "summaryJa": [
-            "アラモス・ゴールド社の株価が本日、急落しています。",
-            "（Excerptが空のため、タイトルからのみ情報を抽出）",
-            "この動きは投資家の注目を集めています。"
-          ]
-        },
-        {
-          "title": "Alan Greenspan’s legacy as Fed chair: The ‘Greenspan put’ and a shift to overprotecting markets",
-          "source": "MarketWatch",
-          "publishedAt": "2026-06-22T15:42:00Z",
-          "excerpt": "Greenspan, who died at age 100, opened the door to issues that still bedevil the Fed.",
-          "link": "https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "アラン・グリーンスパン元FRB議長の功績と市場過保護への転換",
-          "summaryJa": [
-            "100歳で死去したアラン・グリーンスパン元FRB議長の功績が振り返られています。",
-            "彼の在任中には「グリーンスパン・プット」と呼ばれる現象が見られました。",
-            "これは、市場を過度に保護する方向への転換をもたらし、現在もFRBを悩ませる問題の扉を開いたとされています。"
-          ]
-        },
-        {
-          "title": "Why Micron Stock Keeps Going Up",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-22T15:41:26Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-keeps-going-154126241.html",
-          "translationStatus": "translated",
-          "titleJa": "マイクロン株が上昇を続ける理由",
-          "summaryJa": [
-            "マイクロン・テクノロジー社の株価が継続的に上昇しています。",
-            "（Excerptが空のため、タイトルからのみ情報を抽出）",
-            "この株価の動向は市場で注目されています。"
-          ]
-        },
-        {
-          "title": "What Will Be Nvidia’s Stock Price in 2029?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-22T15:41:21Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-price-2029-154121033.html",
-          "translationStatus": "translated",
-          "titleJa": "2029年のNVIDIA株価予測",
-          "summaryJa": [
-            "NVIDIA社の2029年における株価がどうなるかについて、関心が集まっています。",
-            "（Excerptが空のため、タイトルからのみ情報を抽出）",
-            "将来の株価動向に関する議論が活発に行われています。"
-          ]
-        },
-        {
-          "title": "Who is Andy Burnham? And 4 other things investors should know as the U.K. replaces its prime minister",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-22T15:40:40Z",
-          "excerpt": "Keir Starmer’s exit puts Andy Burnham, gilts, sterling and the next U.K. chancellor in focus for investors.",
-          "link": "https://www.cnbc.com/2026/06/22/keir-starmer-andy-burnham-uk-markets.html",
-          "translationStatus": "translated",
-          "titleJa": "英首相交代で注目されるアンディ・バーナム氏と投資家が知るべき4つのこと",
-          "summaryJa": [
-            "英国の首相交代に伴い、投資家の注目がアンディ・バーナム氏に集まっています。",
-            "また、英国債（ギルツ）、ポンド、そして次期財務大臣の動向も焦点となっています。",
-            "キア・スターマー氏の退任がこれらの要素を浮上させており、投資家は今後の展開を注視しています。"
-          ]
-        },
-        {
-          "title": "JPMorgan CEO warns young employees about in-office work",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-06-22T15:40:18Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/small-business/articles/jpmorgan-ceo-warns-young-employees-154018436.html",
-          "translationStatus": "translated",
-          "titleJa": "JPモルガンCEO、若手社員にオフィス勤務について警告",
-          "summaryJa": [
-            "JPモルガン・チェースのCEOが、若手社員に対しオフィス勤務の重要性について言及しました。",
-            "（Excerptが空のため、タイトルからのみ情報を抽出）",
-            "この発言は、ハイブリッドワークが普及する中で注目されています。"
+            "米国の原油価格が1バレルあたり74ドルを下回って取引を終えました。",
+            "これは、イランへの制裁が60日間停止されたことを受けての動きです。",
+            "供給が危機的に低い水準に近づく中、イラン産原油が世界市場に供給されるとの期待から価格が下落しました。"
           ]
         }
       ]
@@ -375,17 +445,117 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T20:13:58Z",
+          "excerpt": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and hiring ne...",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "translationStatus": "translated",
+          "titleJa": "AIチップメーカーGroq、6.5億ドル調達を確定 Nvidiaとの契約後再編",
+          "summaryJa": [
+            "AIチップメーカーのGroqが6億5000万ドルの資金調達を確定しました。",
+            "これはNvidiaとの「買収ではない人材獲得」契約後に実施されたものです。",
+            "同社はネオクラウド事業に注力し、新たな人材を雇用しています。"
+          ]
+        },
+        {
+          "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T20:08:15Z",
+          "excerpt": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — f...",
+          "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia、データセンターの節水システム発表 AI全体の水問題解決には不十分",
+          "summaryJa": [
+            "Nvidiaはデータセンター内の水使用量を削減する新しい冷却システムを発表しました。",
+            "このシステムはデータセンター内部の節水に貢献します。",
+            "しかし、AIの最大の水使用源である燃料発電による水消費には対応していません。",
+            "そのため、AI全体が抱える水問題の解決には至らないと指摘されています。"
+          ]
+        },
+        {
+          "title": "AI is cursing renters with the promise of impossible homes",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-22T19:52:26Z",
+          "excerpt": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hel...",
+          "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+          "translationStatus": "translated",
+          "titleJa": "AIが賃貸物件探しを困難に 不可能な物件の約束で借り手を苦しめる",
+          "summaryJa": [
+            "AIが賃貸物件探しにおいて、借り手を困難な状況に陥れていると報じられています。",
+            "ニューヨーク出身のジョイスさんは、初めての一人暮らし用アパート探しが簡単ではないと予想していました。",
+            "しかし、AIが提示する「不可能な物件」の約束により、その困難さは想像以上であると感じています。"
+          ]
+        },
+        {
+          "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T18:49:44Z",
+          "excerpt": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+          "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "translationStatus": "translated",
+          "titleJa": "Google DeepMind、A24と提携しハリウッドのAI映画制作に7500万ドル投資",
+          "summaryJa": [
+            "Google DeepMindは、映画制作会社A24と提携しました。",
+            "両社はAIを活用した映画制作ツールの開発を目指します。",
+            "Google DeepMindは、この提携を通じてハリウッドにおけるAIの未来に7500万ドルを投資します。"
+          ]
+        },
+        {
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-06-22T18:00:00Z",
+          "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. F...",
+          "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropicと政府の対立、注目すべき3つの点",
+          "summaryJa": [
+            "AI企業Anthropicと政府との間で新たな対立が生じています。",
+            "この対立に関して注目すべき3つの点が挙げられています。",
+            "詳細はこのAIに関する週刊ニュースレター「The Algorithm」で報じられました。"
+          ]
+        },
+        {
+          "title": "Amazon is testing Alexa+ in India with Hindi support",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T17:31:29Z",
+          "excerpt": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to...",
+          "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+          "translationStatus": "translated",
+          "titleJa": "Amazon、新型AIアシスタント「Alexa+」をインドでテスト開始 ヒンディー語対応",
+          "summaryJa": [
+            "Amazonは、新型の対話型AIアシスタント「Alexa+」の展開をインドで拡大する計画です。",
+            "現在、インド国内でユーザーを招待し、テストを実施しています。",
+            "「Alexa+」はヒンディー語に対応しており、インド市場への本格導入を目指しています。"
+          ]
+        },
+        {
+          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T16:51:29Z",
+          "excerpt": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and...",
+          "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+          "translationStatus": "translated",
+          "titleJa": "SpaceX、オープンソースAIラボReflection AIと計算資源契約を締結",
+          "summaryJa": [
+            "SpaceXは、オープンソースAIラボのReflection AIと計算資源に関する契約を結びました。",
+            "Reflection AIは、2026年7月1日から2029年まで、月額1億5000万ドルを支払います。",
+            "これにより、Nvidiaの最新AIチップ「GB300」への即時アクセスが可能となります。"
+          ]
+        },
+        {
           "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
           "source": "TechCrunch AI",
           "publishedAt": "2026-06-22T14:00:00Z",
           "excerpt": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Bost...",
           "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
           "translationStatus": "translated",
-          "titleJa": "「TechCrunch Founder Summit」参加パス割引、6月26日まで",
+          "titleJa": "TechCrunch Founder Summit 2026、参加パス料金が6月26日に値上げ",
           "summaryJa": [
-            "TechCrunch Founder Summit 2026の参加パスが割引価格で提供されています。",
-            "6月26日午後11時59分（太平洋時間）までに購入すると、最大190ドルの割引が適用されます。",
-            "このサミットは起業家向けに設計されており、11月4日にボストンで開催されます。"
+            "成長を目的とした創業者向けカンファレンス「TechCrunch Founder Summit 2026」が開催されます。",
+            "参加パスの料金は、太平洋時間6月26日午後11時59分までに購入すると最大190ドル割引されます。",
+            "それ以降は料金が値上げされる予定です。",
+            "このイベントは11月4日にボストンで開催されます。"
           ]
         },
         {
@@ -395,10 +565,10 @@
           "excerpt": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
           "translationStatus": "translated",
-          "titleJa": "OpenAIのエンタープライズAIセールス責任者、バレット・ゾフ氏が5ヶ月で再退社",
+          "titleJa": "OpenAIのエンタープライズAIセールス責任者、Barret Zoph氏が5ヶ月で再退社",
           "summaryJa": [
-            "OpenAIのエンタープライズAIセールス責任者であるバレット・ゾフ氏が同社を退社しました。",
-            "ゾフ氏はOpenAIに復帰してからわずか5ヶ月での退社となります。",
+            "OpenAIのエンタープライズAIセールス責任者であるBarret Zoph氏が同社を退社しました。",
+            "Zoph氏はOpenAIに復帰してからわずか5ヶ月での再度の退社となります。",
             "この情報はThe Vergeが報じました。"
           ]
         },
@@ -409,109 +579,11 @@
           "excerpt": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for t...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
           "translationStatus": "translated",
-          "titleJa": "AI学習用音楽データセット、The Atlanticが検索可能データベースを公開",
+          "titleJa": "The Atlantic、AI学習に使用された音楽の検索可能データベースを公開",
           "summaryJa": [
-            "The Atlanticの記者アレックス・ライスナー氏が、AIモデルの学習に使用されている4つの音楽データセットを発見しました。",
-            "同氏はこれらのデータセットを完全に検索可能な形で公開しました。",
-            "これにより、AI学習に利用された音楽の特定が可能になります。"
-          ]
-        },
-        {
-          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-21T15:28:17Z",
-          "excerpt": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might...",
-          "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-          "translationStatus": "translated",
-          "titleJa": "トランプ政権によるAnthropicへの規制強化、その影響と受益者は？",
-          "summaryJa": [
-            "新しいエピソードのEquityでは、トランプ政権がAnthropicに対して最近行った動きについて議論されました。",
-            "この動きが実際に何によって引き起こされたのか、そしてその影響が何であるかについて話し合われました。",
-            "誰がこの状況から利益を得るのかという点も検討されました。"
-          ]
-        },
-        {
-          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-21T14:40:28Z",
-          "excerpt": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-          "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-          "translationStatus": "translated",
-          "titleJa": "iOS 27でiPhoneに搭載される実用的なAI機能、Siri以外にも注目",
-          "summaryJa": [
-            "WWDCではSiriのAI刷新が注目を集めましたが、iOS 27には他にも多くの有用なAI機能が搭載されます。",
-            "これらの機能はiPhoneの様々な場所で利用可能になります。",
-            "AppleはSiri以外の領域でもAIの活用を進めています。"
-          ]
-        },
-        {
-          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-20T20:32:29Z",
-          "excerpt": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-          "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-          "translationStatus": "translated",
-          "titleJa": "Signalのメレディス・ウィテカー氏、AIチャットボットは「友達ではない」と警告",
-          "summaryJa": [
-            "Signalのメレディス・ウィテカー氏は、AIチャットボットについて注意を促しています。",
-            "彼女は「これらはあなたの友達ではない」と述べました。",
-            "また、「意識のある存在でも、感情を持つ対話者でもない」と強調しています。"
-          ]
-        },
-        {
-          "title": "In the Weights is your new AI-centric vanity search",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-20T19:41:11Z",
-          "excerpt": "So ... what's your In the Weights score?",
-          "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-          "translationStatus": "translated",
-          "titleJa": "AI中心の新たな自己評価ツール「In the Weights」",
-          "summaryJa": [
-            "「In the Weights」は、AIに焦点を当てた新しい自己評価ツールです。",
-            "ユーザーは自身の「In the Weightsスコア」を知ることができます。",
-            "このツールは、AI関連の自己評価の機会を提供します。"
-          ]
-        },
-        {
-          "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-20T16:39:57Z",
-          "excerpt": "Jumper isn't the only big name leaving Google DeepMind.",
-          "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-          "translationStatus": "translated",
-          "titleJa": "ノーベル賞受賞者ジョン・ジャンパー氏、DeepMindを退社し競合Anthropicへ移籍",
-          "summaryJa": [
-            "ノーベル賞受賞者のジョン・ジャンパー氏がGoogle DeepMindを退社しました。",
-            "同氏は競合企業であるAnthropicに移籍します。",
-            "ジャンパー氏以外にも、DeepMindを去る著名な人物がいると報じられています。"
-          ]
-        },
-        {
-          "title": "Read this before you vibe-code another app",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-20T16:31:42Z",
-          "excerpt": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-          "translationStatus": "translated",
-          "titleJa": "アプリ開発前に知るべき「vibe-code」の事例",
-          "summaryJa": [
-            "ボブ・スター氏は自身の「vibe-coded」ウェブサイトに満足していました。",
-            "「Boomberg」というサイトは、米国の税金がどれだけテクノロジー企業に流れているかを示しました。",
-            "スター氏はこのサイトを立ち上げました。"
-          ]
-        },
-        {
-          "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-19T22:40:14Z",
-          "excerpt": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now...",
-          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-          "translationStatus": "translated",
-          "titleJa": "PGPからMythosへ：効果がなかった輸出規制の歴史",
-          "summaryJa": [
-            "過去30年間、サイバーセキュリティ関連ソフトウェアの流通を阻止する輸出規制は効果がないことが証明されてきました。",
-            "PGPからMythosに至るまで、その歴史が語られています。",
-            "なぜ今、それが機能すると考えられるのかは不明です。"
+            "The Atlanticの記者Alex Reisner氏が、AIモデルの学習に使用されている4つの音楽データセットを発見しました。",
+            "同氏はこれらのデータセットを完全に検索可能なデータベースとして公開しました。",
+            "このデータベースにより、AI学習における音楽利用の実態が明らかになります。"
           ]
         }
       ]
@@ -521,17 +593,31 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Opinion: 1.2M Kids Under 6 Have No Insurance. That’s Harmful to Their Health and Futures",
+          "source": "The 74",
+          "publishedAt": "2026-06-22T16:30:00Z",
+          "excerpt": "Schools across the country are focusing keenly on two key priorities: teaching children to read and bringing down high chronic absenteeism...",
+          "link": "https://www.the74million.org/zero2eight/1-2m-kids-under-6-have-no-insurance-thats-harmful-to-their-health-and-futures/",
+          "translationStatus": "translated",
+          "titleJa": "6歳未満児120万人が無保険、健康と将来に悪影響との意見",
+          "summaryJa": [
+            "米国では6歳未満の子ども約120万人が医療保険に加入していない。",
+            "これは彼らの健康と将来に有害であると指摘されている。",
+            "全国の学校は、子どもの読解力向上と慢性的な欠席率低下に注力している。"
+          ]
+        },
+        {
           "title": "Alberto Carvalho Resigns as LAUSD Superintendent After Four Months on Leave",
           "source": "The 74",
           "publishedAt": "2026-06-22T15:24:57Z",
           "excerpt": "Superintendent Alberto Carvalho has resigned as leader of the Los Angeles Unified School District, four months after the FBI searched his h...",
           "link": "https://www.the74million.org/article/alberto-carvalho-resigns-as-lausd-superintendent-after-four-months-on-leave/",
           "translationStatus": "translated",
-          "titleJa": "ロサンゼルス統一学区教育長が辞任、休職4か月後に",
+          "titleJa": "ロサンゼルス統一学区教育長、休職4ヶ月後に辞任",
           "summaryJa": [
-            "ロサンゼルス統一学区のアルベルト・カルバーリョ教育長が辞任しました。",
-            "彼はFBIによる自宅捜索後、4か月間の休職期間を経ての辞任となります。",
-            "この辞任は、学区のリーダーシップに影響を与える可能性があります。"
+            "ロサンゼルス統一学区のアルベルト・カルバーリョ教育長が辞任した。",
+            "彼はFBIによる自宅捜索から4ヶ月間休職していた。",
+            "学区のリーダーとしての職を退いた。"
           ]
         },
         {
@@ -541,11 +627,11 @@
           "excerpt": "This story was originally published by CalMatters. Sign up for their newsletters. At Pinedale Elementary in Fresno, there’s almost no class...",
           "link": "https://www.the74million.org/article/why-some-california-schools-get-three-times-more-funding-than-others/",
           "translationStatus": "translated",
-          "titleJa": "カリフォルニア州の学校間資金格差、最大3倍に",
+          "titleJa": "カリフォルニア州の学校間における資金格差の背景",
           "summaryJa": [
-            "カリフォルニア州では、学校によって受け取る資金に大きな格差が存在します。",
-            "一部の学校は他の学校の3倍もの資金を得ていることが明らかになりました。",
-            "フレスノのパインデール小学校では、授業の欠席がほとんどない状況です。"
+            "カリフォルニア州では、一部の学校が他の学校の3倍もの資金を受け取っている。",
+            "この資金格差の理由について報じられている。",
+            "フレスノのパイネデール小学校では、授業の欠席がほとんどない状況が例として挙げられている。"
           ]
         },
         {
@@ -555,11 +641,11 @@
           "excerpt": "Policymakers and influencers from across the political spectrum spend a great deal of time thinking, talking and writing about how to close...",
           "link": "https://www.the74million.org/article/schools-must-make-social-capital-an-essential-part-of-students-education/",
           "translationStatus": "translated",
-          "titleJa": "論説：学校教育におけるソーシャル・キャピタルの重要性",
+          "titleJa": "学校教育におけるソーシャル・キャピタルの重要性に関する提言",
           "summaryJa": [
-            "政策立案者や影響力のある人々は、教育格差の解消について議論を重ねています。",
-            "学校は生徒の教育において、ソーシャル・キャピタルを不可欠な要素とすべきです。",
-            "これは、生徒の将来の成功に大きく貢献すると考えられています。"
+            "学校は生徒の教育においてソーシャル・キャピタルを不可欠な要素とすべきであるという意見が示された。",
+            "政策立案者や影響力のある人々は、格差解消について議論している。",
+            "生徒の社会的なつながりや資源を育むことの重要性が強調されている。"
           ]
         },
         {
@@ -571,9 +657,9 @@
           "translationStatus": "translated",
           "titleJa": "インディアナ州で公立マイクロスクール網が拡大、協力か競争か",
           "summaryJa": [
-            "インディアナ州で公立マイクロスクールのネットワークが拡大を目指しています。",
-            "この動きが既存の教育機関と協力するのか、競争するのかが注目されています。",
-            "インディアナポリス公立学校やマリオン郡の学区にも影響を与える可能性があります。"
+            "インディアナ州で公立マイクロスクールのネットワークが拡大を目指している。",
+            "この動きが既存の教育システムと協力関係にあるのか、それとも競争関係にあるのかが問われている。",
+            "インディアナポリス公立学校やマリオン郡の学区との関連が注目される。"
           ]
         },
         {
@@ -583,25 +669,25 @@
           "excerpt": "Davenport, Iowa, superintendent TJ Schneckloth has an easy way of describing the impact of student absenteeism. “Take your favorite book,”...",
           "link": "https://www.the74million.org/article/iowa-declared-war-on-chronic-absenteeism-now-its-gaining-some-ground/",
           "translationStatus": "translated",
-          "titleJa": "アイオワ州が慢性的な欠席問題に対策、改善の兆し",
+          "titleJa": "アイオワ州、慢性的な欠席問題対策で進展",
           "summaryJa": [
-            "アイオワ州は、生徒の慢性的な欠席問題に対し対策を講じています。",
-            "デイブンポートの教育長は、欠席が学業に与える影響を分かりやすく説明しています。",
-            "この取り組みにより、改善の兆しが見え始めています。"
+            "アイオワ州は慢性的な生徒の欠席問題に対し対策を講じてきた。",
+            "その結果、一定の進展が見られている。",
+            "ダベンポートの教育長は、生徒の欠席が与える影響について説明している。"
           ]
         },
         {
           "title": "Amid Chicago budget crunch, more schools lean on dollars they raise independently",
           "source": "Chalkbeat",
           "publishedAt": "2026-06-22T10:00:00Z",
-          "excerpt": "Data analysis by Thomas Wilburn This story was created in collaboration with the Chicago Tribune . Sign up for Chalkbeat Chicago’s free dai...",
+          "excerpt": ".republish-link {display:none !important;} Data analysis by Thomas Wilburn This story was created in collaboration with the Chicago Tribune...",
           "link": "https://www.chalkbeat.org/chicago/2026/06/22/cps-budget-problems-school-fundraising/",
           "translationStatus": "translated",
-          "titleJa": "シカゴの予算難で学校が自主財源に依存",
+          "titleJa": "シカゴの財政難、学校は自主的な資金調達に依存",
           "summaryJa": [
-            "シカゴでは予算が逼迫しており、多くの学校が財政難に直面しています。",
-            "そのため、学校は独自に資金を調達することに頼る傾向が強まっています。",
-            "この状況は、シカゴ・トリビューンとの共同分析で明らかになりました。"
+            "シカゴでは予算が逼迫しており、多くの学校が財政難に直面している。",
+            "そのため、学校は独自に資金を調達することに頼る傾向が強まっている。",
+            "この状況はシカゴ・トリビューンとの共同分析で明らかになった。"
           ]
         },
         {
@@ -611,11 +697,11 @@
           "excerpt": "House Dems Expand Epstein Investigation to Bard, Harvard sara.custer@in… Mon, 06/22/2026 - 03:00 AM Byline(s) Sara Custer",
           "link": "https://www.insidehighered.com/news/quick-takes/2026/06/22/house-dems-expand-epstein-investigation-bard-harvard",
           "translationStatus": "translated",
-          "titleJa": "米下院民主党、エプスタイン氏調査をバード大・ハーバード大に拡大",
+          "titleJa": "米下院民主党、エプスタイン氏調査をバード大学とハーバード大学に拡大",
           "summaryJa": [
-            "米下院民主党は、ジェフリー・エプスタイン氏に関する調査を拡大しています。",
-            "調査対象にはバード大学とハーバード大学が含まれることになりました。",
-            "この動きは、エプスタイン氏と教育機関との関係を明らかにするものです。"
+            "米下院民主党は、ジェフリー・エプスタイン氏に関する調査範囲を拡大した。",
+            "調査対象にはバード大学とハーバード大学が含まれる。",
+            "この動きは、エプスタイン氏とこれらの教育機関との関係を解明するものとみられる。"
           ]
         },
         {
@@ -625,11 +711,11 @@
           "excerpt": "Florida’s Battle of the Boards Josh Moody Mon, 06/22/2026 - 03:00 AM The Florida Board of Governors is delaying a confirmation vote for the...",
           "link": "https://www.insidehighered.com/news/governance/executive-leadership/2026/06/22/floridas-battle-boards",
           "translationStatus": "translated",
-          "titleJa": "フロリダ州で教育委員会を巡る対立",
+          "titleJa": "フロリダ州における教育委員会間の対立",
           "summaryJa": [
-            "フロリダ州では、教育委員会を巡る対立が表面化しています。",
-            "フロリダ州知事会は、ある人事の承認投票を延期しています。",
-            "この問題は、州の教育ガバナンスに影響を与えています。"
+            "フロリダ州では、教育委員会間で対立が生じている。",
+            "フロリダ州知事会は、ある人物の承認投票を延期している。",
+            "この状況は、州の教育ガバナンスにおける緊張を示唆している。"
           ]
         },
         {
@@ -641,23 +727,9 @@
           "translationStatus": "translated",
           "titleJa": "都市レベルでの大学連携の可能性",
           "summaryJa": [
-            "都市レベルで大学間の連携を強化する可能性が議論されています。",
-            "大都市圏評議会を設立し、大学をより良く組織化することが提案されています。",
-            "これにより、地域全体の高等教育の効率化が期待されます。"
-          ]
-        },
-        {
-          "title": "‘Gerontocracy in America’: A Review",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-22T07:00:00Z",
-          "excerpt": "‘Gerontocracy in America’: A Review Sara Brady Mon, 06/22/2026 - 03:00 AM At times, generational bias is actually strong enough to defeat s...",
-          "link": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/06/22/gerontocracy-america-review",
-          "translationStatus": "translated",
-          "titleJa": "書評：「アメリカの老人支配」",
-          "summaryJa": [
-            "「アメリカの老人支配」という書籍の書評が掲載されました。",
-            "この書評では、世代間の偏見が社会に与える影響について触れられています。",
-            "時には世代間の偏見が、特定の政策や決定を阻害するほど強力になることがあります。"
+            "都市レベルで大学間の連携を強化する可能性が議論されている。",
+            "大都市圏評議会を設立し、大学をより良く組織化することが提案されている。",
+            "これにより、都市全体の高等教育の効率化や質の向上が期待される。"
           ]
         }
       ]
@@ -670,14 +742,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 38,
-    "failedBatches": [
-      {
-        "category": "世界ニュース",
-        "start": 0,
-        "count": 10,
-        "error": "HTTP Error 503: Service Unavailable"
-      }
-    ]
+    "translatedItems": 50,
+    "failedBatches": []
   }
 }
