@@ -1,125 +1,149 @@
 {
-  "generatedAt": "2026-06-26T08:41:25.477670Z",
+  "generatedAt": "2026-06-26T16:33:54.111860Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "North Korea conducts major weapons tests; South training ‘drone warriors’",
+          "title": "Why did these World Cup ads strike a nerve in Egypt?",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-26T08:16:33Z",
-          "excerpt": "Kim Jong Un demands a 'deadly and destructive offensive posture' as North Korea upgrades arsenal to reach all of South.",
-          "link": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
+          "publishedAt": "2026-06-26T16:15:56Z",
+          "excerpt": "Why did these World Cup ads strike a nerve in Egypt?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "北朝鮮が主要兵器実験を実施、韓国は「ドローン戦士」を育成",
+          "titleJa": "エジプトでW杯広告が物議を醸した理由",
           "summaryJa": [
-            "北朝鮮は兵器を改良し、韓国全土を射程に収める能力を強化しています。",
-            "金正恩総書記は「致命的かつ破壊的な攻撃態勢」を要求しました。",
-            "これに対し、韓国は「ドローン戦士」の育成を進めています。"
+            "エジプトでサッカーワールドカップの広告が人々の感情を刺激し、物議を醸しています。",
+            "その背景には、広告の内容や表現が国民の特定の感情に触れたことがあると見られます。",
+            "広告がなぜこれほどまでに反響を呼んだのか、その理由が注目されています。"
           ]
         },
         {
-          "title": "Driver plows through Mexico World Cup crowd",
+          "title": "Norway vs France LIVE: FIFA World Cup 2026",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-26T08:13:58Z",
-          "excerpt": "Driver plows through Mexico World Cup crowd",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/driver-plows-through-mexico-world-cup-crowd?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Neighbours aid rescue effort as Venezuela quake death toll hits 235",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-26T08:02:28Z",
-          "excerpt": "Rescuers and humanitarian aid are flooding in from across the Americas as hospitals fill up with patients.",
-          "link": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss",
+          "publishedAt": "2026-06-26T16:00:00Z",
+          "excerpt": "Follow live updates from the blockbuster clash in Group I - including the build-up, analysis and live text commentary.",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "ベネズエラ地震、死者235人に 病院は患者でひっ迫、近隣諸国が救援",
+          "titleJa": "FIFAワールドカップ2026 ノルウェー対フランス戦 ライブ速報",
           "summaryJa": [
-            "ベネズエラで発生した地震による死者数が235人に達しました。",
-            "病院は負傷した患者で満員となり、医療体制がひっ迫しています。",
-            "南北アメリカ大陸各地から救助隊と人道支援が殺到しています。"
+            "FIFAワールドカップ2026のグループIで、ノルウェー対フランスの注目の一戦が開催されます。",
+            "試合の準備状況、分析、そしてテキストによる実況中継がライブで提供されます。",
+            "この重要な試合の最新情報をリアルタイムで追うことができます。"
           ]
         },
         {
-          "title": "Asia stock markets slide as tech shares slump",
-          "source": "BBC News",
-          "publishedAt": "2026-06-26T07:33:10Z",
-          "excerpt": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-          "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-26T07:07:47Z",
-          "excerpt": "Israeli and Lebanese delegations will continue their talks on Friday.",
-          "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "イラン戦争119日目：イスラエルがレバノンを攻撃、IAEAはイランへの復帰表明",
-          "summaryJa": [
-            "イラン戦争119日目、イスラエルがレバノンを攻撃しました。",
-            "国際原子力機関（IAEA）はイランへの復帰を表明しています。",
-            "イスラエルとレバノンの代表団は金曜日に協議を継続する予定です。"
-          ]
-        },
-        {
-          "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-          "source": "BBC News",
-          "publishedAt": "2026-06-26T06:49:22Z",
-          "excerpt": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-          "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡の貨物船攻撃を受け、国連が避難計画を一時停止",
-          "summaryJa": [
-            "ホルムズ海峡で貨物船が攻撃されたことを受け、国連は避難計画を一時停止しました。",
-            "船はオマーン付近で「不明な飛翔体」に被弾したと報じられています。",
-            "この攻撃による死傷者は報告されていません。"
-          ]
-        },
-        {
-          "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+          "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
           "source": "NPR World",
-          "publishedAt": "2026-06-26T06:41:51Z",
-          "excerpt": "As Venezuela begins counting the cost of its deadliest quake disaster in over a century, a shattered economy and struggling health system t...",
-          "link": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+          "publishedAt": "2026-06-26T15:45:25Z",
+          "excerpt": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospi...",
+          "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
           "translationStatus": "translated",
-          "titleJa": "ベネズエラ、地震被害に苦しむ 救助隊が生存者捜索",
+          "titleJa": "息子誕生の日にイスラエル軍に射殺されたパレスチナ人男性",
           "summaryJa": [
-            "ベネズエラは過去100年以上で最悪の地震災害に見舞われています。",
-            "救助隊は生存者の捜索に奔走しています。",
-            "経済は壊滅し、医療システムも苦境に立たされています。"
+            "占領下のヨルダン川西岸地区ナブルスで、イスラエル軍の襲撃により25歳のナイエフ・サマロ氏が死亡しました。",
+            "彼は息子が生まれたその日、病院で妻に会う準備をしていたと報じられています。",
+            "パレスチナの人々は、この悲劇的な出来事に対し深い悲しみに暮れています。"
           ]
         },
         {
-          "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+          "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
           "source": "BBC News",
-          "publishedAt": "2026-06-26T06:16:01Z",
-          "excerpt": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the wat...",
-          "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-06-26T15:34:39Z",
+          "excerpt": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+          "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "リフレクティング・プールのライナーが鋭利な刃物で切断される",
+          "titleJa": "シエラレオネで児童婚に関与した4人が画期的な裁判に出廷",
           "summaryJa": [
-            "国立公園局によると、リフレクティング・プールのライナーが鋭利なナイフかカミソリで切断されました。",
-            "ドナルド・トランプ氏は今週初め、プールに「300フィートの長い裂け目」ができたのは破壊者のせいだと非難していました。",
-            "また、誰かが水に肥料を入れたとも主張していました。"
+            "シエラレオネで17歳の少女の児童婚に関与したとして、父親と夫を含む4人の男性が逮捕されました。",
+            "彼らは有罪となれば、数年間の禁固刑に処される可能性があります。",
+            "この事件は、児童婚を巡る画期的な裁判として注目を集めています。"
           ]
         },
         {
-          "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-          "source": "NPR World",
-          "publishedAt": "2026-06-26T05:36:59Z",
-          "excerpt": "(Image credit: Amirhosein Khorgooi/AP Photo/Amirhosein Khorgooi)",
-          "link": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
-          "translationStatus": "failed"
+          "title": "EU targets Somalia with visa curbs as president pushes back on returns",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-26T15:18:02Z",
+          "excerpt": "President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.",
+          "link": "https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "EU、ソマリアにビザ制限 ソマリア大統領は送還者受け入れに条件",
+          "summaryJa": [
+            "EUはソマリアに対し、ビザ制限を課す方針を示しています。",
+            "ソマリア大統領は、自国民の帰国は受け入れると表明しました。",
+            "しかし、ヨーロッパ側が送還される人々の身元をまず確認するべきだと主張しています。"
+          ]
         },
         {
-          "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+          "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+          "source": "NPR World",
+          "publishedAt": "2026-06-26T15:08:14Z",
+          "excerpt": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked var...",
+          "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+          "translationStatus": "translated",
+          "titleJa": "ウクライナが大規模ドローン攻撃、ロシアもウクライナを攻撃",
+          "summaryJa": [
+            "ウクライナは夜間に、ロシアの複数の地域、ロシアが支配するクリミア、および周辺海域に対し大規模なドローン攻撃を実施しました。",
+            "これに対し、ロシアもウクライナの様々な場所を攻撃しました。",
+            "両国間で最も激しいドローン攻撃の一つが展開されたと報じられています。"
+          ]
+        },
+        {
+          "title": "Plane crashes into Beijing's tallest building; damage reported",
+          "source": "NPR World",
+          "publishedAt": "2026-06-26T15:05:48Z",
+          "excerpt": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
+          "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+          "translationStatus": "translated",
+          "titleJa": "北京の超高層ビルに航空機が衝突、被害報告",
+          "summaryJa": [
+            "北京で最も高いビルに航空機が衝突し、被害が報告されています。",
+            "被害の原因については独立した検証ができていません。",
+            "当局は、この件に関して直ちに声明を発表していません。"
+          ]
+        },
+        {
+          "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-26T05:25:44Z",
-          "excerpt": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-26T14:59:15Z",
+          "excerpt": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
+          "link": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "国連、ホルムズ海峡からの船員避難計画を一時停止した理由",
+          "summaryJa": [
+            "オマーン沖で貨物船が飛翔体により攻撃を受けたことを受け、国連はホルムズ海峡からの船員避難計画を一時停止しました。",
+            "イランは、すべての船舶が同国の許可を得て通過しなければならないと主張しています。",
+            "この状況が、避難計画一時停止の背景にあると見られます。"
+          ]
+        },
+        {
+          "title": "Morocco jails 29, including politicians and sports figures, in drug trial",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-26T14:48:38Z",
+          "excerpt": "Casablanca court delivers landmark verdict in 'Escobar of the Sahara' case: up to 12 years for top figures.",
+          "link": "https://www.aljazeera.com/news/2026/6/26/morocco-jails-29-including-politicians-and-sports-figures-in-drug-trial?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "モロッコ、麻薬裁判で政治家やスポーツ関係者含む29人に有罪判決",
+          "summaryJa": [
+            "モロッコのカサブランカ裁判所は、「サハラの麻薬王」事件で画期的な判決を下しました。",
+            "政治家やスポーツ関係者を含む29人が有罪となり、主要人物には最大12年の禁固刑が言い渡されました。",
+            "この裁判は、モロッコにおける麻薬関連犯罪に対する厳しい姿勢を示すものとして注目されています。"
+          ]
+        },
+        {
+          "title": "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-26T14:30:17Z",
+          "excerpt": "Hawkish national security figure has emerged as critic of President Trump after serving during his first term in office.",
+          "link": "https://www.aljazeera.com/news/2026/6/26/ex-trump-adviser-bolton-pleads-guilty-in-classified-documents-case?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ元大統領の元顧問ボルトン氏、機密文書事件で有罪を認める",
+          "summaryJa": [
+            "トランプ元大統領の元国家安全保障顧問であるジョン・ボルトン氏が、機密文書事件で有罪を認めました。",
+            "ボルトン氏はトランプ政権の1期目に務めた後、大統領の批判者となっていました。",
+            "この事件は、元高官による機密情報の取り扱いを巡る問題として注目されています。"
+          ]
         }
       ]
     },
@@ -128,143 +152,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "自民・麻生副総裁と国民・玉木代表ら会食 「三角関係」心配の声も(ABEMA TIMES)",
+          "title": "政府「災害対策で総力」 偽情報に注意呼びかけ(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:39:15Z",
-          "excerpt": "自民党の麻生副総裁、鈴木幹事長が国民民主党の玉木代表らと都内で会食しました。国会の会期末が迫る中、重要法案での協力などについて意見交換したとみられます。 25日夜、会食はおよそ2時間にわたって都",
-          "link": "https://news.yahoo.co.jp/articles/75d193cecbf4a672aa0d956cf3ccce39cc453c7f?source=rss",
+          "publishedAt": "2026-06-26T16:25:54Z",
+          "excerpt": "政府は26日夜、山梨県で震度6弱を観測した地震を受け、情報収集と災害応急対応に当たった。木原稔官房長官、高市早苗首相が相次いで官邸入り。首相は早急な被害状況の把握と災害応急対策、国民への的確な情報提",
+          "link": "https://news.yahoo.co.jp/articles/dfb0ada3e61b0d667cf85ff79b03e6d76c05601a?source=rss",
           "translationStatus": "translated",
-          "titleJa": "自民・麻生副総裁らが国民・玉木代表と会食、重要法案協力巡り意見交換か",
+          "titleJa": "政府、山梨地震で「災害対策に総力」 偽情報に注意喚起",
           "summaryJa": [
-            "自民党の麻生副総裁と鈴木幹事長が、国民民主党の玉木代表らと都内で会食しました。",
-            "会食は25日夜に約2時間行われました。",
-            "国会の会期末が迫る中、重要法案への協力などについて意見交換したとみられています。"
+            "政府は26日夜、山梨県で発生した震度6弱の地震を受け、情報収集と災害応急対応を開始しました。",
+            "木原稔官房長官と高市早苗首相が官邸に入り、対応にあたりました。",
+            "首相は、早急な被害状況の把握と災害応急対策の実施を指示。",
+            "国民に対し、的確な情報提供と偽情報への注意を呼びかけました。"
           ]
         },
         {
-          "title": "「国旗損壊罪」衆院委員会で可決 今国会で成立の見通し(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:36:17Z",
-          "excerpt": "日本国旗を公然と傷つける行為などを処罰する「国旗損壊罪」をめぐり、衆議院の内閣委員会で法案の採決が行われ、与党などの賛成多数で可決されました。 内閣委員長「起立多数。よって本案は原案の通り可決すべ",
-          "link": "https://news.yahoo.co.jp/articles/9580f30b99a588aa67f40264f22e02462758e3bd?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "国旗損壊罪法案、衆院内閣委員会で可決 今国会成立の見通し",
-          "summaryJa": [
-            "日本国旗を公然と傷つける行為を処罰する「国旗損壊罪」の法案が、衆議院内閣委員会で採決されました。",
-            "与党などの賛成多数により可決されました。",
-            "これにより、今国会での法案成立が見込まれています。"
-          ]
-        },
-        {
-          "title": "特殊詐欺拠点“オーナー”との関係浮上…住吉会傘下「領家一家」の本部を家宅捜索 中国マフィアへと金が流れた可能性も(東海テレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:35:57Z",
-          "excerpt": "カンボジアを拠点とした特殊詐欺事件をめぐり、愛知県警などは26日、埼玉県の暴力団事務所を家宅捜索しました。 午後1時ごろ、愛知県警などの捜査員約15人が、埼玉県川口市の指定暴力団・住吉会傘下「領",
-          "link": "https://news.yahoo.co.jp/articles/a163f7c98c971b9c881f51c50c2f0f3da5e3325d?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "カンボジア拠点特殊詐欺事件、住吉会傘下事務所を家宅捜索",
-          "summaryJa": [
-            "カンボジアを拠点とした特殊詐欺事件に関連し、愛知県警などが26日、埼玉県内の暴力団事務所を家宅捜索しました。",
-            "捜索を受けたのは、埼玉県川口市にある指定暴力団・住吉会傘下「領家一家」の本部です。",
-            "特殊詐欺の拠点オーナーとの関係が浮上しており、中国マフィアへ金が流れた可能性も指摘されています。"
-          ]
-        },
-        {
-          "title": "政府がイランなどに人道支援物資を提供 衣料品や食料など約1500万ドル(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:35:43Z",
-          "excerpt": "茂木外務大臣はイラン、レバノン、パレスチナに対して合わせて1500万ドル＝24億円相当の人道物資支援を行うと発表しました。 茂木外務大臣 「中東地域の平和と安定これは我が国にとって極めて重要でありま",
-          "link": "https://news.yahoo.co.jp/articles/ea564e160144cae9f1991be7b0f4c07522ed54fe?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "政府、イラン・レバノン・パレスチナに約1500万ドルの人道支援",
-          "summaryJa": [
-            "茂木外務大臣は、イラン、レバノン、パレスチナに対し人道支援を行うと発表しました。",
-            "支援額は合わせて1500万ドル（約24億円相当）で、衣料品や食料などの物資が提供されます。",
-            "中東地域の平和と安定が日本にとって極めて重要であるとしています。"
-          ]
-        },
-        {
-          "title": "暴力団組員であることを隠して株売買か 六代目山口組傘下の組長ら2人を金商法違反などの疑いで逮捕(東海テレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:33:48Z",
-          "excerpt": "暴力団組員であることを隠し株の売買をしたとして、岐阜市の暴力団組長らが逮捕されました。 六代目山口組傘下の組長・北村和博容疑者(60)と知人の野村照司容疑者(61)は、実際には北村容疑者の取り引",
-          "link": "https://news.yahoo.co.jp/articles/bcaa264e1decb1a180650db30e5a9b705aa03942?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "暴力団組員隠し株取引か、六代目山口組傘下組長ら2人逮捕",
-          "summaryJa": [
-            "暴力団組員であることを隠して株の売買をしたとして、岐阜市の暴力団組長らが逮捕されました。",
-            "逮捕されたのは、六代目山口組傘下の組長・北村和博容疑者(60)と知人の野村照司容疑者(61)です。",
-            "金融商品取引法違反などの疑いが持たれています。"
-          ]
-        },
-        {
-          "title": "3年経った今も不登校の状態続く…小学校で男子児童が同級生から暴行受けた『いじめ』市教委が適切な調査行わず(東海テレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:32:45Z",
-          "excerpt": "愛知県碧南市の小学校で男子児童が同級生から暴行を受けたいじめをめぐり、市教委が適切な調査をしていなかったことが分かりました。 碧南市教育委員会によりますと、2023年6月、市内の小学校に通う当時",
-          "link": "https://news.yahoo.co.jp/articles/c12cf7740cfc7d834c2e28539b7dd54867224a49?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "小学校いじめ問題、市教委が不適切な調査 愛知・碧南市",
-          "summaryJa": [
-            "愛知県碧南市の小学校で男子児童が同級生から暴行を受けたいじめを巡り、市教育委員会が適切な調査を行っていなかったことが判明しました。",
-            "いじめを受けた児童は、3年経った現在も不登校の状態が続いています。",
-            "市教委は2023年6月にこの件を把握していました。"
-          ]
-        },
-        {
-          "title": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+          "title": "東海道新幹線 運転再開",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-26T08:31:27Z",
-          "excerpt": "サッカーワールドカップ北中米大会で、日本は、1次リーグの第3戦でスウェーデンと対戦し、1対1で引き分けました。この結果、日本は1次リーグを1勝2引き分けで勝ち点を「5」とし、オランダに次ぐグループFの2位となって決勝トーナメント進出を決めました。決勝トーナメントの1回戦では、世...",
-          "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html",
+          "publishedAt": "2026-06-26T16:22:32Z",
+          "excerpt": "JR東海によりますと、地震の影響で、東海道新幹線は上りが愛知県の豊橋駅と東京駅の間、下りが東京駅と名古屋駅の間で運転を見合わせていましたが、安全確認が終わったとして、午前1時17分ごろから順次、運転を再開したということです。東京駅と名古屋駅では宿泊先の確保が難しい人たちなどのた...",
+          "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161951000.html",
           "translationStatus": "translated",
-          "titleJa": "サッカーW杯、日本が引き分けで決勝トーナメント進出",
+          "titleJa": "東海道新幹線、地震影響で一時見合わせも運転再開",
           "summaryJa": [
-            "サッカーワールドカップ北中米大会の1次リーグ第3戦で、日本はスウェーデンと1対1で引き分けました。",
-            "この結果、日本は1勝2引き分けで勝ち点5を獲得しました。",
-            "グループFをオランダに次ぐ2位で通過し、決勝トーナメント進出を決めました。"
+            "東海道新幹線は地震の影響で、上りが豊橋駅と東京駅間、下りが東京駅と名古屋駅間で運転を見合わせていました。",
+            "JR東海によると、安全確認が完了したため、午前1時17分ごろから順次運転を再開しました。",
+            "東京駅と名古屋駅では、宿泊先の確保が難しい乗客への対応が行われました。"
           ]
         },
         {
-          "title": "Yen’s decline makes perfect sense to some analysts",
-          "source": "The Japan Times",
-          "publishedAt": "2026-06-26T08:31:00Z",
-          "excerpt": "They have started to wonder whether there is really much at all holding the currency up.",
-          "link": "https://www.japantimes.co.jp/business/2026/06/26/markets/sticky-weak-yen-june/",
-          "translationStatus": "translated",
-          "titleJa": "円安進行、一部アナリストは「当然」と分析",
-          "summaryJa": [
-            "円安の進行について、一部のアナリストは「当然の動き」と分析しています。",
-            "彼らは、円を支える要因がほとんどないのではないかとの見方を強めています。",
-            "この状況が、現在の円安傾向を説明していると指摘しています。"
-          ]
-        },
-        {
-          "title": "《江別市暴行死事件》惨すぎる集団暴行の中身、川村葉音被告に懲役30年の判決も「甘すぎる」の声噴出(週刊女性PRIME)",
+          "title": "山梨で震度6弱、気象庁が会見「今後2〜3日間程度は最大震度6弱程度の地震に注意」「富士山には心配なし」(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:30:35Z",
-          "excerpt": "司法の判断に、世間から批判の声が殺到している。 2024年10月、北海道江別市で当時20歳の男子大学生が集団による暴行を受け、死亡するという強盗致死事件が発生。6月25日、起訴された男女6人の1",
-          "link": "https://news.yahoo.co.jp/articles/129483a9d970457f20350e10bb402943cd13c2d7?source=rss",
+          "publishedAt": "2026-06-26T16:21:17Z",
+          "excerpt": "26日午後10時28分頃、山梨県東部・富士五湖を震源とする地震があり、山梨県富士河口湖町で最大震度6弱を観測した。これを受け気象庁は、27日に記者会見を開き、今後の防災上の注意点について説明した。",
+          "link": "https://news.yahoo.co.jp/articles/f6f9bc06888fecfa4db2da0d0d5cc81ef51d98cd?source=rss",
           "translationStatus": "translated",
-          "titleJa": "江別市暴行死事件、被告に懲役30年判決 世間から批判の声",
+          "titleJa": "山梨で震度6弱、気象庁が会見 今後数日の同規模地震に注意喚起",
           "summaryJa": [
-            "2024年10月に北海道江別市で発生した、男子大学生が集団暴行を受け死亡した強盗致死事件で、被告の一人に懲役30年の判決が下されました。",
-            "この司法判断に対し、世間からは批判の声が上がっています。",
-            "事件では男女6人が起訴されています。"
+            "26日午後10時28分頃、山梨県東部・富士五湖を震源とする地震があり、富士河口湖町で最大震度6弱を観測しました。",
+            "これを受け気象庁は27日に記者会見を開き、今後の防災上の注意点を説明。",
+            "今後2〜3日間程度は、最大震度6弱程度の地震に注意するよう呼びかけました。",
+            "富士山の活動には特段の心配はないとしています。"
           ]
         },
         {
-          "title": "「箱根」宿泊税 1人1泊につき350円 2年後導入へ(テレビ朝日系（ANN）)",
+          "title": "高市総理、自民・総務会メンバーと夕食会(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-26T08:30:05Z",
-          "excerpt": "箱根町は1泊につき350円を徴収する方針です。 1年間でおよそ2000万人が訪れる神奈川県の箱根町は、ごみ処理などのインフラ整備維持の費用として2028年以降、年間およそ10億円の財源不足が見込ま",
-          "link": "https://news.yahoo.co.jp/articles/4713804f68b395c91a985c186ba10b8238164035?source=rss",
+          "publishedAt": "2026-06-26T16:18:35Z",
+          "excerpt": "高市総理大臣は26日夜、自民党総務会のメンバーと夕食をともにし、会期末に向けて残る法案の成立に全力を挙げる考えを共有しました。 自民党 有村治子総務会長 「国会会期末で重要法案を抱えておりますので、",
+          "link": "https://news.yahoo.co.jp/articles/7a5b67391961e258df1ea260a6c4c5df501785c6?source=rss",
           "translationStatus": "translated",
-          "titleJa": "箱根町、宿泊税を2年後に導入へ 1人1泊350円",
+          "titleJa": "高市総理、自民党総務会メンバーと夕食会 法案成立へ結束確認",
           "summaryJa": [
-            "神奈川県箱根町は、宿泊客から1人1泊につき350円の宿泊税を徴収する方針を固めました。",
-            "導入は2年後、2028年以降を予定しています。",
-            "年間約2000万人が訪れる箱根町では、ごみ処理などのインフラ整備維持費用として年間約10億円の財源不足が見込まれています。"
+            "高市総理大臣は26日夜、自民党総務会のメンバーと夕食を共にしました。",
+            "会期末に向けて残る重要法案の成立に全力を挙げる考えを共有しました。",
+            "自民党の有村治子総務会長も、国会会期末の重要法案について言及しました。"
+          ]
+        },
+        {
+          "title": "尾鷲など三重県南部…24日の降り始めから200mm超える雨 27日午後にかけ警報級の大雨の恐れ(メ〜テレ（名古屋テレビ）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-26T16:15:01Z",
+          "excerpt": "現在、本州の南の海上に2つの台風があり、東海地方は27日の午後にかけて、大雨の恐れがあります。 「午後9時前、三重県尾鷲市です。先ほど激しい雨が降った影響で道路に水が流れ出ていて、川のようになっ",
+          "link": "https://news.yahoo.co.jp/articles/949a886f2c4de07d7f78ec888998a6bddadba28f?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "三重県南部で200mm超の雨、27日午後まで警報級大雨の恐れ",
+          "summaryJa": [
+            "本州南の海上にある2つの台風の影響で、東海地方は27日午後にかけて大雨の恐れがあります。",
+            "三重県南部では24日の降り始めから200mmを超える雨量を観測しました。",
+            "尾鷲市では激しい雨により道路に水が流れ出し、川のようになっている場所も見られました。",
+            "気象台は警報級の大雨に警戒を呼びかけています。"
+          ]
+        },
+        {
+          "title": "土砂崩れで1人行方不明、山口 平生町、3人搬送(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-26T16:12:29Z",
+          "excerpt": "26日午後7時40分過ぎ、山口県平生町小郡で「土砂崩れで家が崩壊している」と119番があった。地元消防によると住民3人が搬送され、1人と連絡が取れていない。 町によると、現場では25日夜から断続",
+          "link": "https://news.yahoo.co.jp/articles/94e8dfb388328ce1625ca39030dc9fbbcf774733?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "山口県平生町で土砂崩れ、家屋崩壊 1人行方不明、3人搬送",
+          "summaryJa": [
+            "26日午後7時40分過ぎ、山口県平生町小郡で土砂崩れが発生し、家屋が崩壊しました。",
+            "地元消防によると、住民3人が病院に搬送されました。",
+            "また、1人と連絡が取れていない状況です。",
+            "現場では25日夜から断続的に雨が降っていました。"
+          ]
+        },
+        {
+          "title": "山梨で震度6クラス、1924年以来(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-26T16:12:11Z",
+          "excerpt": "気象庁によると、山梨県で震度6クラスの揺れを観測するのは、1924年以来。",
+          "link": "https://news.yahoo.co.jp/articles/49b4d18e55e1326c49cf3542ecfbde4aa04f8e15?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "山梨県で震度6弱「1週間程度 震度6弱程度の地震に注意」気象庁",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-26T16:11:25Z",
+          "excerpt": "山梨県で震度6弱の揺れを観測した地震について、気象庁は今後の注意点や地震活動の状況などについて説明する記者会見を午前0時40分から開いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161941000.html",
+          "translationStatus": "translated",
+          "titleJa": "山梨震度6弱、気象庁が会見で「1週間程度同規模の地震に注意」",
+          "summaryJa": [
+            "山梨県で震度6弱を観測した地震を受け、気象庁は午前0時40分から記者会見を開きました。",
+            "会見では、今後の注意点や地震活動の状況について説明が行われました。",
+            "気象庁は、今後1週間程度は最大震度6弱程度の地震に注意するよう呼びかけました。"
+          ]
+        },
+        {
+          "title": "2つの台風 相次ぎ接近 総雨量多くなるおそれ 土砂災害厳重警戒",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-26T16:10:42Z",
+          "excerpt": "台風8号は速度を上げて本州に近づいていて、東日本と西日本の太平洋側などでは発達した雨雲がかかっています。台風8号は27日朝にかけて関東甲信や東海に接近し、上陸するおそれもあるほか、台風7号も西日本と東日本へ近づくため、総雨量はかなり多くなるおそれがあります。気象庁は土砂災害に厳...",
+          "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160621000.html",
+          "translationStatus": "translated",
+          "titleJa": "2つの台風が相次ぎ接近、総雨量増加と土砂災害に厳重警戒",
+          "summaryJa": [
+            "台風8号が速度を上げて本州に接近しており、27日朝には関東甲信や東海に上陸する恐れがあります。",
+            "東日本と西日本の太平洋側では発達した雨雲がかかっています。",
+            "台風7号も西日本と東日本へ近づくため、総雨量がかなり多くなる見込みです。",
+            "気象庁は土砂災害に対し厳重な警戒を呼びかけています。"
+          ]
+        },
+        {
+          "title": "山梨震度6弱で気象庁が会見「富士山の活動に特段の変化ない」「前日の青森の震度6強や同日の千葉の震度4とは直接的な関係はない」(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-26T16:09:20Z",
+          "excerpt": "26日午後10時29分ごろ山梨県で最大震度6弱を観測する地震が発生したことを受け、気象庁が0時40分ごろから記者会見を開き、今後1週間程度は最大震度6弱程度の地震に注意するよう呼びかけた。 また",
+          "link": "https://news.yahoo.co.jp/articles/82f6e1595683c87a93d6e20d0e4510ce65e69f76?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "山梨震度6弱、気象庁が会見 富士山への影響否定、他地震との関連もなし",
+          "summaryJa": [
+            "26日午後10時29分ごろ山梨県で最大震度6弱の地震が発生し、気象庁が記者会見を開きました。",
+            "今後1週間程度は最大震度6弱程度の地震に注意するよう呼びかけました。",
+            "気象庁は、富士山の活動に特段の変化はないと説明しました。",
+            "また、前日の青森の震度6強や同日の千葉の震度4の地震とは直接的な関係はないとしています。"
           ]
         }
       ]
@@ -274,144 +298,102 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
+          "title": "Leon Black refuses to answer questions on NDAs at Jeffrey Epstein hearing, Rep. Comer says",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T07:44:12Z",
-          "excerpt": "SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intell...",
-          "link": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+          "publishedAt": "2026-06-26T16:31:35Z",
+          "excerpt": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government...",
+          "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
           "translationStatus": "translated",
-          "titleJa": "AI関連株の急落、テクノロジー企業に混乱続く",
+          "titleJa": "レオン・ブラック氏、エプスタイン公聴会でNDAに関する質問への回答を拒否",
           "summaryJa": [
-            "ソフトバンクグループが急落し、アジアのテクノロジー株全体で売りが広がりました。",
-            "これは、人工知能（AI）のコスト上昇に対する懸念が高まっているためです。",
-            "テクノロジー企業にとって、混乱が続く一日となる兆候を示しています。"
+            "レオン・ブラック氏は、ジェフリー・エプスタイン氏に関する公聴会で、秘密保持契約（NDA）についての質問への回答を拒否しました。",
+            "コマー下院議員がこの事実を明らかにしました。",
+            "ブラック氏は準備書面でエプスタイン氏について「ジキルは知っていたが、ハイドは知らなかった」と述べました。"
           ]
         },
         {
-          "title": "Binance to stop providing services to European clients after failing to obtain license: Financial Times",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T07:23:50Z",
-          "excerpt": "All crypto companies have to obtain a license under the bloc's Markets in Crypto-Assets Regulation by July 1, or risk penalties.",
-          "link": "https://www.cnbc.com/2026/06/26/binance-to-stop-providing-services-to-european-clients-after-failing-to-obtain-license-ft.html",
-          "translationStatus": "translated",
-          "titleJa": "バイナンス、欧州でのサービス停止へ ライセンス取得できず",
-          "summaryJa": [
-            "暗号資産取引所バイナンスが、ライセンス取得に失敗したため欧州の顧客へのサービス提供を停止するとフィナンシャル・タイムズが報じました。",
-            "欧州連合（EU）の暗号資産市場規制により、すべての暗号資産企業は7月1日までにライセンスを取得する必要があります。",
-            "取得できない場合、罰則のリスクがあります。"
-          ]
-        },
-        {
-          "title": "U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T06:41:38Z",
-          "excerpt": "\"The technical work has started, and we hope to be there soon,\" IAEA chief Rafael Grossi said at a news conference in Japan on Friday.",
-          "link": "https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html",
-          "translationStatus": "translated",
-          "titleJa": "米イラン和平合意、テヘランの核施設へのアクセスを許可 IAEAが発表",
-          "summaryJa": [
-            "国連の監視機関によると、米イラン和平合意によりテヘランの核施設へのアクセスが認められました。",
-            "IAEAのラファエル・グロッシ事務局長は、日本での記者会見で述べました。",
-            "「技術的な作業は開始されており、間もなく現地入りできることを期待している」とのことです。"
-          ]
-        },
-        {
-          "title": "NBA targets Asian resurgence with technology and talent push",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T05:50:42Z",
-          "excerpt": "Southeast Asia has emerged as one of the NBA's fastest-growing markets for fan engagement, making the region a focal point for both player...",
-          "link": "https://www.cnbc.com/2026/06/26/nba-targets-asian-resurgence-with-technology-and-talent-push-.html",
-          "translationStatus": "translated",
-          "titleJa": "NBA、テクノロジーと人材育成でアジア市場の再活性化目指す",
-          "summaryJa": [
-            "NBAは、テクノロジーと人材育成の推進により、アジア市場の再活性化を目指しています。",
-            "東南アジアは、ファンエンゲージメントにおいてNBAで最も急速に成長している市場の一つです。",
-            "この地域は、選手育成とファン獲得の両面で重要な焦点となっています。"
-          ]
-        },
-        {
-          "title": "Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T05:01:21Z",
-          "excerpt": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while digesting a flurry of ne...",
-          "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
-          "translationStatus": "translated",
-          "titleJa": "原油価格2%下落、イラン情勢より供給見通しに焦点",
-          "summaryJa": [
-            "原油価格は金曜日に下落を続け、2%安となりました。",
-            "市場は新たなイラン情勢の緊張よりも、供給見通しに注目しています。",
-            "中東紛争におけるさらなる進展を消化しつつ、市場は動いています。"
-          ]
-        },
-        {
-          "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T04:48:25Z",
-          "excerpt": "Airwallex raised $320 million to build the financial infrastructure powering a world where AI agents handle business payments and finance.",
-          "link": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html",
-          "translationStatus": "translated",
-          "titleJa": "Airwallex、3.2億ドル調達で評価額110億ドルに AIエージェント金融へ進出",
-          "summaryJa": [
-            "フィンテック企業Airwallexは、3億2000万ドルを調達し、評価額が110億ドルに達しました。",
-            "同社は、AIエージェントがビジネス決済や金融を扱う世界の金融インフラ構築を目指しています。",
-            "この資金は、AIを活用した金融サービスへの進出を加速させるために使われます。"
-          ]
-        },
-        {
-          "title": "The Wall Street equivalent of roster-cut day happens Friday. It’ll be one of the biggest volume days of the year.",
+          "title": "‘I’m scared I made a huge financial mistake’: I gave my brother half of my $1.5 million home. Can he make me sell it?",
           "source": "MarketWatch",
-          "publishedAt": "2026-06-26T04:47:00Z",
-          "excerpt": "FTSE Russell is undertaking its semi-annual rebalancing — what the index provider calls its reconstitution — and the size of the undertakin...",
-          "link": "https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496?mod=mw_rss_topstories",
+          "publishedAt": "2026-06-26T16:30:00Z",
+          "excerpt": "“One lawyer estimated that my brother and I would each walk away with a couple hundred thousand dollars.”",
+          "link": "https://www.marketwatch.com/story/im-scared-of-making-a-huge-financial-mistake-i-gave-my-brother-half-of-my-1-5-million-home-can-he-force-me-to-sell-1b112b73?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ウォール街で「人員削減日」に相当する日、年間最大級の取引量に",
+          "titleJa": "150万ドルの自宅の半分を兄弟に譲渡、売却を強制される可能性に不安",
           "summaryJa": [
-            "金曜日はウォール街で「人員削減日」に相当する日となり、年間で最大級の取引量が見込まれます。",
-            "これは、FTSE Russellが半期に一度のインデックス再構成（リバランス）を実施するためです。",
-            "この大規模なリバランスが市場に大きな影響を与える可能性があります。"
+            "ある人物が150万ドルの自宅の半分を兄弟に譲渡したことで、大きな金銭的過ちを犯したのではないかと懸念しています。",
+            "兄弟が自宅の売却を強制する可能性について不安を感じています。",
+            "弁護士は、売却された場合、それぞれが数十万ドルを受け取るとの見積もりを示しました。"
           ]
         },
         {
-          "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished.",
+          "title": "A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’",
           "source": "MarketWatch",
-          "publishedAt": "2026-06-26T02:27:00Z",
-          "excerpt": "Investors seem to be having second thoughts about the lofty valuations in the sector, an analyst said.",
-          "link": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories",
+          "publishedAt": "2026-06-26T16:28:00Z",
+          "excerpt": "The long-shot proposal would guarantee some cost protection to all people with Medicare.",
+          "link": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "SpaceXへの「乗り遅れ不安」終焉、宇宙関連株が軒並み下落",
+          "titleJa": "メディケア加入者の年間自己負担額を5,000ドルに上限設定する新法案、政府に数百億ドルの費用か",
           "summaryJa": [
-            "SpaceXへの「乗り遅れ不安（FOMO）」が公式に終わりを告げました。",
-            "宇宙関連株は軒並み下落し、厳しい状況にあります。",
-            "あるアナリストは、投資家がこのセクターの過大な評価について再考しているようだと指摘しています。"
+            "新しい法案が提案されており、メディケア加入者の年間自己負担額を5,000ドルに上限設定する内容です。",
+            "この提案は、メディケア加入者全員に費用保護を保証するものです。",
+            "しかし、政府には「数百億ドル」の費用がかかる可能性があるとされています。"
           ]
         },
         {
-          "title": "UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-26T02:07:59Z",
-          "excerpt": "The pause follows a container ship being struck near the coast of Oman on Thursday, with a U.S. official saying that Iran was responsible f...",
-          "link": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
-          "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡の船舶避難計画、国連機関が一時停止 平和合意後初の攻撃受け",
-          "summaryJa": [
-            "国連機関は、ホルムズ海峡での船舶避難計画を一時停止しました。",
-            "これは、平和合意後初めての船舶攻撃を受けたことによるものです。",
-            "木曜日にオマーン沖でコンテナ船が攻撃され、米当局者はイランが関与したと述べています。"
-          ]
+          "title": "Micron Grew 10X in 12 Months. Can It Do It Again?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-26T16:23:32Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-grew-10x-12-months-162332168.html",
+          "translationStatus": "failed"
         },
         {
-          "title": "Chan Zuckerberg Initiative's Biohub to open new rare disease funding round",
+          "title": "Sharplink Resumes Ethereum Purchases",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-26T16:22:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "FIFA World Cup prize money: What USMNT players stand to earn as America enters the knockout stage",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-26T16:21:00Z",
+          "excerpt": "The U.S. men’s national soccer team has advanced to the Round of 32 — increasing their prize payout.",
+          "link": "https://www.marketwatch.com/story/fifa-world-cup-prize-money-what-each-usmnt-player-stands-to-earn-332f8a96?mod=mw_rss_topstories",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "An Economist Says Inflation Is About to Become ‘Yesterday’s Story’ — Here’s the One Number He’s Watching",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-26T16:18:18Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/economy/policy/articles/economist-says-inflation-become-yesterday-161818372.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
           "source": "CNBC Markets",
-          "publishedAt": "2026-06-25T23:47:49Z",
-          "excerpt": "Chan Zuckerberg Initiative's Biohub will offer new grants to the rare disease community while expanding its AI drug repurposing partnership...",
-          "link": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
-          "translationStatus": "translated",
-          "titleJa": "チャネル・ザッカーバーグ・イニシアチブのバイオハブ、難病研究に新たな助成金",
-          "summaryJa": [
-            "チャネル・ザッカーバーグ・イニシアチブのバイオハブが、難病コミュニティに新たな助成金を提供します。",
-            "同時に、AIを活用した薬剤転用パートナーシップも拡大します。",
-            "この取り組みは、難病研究の進展を支援することを目的としています。"
-          ]
+          "publishedAt": "2026-06-26T16:17:28Z",
+          "excerpt": "The International Maritime Organization earlier paused efforts to evacuate ships and seafarers stranded in the Strait of Hormuz after a car...",
+          "link": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Morgan Stanley resets Micron stock price target on strong AI demand",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-26T16:17:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-resets-micron-stock-161700815.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "This AI Data Center Play Nears Breakout After Record Orders",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-26T16:16:21Z",
+          "excerpt": "",
+          "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/ai-data-center-play-amphenol-stock/?src=A00220&yptr=yahoo",
+          "translationStatus": "failed"
         }
       ]
     },
@@ -420,12 +402,60 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "It’s not about Anthropic vs. OpenAI anymore",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-26T16:24:47Z",
+          "excerpt": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will requ...",
+          "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+          "translationStatus": "translated",
+          "titleJa": "AIモデルの能力向上、政治的影響が焦点に",
+          "summaryJa": [
+            "AIモデルの能力が向上し、現実世界での政治的な影響が顕在化している。",
+            "今やAI開発はAnthropicとOpenAIの競争だけでなく、その影響への対処が重要になっている。",
+            "これらの影響への対応が求められている。"
+          ]
+        },
+        {
+          "title": "Anthropic’s Mythos mess is only getting worse",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-26T14:07:03Z",
+          "excerpt": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. Th...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic、トランプ政権の要求でAIモデルを停止",
+          "summaryJa": [
+            "Anthropicは、トランプ政権からの最後通告を受け、MythosクラスのAIモデルをオフラインにした。",
+            "この停止から2週間が経過し、状況は悪化している。",
+            "問題の解決には至っていない模様。"
+          ]
+        },
+        {
+          "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-26T13:00:00Z",
+          "excerpt": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase...",
+          "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+          "translationStatus": "translated",
+          "titleJa": "TechCrunch Founder Summit、早期割引が本日終了",
+          "summaryJa": [
+            "TechCrunch Founder Summit 2026の参加パスの早期割引が本日終了する。",
+            "太平洋時間午後11時59分まで最大190ドルの割引が適用される。",
+            "期限後は料金が値上げされるため、注意が必要だ。"
+          ]
+        },
+        {
           "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
           "source": "TechCrunch AI",
           "publishedAt": "2026-06-25T23:34:39Z",
           "excerpt": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason:...",
           "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ホワイトハウス、OpenAIに新モデル公開の延期を要請",
+          "summaryJa": [
+            "ホワイトハウスがOpenAIに対し、安全性への懸念から新モデルの公開を段階的に進めるよう要請している。",
+            "OpenAIは最新モデル「GPT 5.6」を一般公開せず、一部のパートナーに限定して共有する計画と報じられている。",
+            "これは安全性の問題に対応するためとされている。"
+          ]
         },
         {
           "title": "OpenAI will delay GPT-5.6 after Trump administration request",
@@ -433,7 +463,13 @@
           "publishedAt": "2026-06-25T21:57:57Z",
           "excerpt": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-tic...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "OpenAI、トランプ政権の要請でGPT-5.6の公開を延期へ",
+          "summaryJa": [
+            "OpenAIは、トランプ政権の要請を受け、次期モデル「GPT-5.6」の公開を延期する見込みだ。",
+            "トランプ政権は、潜在的なセキュリティ問題を懸念していると報じられている。",
+            "これにより、モデルの段階的なリリースが求められている。"
+          ]
         },
         {
           "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
@@ -442,11 +478,11 @@
           "excerpt": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
           "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
           "translationStatus": "translated",
-          "titleJa": "Patronus AI、AIエージェントのストレステスト用「デジタル世界」構築で5000万ドル調達",
+          "titleJa": "Patronus AI、AIエージェント検証向けに5000万ドルを調達",
           "summaryJa": [
-            "AIエージェントのテストを行うスタートアップPatronus AIが、5000万ドルを調達しました。",
-            "同社は元Meta AIの研究者によって設立されました。",
-            "投資家によると、同社のサービスには非常に強い需要があるとのことです。"
+            "元Meta AI研究者が設立したPatronus AIが、AIエージェントのストレステストを行う「デジタル世界」構築のため5000万ドルを調達した。",
+            "同社の投資家によると、AIエージェントのテストに対する需要は非常に高いという。",
+            "この資金は、需要に応えるための事業拡大に充てられる。"
           ]
         },
         {
@@ -458,9 +494,9 @@
           "translationStatus": "translated",
           "titleJa": "AnthropicのClaude、有料AI市場でChatGPTから顧客獲得",
           "summaryJa": [
-            "データによると、AnthropicのAIモデル「Claude」が有料AIサービス利用者からの支持を集めています。",
-            "これは、市場で圧倒的なリードを保つChatGPTから顧客を奪っている形です。",
-            "有料AI市場における競争が激化していることを示唆しています。"
+            "データによると、AnthropicのAIモデル「Claude」が有料AIサービス市場で顧客を獲得している。",
+            "これまでChatGPTが圧倒的な市場シェアを占めていたにもかかわらず、有料ユーザーの間でClaudeの選択が増加している。",
+            "この傾向は、AI市場における競争の激化を示唆している。"
           ]
         },
         {
@@ -469,7 +505,13 @@
           "publishedAt": "2026-06-25T16:55:00Z",
           "excerpt": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop som...",
           "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "General Intuition、ビデオゲームでAI訓練に3.2億ドル調達",
+          "summaryJa": [
+            "General Intuitionは、ビデオゲームが現実世界のAIエージェント訓練に役立つという考えに基づき、3億2000万ドルを調達した。",
+            "同社は数百万時間にわたるゲームプレイデータでAIを訓練し、行動データがAIの能力開発に貢献すると見込んでいる。",
+            "この資金は、AI訓練の規模拡大に充てられる。"
+          ]
         },
         {
           "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
@@ -478,11 +520,11 @@
           "excerpt": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
           "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
           "translationStatus": "translated",
-          "titleJa": "Databricks元AI責任者、AIの電力消費を1000分の1に削減可能と主張",
+          "titleJa": "元Databricks AI責任者、AIの電力消費を1000分の1に削減可能と主張",
           "summaryJa": [
-            "Databricksの元AI責任者が、AIの電力消費を1000分の1に削減できると考えています。",
-            "同社の画像生成システムツール「Un-0」は、従来のAIシステムを再現できる技術を示しています。",
-            "この技術がAIのエネルギー効率を大幅に改善する可能性を秘めています。"
+            "Databricksの元AI責任者は、AIの電力消費量を1000分の1に削減できると考えている。",
+            "同社の画像生成システムツール「Un-0」は、従来のAIシステムを再現できる技術を示している。",
+            "この技術が、AIのエネルギー効率を大幅に改善する可能性を秘めている。"
           ]
         },
         {
@@ -492,53 +534,11 @@
           "excerpt": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go...",
           "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
           "translationStatus": "translated",
-          "titleJa": "Netris、AIネオクラウドの迅速な稼働支援でa16zから1500万ドル調達",
+          "titleJa": "Netris、a16zから1500万ドル調達 AIネオクラウドの迅速な稼働支援",
           "summaryJa": [
-            "Netris社は、AIネオクラウドの迅速な稼働を支援するため、a16zからシリーズAで1500万ドルを調達しました。",
-            "同社はネットワークスイッチ上で動作するソフトウェアを提供しています。",
-            "このプラットフォームは、ネオクラウド事業者がサービス開始までの時間を短縮するのに役立ちます。"
-          ]
-        },
-        {
-          "title": "Repositioning retail for the AI era",
-          "source": "MIT Technology Review AI",
-          "publishedAt": "2026-06-25T14:22:59Z",
-          "excerpt": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may...",
-          "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-          "translationStatus": "translated",
-          "titleJa": "AI時代に向けた小売業の再構築",
-          "summaryJa": [
-            "人工知能（AI）が小売業界を急速に再構築しています。",
-            "消費者がすぐに気づく形ではないかもしれませんが、大きな変革が進行中です。",
-            "AIは小売業の運営方法や顧客体験に根本的な変化をもたらす可能性があります。"
-          ]
-        },
-        {
-          "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-25T14:00:00Z",
-          "excerpt": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59...",
-          "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-          "translationStatus": "translated",
-          "titleJa": "TechCrunch Founder Summit、早期割引終了まで残り2日",
-          "summaryJa": [
-            "TechCrunch Founder Summit 2026の早期割引料金が、6月26日午後11時59分に終了します。",
-            "参加者は最大190ドルの割引を受けることができます。",
-            "1000人以上の創業者や投資家が参加するこのイベントへの登録を呼びかけています。"
-          ]
-        },
-        {
-          "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-25T13:30:00Z",
-          "excerpt": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-          "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-          "translationStatus": "translated",
-          "titleJa": "Adobe、画像・動画編集ツール開発のTopaz Labsを買収",
-          "summaryJa": [
-            "Adobeが画像および動画編集ツール開発企業であるTopaz Labsを買収しました。",
-            "AdobeはTopaz Labsのツールを自社の様々なアプリケーションに統合する予定です。",
-            "これにより、Adobe製品の機能強化が期待されます。"
+            "Netrisは、ネットワークスイッチ上で動作するソフトウェアを提供し、AIネオクラウドの迅速な稼働を支援するプラットフォームを展開している。",
+            "同社はa16zからシリーズAラウンドで1500万ドルを調達した。",
+            "この資金は、ネオクラウド事業者がサービスをより早く開始できるよう支援するために使われる。"
           ]
         }
       ]
@@ -548,17 +548,87 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "The Teachers Did Everything Right. They’re Still Being Forced Out.",
+          "source": "The 74",
+          "publishedAt": "2026-06-26T15:13:07Z",
+          "excerpt": "",
+          "link": "https://www.the74million.org/article/the-teachers-did-everything-right-theyre-still-being-forced-out/",
+          "translationStatus": "translated",
+          "titleJa": "教師たちが正しく職務を遂行したにもかかわらず、解雇の危機に直面",
+          "summaryJa": [
+            "教師たちが職務を適切に遂行したにもかかわらず、解雇される事態に直面しています。",
+            "彼らは正しい行動を取ったとされていますが、職を追われる状況に置かれています。",
+            "この問題は、教育現場における不当な処遇の可能性を示唆しています。"
+          ]
+        },
+        {
+          "title": "Opinion: Harnessing the Power of Music for Students With Disabilities",
+          "source": "The 74",
+          "publishedAt": "2026-06-26T14:30:00Z",
+          "excerpt": "It’s the same picture, every year, when my family visits India. My uncle is sitting right in the middle of the gathering, and yet the conve...",
+          "link": "https://www.the74million.org/article/harnessing-the-power-of-music-for-students-with-disabilities/",
+          "translationStatus": "translated",
+          "titleJa": "意見：障害を持つ生徒のために音楽の力を活用する",
+          "summaryJa": [
+            "障害を持つ生徒たちへの音楽の活用に関する意見記事です。",
+            "音楽の持つ力を引き出すことで、彼らの教育に良い影響をもたらす可能性が示唆されています。",
+            "記事では、音楽が持つ潜在的な教育的価値について考察しています。"
+          ]
+        },
+        {
+          "title": "In ‘Toy Story 5,’ Tech ‘Invades’ Playtime. It Also Threatens Human Connection.",
+          "source": "The 74",
+          "publishedAt": "2026-06-26T12:30:00Z",
+          "excerpt": "In one of the opening scenes of “Toy Story 5,” Jessie — a cowgirl doll — tries to find out why the twins who live across the street never w...",
+          "link": "https://www.the74million.org/zero2eight/in-toy-story-5-tech-invades-playtime-it-also-threatens-human-connection/",
+          "translationStatus": "translated",
+          "titleJa": "『トイ・ストーリー5』でテクノロジーが遊びを侵食、人間関係も脅かす",
+          "summaryJa": [
+            "映画『トイ・ストーリー5』では、テクノロジーが子供たちの遊びの時間に深く入り込んでいる様子が描かれます。",
+            "これにより、人間同士のつながりが脅かされる可能性が示唆されています。",
+            "オープニングシーンでは、カウガール人形のジェシーが、向かいに住む双子が遊ばない理由を探ろうとします。"
+          ]
+        },
+        {
+          "title": "Texas Quietly Began Work on Divisive History Curriculum a Year Ago",
+          "source": "The 74",
+          "publishedAt": "2026-06-26T10:30:00Z",
+          "excerpt": "The Texas State Board of Education will vote Friday on a set of new social studies standards that have drawn fire and fervor for espousing...",
+          "link": "https://www.the74million.org/article/texas-quietly-began-work-on-divisive-history-curriculum-a-year-ago/",
+          "translationStatus": "translated",
+          "titleJa": "テキサス州、物議を醸す歴史カリキュラムの策定を1年前に開始",
+          "summaryJa": [
+            "テキサス州が、意見が分かれる歴史カリキュラムの策定作業を1年前に密かに開始していたことが明らかになりました。",
+            "州教育委員会は金曜日に、新たな社会科教育基準について採決を行う予定です。",
+            "この基準は、特定の思想を支持しているとして強い批判と熱狂的な支持を集めています。"
+          ]
+        },
+        {
+          "title": "MSCS will pay the state oversight board’s salary. But who will fund its work?",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-06-26T10:00:00Z",
+          "excerpt": "Sign up for Chalkbeat Tennessee’s free newsletter to keep up with statewide education policy and Memphis-Shelby County Schools. Tennessee i...",
+          "link": "https://www.chalkbeat.org/tennessee/2026/06/26/memphis-schools-budget-will-fund-state-takeover-board-salaries/",
+          "translationStatus": "translated",
+          "titleJa": "MSCSが州監督委員会の給与を支払うが、活動資金は誰が負担するのか？",
+          "summaryJa": [
+            "メンフィス・シェルビー郡学校区（MSCS）が、州の監督委員会の給与を支払うことになりました。",
+            "しかし、その委員会の活動資金を誰が負担するのかという疑問が提起されています。",
+            "資金源の不透明さが、今後の運営に影響を与える可能性があります。"
+          ]
+        },
+        {
           "title": "Corequisite Math Might Be Less Effective Than Previously Thought",
           "source": "Inside Higher Ed",
           "publishedAt": "2026-06-26T07:00:00Z",
           "excerpt": "Corequisite Math Might Be Less Effective Than Previously Thought Johanna Alonso Fri, 06/26/2026 - 03:00 AM Byline(s) Johanna Alonso",
           "link": "https://www.insidehighered.com/news/quick-takes/2026/06/26/corequisite-math-might-be-less-effective-thought",
           "translationStatus": "translated",
-          "titleJa": "併修数学プログラム、従来の想定より効果が低い可能性",
+          "titleJa": "併修数学は以前考えられていたよりも効果が低い可能性",
           "summaryJa": [
-            "併修数学プログラムの効果について、新たな見解が示されました。",
-            "これまでの想定よりも、その有効性が低い可能性があるとのことです。",
-            "このプログラムは、学生の数学学習を支援するために導入されています。"
+            "併修数学（Corequisite Math）の教育方法が、これまでの想定よりも効果が低いかもしれないと報じられています。",
+            "この研究結果は、高等教育における数学指導のあり方に再考を促すものです。",
+            "併修数学の有効性について、新たな視点から検証が進められています。"
           ]
         },
         {
@@ -570,9 +640,9 @@
           "translationStatus": "translated",
           "titleJa": "カリフォルニア州の非常勤講師、「未払い労働」で提訴",
           "summaryJa": [
-            "カリフォルニア州の非常勤講師らが、未払い労働を理由に訴訟を起こしました。",
-            "講師らは、報酬が支払われていない業務があったと主張しています。",
-            "この訴訟は、非常勤講師の労働条件に焦点を当てています。"
+            "カリフォルニア州の非常勤講師たちが、「未払い労働」を理由に訴訟を起こしました。",
+            "彼らは、給与が支払われていない業務があったと主張しています。",
+            "この訴訟は、非常勤講師の労働条件と報酬に関する問題を提起しています。"
           ]
         },
         {
@@ -582,11 +652,11 @@
           "excerpt": "New HBCU Partnership Speeds Path to Law School Joshua.Bay Fri, 06/26/2026 - 03:00 AM Grambling State has teamed up with Southern University...",
           "link": "https://www.insidehighered.com/news/student-success/life-after-college/2026/06/26/new-hbcu-partnership-speeds-path-law-school",
           "translationStatus": "translated",
-          "titleJa": "HBCUの新たな提携、ロースクール進学を加速",
+          "titleJa": "新たなHBCU提携がロースクールへの道を加速",
           "summaryJa": [
-            "歴史的黒人大学（HBCU）が新たな提携を結びました。",
-            "この提携により、ロースクールへの進学経路が加速される見込みです。",
-            "Grambling State大学とSouthern Universityが協力関係を築いています。"
+            "歴史的黒人大学（HBCU）間で新たな提携が結ばれ、ロースクールへの進学経路が加速されます。",
+            "この提携により、学生はより迅速に法学教育に進むことが可能になります。",
+            "具体的には、グランブリング州立大学がサザン大学と提携しました。"
           ]
         },
         {
@@ -596,11 +666,11 @@
           "excerpt": "Dear Colleague Letter Asks Colleges to End Affinity Housing Emma Whitford Fri, 06/26/2026 - 03:00 AM The Trump administration alleges that...",
           "link": "https://www.insidehighered.com/news/government/2026/06/26/dear-colleague-letter-asks-colleges-end-affinity-housing",
           "translationStatus": "translated",
-          "titleJa": "親和性住宅の廃止を大学に要請する書簡",
+          "titleJa": "親和性住宅の廃止を大学に求める書簡が送付",
           "summaryJa": [
-            "大学に対し、親和性住宅（特定のグループ向け住居）の廃止を求める書簡が送られました。",
-            "この書簡は、トランプ政権が関連する主張をしていると報じられています。",
-            "大学の住宅政策に影響を与える可能性があります。"
+            "大学に対し、特定のグループに特化した「親和性住宅（Affinity Housing）」の廃止を求める書簡が送られました。",
+            "トランプ政権は、これらの住宅が差別的であると主張しています。",
+            "この要請は、大学キャンパスにおける居住環境の多様性と公平性に関する議論を呼んでいます。"
           ]
         },
         {
@@ -612,79 +682,9 @@
           "translationStatus": "translated",
           "titleJa": "フロリダ州の大学、不法滞在学生の入学禁止を検討",
           "summaryJa": [
-            "フロリダ州の大学が、不法滞在の学生の入学禁止を検討しています。",
-            "州立大学を監督する委員会もこの問題に関与している模様です。",
-            "この動きは、学生の入学資格に関する議論を呼んでいます。"
-          ]
-        },
-        {
-          "title": "Texas Law Dean Pushes Socratic Teaching Amid Rise of AI",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-26T07:00:00Z",
-          "excerpt": "Texas Law Dean Pushes Socratic Teaching Amid Rise of AI gianna.jakubowski Fri, 06/26/2026 - 03:00 AM Byline(s) Gianna Jakubowski",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/26/u-texas-law-dean-calls-socratic-teaching-combat-ai",
-          "translationStatus": "translated",
-          "titleJa": "AI台頭の中、テキサス大学ロースクール学部長がソクラテス式教育を推進",
-          "summaryJa": [
-            "AIの台頭が進む中、テキサス大学ロースクールの学部長がソクラテス式教育を推進しています。",
-            "この教育法は、学生の批判的思考力や議論能力を養うことを目指します。",
-            "新しい技術環境における教育のあり方が問われています。"
-          ]
-        },
-        {
-          "title": "Readers Respond on ‘Noncredit’",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-26T07:00:00Z",
-          "excerpt": "Readers Respond on ‘Noncredit’ Sara Brady Fri, 06/26/2026 - 03:00 AM Unofficial names and alternate terms. Byline(s) Matt Reed",
-          "link": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/06/26/readers-respond-noncredit",
-          "translationStatus": "translated",
-          "titleJa": "「ノンクレジット」に関する読者の意見",
-          "summaryJa": [
-            "「ノンクレジット」という概念について、読者からの意見が寄せられています。",
-            "非公式な名称や代替用語に関する議論が含まれています。",
-            "このテーマは、教育プログラムの分類や認識に関連しています。"
-          ]
-        },
-        {
-          "title": "Female Academics ‘Increasingly Delay Motherhood’ Until Age 35",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-26T07:00:00Z",
-          "excerpt": "Female Academics ‘Increasingly Delay Motherhood’ Until Age 35 Susan H. Greenberg Fri, 06/26/2026 - 03:00 AM “Pronounced penalties” for thos...",
-          "link": "https://www.insidehighered.com/news/faculty/research/2026/06/26/female-academics-increasingly-delay-motherhood-until-age-35",
-          "translationStatus": "translated",
-          "titleJa": "女性研究者、出産を35歳まで遅らせる傾向が強まる",
-          "summaryJa": [
-            "女性研究者の間で、出産を35歳まで遅らせる傾向が強まっていることが報告されました。",
-            "これには、キャリア上の「顕著な不利益」が影響しているとされています。",
-            "研究職における女性のライフイベントとキャリア形成の課題が浮き彫りになっています。"
-          ]
-        },
-        {
-          "title": "The Big Impact of Small Telescopes",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-26T07:00:00Z",
-          "excerpt": "The Big Impact of Small Telescopes Elizabeth Redden Fri, 06/26/2026 - 03:00 AM In an era of big data and big telescopes, college observator...",
-          "link": "https://www.insidehighered.com/opinion/views/2026/06/26/college-observatories-remain-essential-opinion",
-          "translationStatus": "translated",
-          "titleJa": "小型望遠鏡がもたらす大きな影響",
-          "summaryJa": [
-            "ビッグデータや大型望遠鏡の時代において、小型望遠鏡が大きな影響を与えています。",
-            "大学の天文台などで使用される小型望遠鏡の重要性が再評価されています。",
-            "これらは教育や研究において、独自の価値を提供しているとのことです。"
-          ]
-        },
-        {
-          "title": "The Key Podcast: Historians and American Exceptionalism",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-26T03:41:00Z",
-          "excerpt": "The Key Podcast: Historians and American Exceptionalism sara.custer@in… Thu, 06/25/2026 - 11:41 PM Byline(s) IHE Staff",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/25/key-podcast-historians-and-american-exceptionalism",
-          "translationStatus": "translated",
-          "titleJa": "ポッドキャスト「The Key」：歴史家とアメリカ例外主義",
-          "summaryJa": [
-            "ポッドキャスト「The Key」が、歴史家とアメリカ例外主義について取り上げました。",
-            "このエピソードでは、アメリカ例外主義の概念が議論されています。",
-            "歴史的視点から、このテーマがどのように解釈されるかが探られます。"
+            "フロリダ州の大学が、不法滞在の学生の入学を禁止することを検討しています。",
+            "州立大学を監督する委員会も、この問題について議論を進めています。",
+            "この動きは、高等教育における移民学生の権利とアクセスに影響を与える可能性があります。"
           ]
         }
       ]
@@ -697,7 +697,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 43,
+    "translatedItems": 42,
     "failedBatches": []
   }
 }
