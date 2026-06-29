@@ -1,89 +1,125 @@
 {
-  "generatedAt": "2026-06-29T12:53:15.657007Z",
+  "generatedAt": "2026-06-29T18:00:20.405557Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Five dead following shooting at youth centre in Stade, northern Germany",
+          "title": "UK’s prime minister-in-waiting vows to shake up politics",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T17:31:57Z",
+          "excerpt": "Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.",
+          "link": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "New Israeli assault in southern Syria forces families to flee their homes",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T17:31:08Z",
+          "excerpt": "Turkiye has condemned Israel’s attacks in Syria, calling them a violation of international law.",
+          "link": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イスラエル軍のシリア南部攻撃、住民が避難",
+          "summaryJa": [
+            "イスラエル軍によるシリア南部への新たな攻撃が発生した。",
+            "これにより、多くの家族が自宅からの避難を余儀なくされている。",
+            "トルコは、このイスラエルの攻撃を国際法違反として非難している。"
+          ]
+        },
+        {
+          "title": "Mehdi Hasan: Disrupting democracy’s decline",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T17:30:57Z",
+          "excerpt": "With democracy on the decline in both the UK and US, Mehdi Hasan makes the case for independent journalism.",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/6/29/mehdi-hasan-disrupting-democracys-decline?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T16:59:51Z",
+          "excerpt": "Supreme Court blocks Trump's attempt to fire Fed governor Lisa Cook over unproven mortgage fraud allegations",
+          "link": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
           "source": "BBC News",
-          "publishedAt": "2026-06-29T12:52:04Z",
-          "excerpt": "Two people have been arrested, one of whom is a suspect, police say.",
+          "publishedAt": "2026-06-29T16:51:52Z",
+          "excerpt": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "米最高裁、トランプ氏のFRB理事解任試みを阻止",
+          "summaryJa": [
+            "米最高裁判所は、トランプ氏が連邦準備制度理事会のリサ・クック理事を解任しようとした試みを阻止した。",
+            "この決定は中央銀行の独立性にとって勝利と見なされている。",
+            "解任を巡る争いは下級裁判所に差し戻されることになった。"
+          ]
+        },
+        {
+          "title": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T16:42:41Z",
+          "excerpt": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week",
+          "link": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-06-29T16:38:33Z",
+          "excerpt": "Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.",
+          "link": "https://www.aljazeera.com/sports/2026/6/29/ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "元NBA選手ら、賭博事件で起訴",
+          "summaryJa": [
+            "元NBA選手のマリク・ビーズリー氏とエド・デイビス氏が賭博事件で起訴された。",
+            "2人を含む計6人の被告が、スポーツ賭博計画に関連する容疑で起訴されている。",
+            "被告の中にはNBAのエージェントも含まれる。"
+          ]
+        },
+        {
+          "title": "Sixth person dies after shooting at youth welfare centre in Germany",
+          "source": "BBC News",
+          "publishedAt": "2026-06-29T16:24:07Z",
+          "excerpt": "Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.",
           "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ドイツの青少年福祉施設銃撃事件、死者6人に",
+          "summaryJa": [
+            "ドイツの青少年福祉施設で銃撃事件が発生した。",
+            "警察によると、現場で女性4人と男性1人が射殺された。",
+            "病院で治療を受けていた6人目の人物も死亡した。"
+          ]
         },
         {
-          "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-          "source": "BBC News",
-          "publishedAt": "2026-06-29T12:51:58Z",
-          "excerpt": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-          "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Senior South African police officer survives assassination attempt",
-          "source": "BBC News",
-          "publishedAt": "2026-06-29T12:38:19Z",
-          "excerpt": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
-          "link": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Venezuela earthquake rescues: Five heart-warming moments",
+          "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-29T12:09:32Z",
-          "excerpt": "Amid the death and destruction, a few fleeting moments have brought rare relief to Venezuelans.",
-          "link": "https://www.aljazeera.com/news/2026/6/29/venezuela-earthquake-rescues-five-heart-warming-moments?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-29T16:15:35Z",
+          "excerpt": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
+          "link": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アフガニスタンとパキスタンの国境緊張高まる",
+          "summaryJa": [
+            "アフガニスタンとパキスタンの国境地域で緊張が高まっている。",
+            "アフガニスタン当局は、パキスタン軍の攻撃により少なくとも36人の民間人が死亡したと発表。",
+            "一方、パキスタンは自国軍が29人の戦闘員を殺害したと主張している。"
+          ]
         },
         {
-          "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-          "source": "BBC News",
-          "publishedAt": "2026-06-29T12:04:30Z",
-          "excerpt": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-          "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Israeli attack in Gaza kills three, including a child",
+          "title": "US petrol prices ease despite ongoing uncertainties with Iran",
           "source": "Al Jazeera",
-          "publishedAt": "2026-06-29T12:02:35Z",
-          "excerpt": "The strike in Deir el-Balah is the latest Israeli attack amid ongoing 'ceasefire' violations.",
-          "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
-          "source": "BBC News",
-          "publishedAt": "2026-06-29T12:00:06Z",
-          "excerpt": "Taylor had an emotional reaction to being presented with the Icon of the Year award by Janet Jackson.",
-          "link": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-          "source": "BBC News",
-          "publishedAt": "2026-06-29T11:50:44Z",
-          "excerpt": "The survivors are hopeful the authorities will find them some form of temporary accommodation while the country rebuilds - for now they are...",
-          "link": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
-          "source": "NPR World",
-          "publishedAt": "2026-06-29T11:42:37Z",
-          "excerpt": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahom...",
-          "link": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-06-29T11:22:59Z",
-          "excerpt": "Saudi Arabia, the three-time Asian champions, finish bottom of Group H with two points from three games.",
-          "link": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-06-29T16:01:07Z",
+          "excerpt": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
+          "link": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国のガソリン価格が緩和、イランとの不確実性残る",
+          "summaryJa": [
+            "米国とイランの和平交渉により、市場の変動は緩和された。",
+            "しかし、不確実性が石油価格を高止まりさせている。",
+            "これが経済回復の取り組みを複雑にしている。"
+          ]
         }
       ]
     },
@@ -92,146 +128,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "南海高野線の踏切で人身事故、4.4万人に影響 電動車いすの男性が自殺か(産経新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T12:41:53Z",
-          "excerpt": "29日午後6時20分ごろ、大阪市住吉区の南海高野線の踏切で、難波発和泉中央行きの準急電車が電動車いすに乗った男性に衝突した。大阪府警住吉署によると、男性は病院に搬送されたが、間もなく死亡が確認された。",
-          "link": "https://news.yahoo.co.jp/articles/4b552a9b520f40dd0a225259314b2c9fd985f036?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "南海高野線で人身事故、男性死亡 4.4万人に影響",
-          "summaryJa": [
-            "29日午後6時20分ごろ、大阪市住吉区の南海高野線踏切で人身事故が発生しました。",
-            "難波発和泉中央行きの準急電車が電動車いすの男性と衝突。",
-            "男性は病院に搬送されましたが、その後死亡が確認されました。",
-            "この事故により、約4.4万人に影響が出ました。"
-          ]
-        },
-        {
-          "title": "W杯 日本×ブラジル【速報予定 2:00】決勝T初勝利を目指し",
+          "title": "【速報中】W杯日本がブラジルをリードで前半終了 佐野のゴール",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-29T12:34:09Z",
-          "excerpt": "「”本気のブラジル”を相手に日本サッカーの新たな扉を開くことができるのか」サッカーワールドカップ北中米大会、日本代表は、このあと日本時間の午前2時から、決勝トーナメント1回戦でブラジルと対戦します。日本はこれまで決勝トーナメントでは勝ったことがなく、サッカー王国、ブラジル相手に...",
+          "publishedAt": "2026-06-29T17:52:43Z",
+          "excerpt": "サッカーワールドカップ北中米大会、日本代表は、決勝トーナメント1回戦でブラジルと対戦しています。日本はこれまで決勝トーナメントでは勝ったことがなく、サッカー王国、ブラジル相手に初勝利を目指します。日本が佐野選手のゴールで先制し、1点リードで前半を終えました。最新情報をお伝えして...",
           "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
           "translationStatus": "translated",
-          "titleJa": "サッカーW杯 日本代表、決勝T初勝利かけブラジルと対戦へ",
+          "titleJa": "W杯 日本がブラジルに先制、佐野のゴールで前半リード",
           "summaryJa": [
-            "サッカーワールドカップ北中米大会で、日本代表が決勝トーナメント1回戦に臨みます。",
-            "日本時間の午前2時から、強豪ブラジルと対戦する予定です。",
-            "日本はこれまでW杯の決勝トーナメントで勝利した経験がなく、初勝利を目指します。"
+            "サッカーワールドカップ北中米大会の決勝トーナメント1回戦で、日本代表がブラジルと対戦。",
+            "日本はこれまで決勝トーナメントで勝利経験がなく、初勝利を目指している。",
+            "佐野選手のゴールで日本が先制し、1点リードで前半を終えた。"
           ]
         },
         {
-          "title": "【2025年の山岳遭難】遭難者数は3623人と過去最多に 死者・行方不明者は332人―警察庁(nippon.com)",
+          "title": "無免許で原付バイクに2人乗り 事故で後ろの少年が重傷も逃走か 運転の少年を逮捕(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T12:13:01Z",
-          "excerpt": "2026年の夏山シーズンが迫る中、警察庁は25年の山岳遭難概況を公表。遭難者総数は3623人と過去最多を記録し、遭難件数は3122件と高止まりしている。 遭難件数は前年比で176件増、遭難者数は26",
-          "link": "https://news.yahoo.co.jp/articles/6257e037875e1f0da1e3bb385bade35a4bc84250?source=rss",
+          "publishedAt": "2026-06-29T17:15:38Z",
+          "excerpt": "前橋市内の交差点で2人乗りの原付バイクと車が衝突する事故があり、バイクの後ろに乗っていた15歳の少年が頭を強く打ち重傷です。バイクを運転していた15歳の少年は無免許で事故後、救護することなく逃走したと",
+          "link": "https://news.yahoo.co.jp/articles/fa4ea1eeaa0329ceb50438510daa83cff0dc069c?source=rss",
           "translationStatus": "translated",
-          "titleJa": "2025年の山岳遭難、過去最多の3623人 警察庁発表",
+          "titleJa": "無免許で原付バイク2人乗り、事故で同乗者重傷 運転の少年を逮捕",
           "summaryJa": [
-            "警察庁は2025年の山岳遭難概況を公表しました。",
-            "遭難者総数は3623人と過去最多を記録し、死者・行方不明者は332人でした。",
-            "遭難件数は3122件と高止まりしています。",
-            "遭難件数は前年比で176件増加しました。"
+            "前橋市内の交差点で、2人乗りの原付バイクと車が衝突する事故が発生。",
+            "バイクの後ろに乗っていた15歳の少年が頭を強く打ち、重傷を負った。",
+            "無免許でバイクを運転していた15歳の少年は、事故後に救護せず逃走した疑いで逮捕された。"
           ]
         },
         {
-          "title": "【独自】不適切盛り土680カ所 「総点検」後、是正されず(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T12:00:04Z",
-          "excerpt": "静岡県熱海市で2021年7月3日に発生した大規模土石流を受けて21年度に実施された「盛り土総点検」で、全国で不適切な状態と指摘された1089カ所の盛り土について、共同通信が今年5月1日時点で是正状況",
-          "link": "https://news.yahoo.co.jp/articles/660a22ed3af13e7951995f1c69d50f5e8b071a15?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "全国で不適切盛り土680カ所、総点検後も是正されず",
-          "summaryJa": [
-            "2021年の熱海市土石流を受け、同年度に全国で盛り土の総点検が実施されました。",
-            "不適切と指摘された1089カ所の盛り土のうち、共同通信の調査で680カ所が是正されていないことが判明。",
-            "これは今年5月1日時点の状況です。"
-          ]
-        },
-        {
-          "title": "【台風のたまご】発生へ 気象庁予想天気図に「熱帯低気圧」 発達しながら沖縄の南に進む予想も【雨・風シミュレーション7月10日（金）まで】台風情報に今後注意(MBC南日本放送)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T11:59:13Z",
-          "excerpt": "■【台風のたまご=熱帯低気圧】発生へ 気象庁予想天気図 気象庁発表の「アジア太平洋予想天気図」に「熱帯低気圧」の予想が出てきました。熱帯低気圧は「台風のたまご」とも呼ばれ、「台風」に発達することが",
-          "link": "https://news.yahoo.co.jp/articles/c02154d2e0323ae6da26aa69785128753bfbe6e3?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "気象庁予想天気図に熱帯低気圧発生へ、台風に発達の可能性",
-          "summaryJa": [
-            "気象庁発表の「アジア太平洋予想天気図」に熱帯低気圧の発生が予想されています。",
-            "熱帯低気圧は「台風のたまご」とも呼ばれ、台風に発達する可能性があります。",
-            "発達しながら沖縄の南に進む予想も出ており、今後の台風情報に注意が必要です。"
-          ]
-        },
-        {
-          "title": "アパートに放火し男女3人を殺害 佐藤忍被告（64）に懲役30年の実刑判決 殺意と知的障害の影響が主な争点 名古屋地裁(CBCテレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T11:50:25Z",
-          "excerpt": "アパートに火をつけ、男女3人を殺害した罪などに問われた男に、懲役30年の実刑判決です。 判決によりますと、愛知県弥富市の無職・佐藤忍被告64歳は2024年1月、弥富市内のアパートに火をつけ、男女3人",
-          "link": "https://news.yahoo.co.jp/articles/226a4d2c0039bd962838d9ef66d18c1743122f77?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "アパート放火殺人、佐藤被告に懲役30年の実刑判決 名古屋地裁",
-          "summaryJa": [
-            "愛知県弥富市のアパートに放火し、男女3人を殺害した罪に問われた佐藤忍被告（64）に対し、名古屋地裁は懲役30年の実刑判決を言い渡しました。",
-            "判決によると、佐藤被告は2024年1月に犯行に及びました。",
-            "裁判では、殺意の有無と知的障害の影響が主な争点となりました。"
-          ]
-        },
-        {
-          "title": "衆院定数削減法案が審議入り 野党は反発、委員会欠席 法案成立の見通し立たず(産経新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T11:50:00Z",
-          "excerpt": "衆院政治改革特別委員会は29日、自民党と日本維新の会が提出した衆院議員の定数削減法案の趣旨説明を行い、法案は審議入りした。与党が委員長の職権で特別委を開いたことに反発し、中道改革連合、国民民主党、参政",
-          "link": "https://news.yahoo.co.jp/articles/708029d926616ebbab73fd35abfa8e204b5a778b?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "衆院定数削減法案が審議入り、野党反発で成立見通し不透明",
-          "summaryJa": [
-            "衆院政治改革特別委員会で、自民党と日本維新の会が提出した衆院議員の定数削減法案が審議入りしました。",
-            "与党が委員長の職権で特別委員会を開いたことに野党が反発。",
-            "中道改革連合、国民民主党、参政党は委員会を欠席しました。",
-            "このため、法案成立の見通しは立っていません。"
-          ]
-        },
-        {
-          "title": "八甲田山で男性遺体、クマ被害か 青森市、かみ傷あり(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T11:49:28Z",
-          "excerpt": "青森県警は29日、青森市の八甲田山系で身元不明の男性遺体を発見したと発表した。遺体にはクマのものとみられるかみ傷があり、県警はクマに襲われた可能性もあるとみて、身元の確認や死因の特定を進めている。",
-          "link": "https://news.yahoo.co.jp/articles/20983570796615e97f39c4a9341ffbe47ae96b84?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "八甲田山系で男性遺体発見、クマに襲われた可能性も",
-          "summaryJa": [
-            "29日、青森市の八甲田山系で身元不明の男性遺体が発見されました。",
-            "遺体にはクマのものとみられるかみ傷がありました。",
-            "青森県警はクマに襲われた可能性もあるとみて、身元の確認と死因の特定を進めています。"
-          ]
-        },
-        {
-          "title": "近鉄京都線 京都駅で脱線 けが人なし 運転再開のめど立たず",
+          "title": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-06-29T11:31:18Z",
-          "excerpt": "29日朝早く、近鉄京都線の京都駅で乗客30人を乗せた列車が脱線しました。けが人はいませんでしたが、一部の区間で29日、終日運転を見合わせることになり、再開のめどはたっていません。近鉄は午後記者会見を開き、陳謝しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163381000.html",
+          "publishedAt": "2026-06-29T16:55:41Z",
+          "excerpt": "29日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝161円90銭台まで値下がりし、1986年以来、およそ39年半ぶりの円安ドル高水準をつけました。アメリカのFRB＝連邦準備制度理事会による利上げ観測などを背景に、円売り・ドル買いの動きが続...",
+          "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
           "translationStatus": "translated",
-          "titleJa": "近鉄京都線 京都駅で列車脱線、けが人なし 終日運転見合わせ",
+          "titleJa": "円相場、39年半ぶり円安水準 1ドル161円台後半に",
           "summaryJa": [
-            "29日朝早く、近鉄京都線の京都駅で乗客30人を乗せた列車が脱線しました。",
-            "けが人はありませんでしたが、一部区間で29日終日運転を見合わせる事態に。",
-            "運転再開のめどは立っておらず、近鉄は午後記者会見を開き陳謝しました。"
+            "29日のニューヨーク外国為替市場で、円相場が一時1ドル＝161円90銭台まで値下がりした。",
+            "これは1986年以来、およそ39年半ぶりの円安ドル高水準となる。",
+            "アメリカFRBの利上げ観測などを背景に、円売り・ドル買いの動きが続いている。"
           ]
         },
         {
-          "title": "【大雨情報】7月にかけて梅雨前線北上 西日本・東日本で「警報級の大雨」おそれ【雨・風シミュレーション30日（火）〜7月5日（日）】気象庁(MBC南日本放送)",
+          "title": "栃木強殺事件の現場周辺でドライバーを車内に所持か 20歳男を逮捕 これで3人目(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-06-29T11:28:12Z",
-          "excerpt": "日本付近に停滞している前線が、7月1日にかけて九州や伊豆諸島付近をゆっくり北上する見込みです。この前線に向かって暖かく湿った空気が流れ込む影響で、大気の状態が非常に不安定となり、雷を伴って大雨となる所",
-          "link": "https://news.yahoo.co.jp/articles/f2035a580de08f45e5a44f9fd9a22196fed0e82e?source=rss",
+          "publishedAt": "2026-06-29T16:54:07Z",
+          "excerpt": "栃木県の強盗殺人事件の1週間ほど前に現場付近で目撃された不審な軽自動車の中に建物に侵入する目的でドライバーを隠し持っていたとして、新たに20歳の男が逮捕されました。これで3人目の逮捕です。 自称・",
+          "link": "https://news.yahoo.co.jp/articles/fad1c3f36c377e65610488899ca7667f40f22bef?source=rss",
           "translationStatus": "translated",
-          "titleJa": "7月にかけて梅雨前線北上、西日本・東日本で警報級大雨のおそれ",
+          "titleJa": "栃木強殺事件、現場周辺でドライバー所持の20歳男を逮捕 3人目",
           "summaryJa": [
-            "日本付近に停滞する梅雨前線が、7月1日にかけて九州や伊豆諸島付近を北上する見込みです。",
-            "前線に向かって暖かく湿った空気が流れ込むため、大気の状態が非常に不安定になります。",
-            "この影響で、西日本や東日本を中心に雷を伴う警報級の大雨となるおそれがあります。"
+            "栃木県の強盗殺人事件で、新たに20歳の男が逮捕された。",
+            "男は事件の約1週間前、現場付近で目撃された不審な軽自動車内で、建物侵入目的でドライバーを隠し持っていた疑い。",
+            "この事件での逮捕者は3人目となる。"
+          ]
+        },
+        {
+          "title": "野党11会派「国会軽視だ」 与野党対立が激化(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-29T16:30:18Z",
+          "excerpt": "衆議院の定数削減法案が与野党の合意がないまま審議入りしたことを受け、野党各党は「国会軽視だ」として一致して対応することを確認しました。野党はすべての国会審議を拒否しています。 中道改革連合 重徳国対",
+          "link": "https://news.yahoo.co.jp/articles/5688604d89caa9679938d17aed0da8a81fcaca3e?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "衆院定数削減法案の審議入りで野党反発、国会審議を拒否",
+          "summaryJa": [
+            "衆議院の定数削減法案が与野党の合意がないまま審議入りした。",
+            "これに対し野党11会派は「国会軽視だ」と反発し、一致して対応する方針を確認。",
+            "野党は現在、すべての国会審議を拒否している。"
+          ]
+        },
+        {
+          "title": "【解説】“攻撃力に注意” 今大会 ブラジルの強みは",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-06-29T16:29:31Z",
+          "excerpt": "サッカーワールドカップで日本と対戦する世界ランキング6位のブラジルは1次リーグを2勝1引き分けでグループ首位で通過しました。今大会のチームの強さを示すのがビニシウス・ジュニオール選手を中心とした攻撃力です。",
+          "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163391000.html",
+          "translationStatus": "translated",
+          "titleJa": "W杯ブラジルの強みは攻撃力、ビニシウス選手が中心",
+          "summaryJa": [
+            "サッカーワールドカップで日本と対戦するブラジルは、世界ランキング6位。",
+            "1次リーグを2勝1引き分けでグループ首位通過した。",
+            "今大会のブラジルチームの強みは、ビニシウス・ジュニオール選手を中心とした攻撃力にある。"
+          ]
+        },
+        {
+          "title": "繁華街でバイクを無免許運転 信号無視を繰り返したか 集団で暴走行為 19歳と20歳の男3人逮捕 岐阜市(CBCテレビ)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-29T16:06:18Z",
+          "excerpt": "岐阜市の繁華街で無免許でバイクを運転し、集団で暴走行為を繰り返したとして、 男3人が逮捕されました。 逮捕されたのは、いずれも岐阜市に住む19歳と20歳の男2人と、愛知県大治町に住む19歳の男、あわ",
+          "link": "https://news.yahoo.co.jp/articles/a6ae587705181d619b8fe3d0bf1a7431f8ff017b?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "岐阜市繁華街で無免許暴走行為、19歳と20歳の男3人逮捕",
+          "summaryJa": [
+            "岐阜市の繁華街で、無免許でバイクを運転し、集団で暴走行為を繰り返した疑い。",
+            "19歳と20歳の男3人が逮捕された。",
+            "信号無視も繰り返していたとみられている。"
+          ]
+        },
+        {
+          "title": "背景に複数の金銭トラブル？口封じで“共犯者”を殺害か 男（29）逮捕(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-29T15:57:16Z",
+          "excerpt": "2月に東広島市で起きた殺人・放火事件が新たな展開を迎えました。警察は、隣の三原市で遺体となって見つかった男性が事件に関わっていたとみて調べていましたが、その男性を口封じのため殺害したとして29歳の男を",
+          "link": "https://news.yahoo.co.jp/articles/781d59e4da5c2936680457e3928d509765dffe28?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "東広島の殺人・放火事件、共犯者殺害容疑で29歳男を逮捕",
+          "summaryJa": [
+            "2月に東広島市で発生した殺人・放火事件で、新たな展開があった。",
+            "警察は、三原市で遺体で見つかった男性が事件に関与していたとみて捜査。",
+            "その男性を口封じのため殺害したとして、29歳の男を逮捕した。"
+          ]
+        },
+        {
+          "title": "【速報】近鉄京都線 脱線事故受け30日始発から京都―上鳥羽口駅間で運転見合わせ(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-29T15:52:56Z",
+          "excerpt": "近鉄京都線。脱線事故受け30日始発から京都－上鳥羽口駅間で運転見合わせ。",
+          "link": "https://news.yahoo.co.jp/articles/35b8a5fd2e3e948446934b22765da4898f839d98?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "近鉄京都線、脱線事故で30日始発から一部区間運転見合わせ",
+          "summaryJa": [
+            "近鉄京都線で脱線事故が発生した。",
+            "この事故を受け、30日の始発から運転を見合わせる。",
+            "運転見合わせ区間は京都―上鳥羽口駅間となる。"
+          ]
+        },
+        {
+          "title": "近鉄京都線、30日は始発からの運転見合わせ 再開見込みは不透明 脱線影響で(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-06-29T15:33:11Z",
+          "excerpt": "近鉄は29日午前に京都線京都駅付近で発生した脱線事故の影響で、30日の京都線の京都－上鳥羽口の上下線の始発から運転を見合わせると発表した。運転再開見込みは不明としている。 近鉄京都線を巡っては、29",
+          "link": "https://news.yahoo.co.jp/articles/5a0c52e90bc2f1995629839afcf95ac5f38e17b0?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "近鉄京都線、脱線事故で30日始発から運転見合わせ 再開見込みは不透明",
+          "summaryJa": [
+            "近鉄京都線で29日午前に脱線事故が発生した。",
+            "この影響で、30日の始発から京都－上鳥羽口駅間の上下線で運転を見合わせる。",
+            "運転再開の見込みは現時点では不明とされている。"
           ]
         }
       ]
@@ -241,143 +274,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-29T12:47:35Z",
-          "excerpt": "The U.S. and Iran are poised to hold fresh talks on Tuesday in Qatar's capital, President Donald Trump said via social media on Monday.",
-          "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、米イランが火曜にカタールで再協議へ",
-          "summaryJa": [
-            "ドナルド・トランプ大統領は月曜日、ソーシャルメディアを通じて発表しました。",
-            "米国とイランは火曜日にカタールの首都で新たな協議を行う予定です。",
-            "これは週末の衝突を受けての動きです。"
-          ]
-        },
-        {
-          "title": "Comcast stock surges as cable giant announces company split",
+          "title": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:39:31Z",
+          "publishedAt": "2026-06-29T17:49:19Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/article/comcast-stock-surges-as-cable-giant-announces-company-split-123931766.html",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-supersized-price-174919388.html",
           "translationStatus": "translated",
-          "titleJa": "コムキャスト株が急騰、企業分割を発表",
+          "titleJa": "ウォール街がインテルの目標株価を大幅引き上げ、株価はまだ割安か",
           "summaryJa": [
-            "ケーブル大手コムキャストの株価が急騰しました。",
-            "同社が企業分割を発表したためです。",
-            "詳細については言及されていません。"
+            "ウォール街のアナリストがインテルの目標株価を大幅に引き上げました。",
+            "これにより、現在の株価が依然として割安であるかどうかが注目されています。",
+            "投資家の間で、インテルの今後の株価動向に関心が集まっています。"
           ]
         },
         {
-          "title": "Silver prices today, Monday, June 29, 2026: Silver prices trending lower",
+          "title": "Goldman's overlooked Al basket just ripped 115%",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:38:46Z",
+          "publishedAt": "2026-06-29T17:47:00Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-29-2026-silver-prices-trending-lower-123846297.html",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/goldmans-overlooked-al-basket-just-174700450.html",
           "translationStatus": "translated",
-          "titleJa": "銀価格、2026年6月29日月曜日は下落傾向",
+          "titleJa": "ゴールドマンの注目されなかったAI関連銘柄バスケットが115%急騰",
           "summaryJa": [
-            "2026年6月29日月曜日の銀価格は下落傾向を示しています。",
-            "市場の動向がこの価格変動に影響を与えている可能性があります。",
-            "詳細な要因や具体的な価格水準については言及されていません。"
+            "ゴールドマン・サックスが選定した、これまであまり注目されていなかったAI関連銘柄のバスケットが急騰しました。",
+            "その上昇率は115%に達し、市場の関心を集めています。",
+            "AI分野への投資熱の高まりが背景にあると見られます。"
           ]
         },
         {
-          "title": "Comcast Soars On Company Split. Is More M&A Coming?",
+          "title": "Citi Just Slapped a Massive $2,500 Price Target on SanDisk. Here’s Why They’re So Bullish",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:35:56Z",
+          "publishedAt": "2026-06-29T17:45:23Z",
           "excerpt": "",
-          "link": "https://www.investors.com/news/technology/comcast-stock-soars-on-company-split-as-cable-tv-giants-makeover-continues/?src=A00220&yptr=yahoo",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/citi-just-slapped-massive-2-174523171.html",
           "translationStatus": "translated",
-          "titleJa": "コムキャスト、企業分割で株価急騰",
+          "titleJa": "シティがサンディスクに2,500ドルの目標株価を設定、強気見通しの背景",
           "summaryJa": [
-            "コムキャストの株価が企業分割の発表を受けて急騰しました。",
-            "今後、さらなるM&A（合併・買収）があるかどうかが示唆されています。",
-            "詳細については言及されていません。"
+            "シティグループがサンディスクに対し、2,500ドルという大幅な目標株価を設定しました。",
+            "この強気な見通しの理由について、市場の注目が集まっています。",
+            "サンディスクの今後の株価動向に影響を与える可能性があります。"
           ]
         },
         {
-          "title": "Rocket Lab acquires Iridium in $8 billion satellite deal",
+          "title": "Top 5 container line buying into major Europe terminal",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:32:39Z",
+          "publishedAt": "2026-06-29T17:37:44Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-acquires-iridium-8-123239082.html",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/top-5-container-line-buying-173744540.html",
           "translationStatus": "translated",
-          "titleJa": "ロケット・ラボ、イリジウムを80億ドルで買収",
+          "titleJa": "世界トップ5のコンテナ船会社が欧州主要ターミナルを買収へ",
           "summaryJa": [
-            "ロケット・ラボがイリジウムを80億ドルで買収しました。",
-            "これは衛星関連の取引です。",
-            "詳細については言及されていません。"
+            "世界の主要コンテナ船会社トップ5の一つが、欧州の主要ターミナルへの出資を進めています。",
+            "これは、物流インフラへの戦略的投資の一環と見られます。",
+            "海運業界における競争力強化やサプライチェーンの安定化が目的と推測されます。"
           ]
         },
         {
-          "title": "She booked a non-refundable trip, then got called back to the office — lawyers say she's likely out of luck",
+          "title": "ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise?",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:30:00Z",
+          "publishedAt": "2026-06-29T17:36:15Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/small-business/articles/she-booked-non-refundable-trip-123000871.html",
+          "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-ibm-partnership-real-catalyst-173615471.html",
           "translationStatus": "translated",
-          "titleJa": "払い戻し不可の旅行予約後に出社要請、弁護士は返金困難と指摘",
+          "titleJa": "ServiceNowとIBMの新たな提携、真の起爆剤か単なる市場の雑音か",
           "summaryJa": [
-            "払い戻し不可の旅行を予約した女性が、その後オフィスへの出社を求められました。",
-            "弁護士によると、彼女が返金を受けるのは難しい可能性が高いとのことです。",
-            "詳細については言及されていません。"
+            "ServiceNowがIBMとの新たな提携を発表しました。",
+            "この提携が、同社の成長を加速させる真の起爆剤となるのか、あるいは一時的な市場の反応に過ぎないのかが議論されています。",
+            "ソフトウェア業界における今後の動向に注目が集まっています。"
           ]
         },
         {
-          "title": "Big Food “failing to meet hype” on regenerative agriculture",
+          "title": "Medical Services Name Tests For Colon Cancer. Natera Stock Hits A High.",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:28:12Z",
+          "publishedAt": "2026-06-29T17:36:13Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/big-food-failing-meet-hype-122812246.html",
+          "link": "https://www.investors.com/research/medical-services-colon-cancer-testing-natera-stock-ntra/?src=A00220&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "大手食品企業、再生農業への期待に応えられず",
+          "titleJa": "大腸がん検査を提供する医療サービス企業、Natera株が最高値更新",
           "summaryJa": [
-            "大手食品企業は、再生農業に関する期待に十分応えられていないと報じられています。",
-            "この分野での進捗が、当初の宣伝文句ほどではないと指摘されています。",
-            "詳細な理由や具体的な事例については言及されていません。"
+            "大腸がん検査サービスを提供する医療サービス企業Nateraの株価が最高値を更新しました。",
+            "これは、同社の事業に対する市場の評価が高まっていることを示唆しています。",
+            "医療技術分野への投資家の関心が高まっている可能性があります。"
           ]
         },
         {
-          "title": "Comcast soars 20% after announcing it will spin off media and tech wings into separate public companies",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-06-29T12:28:00Z",
-          "excerpt": "Comcast said it will separate into two publicly traded companies through a tax-free spinoff of NBCUniversal and Sky",
-          "link": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
-          "translationStatus": "translated",
-          "titleJa": "コムキャスト、メディア・テクノロジー部門分離で株価20%急騰",
-          "summaryJa": [
-            "コムキャストは、メディアおよびテクノロジー部門を独立した公開会社に分離すると発表しました。",
-            "これにより、同社の株価は20%急騰しました。",
-            "NBCユニバーサルとSkyを税制優遇のスピンオフにより、2つの公開会社に分割するとのことです。"
-          ]
-        },
-        {
-          "title": "Bank of America or Wells Fargo: Which Mega-Cap Delivers Better Returns?",
+          "title": "Applied Materials Stock Hits Record High After Price-Target Hikes",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:25:21Z",
+          "publishedAt": "2026-06-29T17:36:09Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-wells-fargo-mega-122521136.html",
+          "link": "https://www.investors.com/news/technology/amat-stock-applied-materials-gets-price-target-hikes/?src=A00220&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "バンク・オブ・アメリカとウェルズ・ファーゴ、どちらがより良いリターンを提供するか",
+          "titleJa": "アプライド・マテリアルズ株が目標株価引き上げで過去最高値を更新",
           "summaryJa": [
-            "バンク・オブ・アメリカとウェルズ・ファーゴというメガキャップ企業について比較されています。",
-            "どちらがより良い投資リターンをもたらすかという点が焦点です。",
-            "詳細については言及されていません。"
+            "アプライド・マテリアルズの株価が、アナリストによる目標株価の引き上げを受けて過去最高値を更新しました。",
+            "半導体製造装置業界への期待感が高まっていることが背景にあります。",
+            "同社の今後の業績と株価動向に注目が集まっています。"
           ]
         },
         {
-          "title": "HP partners with OpenAI Frontier for enterprise AI deployment",
+          "title": "Is Bright Horizons Family Solutions Inc. (BFAM)A Good Stock To Buy Now?",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-06-29T12:22:20Z",
+          "publishedAt": "2026-06-29T17:32:14Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/hp-partners-openai-frontier-enterprise-122220298.html",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bright-horizons-family-solutions-inc-173214899.html",
           "translationStatus": "translated",
-          "titleJa": "HP、OpenAI Frontierと提携し企業向けAI展開へ",
+          "titleJa": "ブライト・ホライズンズ・ファミリー・ソリューションズ（BFAM）は今買いか",
           "summaryJa": [
-            "HPがOpenAI Frontierと提携しました。",
-            "この提携は、企業向けAIの展開を目的としています。",
-            "詳細については言及されていません。"
+            "ブライト・ホライズンズ・ファミリー・ソリューションズ（BFAM）の株式が、現在購入に適しているかどうかが投資家の間で議論されています。",
+            "同社の事業内容や財務状況が評価の焦点となっています。",
+            "投資判断の参考となる情報が求められています。"
+          ]
+        },
+        {
+          "title": "Is the Comcast-NBCUniversal spinoff a precursor for M&A? Wall Street may already be betting on it.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-06-29T17:31:00Z",
+          "excerpt": "Comcast on Monday said it would spin off NBCUniversal into a separate company, breaking off the media business it acquired 15 years ago.",
+          "link": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "コムキャストのNBCユニバーサル分離、M&Aの前兆か",
+          "summaryJa": [
+            "コムキャストは月曜日、NBCユニバーサルを別会社としてスピンオフすると発表しました。",
+            "これは15年前に買収したメディア事業を切り離す動きです。",
+            "ウォール街では、この分離が将来的なM&Aの布石となる可能性が指摘されており、すでにその動きに賭けている向きもあるようです。"
+          ]
+        },
+        {
+          "title": "Is Brookfield Corporation (BN) A Good Stock To Buy Now?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-29T17:30:44Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-bn-good-stock-173044688.html",
+          "translationStatus": "translated",
+          "titleJa": "ブルックフィールド・コーポレーション（BN）は今買いか",
+          "summaryJa": [
+            "ブルックフィールド・コーポレーション（BN）の株式が、現在購入に適しているかどうかが投資家の間で検討されています。",
+            "同社の事業ポートフォリオや将来性が評価の対象となっています。",
+            "投資家は、同社の株価動向に注目しています。"
           ]
         }
       ]
@@ -387,32 +420,124 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-29T17:39:17Z",
+          "excerpt": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+          "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "translationStatus": "translated",
+          "titleJa": "AIリーダーボード「Arena」が1億ドル規模の事業に成長",
+          "summaryJa": [
+            "人気の無料AIリーダーボードを運営するスタートアップ「Arena」が、",
+            "昨年9月に商業サービスを開始しました。",
+            "同社は現在、1億ドル規模の事業に成長しています。"
+          ]
+        },
+        {
+          "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-29T17:03:50Z",
+          "excerpt": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+          "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "translationStatus": "translated",
+          "titleJa": "コーディングエージェントを遠隔操作、Cursorがモバイルアプリをリリース",
+          "summaryJa": [
+            "Cursor社が、コーディングエージェントを遠隔で監視・操作するための",
+            "新しいモバイルアプリを発表しました。",
+            "これにより、外出先からでも開発作業を管理できるようになります。"
+          ]
+        },
+        {
+          "title": "TIDAL cracks down on AI music by cutting off monetization",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-29T16:29:04Z",
+          "excerpt": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+          "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+          "translationStatus": "translated",
+          "titleJa": "TIDAL、AI生成音楽の収益化を停止する新方針を発表",
+          "summaryJa": [
+            "音楽ストリーミングサービスTIDALが、AI生成音楽に対する",
+            "新しいポリシーを導入しました。",
+            "この方針により、AIが作成した音楽は同サービス上で収益を得ることができなくなります。"
+          ]
+        },
+        {
+          "title": "Lawmakers want to ban AI companies from selling your health data",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-29T16:07:14Z",
+          "excerpt": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+          "translationStatus": "translated",
+          "titleJa": "議員らがAI企業による健康データ販売禁止を提案",
+          "summaryJa": [
+            "新たな法案が提案されており、AI企業を含むデータブローカーへの",
+            "アメリカ人の健康情報や位置情報の販売を禁止するものです。",
+            "これには、個人がAIに開示する情報も含まれます。"
+          ]
+        },
+        {
+          "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+          "source": "The Verge AI",
+          "publishedAt": "2026-06-29T15:32:28Z",
+          "excerpt": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultu...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+          "translationStatus": "translated",
+          "titleJa": "マーガレット・アトウッド氏、AIの問題は「ゴミを入れればゴミが出る」",
+          "summaryJa": [
+            "『侍女の物語』などで知られる作家マーガレット・アトウッド氏が、",
+            "Babell文学文化イベントの一環としてインタビューに応じました。",
+            "彼女はAIの問題点について「ゴミを入れればゴミが出る」と述べました。"
+          ]
+        },
+        {
+          "title": "Agent confidence on the technical frontier",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-06-29T14:44:01Z",
+          "excerpt": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with stra...",
+          "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "translationStatus": "translated",
+          "titleJa": "AIへの企業投資が急増、2026年が転換点に",
+          "summaryJa": [
+            "AI分野への企業投資が急速に拡大しています。",
+            "Gartnerは、2026年を企業がAIプロジェクトを戦略と連携させるための",
+            "「転換点」と位置付けています。"
+          ]
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-29T14:00:08Z",
+          "excerpt": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "translationStatus": "translated",
+          "titleJa": "ロボットハンド企業Proception、テスラとの訴訟和解と1100万ドル調達を発表",
+          "summaryJa": [
+            "ロボットハンド開発のスタートアップProceptionが、テスラとの営業秘密訴訟で和解し、",
+            "1100万ドルの資金調達を発表しました。",
+            "同社は、ロボット工学における最も困難な問題の一つである「手」の課題解決のため、",
+            "独自の訓練データ収集アプローチを採用しています。"
+          ]
+        },
+        {
+          "title": "Omen AI’s plan to optimize data centers is all wet",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-29T13:00:00Z",
+          "excerpt": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+          "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+          "translationStatus": "failed"
+        },
+        {
           "title": "Anthropic’s Mythos 5 is back",
           "source": "The Verge AI",
           "publishedAt": "2026-06-29T12:13:00Z",
           "excerpt": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
           "translationStatus": "translated",
-          "titleJa": "Anthropicの「Mythos 5」が運用再開",
+          "titleJa": "Anthropicの「Mythos 5」が復活",
           "summaryJa": [
             "Anthropic社のAIモデル「Mythos 5」が、",
             "トランプ政権との2週間にわたる交渉を経て、",
-            "ついに運用を再開したと報じられています。"
-          ]
-        },
-        {
-          "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-29T11:28:09Z",
-          "excerpt": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultur...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-          "translationStatus": "translated",
-          "titleJa": "マーガレット・アトウッド氏、AIの問題は「ゴミを入れればゴミが出る」",
-          "summaryJa": [
-            "作家マーガレット・アトウッド氏が、",
-            "AIの問題点について「ゴミを入れればゴミが出る」と指摘しました。",
-            "これは、AIの出力品質が入力データの質に依存するという見解です。",
-            "氏のインタビューは、Babell文学文化イベントの一環として行われました。"
+            "ついに利用可能となりました。"
           ]
         },
         {
@@ -422,110 +547,11 @@
           "excerpt": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding a...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
           "translationStatus": "translated",
-          "titleJa": "中国Z.ai、サイバーセキュリティ分野で「Mythos」に匹敵すると主張",
+          "titleJa": "中国Z.ai、サイバーセキュリティでMythosに匹敵すると主張",
           "summaryJa": [
             "中国のZhipu AI（Z.ai）が、オープンウェイトモデル「GLM-5.2」をリリースしました。",
-            "一部の研究者は、このモデルが特定のバグ発見能力において、",
-            "「Mythos」に匹敵すると主張しているとのことです。"
-          ]
-        },
-        {
-          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-28T20:27:36Z",
-          "excerpt": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. S...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-          "translationStatus": "translated",
-          "titleJa": "Suno、独立系アーティスト育成プログラム「Spark」を開始",
-          "summaryJa": [
-            "AI音楽生成のSunoが、独立系アーティストを支援する「Spark」インキュベータープログラムを立ち上げました。",
-            "同社はAI生成だけでなく、ストリーミング配信先となり、",
-            "新人アーティストを発掘することを目指しています。"
-          ]
-        },
-        {
-          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-28T19:05:39Z",
-          "excerpt": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-          "translationStatus": "translated",
-          "titleJa": "フォード、AIの限界でベテラン技術者を再雇用",
-          "summaryJa": [
-            "フォード社は、AI導入だけでは高品質な製品を生み出せないと判断し、",
-            "ベテラン技術者を再雇用していると報じられています。",
-            "同社は「AIを導入するだけで高品質な製品が生まれると誤解していた」と述べています。"
-          ]
-        },
-        {
-          "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-28T15:00:00Z",
-          "excerpt": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micro...",
-          "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-          "translationStatus": "translated",
-          "titleJa": "ウォール街、米メモリーメーカーMicronを「次のNvidia」と評価",
-          "summaryJa": [
-            "ウォール街の投資家たちは、Nvidiaに匹敵するAI関連企業を探しており、",
-            "米国のメモリーメーカーMicronに注目しています。",
-            "彼らはMicronを「次のNvidia」となる可能性のある企業と見なしているとのことです。"
-          ]
-        },
-        {
-          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-28T14:12:06Z",
-          "excerpt": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-          "translationStatus": "translated",
-          "titleJa": "検察、山火事裁判でChatGPTのログを証拠として使用",
-          "summaryJa": [
-            "2025年の元日に発生した山火事の放火容疑で起訴されたジョナサン・リンダークネヒト氏の裁判で、",
-            "検察側がChatGPTのログを証拠として提出しました。",
-            "この火災は、最も被害の大きかった山火事の一つとされています。"
-          ]
-        },
-        {
-          "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-27T20:42:36Z",
-          "excerpt": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-          "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-          "translationStatus": "translated",
-          "titleJa": "ソフトバンクCEO以外にも、イーロン・マスク氏の軌道上データセンター構想に疑問の声",
-          "summaryJa": [
-            "イーロン・マスク氏が提唱する軌道上データセンター構想に対し、",
-            "ソフトバンクのCEOだけでなく、他にも疑問を呈する声が上がっています。",
-            "この構想は、必ずしも全員に受け入れられているわけではないようです。"
-          ]
-        },
-        {
-          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-27T17:18:22Z",
-          "excerpt": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro s...",
-          "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-          "translationStatus": "translated",
-          "titleJa": "Apple、AI投資を理由に製品値上げか",
-          "summaryJa": [
-            "Appleのティム・クックCEOは最近、価格上昇は「避けられない」と述べ、",
-            "同社の価格設定を「持続不可能」と表現しました。",
-            "これは、大手テック企業のAIへの投資が、",
-            "製品価格に影響を与えている可能性を示唆しています。"
-          ]
-        },
-        {
-          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-27T16:45:09Z",
-          "excerpt": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-          "translationStatus": "translated",
-          "titleJa": "Apple Vision Pro担当副社長、OpenAIへ移籍報道",
-          "summaryJa": [
-            "AppleのVision Proヘッドセット開発を率いていたポール・ミード副社長が、",
-            "同社を退職し、OpenAIのハードウェアチームに移籍すると報じられました。",
-            "この動きは、AI分野における人材獲得競争の激化を示唆しています。"
+            "一部の研究者は、このモデルが特定のバグ発見能力において",
+            "Mythosに匹敵すると主張しています。"
           ]
         }
       ]
@@ -535,17 +561,45 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
+          "source": "The 74",
+          "publishedAt": "2026-06-29T16:30:00Z",
+          "excerpt": "While the U.S. celebrates over the Fourth of July weekend, four candidates will be vying for the top post of the nation’s largest teachers...",
+          "link": "https://www.the74million.org/article/incumbent-vp-top-state-union-leaders-among-candidates-for-nea-president/",
+          "translationStatus": "translated",
+          "titleJa": "現職副会長や州組合幹部ら、全米教員組合会長選に出馬",
+          "summaryJa": [
+            "全米最大の教員組合である全米教育協会（NEA）の会長職を巡り、4人の候補者が争っています。",
+            "候補者には現職の副会長や主要な州組合の幹部が含まれています。",
+            "この選挙は、独立記念日の週末に米国が祝賀ムードにある中で行われます。"
+          ]
+        },
+        {
+          "title": "NYC Delays School AI Guidance After Backlash",
+          "source": "The 74",
+          "publishedAt": "2026-06-29T14:30:00Z",
+          "excerpt": "New York City education officials are hitting pause on releasing comprehensive artificial intelligence guidelines after their draft policy...",
+          "link": "https://www.the74million.org/article/nyc-delays-school-ai-guidance-after-backlash/",
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク市、学校向けAIガイドライン発表を延期 反発受け",
+          "summaryJa": [
+            "ニューヨーク市の教育当局は、学校向けの包括的な人工知能（AI）ガイドラインの発表を一時停止しました。",
+            "これは、草案政策に対する反発を受けたものです。",
+            "当局は、より慎重な検討が必要と判断したとみられます。"
+          ]
+        },
+        {
           "title": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain Workers?",
           "source": "The 74",
           "publishedAt": "2026-06-29T12:30:00Z",
           "excerpt": "Stephania Zamorano has been an educator in New York City for 15 years. Since 2021, she has worked at Imagine Early Learning Centers, a chil...",
           "link": "https://www.the74million.org/zero2eight/this-childcare-program-is-100-employee-owned-will-it-help-it-retain-workers/",
           "translationStatus": "translated",
-          "titleJa": "従業員が100%所有する保育プログラム、人材定着に貢献するか",
+          "titleJa": "従業員が100%所有する保育プログラム、人材定着に効果は？",
           "summaryJa": [
-            "ニューヨーク市で15年間教育者として働くステファニア・ザモラーノ氏は、2021年からイマジン・アーリー・ラーニング・センターズで勤務しています。",
+            "ニューヨーク市で15年間教育者として働くステファニア・ザモラノ氏が勤務する保育施設が注目されています。",
             "この保育プログラムは従業員が100%所有する形態をとっています。",
-            "このユニークな所有形態が、保育業界における人材の定着に繋がるかどうかが注目されています。"
+            "従業員所有が、保育業界における人材の定着に繋がるかどうかが問われています。"
           ]
         },
         {
@@ -557,9 +611,9 @@
           "translationStatus": "translated",
           "titleJa": "バージニア州ピーターズバーグ、学校改革への大規模投資が希望に",
           "summaryJa": [
-            "バージニア州ピーターズバーグの学校は長年、困難な状況にありました。",
+            "バージニア州ピーターズバーグでは、長年学校が困難な状況にありました。",
             "かつて栄えた製造業の基盤が衰退したことが背景にあります。",
-            "市は学校改革に大規模な投資を行い、地域の希望を再燃させています。"
+            "市は学校の再編に大規模な投資を行い、地域の希望を燃え上がらせています。"
           ]
         },
         {
@@ -569,11 +623,11 @@
           "excerpt": "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy. Upbeat on-ho...",
           "link": "https://www.chalkbeat.org/detroit/2026/06/29/how-dpscd-health-hubs-help-reduce-chronic-absenteeism/",
           "translationStatus": "translated",
-          "titleJa": "デトロイトのヘルスハブ、住宅・食料・医療支援で子どもの就学を促進",
+          "titleJa": "デトロイトの「ヘルスハブ」、住宅・食料・医療支援で子どもの就学を促進",
           "summaryJa": [
-            "デトロイト市のヘルスハブは、子どもたちが学校に通えるよう支援しています。",
-            "住宅、食料品、医療ニーズといった基本的な生活支援を提供しています。",
-            "これらの支援を通じて、子どもの就学率向上を目指しています。"
+            "デトロイト市では、「ヘルスハブ」と呼ばれる取り組みが子どもの就学を支援しています。",
+            "このハブは、住宅、食料品、医療ニーズといった基本的な生活支援を提供します。",
+            "子どもたちが学校に通えるよう、家庭の困難を軽減することを目指しています。"
           ]
         },
         {
@@ -583,24 +637,24 @@
           "excerpt": "‘What About Your Kids?’ Sara Brady Mon, 06/29/2026 - 03:00 AM Sniffing out hypocrisy when it comes to public college employees’ kids attend...",
           "link": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/06/29/what-about-your-kids",
           "translationStatus": "translated",
-          "titleJa": "「あなたの子どもたちはどうする？」公立大学職員の子どもの就学に関する偽善を問う",
+          "titleJa": "「あなたの子どもたちはどうする？」公立大学職員の子どもの就学に関する議論",
           "summaryJa": [
-            "公立大学職員の子どもたちの就学状況に関する偽善が指摘されています。",
-            "記事は「あなたの子どもたちはどうする？」という問いかけをテーマにしています。",
-            "この問題は、公立大学の教育方針と職員の行動との間に矛盾がある可能性を示唆しています。"
+            "公立大学職員の子どもたちが、その大学に通うことに関する議論が提起されています。",
+            "この問題は、職員の特権や公平性についての偽善を指摘するものです。",
+            "記事は、このテーマについて深く掘り下げています。"
           ]
         },
         {
           "title": "The Researcher Who Spent Years Studying Grass for the World Cup",
           "source": "Inside Higher Ed",
           "publishedAt": "2026-06-29T07:00:00Z",
-          "excerpt": "The Researcher Who Spent Years Studying Grass for the World Cup Johanna Alonso Mon, 06/29/2026 - 03:00 AM John Sorochan leads the turfgrass...",
+          "excerpt": "The Researcher Who Spent Years Studying Grass for the World Cup Johanna Alonso Mon, 06/29/2026 - 03:00 AM John Sorochan studies the turfgra...",
           "link": "https://www.insidehighered.com/news/faculty/research/2026/06/29/researcher-spent-years-studying-grass-world-cup",
           "translationStatus": "translated",
-          "titleJa": "ワールドカップのために長年芝を研究した研究者",
+          "titleJa": "ワールドカップのために長年芝を研究した学者",
           "summaryJa": [
-            "ジョン・ソロチャン氏は、ワールドカップで使用される芝の研究に長年を費やしました。",
-            "彼はターフグラスの研究を主導しています。",
+            "ジョン・ソロチャン氏は、ワールドカップで使用される芝の研究に長年を費やしてきました。",
+            "彼はターフグラスの専門家として知られています。",
             "その研究は、世界的なスポーツイベントの成功に貢献しています。"
           ]
         },
@@ -613,9 +667,9 @@
           "translationStatus": "translated",
           "titleJa": "成人向けコミュニティカレッジの授業料無償化",
           "summaryJa": [
-            "ミルケン・インスティテュートの報告書によると、成人向けコミュニティカレッジの授業料支援が検討されています。",
-            "この支援は、成人学習者の教育機会を拡大することを目的としています。",
-            "授業料の無償化により、より多くの成人が高等教育を受けられるようになる可能性があります。"
+            "ミルケン・インスティテュートの報告書が、成人向けコミュニティカレッジの授業料支援について言及しています。",
+            "成人学習者への授業料無償化は、教育機会の拡大を目指すものです。",
+            "この支援が、社会人の再教育やキャリアアップに繋がると期待されています。"
           ]
         },
         {
@@ -625,11 +679,11 @@
           "excerpt": "The Job Market for Recent College Grads in 5 Charts kathryn.palmer… Mon, 06/29/2026 - 03:00 AM An economist helped us cut through the noise...",
           "link": "https://www.insidehighered.com/news/students/careers/2026/06/29/job-market-recent-college-grads-5-charts",
           "translationStatus": "translated",
-          "titleJa": "大卒新卒者の就職市場を5つのグラフで分析",
+          "titleJa": "大卒新卒者の就職市場を5つのグラフで解説",
           "summaryJa": [
-            "大卒新卒者の就職市場の現状が5つのグラフで示されています。",
-            "エコノミストの協力により、市場の複雑な情報を分かりやすく解説しています。",
-            "この分析は、新卒者の就職活動やキャリア形成に役立つ情報を提供します。"
+            "大卒新卒者の就職市場の現状が、5つのグラフを用いて分析されています。",
+            "経済学者の協力により、複雑な情報が分かりやすくまとめられています。",
+            "この分析は、新卒者が直面する雇用環境を理解するのに役立ちます。"
           ]
         },
         {
@@ -641,37 +695,9 @@
           "translationStatus": "translated",
           "titleJa": "自動化は科学研究の歴史を「歪めている」のか？",
           "summaryJa": [
-            "自動化技術の進展が、科学研究の歴史にどのような影響を与えているかという問いが提起されています。",
-            "自動化が研究プロセスや成果の記録を「歪める」可能性について議論されています。",
-            "この問題は、科学史の解釈や未来の研究方法に重要な意味を持つかもしれません。"
-          ]
-        },
-        {
-          "title": "Delaware County Community College Moves to Cut Counseling",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-29T07:00:00Z",
-          "excerpt": "Delaware County Community College Moves to Cut Counseling Sara Weissman Mon, 06/29/2026 - 03:00 AM The community college issued layoff noti...",
-          "link": "https://www.insidehighered.com/news/institutions/community-colleges/2026/06/29/delaware-county-community-college-moves-cut",
-          "translationStatus": "translated",
-          "titleJa": "デラウェア郡コミュニティカレッジ、カウンセリング部門の削減へ",
-          "summaryJa": [
-            "デラウェア郡コミュニティカレッジがカウンセリング部門の削減に動いています。",
-            "カレッジはレイオフ通知を発行しました。",
-            "この動きは、学生支援サービスに影響を与える可能性があります。"
-          ]
-        },
-        {
-          "title": "Regional Public Students Feel Belonging, but Also Financial Stress",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-06-29T07:00:00Z",
-          "excerpt": "Regional Public Students Feel Belonging, but Also Financial Stress Emma Whitford Mon, 06/29/2026 - 03:00 AM Byline(s) Emma Whitford",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/06/29/regional-public-students-feel-belonging-and-financial-stress",
-          "translationStatus": "translated",
-          "titleJa": "地方公立大学の学生、帰属意識と経済的ストレスを抱える",
-          "summaryJa": [
-            "地方の公立大学に通う学生たちは、大学への強い帰属意識を感じています。",
-            "しかし同時に、経済的なストレスも抱えていることが明らかになりました。",
-            "この状況は、地方の高等教育機関における学生支援の重要性を示唆しています。"
+            "科学研究における自動化の進展が、その歴史にどのような影響を与えているかという問いが提起されています。",
+            "自動化が研究プロセスや成果の解釈を「歪める」可能性について議論されています。",
+            "この問題は、科学史の正確性と未来の研究方法に深く関わっています。"
           ]
         }
       ]
@@ -684,7 +710,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 40,
+    "translatedItems": 45,
     "failedBatches": []
   }
 }
