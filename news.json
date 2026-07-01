@@ -1,143 +1,89 @@
 {
-  "generatedAt": "2026-07-01T12:18:09.800082Z",
+  "generatedAt": "2026-07-01T22:42:14.724530Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "At least five killed in fire at Antwerp apartment block, say police",
-          "source": "BBC News",
-          "publishedAt": "2026-07-01T11:49:55Z",
-          "excerpt": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
-          "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "アントワープの集合住宅火災で少なくとも5人死亡",
-          "summaryJa": [
-            "ベルギーのアントワープ市リンケローバー地区で火災が発生しました。",
-            "10階建ての集合住宅が火事に見舞われたものです。",
-            "警察によると、この火災で少なくとも5人が死亡しました。"
-          ]
-        },
-        {
-          "title": "Trump made more than $1bn from crypto in first year back in office",
-          "source": "BBC News",
-          "publishedAt": "2026-07-01T11:41:13Z",
-          "excerpt": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、復帰初年度に仮想通貨で10億ドル超の収入",
-          "summaryJa": [
-            "トランプ前大統領は、公職復帰後の最初の1年間で仮想通貨から10億ドルを超える収入を得ました。",
-            "この仮想通貨による収益は、彼の不動産からの収入を大きく上回っています。",
-            "また、トランプ氏をテーマにした時計などの商品からの収益よりもはるかに多いと報じられています。"
-          ]
-        },
-        {
-          "title": "Nearly three in four US scam victims report mental health harm, poll finds",
+          "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
           "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T11:35:53Z",
-          "excerpt": "Gallup survey says the financial toll of scams in the United States in 2025 was estimated at $68bn.",
-          "link": "https://www.aljazeera.com/news/2026/7/1/scams-cost-us-victims-68bn-in-2025-harm-to-mental-health-poll-finds?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "米国の詐欺被害者、約4分の3が精神的被害を報告",
-          "summaryJa": [
-            "米国で詐欺の被害に遭った人のうち、およそ4分の3が精神的な健康被害を報告しています。",
-            "ギャラップ社の調査でこの実態が明らかになりました。",
-            "2025年の米国における詐欺による金銭的被害は、推定680億ドルに達するとされています。"
-          ]
-        },
-        {
-          "title": "Two UK police officers face misconduct probe in Henry Nowak murder case",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T11:34:21Z",
-          "excerpt": "IOPC says it is investigating whether race or religion impacted any of the officers' actions.",
-          "link": "https://www.aljazeera.com/news/2026/7/1/two-uk-police-officers-face-misconduct-probe-in-henry-nowak-murder-case?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ヘンリー・ノワック殺人事件、英国警察官2名が職務怠慢で調査へ",
-          "summaryJa": [
-            "英国で発生したヘンリー・ノワック殺人事件を巡り、警察官2名が職務怠慢の疑いで調査対象となっています。",
-            "独立警察行動監督委員会（IOPC）がこの調査を進めています。",
-            "警察官の行動に人種や宗教が影響を与えたかどうかが焦点となっています。"
-          ]
-        },
-        {
-          "title": "Trump made $1.4B from crypto ventures in first year back in office",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T11:18:54Z",
-          "excerpt": "Trump's latest 2025 financial disclosure reveals he made more than $1.4B in income from crypto ventures.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-made-1-4b-from-crypto-ventures-in-first-year-back-in-office?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、公職復帰初年度に仮想通貨事業で14億ドルを稼ぐ",
-          "summaryJa": [
-            "トランプ前大統領が、公職復帰後の最初の1年間で仮想通貨事業から多額の収入を得ました。",
-            "その額は14億ドル（約2100億円）を超えるとされています。",
-            "これは、彼の最新の2025年財務開示報告書で明らかになったものです。"
-          ]
-        },
-        {
-          "title": "‘We can relate’: Bosnia fans bring passion, Palestine support, to World Cup",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T11:17:39Z",
-          "excerpt": "Tournament has placed Bosnia's fans and global diaspora in the spotlight, as team fights to reach Round of 16.",
-          "link": "https://www.aljazeera.com/news/2026/7/1/we-can-relate-bosnia-fans-bring-passion-palestine-support-to-world-cup?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ボスニア代表ファン、W杯で情熱とパレスチナ支持を示す",
-          "summaryJa": [
-            "サッカーワールドカップで、ボスニア・ヘルツェゴビナ代表のファンが情熱的な応援を見せています。",
-            "彼らはパレスチナへの支持も表明しており、「共感できる」と語っています。",
-            "チームが決勝トーナメント進出を目指す中、ボスニアのファンと世界中のディアスポラが注目を集めています。"
-          ]
-        },
-        {
-          "title": "Three die in Mexico City World Cup celebrations",
-          "source": "BBC News",
-          "publishedAt": "2026-07-01T11:01:12Z",
-          "excerpt": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "メキシコシティでのW杯祝賀中に3人死亡",
-          "summaryJa": [
-            "メキシコシティで、サッカーワールドカップの祝賀中に3人が死亡しました。",
-            "この祝賀は、火曜日にメキシコがエクアドルに勝利したことを記念して行われたものです。",
-            "100万人以上の人々が街頭に繰り出していました。"
-          ]
-        },
-        {
-          "title": "Orange lava flows stream from Mount Etna",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T10:53:31Z",
-          "excerpt": "Orange lava flows stream from Mount Etna",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/orange-lava-flows-stream-from-mount-etna?traffic_source=rss",
+          "publishedAt": "2026-07-01T21:45:58Z",
+          "excerpt": "Carroll's lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.",
+          "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
           "translationStatus": "failed"
         },
         {
-          "title": "USA vs Bosnia-Herzegovina: World Cup Round of 32: Prediction, team lineups",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-01T10:47:04Z",
-          "excerpt": "Buoyed by a dream run, underdogs Bosnia and Herzegovina clash with cohosts USA in their first World Cup knockout game.",
-          "link": "https://www.aljazeera.com/news/2026/7/1/usa-vs-bosnia-herzegovina-world-cup-round-of-32-prediction-team-lineups?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "サッカーW杯決勝トーナメント：米国対ボスニア・ヘルツェゴビナ戦の展望",
-          "summaryJa": [
-            "サッカーワールドカップの決勝トーナメント1回戦で、米国とボスニア・ヘルツェゴビナが激突します。",
-            "躍進を続けるボスニア・ヘルツェゴビナは、初のW杯ノックアウトステージに臨みます。",
-            "共同開催国である米国との対戦に注目が集まっています。"
-          ]
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "source": "BBC News",
+          "publishedAt": "2026-07-01T21:27:04Z",
+          "excerpt": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Greetings from London, where Banksy's flag man is a warning cry",
-          "source": "NPR World",
-          "publishedAt": "2026-07-01T10:00:00Z",
-          "excerpt": "As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy'...",
-          "link": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
-          "translationStatus": "translated",
-          "titleJa": "ロンドンからの便り：バンクシーの「旗を持つ男」が警告を発する",
-          "summaryJa": [
-            "ロンドンで展示されているバンクシーの作品「旗を持つ男」が、警告のメッセージを発しています。",
-            "作品では、男が前進するにつれて旗が顔に吹き付けられ、危険な転落の一歩手前であることに気づいていません。",
-            "これは、いつものバンクシー作品と同様に、見る者に深い示唆を与えるものです。"
-          ]
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T21:09:15Z",
+          "excerpt": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "US Supreme Court hands wealthy donors more sway with latest decision",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T21:04:19Z",
+          "excerpt": "Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.",
+          "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T21:03:01Z",
+          "excerpt": "Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T20:55:04Z",
+          "excerpt": "Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
+          "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Russian couple arrested after climbing Empire State Building",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T20:54:39Z",
+          "excerpt": "Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "State of emergency: Bolivia’s currency plummets as anger simmers",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T20:44:36Z",
+          "excerpt": "Bolivia’s President Paz declared a state of emergency after 50 days of protests against his policies.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/state-of-emergency-bolivias-currency-plummets-as-anger-simmers?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-01T20:26:33Z",
+          "excerpt": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.",
+          "link": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Four die in Mexico City World Cup celebrations",
+          "source": "BBC News",
+          "publishedAt": "2026-07-01T20:15:59Z",
+          "excerpt": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         }
       ]
     },
@@ -146,150 +92,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "〔地震〕青森県八戸市などで震度4 津波の心配なし(7/1)(レスキューナウニュース)",
+          "title": "筑後川 レベル5氾濫発生情報 熊本県小国町・大分県日田市(tenki.jp)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T12:15:00Z",
-          "excerpt": "気象庁によると、1日21:08頃に地震があり、青森県八戸市などで震度4の揺れを観測しました。津波の心配はありません。 ■発生事象 ・発生日時 ：7月1日21:08頃 ・震源地 ：岩手県沖(北緯40",
-          "link": "https://news.yahoo.co.jp/articles/67948ca3acdab614e4cee2c4dd779f4ccb342ba2?source=rss",
+          "publishedAt": "2026-07-01T22:37:05Z",
+          "excerpt": "今日7月2日は、活動が活発な梅雨前線の影響で、九州で相次いで線状降水帯が発生し、大雨となっています。筑後川にはレベル5氾濫発生情報が発表されています。",
+          "link": "https://news.yahoo.co.jp/articles/4a29776b1337014b97a73a977dd320dcc59d2a5f?source=rss",
           "translationStatus": "translated",
-          "titleJa": "青森県八戸市などで震度4の地震発生、津波の心配なし",
+          "titleJa": "筑後川に「氾濫発生情報」発表 熊本・大分で大雨",
           "summaryJa": [
-            "7月1日午後9時8分頃、岩手県沖を震源とする地震が発生しました。",
-            "青森県八戸市などで震度4の揺れを観測。",
-            "気象庁によると、この地震による津波の心配はありません。"
+            "7月2日、活発な梅雨前線の影響で九州地方は大雨に見舞われました。",
+            "熊本県小国町と大分県日田市を流れる筑後川では、レベル5の「氾濫発生情報」が発表されています。",
+            "相次いで線状降水帯が発生しており、厳重な警戒が呼びかけられています。"
           ]
         },
         {
-          "title": "青森県、岩手県で震度4の地震 津波の心配なし(tenki.jp)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T12:14:31Z",
-          "excerpt": "1日午後9時8分頃、岩手県沖を震源とするマグニチュード6.0の地震が発生し、青森県、岩手県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "link": "https://news.yahoo.co.jp/articles/1cbd03a396223b3d4b1bfc1cebca527c0d5af5f2?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "岩手県沖でM6.0の地震、青森・岩手で震度4 津波の心配なし",
-          "summaryJa": [
-            "1日午後9時8分頃、岩手県沖を震源とするマグニチュード6.0の地震が発生。",
-            "青森県と岩手県で最大震度4を観測しました。",
-            "この地震による津波の心配はないと発表されています。"
-          ]
-        },
-        {
-          "title": "【地震速報】青森 岩手で震度4 津波の心配なし",
+          "title": "ベネズエラ地震発生1週間 救助活動続くも食料など支援が課題に",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-07-01T12:13:30Z",
-          "excerpt": "１日午後９時８分ごろ地震がありました。この地震による津波の心配はありません。震源地は岩手県沖で震源の深さは４０キロ、地震の規模を示すマグニチュードは６．０と推定されます。",
-          "link": "http://www3.nhk.or.jp/news/html/20260701/k10015162191000.html",
+          "publishedAt": "2026-07-01T22:34:28Z",
+          "excerpt": "南米ベネズエラでマグニチュード7を超える地震が起きて1週間となり、死亡が確認された人は2295人となりました。被災地では、救助活動が続く一方、食料や水の不足を訴える被災者も多く、支援が課題になっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166531000.html",
           "translationStatus": "translated",
-          "titleJa": "青森・岩手で震度4の地震、M6.0と推定 津波の心配なし",
+          "titleJa": "ベネズエラ地震から1週間 救助活動続くも食料・水不足が課題",
           "summaryJa": [
-            "1日午後9時8分ごろ、岩手県沖を震源とする地震が発生しました。",
-            "青森県と岩手県で震度4を観測。",
-            "震源の深さは40キロ、マグニチュードは6.0と推定されています。",
-            "この地震による津波の心配はありません。"
+            "南米ベネズエラでマグニチュード7を超える地震が発生してから1週間が経過しました。",
+            "これまでに2295人の死亡が確認されています。",
+            "被災地では救助活動が続けられていますが、食料や水の不足を訴える被災者が多く、支援が喫緊の課題となっています。"
           ]
         },
         {
-          "title": "神奈川・鎌倉市の住宅強盗事件で新たに”指示役”ら3人逮捕 神奈川県警(テレビ朝日系（ANN）)",
+          "title": "なぜ天皇は「論じられない存在」になったのか 世代交代と共に「問題意識すら忘れ去られてしまった」理由(AERA DIGITAL)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T12:02:51Z",
-          "excerpt": "1月に神奈川県鎌倉市の住宅で起きた強盗事件で、これまでに男6人が逮捕されていましたが、新たに指示役ら3人が逮捕されました。 馬場晃希容疑者（23）と秋岡翔容疑者（30）ら3人は1月、鎌倉市の住宅に侵",
-          "link": "https://news.yahoo.co.jp/articles/5168f034eb7322f04428eea0206393151d3a37bf?source=rss",
+          "publishedAt": "2026-07-01T22:30:35Z",
+          "excerpt": "天皇制をめぐる議論は、かつてのような熱を失いつつある。存廃をめぐる根源的な問いは後景に退き、関心は制度の細部や人物像へと移っています。なぜ天皇は「論じられない存在」になったのでしょうか。片山杜秀氏と",
+          "link": "https://news.yahoo.co.jp/articles/b4b255e40363aff42fa483018db185fdb6c9d3c4?source=rss",
           "translationStatus": "translated",
-          "titleJa": "鎌倉市の住宅強盗事件、新たに指示役ら3人を逮捕",
+          "titleJa": "天皇制議論の熱が失われた背景とは 「論じられない存在」になった理由",
           "summaryJa": [
-            "1月に神奈川県鎌倉市の住宅で発生した強盗事件で、新たに3人が逮捕されました。",
-            "逮捕されたのは、指示役とされる馬場晃希容疑者（23）と秋岡翔容疑者（30）らです。",
-            "これまでに逮捕された6人と合わせ、計9人が逮捕されたことになります。",
-            "神奈川県警が捜査を進めています。"
+            "天皇制を巡る議論が、かつてのような活発さを失いつつあります。",
+            "制度の存廃といった根源的な問いは後退し、関心は制度の細部や天皇の人物像へと移っています。",
+            "記事では、天皇が「論じられない存在」になった理由について考察しています。"
           ]
         },
         {
-          "title": "教師も子どもも追い詰める「呪い」の正体【先生のストレスチェックに潜む問題点とは】(ダイヤモンド・オンライン)",
+          "title": "【動画】2日の天気 - 午前中は土砂降りの雨に 関東は梅雨寒でヒンヤリ（2日7時更新）(ウェザーマップ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T12:00:34Z",
-          "excerpt": "「話を聞かない」「何度言っても伝わらない」。学校現場では今、子どもへの対応に悩み、心身をすりへらす教師が増えている。公認心理師の川上康則氏は、その背景には教師個人の力量だけではなく、「ちゃんとさせな",
-          "link": "https://news.yahoo.co.jp/articles/860969eb4211afb91129a8c98558a187acc97030?source=rss",
+          "publishedAt": "2026-07-01T22:25:41Z",
+          "excerpt": "2日(木)は東日本と西日本の太平洋側で激しい雨が降るでしょう。午前中は土砂降りのところが多くなりそうですので、大きめの傘をもってお出かけください。蒸し暑いところが多いものの、北日本の太平洋側や関東地",
+          "link": "https://news.yahoo.co.jp/articles/736c5e048f1b522da3d3cb143aaecac261a41951?source=rss",
           "translationStatus": "translated",
-          "titleJa": "子どもへの対応に悩む教師増加、背景に「ちゃんとさせな」の呪い",
+          "titleJa": "2日 東・西日本の太平洋側で激しい雨 関東は梅雨寒に",
           "summaryJa": [
-            "学校現場では、子どもへの対応に悩み、心身をすり減らす教師が増加しています。",
-            "公認心理師の川上康則氏は、その背景には教師個人の力量だけでなく、ある「呪い」があると指摘。",
-            "「話を聞かない」「何度言っても伝わらない」といった問題が挙げられています。",
-            "教師も子どもも追い詰めるこの「呪い」の正体について、問題点が提起されています。"
+            "7月2日(木)は、東日本と西日本の太平洋側で激しい雨が降る見込みです。",
+            "午前中は土砂降りの雨となる地域が多く、外出時には大きめの傘が必要です。",
+            "北日本の太平洋側や関東地方では、梅雨寒となり肌寒い一日となるでしょう。"
           ]
         },
         {
-          "title": "いざという時の学校の“救助袋” 東京の小学校火災ではうまく使えず…岐阜・下呂市の中学校で使い方を再確認 「今後も繰り返し訓練を」(CBCテレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T12:00:32Z",
-          "excerpt": "東京の小学校で起きた火事でうまく使えなかった「救助袋」。岐阜県下呂市の中学校で使い方を再確認しました。 6月19日、東京都北区の小学校で発生した火災。子どもたちの命は守られましたが、避難するための「",
-          "link": "https://news.yahoo.co.jp/articles/418c08e8e634db602ff9d21dc153582991b13f61?source=rss",
+          "title": "京都 長岡京 金ケ原谷田と高台西の一部 16世帯29人に避難指示",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-07-01T22:17:26Z",
+          "excerpt": "京都府長岡京市はため池の水があふれるおそれがあるとして、午前6時半ごろ金ケ原谷田と高台西の一部のあわせて16世帯29人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から速やかに避難するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166731000.html",
           "translationStatus": "translated",
-          "titleJa": "東京の小学校火災で救助袋が使えず、岐阜の中学校で使い方を再確認",
+          "titleJa": "京都・長岡京市 ため池氾濫の恐れで16世帯29人に避難指示",
           "summaryJa": [
-            "6月19日に東京都北区の小学校で火災が発生した際、避難用の「救助袋」がうまく使えませんでした。",
-            "これを受け、岐阜県下呂市の中学校で救助袋の使い方が再確認されました。",
-            "子どもたちの命は守られたものの、今後の繰り返し訓練の重要性が指摘されています。",
-            "いざという時のために、適切な使用方法の習得が求められています。"
+            "京都府長岡京市は、ため池の水があふれる恐れがあるとして避難指示を発令しました。",
+            "午前6時半ごろ、金ケ原谷田と高台西の一部地域の16世帯29人が対象です。",
+            "これは5段階の警戒レベルのうちレベル4にあたり、危険な場所からの速やかな避難が呼びかけられています。"
           ]
         },
         {
-          "title": "神奈川・鎌倉市の住宅強盗事件で新たに“指示役”ら3人逮捕 神奈川県警(テレビ朝日系（ANN）)",
+          "title": "「ルールを守る」は世界の常識じゃない…中東でも南米でも信頼される「真面目な日本人」の知られざる強さ(プレジデントオンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T11:57:06Z",
-          "excerpt": "1月に神奈川県鎌倉市の住宅で起きた強盗事件で、これまでに男6人が逮捕されていましたが、新たに指示役ら3人が逮捕されました。 馬場晃希容疑者（23）と秋岡翔容疑者（30）ら3人は1月、鎌倉市の住宅に",
-          "link": "https://news.yahoo.co.jp/articles/1597ec40a7d801490db30a1984886a060145ac8d?source=rss",
+          "publishedAt": "2026-07-01T22:15:40Z",
+          "excerpt": "日本人は海外からどう見られているのか。イギリス在住で著述家の谷本真由美さんは「礼儀正しい、真面目というイメージが強い。だからこそ絶対壊れちゃいけないものや、体につけるもの、食べるものなどに関して、日本",
+          "link": "https://news.yahoo.co.jp/articles/1c19814417895a3ecd66861c4629ff14c047c4dd?source=rss",
           "translationStatus": "translated",
-          "titleJa": "鎌倉市の住宅強盗事件、新たに指示役ら3人を逮捕",
+          "titleJa": "海外から見た「真面目な日本人」の強さ ルール遵守は世界の常識ではない",
           "summaryJa": [
-            "1月に神奈川県鎌倉市の住宅で発生した強盗事件で、新たに3人が逮捕されました。",
-            "逮捕されたのは、指示役とされる馬場晃希容疑者（23）と秋岡翔容疑者（30）らです。",
-            "これまでに逮捕された6人と合わせ、計9人が逮捕されたことになります。",
-            "神奈川県警が捜査を進めています。"
+            "著述家の谷本真由美氏によると、海外では日本人は「礼儀正しく真面目」というイメージが強いとされています。",
+            "「ルールを守る」ことは必ずしも世界の常識ではない中で、この真面目さが信頼につながっています。",
+            "特に、壊れてはいけないものや、身につけるもの、食べるものなどにおいて、日本の信頼性が高いと指摘されています。"
           ]
         },
         {
-          "title": "熊本と大分に線状降水帯発生の可能性(共同通信)",
+          "title": "《神戸・ソープ嬢殺害》「お店に行けないのにコースを予約することも」“エースニキ”と看板嬢Aさんの知られざる関係、事件当日まで3日連続で“ロングコース来店”か(NEWSポストセブン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T11:56:16Z",
-          "excerpt": "気象庁は1日、熊本県と大分県で2日未明から朝にかけて線状降水帯が発生する可能性があると発表した。",
-          "link": "https://news.yahoo.co.jp/articles/d598d8335966bde2a7b23a19bd956055cdf0986c?source=rss",
+          "publishedAt": "2026-07-01T22:14:00Z",
+          "excerpt": "6月28日夜、神戸市兵庫区福原町の風俗店で、常連客の男性（33）と接客をしていた女性従業員Aさん（33）が血を流して倒れているのが見つかった事件。男性スタッフから「客の男性と店員の意識がない」と11",
+          "link": "https://news.yahoo.co.jp/articles/c9067e5ffdd3000b55b50a1d4c1d16017d4a792d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熊本と大分に線状降水帯発生の可能性、気象庁が発表",
+          "titleJa": "神戸風俗店殺害事件 常連客と従業員の関係性浮上",
           "summaryJa": [
-            "気象庁は1日、発表を行いました。",
-            "それによると、熊本県と大分県で線状降水帯が発生する可能性があります。",
-            "発生予測は2日未明から朝にかけてです。"
+            "6月28日夜、神戸市兵庫区の風俗店で、女性従業員Aさん（33）と常連客の男性（33）が倒れているのが発見されました。",
+            "従業員Aさんは死亡が確認され、男性は意識不明の重体です。",
+            "記事では、この常連客が「エースニキ」と呼ばれ、事件当日まで3日連続でロングコースを利用していた可能性が報じられています。"
           ]
         },
         {
-          "title": "小学校教師がコンビニ店から商品だまし取ったか 支払い済ませたと装い… 埼玉県警(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T11:56:07Z",
-          "excerpt": "キャッシュレス決済で支払いを済ませたと装ってコンビニ店から商品をだまし取ったとして小学校教師の男が逮捕されました。男はだまし取った商品を販売していたということです。 千葉県の私立小学校の教師・西口",
-          "link": "https://news.yahoo.co.jp/articles/6cf2170ba338c7edce2221454661503be6ee813b?source=rss",
+          "title": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+          "source": "NHK NEWS WEB",
+          "publishedAt": "2026-07-01T22:12:08Z",
+          "excerpt": "1日、長野県東御市の住宅で母親と12歳の長女が死亡し、長男が刃物で切りつけられてけがをした事件で、長男に対する殺人未遂の疑いで逮捕された父親は事件後に現場から車で逃走して自殺を図った可能性があり、1日夜に治療のため入院したということで警察は体調の回復を待って詳しいいきさつについ...",
+          "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166511000.html",
           "translationStatus": "translated",
-          "titleJa": "小学校教師、キャッシュレス決済装い商品詐取で逮捕",
+          "titleJa": "長野・東御市 親子3人死傷事件 逮捕の父親が自殺図ったか",
           "summaryJa": [
-            "千葉県の私立小学校教師の男が、コンビニ店から商品をだまし取ったとして逮捕されました。",
-            "容疑者はキャッシュレス決済で支払いを済ませたと装っていたとのことです。",
-            "だまし取った商品は販売していたとされています。",
-            "埼玉県警が事件の捜査を進めています。"
+            "7月1日、長野県東御市の住宅で母親と12歳の長女が死亡し、長男が刃物で負傷する事件が発生しました。",
+            "長男への殺人未遂容疑で逮捕された父親は、事件後に現場から逃走し自殺を図った可能性があります。",
+            "父親は治療のため入院しており、警察は回復を待って詳しい経緯を調べる方針です。"
           ]
         },
         {
-          "title": "中東情勢の影響でカテーテルや人工透析のフィルターなどが値上がり…医療機器団体が厚労大臣に緊急要望 「医療維持のため支援を」(CBCテレビ)",
+          "title": "ミーム株とメガIPO：「株クラ」コミュニティは、2026年の激動相場をどう攻略しているか？（海外）(BUSINESS INSIDER JAPAN)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-01T11:55:23Z",
-          "excerpt": "長引く中東情勢によるコスト上昇を受け、医療機器を扱う業界団体が、厚生労働大臣に補助金などの支援を求めました。 カテーテルなどを販売する業界団体「日本医療機器テクノロジー協会」の代表が厚労省を訪れ、上",
-          "link": "https://news.yahoo.co.jp/articles/47d6f8109016c84d5897d2aa7b76da270d8d70ed?source=rss",
+          "publishedAt": "2026-07-01T22:10:01Z",
+          "excerpt": "ウェンディーズ株の直近のショートスクイーズが一つのメッセージを発した：ミーム株が帰ってきた。現在の個人トレーダーの動きには2021年を彷彿とさせる兆候がある一方、注目すべき変化も生じている。新型コロナ",
+          "link": "https://news.yahoo.co.jp/articles/c0a3dde0b0d33a1a3995f09a22536f3d100de838?source=rss",
           "translationStatus": "translated",
-          "titleJa": "中東情勢で医療機器値上がり、業界団体が厚労大臣に支援要望",
+          "titleJa": "ミーム株が再燃か 個人トレーダーの動向に変化の兆し",
           "summaryJa": [
-            "長引く中東情勢によるコスト上昇を受け、医療機器の価格が値上がりしています。",
-            "これにより、カテーテルや人工透析のフィルターなどが影響を受けています。",
-            "医療機器を扱う業界団体「日本医療機器テクノロジー協会」が、厚生労働大臣に補助金などの支援を緊急要望。",
-            "医療維持のため、政府による支援の必要性を訴えています。"
+            "ウェンディーズ株のショートスクイーズにより、ミーム株の再燃が示唆されています。",
+            "現在の個人トレーダーの動きは2021年を彷彿とさせる部分がある一方で、注目すべき変化も見られます。",
+            "記事では、個人投資家コミュニティが激動の相場をどう攻略しているかについて考察しています。"
+          ]
+        },
+        {
+          "title": "ウーバーイーツ配達員がキッパリ断る「ついで指示」案件【チャリンコ爆走配達日誌】(週プレNEWS)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-07-01T22:05:39Z",
+          "excerpt": "連載【ギグワーカーライター兼ウーバーイーツ組合委員長のチャリンコ爆走配達日誌】第157回 ウーバーイーツの日本上陸直後から配達員としても活動するライター・渡辺雅史が、チャリンコを漕ぎまくって足で稼い",
+          "link": "https://news.yahoo.co.jp/articles/332ea23425627d20a0abd78149689d894adcb2cf?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ウーバーイーツ配達員が語る「ついで指示」の断り方",
+          "summaryJa": [
+            "ウーバーイーツ配達員として活動するライターが、自身の配達日誌を連載しています。",
+            "今回は、配達中に客から依頼される「ついで指示」について取り上げています。",
+            "配達員がどのようにしてこれらの指示を断っているのかを解説しています。"
           ]
         }
       ]
@@ -299,143 +238,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
+          "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
           "source": "CNBC Markets",
-          "publishedAt": "2026-07-01T12:15:15Z",
-          "excerpt": "Companies added slightly fewer workers than forecast, with hiring targeted heavily toward healthcare-related sectors.",
-          "link": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
+          "publishedAt": "2026-07-01T22:33:53Z",
+          "excerpt": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for pre...",
+          "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
           "translationStatus": "translated",
-          "titleJa": "ADP報告：6月の民間雇用者数は予想を下回る9万8千人増",
+          "titleJa": "USMCA貿易協定延長なければ米自動車産業に不確実性増大",
           "summaryJa": [
-            "ADPの報告によると、6月の民間部門の雇用者数は9万8千人増加しました。",
-            "これは市場の予想をわずかに下回る結果でした。",
-            "雇用は特に医療関連分野に集中していました。"
+            "米国の自動車産業は、USMCA貿易協定の延長がなければ不確実性が高まるとされています。",
+            "特に、自動車メーカーにとって原産地規則が大きな問題となっています。",
+            "この規則は、製品の原産地を決定し、優遇措置の対象となる商品を定めています。"
           ]
         },
         {
-          "title": "Tech leads first half stock gains — but the biggest winners weren't in the U.S.",
+          "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T22:05:00Z",
+          "excerpt": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business model...",
+          "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "メタのクラウド参入報道でCoreWeaveとNebius株が下落",
+          "summaryJa": [
+            "メタがAIインフラの収益化に関心を示しているとの報道を受け、CoreWeaveとNebiusの株価が下落しました。",
+            "投資家は、この動きが新興クラウド企業のビジネスモデルの持続可能性に疑問を投げかけています。",
+            "メタの参入は、クラウド市場における新たな脅威と見なされています。"
+          ]
+        },
+        {
+          "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:58:00Z",
+          "excerpt": "Wedbush analysts are taking a bullish view of the space sector, initiating coverage of SpaceX and other stocks.",
+          "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "宇宙・防衛関連株は「世代に一度」の買い時とアナリスト",
+          "summaryJa": [
+            "ウェドブッシュのアナリストは、宇宙・防衛セクターに対して強気の見方を示しています。",
+            "彼らは、現在が宇宙・防衛関連株を購入する「世代に一度」の好機であると述べています。",
+            "SpaceXなどの銘柄の調査を開始し、この分野の成長に期待を寄せています。"
+          ]
+        },
+        {
+          "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:55:00Z",
+          "excerpt": "The money in “Trump accounts” has to be invested in low-cost index funds — and now parents and investors are learning which funds they can...",
+          "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "「トランプ口座」資金の投資先、財務省が低コストインデックスファンドを推奨",
+          "summaryJa": [
+            "「トランプ口座」の資金は、低コストのインデックスファンドに投資する必要があるとされています。",
+            "米財務省は、親や投資家に対し、どのファンドが利用可能かについて情報を提供しました。",
+            "これにより、資金の適切な投資先が明確になりました。"
+          ]
+        },
+        {
+          "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:54:00Z",
+          "excerpt": "A Guggenheim analyst says that valuations for the two software stocks are too depressed, even though the AI threat is real.",
+          "link": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "ServiceNowとSalesforce株は買い、AI脅威への過度な懸念は不要とアナリスト",
+          "summaryJa": [
+            "グッゲンハイムのアナリストは、ServiceNowとSalesforceの株価が買い時であると指摘しています。",
+            "AIによる脅威は存在するものの、それに対する「ハルマゲドン」のような極端な懸念は行き過ぎだと述べています。",
+            "両ソフトウェア企業の評価額は過度に低く抑えられているとの見方を示しました。"
+          ]
+        },
+        {
+          "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:51:00Z",
+          "excerpt": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
+          "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "SandiskとMicron株下落も供給不足が損失を抑制か",
+          "summaryJa": [
+            "銘柄入れ替えの動きが強まる中、SandiskとMicronの株価が下落しています。",
+            "しかし、供給不足が株価の下落幅を限定する可能性があると見られています。",
+            "BofAによると、Sandiskの年間収益の大部分は、将来的に新たなビジネスモデル契約から得られる可能性があります。"
+          ]
+        },
+        {
+          "title": "Trump got $15,000 in FIFA tickets from Gianni Infantino. Next up: Presenting the World Cup trophy",
           "source": "CNBC Markets",
-          "publishedAt": "2026-07-01T12:15:03Z",
-          "excerpt": "U.S. Big Tech stocks enjoyed strong gains — despite a sharp sell-off at the end of June — but were largely outperformed by their internatio...",
-          "link": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+          "publishedAt": "2026-07-01T21:48:39Z",
+          "excerpt": "Trump’s ties to FIFA and Gianni Infantino face new scrutiny as the World Cup enters the knockout round and European lawmakers press over a...",
+          "link": "https://www.cnbc.com/2026/07/01/trump-fifa-infantino-world-cup-financial-disclosure.html",
           "translationStatus": "translated",
-          "titleJa": "上半期の株式市場はテクノロジー株が主導、最大の勝者は米国以外",
+          "titleJa": "トランプ氏、FIFA会長から1.5万ドル相当のチケット受領、W杯トロフィー贈呈へ",
           "summaryJa": [
-            "上半期の株式市場ではテクノロジー株が上昇を牽引しました。",
-            "米国の主要テクノロジー株は6月末の急落にもかかわらず、堅調な上昇を見せました。",
-            "しかし、国際的なテクノロジー株が米国株を大きく上回るパフォーマンスを示しました。"
+            "トランプ前大統領が、FIFAのジャンニ・インファンティーノ会長から1万5000ドル相当のFIFAチケットを受け取っていたことが報じられました。",
+            "ワールドカップが決勝トーナメントに進む中、トランプ氏とFIFAおよびインファンティーノ会長との関係に新たな監視の目が向けられています。",
+            "欧州の議員らがこの件について圧力をかけており、今後の動向が注目されます。"
           ]
         },
         {
-          "title": "Dow Jones Futures Fall, Bloom Energy Jumps; SpaceX's First Buy Point",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:08:04Z",
-          "excerpt": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rebound-bloom-energy-spacex-buy-point/?src=A00220&yptr=yahoo",
+          "title": "I’m 53 and want to retire in 12 years. Is 5% enough to put in my 401(k)?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:37:00Z",
+          "excerpt": "If you want to have enough for retirement, you need to push your savings limits today.",
+          "link": "https://www.marketwatch.com/story/im-53-and-want-to-retire-in-12-years-is-5-enough-to-put-in-my-401-k-6f39fc6e?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ダウ先物下落、ブルームエナジーは急騰；スペースX初の買い場",
+          "titleJa": "53歳で12年後の退職希望、401(k)に5%拠出で十分か？",
           "summaryJa": [
-            "ダウジョーンズ工業株平均の先物が下落しました。",
-            "一方、ブルームエナジーの株価は急騰しました。",
-            "スペースXには初の買い場が到来したと報じられています。"
+            "53歳で12年後の退職を希望する人が、401(k)に給与の5%を拠出することで十分かという疑問が提示されました。",
+            "退職後に十分な資金を確保するためには、現在の貯蓄額を増やす必要があると指摘されています。",
+            "専門家は、貯蓄の上限を押し上げることを推奨しています。"
           ]
         },
         {
-          "title": "Is Solana Poised for a Massive Breakout Rally?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:06:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/solana-poised-massive-breakout-rally-120600231.html",
+          "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:26:00Z",
+          "excerpt": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
+          "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ソラナ、大規模なブレイクアウトラリーの準備は整ったか",
+          "titleJa": "2026年7月、Netflix、Hulu、HBO Maxなどで視聴すべきコンテンツ",
           "summaryJa": [
-            "暗号資産ソラナが、大規模なブレイクアウトラリーに向けて準備が整っているか注目されています。",
-            "その可能性について市場で議論が交わされています。",
-            "投資家の間で高い関心が寄せられています。"
+            "2026年7月にNetflix、Hulu、HBO Maxなどで配信される注目コンテンツが紹介されています。",
+            "「エノーラ・ホームズの事件簿」がNetflixに、「サイロ」がAppleに戻ってくるにもかかわらず、ストリーミング費用を節約するのに良い月だとされています。",
+            "これは、ストリーミングサービス利用者が賢く選択できる機会を示唆しています。"
           ]
         },
         {
-          "title": "Gold prices today, Wednesday, July 1: Prices remain below $4,100, but could have plenty of room to rise",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:05:18Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-1-prices-remain-below-4100-but-could-have-plenty-of-room-to-rise-120518468.html",
+          "title": "This unheralded sector may be the one sure thing for bulls in July",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-01T21:08:00Z",
+          "excerpt": "The Nasdaq-100 is known for almost always rising in July, but REITs have done even better, as they remain undefeated since 2008.",
+          "link": "https://www.marketwatch.com/story/this-unheralded-sector-may-be-the-one-sure-thing-for-bulls-in-july-e620a01b?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "7月1日水曜日の金価格、4,100ドルを下回るも上昇余地は十分か",
+          "titleJa": "7月、REITが強気相場の確実な投資先となる可能性",
           "summaryJa": [
-            "7月1日水曜日の金価格は、4,100ドルを下回る水準で推移しています。",
-            "市場関係者は、価格が上昇する十分な余地があると分析しています。",
-            "今後の動向が注目されています。"
-          ]
-        },
-        {
-          "title": "Schwab vs. Vanguard: Which Dividend ETF Is Best for Your Portfolio?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:05:01Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-vs-vanguard-dividend-etf-120501017.html",
-          "translationStatus": "translated",
-          "titleJa": "シュワブ対バンガード：あなたのポートフォリオに最適な配当ETFは？",
-          "summaryJa": [
-            "シュワブとバンガードのどちらの配当ETFが、個人のポートフォリオにとって最適かという議論がされています。",
-            "投資家は、それぞれのETFのメリットとデメリットを比較検討しています。",
-            "自身の投資戦略に合った選択が求められています。"
-          ]
-        },
-        {
-          "title": "Nike's latest weak quarter explained in 4 charts",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:04:51Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/article/nikes-latest-weak-quarter-explained-in-4-charts-120451301.html",
-          "translationStatus": "translated",
-          "titleJa": "ナイキの最新の業績不振を4つのチャートで解説",
-          "summaryJa": [
-            "ナイキの最新の四半期決算が不振であったことが報じられています。",
-            "その業績不振の背景が、4つのチャートを使って詳細に分析されています。",
-            "投資家は今後の戦略に注目しています。"
-          ]
-        },
-        {
-          "title": "BrewDog CEO exits in wake of Tilray takeover",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:04:33Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/brewdog-ceo-exits-wake-tilray-120433963.html",
-          "translationStatus": "translated",
-          "titleJa": "ティルレイによる買収後、ブリュードッグCEOが退任",
-          "summaryJa": [
-            "ティルレイによる買収が完了した後、ブリュードッグのCEOが退任しました。",
-            "この人事は、買収に伴う経営体制の変更の一環と見られています。",
-            "今後の経営方針に注目が集まっています。"
-          ]
-        },
-        {
-          "title": "Demand for riskier mortgages drops, as their advantages shrink",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-07-01T12:04:26Z",
-          "excerpt": "The spread between the 30-year fixed-rate mortgage and adjustable-rate loans is narrowing, causing demand for ARMs to weaken.",
-          "link": "https://www.cnbc.com/2026/07/01/demand-for-riskier-mortgages-drops-as-their-advantages-shrink.html",
-          "translationStatus": "translated",
-          "titleJa": "リスクの高い住宅ローン需要が減少、メリット縮小で",
-          "summaryJa": [
-            "リスクの高い住宅ローンへの需要が減少しています。",
-            "30年固定金利型住宅ローンと変動金利型ローンの金利差が縮小しているためです。",
-            "これにより、変動金利型ローン（ARM）の魅力が薄れ、需要が弱まっています。"
-          ]
-        },
-        {
-          "title": "Big Tech's first half was a story of hardware versus software",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-01T12:03:11Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html",
-          "translationStatus": "translated",
-          "titleJa": "大手テクノロジー企業の上半期はハードウェア対ソフトウェアの物語",
-          "summaryJa": [
-            "大手テクノロジー企業の上半期の業績は、ハードウェア部門とソフトウェア部門の異なった動向によって特徴づけられました。",
-            "両部門のパフォーマンスが企業の全体像を形成し、明暗を分けました。",
-            "今後の戦略において、どちらに重点を置くかが焦点となります。"
+            "ナスダック100指数は7月に上昇する傾向があることで知られています。",
+            "しかし、不動産投資信託（REIT）はそれ以上に好調で、2008年以降7月には負け知らずです。",
+            "このことから、REITが7月の強気相場において確実な投資先となる可能性が指摘されています。"
           ]
         }
       ]
@@ -445,143 +384,143 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T18:54:18Z",
+          "excerpt": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into w...",
+          "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "translationStatus": "translated",
+          "titleJa": "SpaceXがAIデバイスの試作機を公開、携帯端末に類似か",
+          "summaryJa": [
+            "SpaceXが上場前に投資家に対し、携帯端末のようなAIデバイスの試作機を披露したと報じられています。",
+            "これはSpaceXがワイヤレス通信分野への拡大を目指している可能性を示唆しています。",
+            "同社はAI技術を活用した新デバイス開発に意欲を見せています。"
+          ]
+        },
+        {
+          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T18:47:22Z",
+          "excerpt": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasin...",
+          "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "translationStatus": "translated",
+          "titleJa": "アシュトン・カッチャー氏、新VCファンド設立のためSound Venturesを退社",
+          "summaryJa": [
+            "アシュトン・カッチャー氏が、モーガン・ベラー氏と共に新たなベンチャーキャピタル（VC）ファンドを立ち上げるため、Sound Venturesを退社します。",
+            "Sound Venturesは、主要なAI研究所への集中的な投資で評価を築いてきました。",
+            "カッチャー氏の新ファンドは、異なる投資戦略を追求すると見られています。"
+          ]
+        },
+        {
           "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
           "source": "The Verge AI",
-          "publishedAt": "2026-07-01T12:05:58Z",
+          "publishedAt": "2026-07-01T18:20:52Z",
           "excerpt": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they...",
           "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
           "translationStatus": "translated",
-          "titleJa": "Googleが優れたスマートスピーカーを開発するも、Geminiは未対応",
+          "titleJa": "Googleのスマートスピーカーは優秀だが、Geminiの対応は未熟か",
           "summaryJa": [
-            "Googleは高性能なスマートスピーカーを開発しました。",
-            "しかし、そのスピーカーに搭載されるAIアシスタント「Gemini」はまだ準備が整っていません。",
-            "スマートスピーカーは音楽再生やタイマー、照明制御といった基本的な機能を超え、新たな役割を模索しています。"
+            "Googleは優れたスマートスピーカーを開発しましたが、AIモデル「Gemini」の対応がまだ十分ではないと指摘されています。",
+            "スマートスピーカーは音楽再生やタイマー、照明制御といった基本的な機能を超えた次の段階を模索しています。",
+            "しかし、Geminiがその潜在能力を最大限に引き出すには、さらなる進化が必要とされています。"
+          ]
+        },
+        {
+          "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T17:48:37Z",
+          "excerpt": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, o...",
+          "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "translationStatus": "translated",
+          "titleJa": "Cloudflare、AI企業にコンテンツ利用料支払いを促す新方針",
+          "summaryJa": [
+            "Cloudflareは、AI企業に対し、検索用とAI学習・エージェント用のウェブクローラーを分離するよう求めています。",
+            "期限は9月15日までとされており、これによって出版社コンテンツの利用料支払いを促す狙いがあります。",
+            "この新方針は、AIによるコンテンツ利用における著作権と報酬の問題に対応するものです。"
+          ]
+        },
+        {
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-07-01T14:35:16Z",
+          "excerpt": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re...",
+          "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "translationStatus": "translated",
+          "titleJa": "大規模言語モデルの集団思考問題、新興企業が解決に挑む",
+          "summaryJa": [
+            "大規模言語モデル（LLM）は、特定の質問に対して類似した回答を生成する「集団思考」に陥りがちです。",
+            "ある新興企業は、この問題からLLMを脱却させるための取り組みを進めています。",
+            "例えば、「1から10までの乱数を教えて」とチャットボットに尋ねると、特定のパターンが見られることがあります。"
+          ]
+        },
+        {
+          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T14:25:23Z",
+          "excerpt": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+          "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "translationStatus": "translated",
+          "titleJa": "プライバシー重視のAIプラットフォーム「Venice AI」がユニコーン企業に",
+          "summaryJa": [
+            "プライバシーを重視したAIプラットフォームを提供するVenice AIが、シリーズAで6500万ドルを調達し、ユニコーン企業となりました。",
+            "同社は既に黒字化しており、年間経常収益は7000万ドルを超えているとCEOのエリック・ヴォーヒーズ氏が述べています。",
+            "その独自のAIプラットフォームが急速に普及し、高い評価を得ています。"
+          ]
+        },
+        {
+          "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T14:20:19Z",
+          "excerpt": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+          "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "translationStatus": "translated",
+          "titleJa": "GoogleのAIアシスタント「Gemini Spark」がMacに対応開始",
+          "summaryJa": [
+            "Googleが提供する24時間稼働のAIアシスタント「Gemini Spark」が、Macデバイスで利用可能になりました。",
+            "今回のアップデートでは、リアルタイムトラッキング機能や、より多くのアプリケーションへの対応も追加されています。",
+            "これにより、MacユーザーはGemini Sparkの高度なエージェント機能を利用できるようになります。"
+          ]
+        },
+        {
+          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T14:00:00Z",
+          "excerpt": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practi...",
+          "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+          "translationStatus": "translated",
+          "titleJa": "TechCrunch Disrupt 2026「Builders Stage」の議題発表、スタートアップ成長戦略に焦点",
+          "summaryJa": [
+            "TechCrunch Disrupt 2026の「Builders Stage」の議題が発表されました。",
+            "このイベントには1万人以上の創業者、スタートアップ運営者、投資家が集結します。",
+            "スタートアップをスケールアップさせるための実践的な戦略が議論される予定です。"
+          ]
+        },
+        {
+          "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T13:43:07Z",
+          "excerpt": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against...",
+          "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "translationStatus": "translated",
+          "titleJa": "Meta、余剰AI計算能力を収益化へ、クラウドインフラ事業を計画",
+          "summaryJa": [
+            "Metaは、SpaceXと同様に、余剰のAI計算能力を収益化する計画を進めています。",
+            "AI計算能力やモデルへのアクセスを販売するクラウドインフラ事業を開発中です。",
+            "この動きは、既存のクラウドプロバイダーとの競争を引き起こす可能性があります。"
           ]
         },
         {
           "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
           "source": "The Verge AI",
-          "publishedAt": "2026-07-01T09:39:23Z",
+          "publishedAt": "2026-07-01T13:11:31Z",
           "excerpt": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a p...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
           "translationStatus": "translated",
-          "titleJa": "AnthropicのAIモデル「Fable 5」が運用再開へ、トランプ政権と交渉後",
+          "titleJa": "AnthropicのAIモデル「Claude Fable 5」が運用再開へ",
           "summaryJa": [
-            "Anthropic社のAIモデル「Claude Fable 5」が、運用再開の承認を得ました。",
-            "これはトランプ政権との数週間にわたる交渉の結果です。",
-            "長らく停止されていた同モデルが、ようやくオンラインに戻ることになります。"
-          ]
-        },
-        {
-          "title": "The ‘Father of the Internet’ is finally retiring",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-01T03:15:37Z",
-          "excerpt": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-          "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-          "translationStatus": "translated",
-          "titleJa": "「インターネットの父」ヴィントン・サーフ氏、Googleを退職へ",
-          "summaryJa": [
-            "インターネットの基盤となるプロトコル開発者の一人であるヴィントン・サーフ氏が、Googleのチーフインターネットエバンジェリストを退任します。",
-            "同氏は来週、その職を辞する予定です。",
-            "「インターネットの父」として知られる同氏の引退は、大きな注目を集めています。"
-          ]
-        },
-        {
-          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-01T02:16:06Z",
-          "excerpt": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will g...",
-          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-          "translationStatus": "translated",
-          "titleJa": "トランプ政権、AnthropicのAIモデル「Mythos」と「Fable」への規制を解除",
-          "summaryJa": [
-            "トランプ政権は、Anthropic社のAIモデル「Mythos」と「Fable」に対する規制を撤廃しました。",
-            "これにより、同社はこれらのモデルの運用に関する不確実性が解消されます。",
-            "AI政策に対する政権の予測不能なアプローチは、業界全体に混乱をもたらしていました。"
-          ]
-        },
-        {
-          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-01T02:04:40Z",
-          "excerpt": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-          "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-          "translationStatus": "translated",
-          "titleJa": "Wayve、評価額85億ドルで従業員向け株式公開買い付け8500万ドルを実施",
-          "summaryJa": [
-            "AIスタートアップのWayveが、評価額85億ドルで8500万ドルの従業員向け株式公開買い付けを開始しました。",
-            "これは、優秀な人材を引きつけ、維持するための戦略的手段として、AIスタートアップが従業員向け公開買い付けを利用する傾向の一環です。",
-            "この動きは、AI業界における人材獲得競争の激化を反映しています。"
-          ]
-        },
-        {
-          "title": "OpenClaw is finally available on Android and iOS",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-30T21:53:28Z",
-          "excerpt": "The free open source agentic program is finally invading your phone.",
-          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-          "translationStatus": "translated",
-          "titleJa": "無料オープンソースAIエージェント「OpenClaw」がAndroidとiOSで利用可能に",
-          "summaryJa": [
-            "無料のオープンソースAIエージェントプログラム「OpenClaw」が、ついにAndroidおよびiOSデバイスで利用可能になりました。",
-            "このプログラムは、ユーザーのスマートフォンに新たな機能をもたらします。",
-            "多くのユーザーが、このAIエージェントを自身のデバイスで試すことができるようになります。"
-          ]
-        },
-        {
-          "title": "Claude Science is Anthropic’s newest flagship product",
-          "source": "MIT Technology Review AI",
-          "publishedAt": "2026-06-30T21:50:04Z",
-          "excerpt": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new pr...",
-          "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "translationStatus": "translated",
-          "titleJa": "Anthropic、新主力製品「Claude Science」を発表",
-          "summaryJa": [
-            "Anthropic社は、製薬会社の幹部やバイオテクノロジー企業の創業者、研究者向けのイベントで「Claude Science」を発表しました。",
-            "これは同社の最新の主力製品となります。",
-            "火曜日に発表されたこの新製品は、科学分野におけるAIの応用を強化するものです。"
-          ]
-        },
-        {
-          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-30T20:33:48Z",
-          "excerpt": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-          "translationStatus": "translated",
-          "titleJa": "DeepMind出身の3人組、ポーカーAI開発からクオンツヘッジファンドへ転身",
-          "summaryJa": [
-            "DeepMindの元研究者3人が設立したプラハ拠点のAIラボ「EquiLibre Technologies」が、5億ドル以上の評価額に達しました。",
-            "彼らはポーカーAIを開発した経験を持ち、現在はクオンツヘッジファンドのために収益を上げています。",
-            "このチームは、AI技術を金融市場に応用することで成功を収めています。"
-          ]
-        },
-        {
-          "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-          "source": "The Verge AI",
-          "publishedAt": "2026-06-30T19:24:51Z",
-          "excerpt": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultr...",
-          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-          "translationStatus": "translated",
-          "titleJa": "GoogleのNotebookLM、研究内容をTikTok風AI動画で要約可能に",
-          "summaryJa": [
-            "Googleの「NotebookLM」に、メモをTikTok風のAI動画で要約する新機能が追加されます。",
-            "この新機能は、Google AI Ultraユーザー向けに順次展開されます。",
-            "ユーザーは、自分の研究内容を短く視覚的なクリップで手軽に確認できるようになります。"
-          ]
-        },
-        {
-          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-30T19:02:38Z",
-          "excerpt": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-          "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-          "translationStatus": "translated",
-          "titleJa": "Google、高速かつ安価な画像生成AI「Nano Banana 2 Lite」を発表",
-          "summaryJa": [
-            "Googleは、画像生成AIをアップデートし、「Nano Banana 2 Lite」を導入しました。",
-            "これにより、画像生成がより高速かつ安価になります。",
-            "AIコンテンツを作成するクリエイターにとって、さらに便利なツールとなるでしょう。"
+            "Anthropicが数週間にわたるトランプ政権との交渉を経て、AIモデル「Claude Fable 5」のオンライン運用再開が承認されました。",
+            "長らく運用が停止されていた同モデルが、再び利用可能になります。",
+            "この決定は、AI技術の規制と開発における重要な進展を示しています。"
           ]
         }
       ]
@@ -591,143 +530,145 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "What SCOTUS didn’t say about transgender athletes — and what the ruling means for schools and students",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-01T21:41:18Z",
+          "excerpt": "Sign up for Chalkbeat’s free weekly newsletter to keep up with how education is changing across the U.S. The U.S. Supreme Court’s Tuesday d...",
+          "link": "https://www.chalkbeat.org/2026/07/01/what-scotus-transgender-sports-decision-means-for-schools-students/",
+          "translationStatus": "translated",
+          "titleJa": "米最高裁、トランスジェンダー選手に関する判決と学校・生徒への影響",
+          "summaryJa": [
+            "米国最高裁判所が火曜日に判決を下しました。",
+            "この判決は、トランスジェンダーの学生アスリートについて直接言及しなかった点が注目されています。",
+            "記事では、この判決が学校や生徒にどのような意味を持つのかを解説しています。",
+            "教育現場における今後の変化が注目されます。"
+          ]
+        },
+        {
+          "title": "Don’t Blame Older Generations for Society’s Structural Problems",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-07-01T21:34:25Z",
+          "excerpt": "Don’t Blame Older Generations for Society’s Structural Problems sara.custer@in… Wed, 07/01/2026 - 05:34 PM Recognize that every person—no m...",
+          "link": "https://www.insidehighered.com/opinion/letters/2026/07/01/dont-blame-older-generations-societys-structural-problems",
+          "translationStatus": "translated",
+          "titleJa": "社会の構造的問題を高齢世代のせいにするな",
+          "summaryJa": [
+            "社会が抱える構造的な問題について、高齢世代を非難すべきではないという意見が示されています。",
+            "記事は、個々の人間が持つ責任を認識することの重要性を強調しています。",
+            "世代間の対立ではなく、問題の本質に目を向けるよう促しています。"
+          ]
+        },
+        {
+          "title": "Colorado receives funding to bring back the FAFSA completion tracker",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-01T20:18:03Z",
+          "excerpt": "Sign up for our free monthly newsletter Beyond High School to get the latest news about college and career paths for Colorado’s high school...",
+          "link": "https://www.chalkbeat.org/colorado/2026/07/01/sipa-grant-to-fund-colroado-fafsa-completion-tracker/",
+          "translationStatus": "translated",
+          "titleJa": "コロラド州、FAFSA完了トラッカー再導入へ資金獲得",
+          "summaryJa": [
+            "コロラド州が、FAFSA（連邦学生援助無料申請書）の完了状況を追跡するシステムを再導入するための資金を獲得しました。",
+            "このシステムは、コロラド州の高校生が大学やキャリアパスに進むための支援を目的としています。",
+            "学生の進学支援体制の強化が期待されます。"
+          ]
+        },
+        {
+          "title": "Opinion: The $50 Billion Rural Healthcare Opportunity States Can’t Afford To Miss",
+          "source": "The 74",
+          "publishedAt": "2026-07-01T18:30:00Z",
+          "excerpt": "Rural America has a healthcare crisis hiding in plain sight. Hospitals are closing. Nurses are retiring faster than they can be replaced. A...",
+          "link": "https://www.the74million.org/article/the-50-billion-rural-healthcare-opportunity-states-cant-afford-to-miss/",
+          "translationStatus": "translated",
+          "titleJa": "論説：地方医療の危機と州が逃すべきでない500億ドルの機会",
+          "summaryJa": [
+            "地方のアメリカが直面している医療危機について論じられています。",
+            "病院の閉鎖や看護師の退職が補充を上回るペースで進んでいる現状が指摘されています。",
+            "この記事は、この危機を州にとって500億ドル規模の機会と捉えるべきだと主張しています。",
+            "地方医療の改善に向けた取り組みの重要性が強調されています。"
+          ]
+        },
+        {
+          "title": "Memphis schools takeover blocked by judge in temporary order",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-01T17:30:43Z",
+          "excerpt": "Sign up for Chalkbeat Tennessee’s free newsletter to keep up with statewide education policy and Memphis-Shelby County Schools. A federal j...",
+          "link": "https://www.chalkbeat.org/tennessee/2026/07/01/memphis-schools-state-takeover-blocked-by-judge/",
+          "translationStatus": "translated",
+          "titleJa": "メンフィス学校の運営権掌握、裁判官が一時差し止め命令",
+          "summaryJa": [
+            "連邦裁判官が、メンフィス学校の運営権掌握に対し一時的な差し止め命令を出しました。",
+            "これにより、学校の運営体制変更が一時的に阻止されることになります。",
+            "テネシー州全体の教育政策やメンフィス・シェルビー郡の学校に関する動向が注目されています。"
+          ]
+        },
+        {
+          "title": "Florida Board Approves Stuart Bell as UF’s Next President",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-07-01T17:13:00Z",
+          "excerpt": "Florida Board Approves Stuart Bell as UF’s Next President Emma Whitford Wed, 07/01/2026 - 01:13 PM The vote ends two years of leadership tu...",
+          "link": "https://www.insidehighered.com/news/governance/executive-leadership/2026/07/01/florida-board-approves-stuart-bell-ufs-next",
+          "translationStatus": "translated",
+          "titleJa": "フロリダ大学次期学長にスチュアート・ベル氏承認、2年の混乱に終止符",
+          "summaryJa": [
+            "フロリダ州の理事会が、フロリダ大学（UF）の次期学長としてスチュアート・ベル氏を承認しました。",
+            "この投票により、2年間にわたる大学のリーダーシップを巡る混乱が終結します。",
+            "新学長の下での大学運営に注目が集まっています。"
+          ]
+        },
+        {
+          "title": "P.S. Weekly live: Student reporters reflect on covering NYC Schools",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-01T15:00:00Z",
+          "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. It’s a wra...",
+          "link": "https://www.chalkbeat.org/newyork/2026/07/01/ps-weekly-live-season-finale-student-reporters-on-top-education-stories/",
+          "translationStatus": "translated",
+          "titleJa": "学生記者たちがNYC学校取材を振り返るライブイベント",
+          "summaryJa": [
+            "ニューヨーク市の公立学校を取材した学生記者たちが、その経験を振り返るライブイベントが開催されます。",
+            "彼らが取材を通じて得た視点や課題について語り合う予定です。",
+            "NYCの教育に関する重要なニュースが提供される機会となります。"
+          ]
+        },
+        {
+          "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
+          "source": "The 74",
+          "publishedAt": "2026-07-01T14:30:00Z",
+          "excerpt": "The U.S. Department of Education may no longer be able to fully support students, it says in an internal report that lays bare the full ext...",
+          "link": "https://www.the74million.org/article/trump-wanted-to-cut-ed-department-into-irrelevancy-new-report-shows-how-he-did-it/",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏の教育省弱体化戦略、新報告書が詳細を明らかに",
+          "summaryJa": [
+            "トランプ前大統領が米国教育省を無力化しようとした方法について、新たな内部報告書が詳細を明らかにしました。",
+            "報告書によると、教育省は学生を十分に支援する能力を失う可能性があるとされています。",
+            "トランプ政権下での教育政策の影響が浮き彫りになっています。"
+          ]
+        },
+        {
           "title": "More Republicans than Democrats file for school board races in central Indiana",
           "source": "Chalkbeat",
           "publishedAt": "2026-07-01T11:00:00Z",
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/07/01/central-indiana-candidates-file-partisan-school-board-races-election-2026/",
           "translationStatus": "translated",
-          "titleJa": "インディアナ州中部、共和党員が民主党員を上回る数の教育委員会選挙に立候補",
+          "titleJa": "インディアナ州中部、学校理事会選挙で共和党候補が民主党を上回る",
           "summaryJa": [
-            "インディアナ州中部の教育委員会選挙において、共和党員が民主党員よりも多く立候補している。",
-            "この動きは、インディアナポリス公立学校やマリオン郡の学区に関する動向と関連している。",
-            "地域教育政策への関心の高まりを示唆している。"
+            "インディアナ州中部で実施される学校理事会選挙において、共和党からの立候補者数が民主党を上回っています。",
+            "インディアナポリス公立学校やマリオン郡の学区における教育政策に影響を与える可能性があります。",
+            "地方レベルでの政治的関心の高まりが示されています。"
           ]
         },
         {
           "title": "Opinion: The Real Problem With ‘Gifted’ Education",
           "source": "The 74",
           "publishedAt": "2026-07-01T10:30:00Z",
-          "excerpt": "Katie Arnold-Ratliff wrote a cover story for New York Magazine criticizing New York City’s gifted and talented program in public schools th...",
+          "excerpt": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public poli...",
           "link": "https://www.the74million.org/article/the-real-problem-with-gifted-education/",
           "translationStatus": "translated",
-          "titleJa": "意見：「ギフテッド教育」の真の問題点",
+          "titleJa": "論説：「ギフテッド教育」が抱える真の問題",
           "summaryJa": [
-            "ニューヨークマガジン誌が、ニューヨーク市の公立学校におけるギフテッド・タレンテッド教育プログラムを批判する記事を掲載した。",
-            "記事はKatie Arnold-Ratliff氏によって執筆された。",
-            "ギフテッド教育が抱える根本的な問題について議論を提起している。"
-          ]
-        },
-        {
-          "title": "What’s next for the Illinois Department of Early Childhood? Secretary Teresa Ramos gives a sneak peak.",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-07-01T10:01:00Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. The Illinois Department of...",
-          "link": "https://www.chalkbeat.org/chicago/2026/07/01/idec-secretary-teresa-ramos-qa-on-new-illinois-department/",
-          "translationStatus": "translated",
-          "titleJa": "イリノイ州幼児期教育局の今後：ラモス長官が展望を語る",
-          "summaryJa": [
-            "イリノイ州幼児期教育局の今後の計画について、テレサ・ラモス長官が一部を明らかにした。",
-            "この情報は、シカゴ公立学校に関する最新ニュースと関連している。",
-            "幼児期教育の方向性に関心が集まっている。"
-          ]
-        },
-        {
-          "title": "Illinois opens a new agency handling services for kids under 5. Here’s what it means for families.",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-07-01T10:00:00Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. Illinoisans raising young...",
-          "link": "https://www.chalkbeat.org/chicago/2026/07/01/illinois-department-of-early-childhood-opens-for-parents-and-providers/",
-          "translationStatus": "translated",
-          "titleJa": "イリノイ州、5歳未満児向け新機関を設立：家族への影響は",
-          "summaryJa": [
-            "イリノイ州が5歳未満の子ども向けサービスを扱う新機関を設立した。",
-            "この新機関は、幼い子どもを育てるイリノイ州の家族に影響を与える見込み。",
-            "シカゴ公立学校の最新ニュースと関連して報じられている。"
-          ]
-        },
-        {
-          "title": "Financial Aid Administrators Grapple With Last-Minute Loan Changes",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "Financial Aid Administrators Grapple With Last-Minute Loan Changes Johanna Alonso Wed, 07/01/2026 - 03:00 AM The loan limits are just one s...",
-          "link": "https://www.insidehighered.com/news/students/financial-aid/2026/07/01/financial-aid-admins-grapple-last-minute-loan-changes",
-          "translationStatus": "translated",
-          "titleJa": "奨学金担当者、直前の融資変更に苦慮",
-          "summaryJa": [
-            "奨学金担当者が、直前に発表された融資制度の変更に対応に追われている。",
-            "融資限度額の変更などが、その一因となっている。",
-            "大学の財政援助部門に混乱が生じている模様。"
-          ]
-        },
-        {
-          "title": "After 51 Years at Bard and 6 Months of Scandal, Botstein Retires",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "After 51 Years at Bard and 6 Months of Scandal, Botstein Retires Emma Whitford Wed, 07/01/2026 - 03:00 AM Lawmakers are asking the former p...",
-          "link": "https://www.insidehighered.com/news/governance/executive-leadership/2026/07/01/after-51-years-bard-months-scandal-botstein-retires",
-          "translationStatus": "translated",
-          "titleJa": "バード大学のボットスタイン氏、51年勤務と6ヶ月のスキャンダルの後引退",
-          "summaryJa": [
-            "バード大学で51年間務めたボットスタイン氏が引退した。",
-            "引退は、過去6ヶ月間にわたるスキャンダルの後に行われた。",
-            "議員らは元学長に対し、説明を求めている。"
-          ]
-        },
-        {
-          "title": "Florida Board Bans Undocumented Students From State Colleges",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "Florida Board Bans Undocumented Students From State Colleges gianna.jakubowski Wed, 07/01/2026 - 03:00 AM The state becomes the fourth to i...",
-          "link": "https://www.insidehighered.com/news/admissions/traditional-age/2026/07/01/florida-board-bans-undocumented-students-state-colleges",
-          "translationStatus": "translated",
-          "titleJa": "フロリダ州、州立大学から不法滞在学生を排除",
-          "summaryJa": [
-            "フロリダ州の教育委員会が、州立大学における不法滞在学生の入学を禁止した。",
-            "フロリダ州は、同様の措置を導入する4番目の州となる。",
-            "この決定は、高等教育機関における学生の受け入れ方針に影響を与える。"
-          ]
-        },
-        {
-          "title": "Fresno State Ousts Foundation Board Members After Critical Review",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "Fresno State Ousts Foundation Board Members After Critical Review Josh Moody Wed, 07/01/2026 - 03:00 AM Byline(s) Josh Moody",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/07/01/fresno-state-ousts-foundation-board-members",
-          "translationStatus": "translated",
-          "titleJa": "フレズノ州立大学、批判的レビュー後に財団理事を解任",
-          "summaryJa": [
-            "フレズノ州立大学が、批判的なレビューを受けて財団の理事メンバーを解任した。",
-            "この決定は、大学財団の運営に関する問題提起があったことを示唆している。",
-            "大学のガバナンスと透明性への取り組みが注目される。"
-          ]
-        },
-        {
-          "title": "As Cost of Living Surges, One College Rethinks Basic Needs Support",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "As Cost of Living Surges, One College Rethinks Basic Needs Support Joshua.Bay Wed, 07/01/2026 - 03:00 AM At Stony Brook University, a revam...",
-          "link": "https://www.insidehighered.com/news/student-success/college-experience/2026/07/01/how-one-college-rethinking-basic-needs-support",
-          "translationStatus": "translated",
-          "titleJa": "生活費高騰の中、ある大学が学生の基本的ニーズ支援を見直し",
-          "summaryJa": [
-            "生活費の高騰を受け、ある大学が学生の基本的ニーズ支援策を見直している。",
-            "ストーニーブルック大学では、支援体制の刷新が進められている。",
-            "学生の経済的負担軽減に向けた取り組みが注目される。"
-          ]
-        },
-        {
-          "title": "How a Few Foundations Shape American Higher Education",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-01T07:00:00Z",
-          "excerpt": "How a Few Foundations Shape American Higher Education Elizabeth Redden Wed, 07/01/2026 - 03:00 AM They answer only to themselves, and many...",
-          "link": "https://www.insidehighered.com/opinion/views/2026/07/01/how-few-foundations-shape-american-higher-ed-opinion",
-          "translationStatus": "translated",
-          "titleJa": "少数の財団がアメリカの高等教育を形成する仕組み",
-          "summaryJa": [
-            "アメリカの高等教育が、少数の財団によってどのように形成されているかを探る記事。",
-            "これらの財団は、自らの判断に基づいて運営されている。",
-            "高等教育機関への影響力について議論が提起されている。"
+            "「ギフテッド教育」が抱える根本的な問題について論じるエッセイが掲載されました。",
+            "この記事は、政治や公共政策に関する実践的な見解を提供するサイトに掲載されたものです。",
+            "ギフテッド教育の現状と課題に対する新たな視点が提示されています。"
           ]
         }
       ]
@@ -740,7 +681,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 49,
+    "translatedItems": 40,
     "failedBatches": []
   }
 }
