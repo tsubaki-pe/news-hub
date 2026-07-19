@@ -1,112 +1,149 @@
 {
-  "generatedAt": "2026-07-18T22:09:06.793694Z",
+  "generatedAt": "2026-07-19T10:46:29.030353Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
           "source": "BBC News",
-          "publishedAt": "2026-07-18T21:12:28Z",
-          "excerpt": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf reg...",
-          "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T10:44:11Z",
+          "excerpt": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "ヨルダンでのイラン攻撃、米兵2人死亡1人不明",
+          "titleJa": "ヨルダン米兵死亡受け米イランが報復攻撃",
           "summaryJa": [
-            "今週、イランと米国間の敵対行為が再燃しました。",
-            "イランは湾岸地域の米軍施設を標的に攻撃を行いました。",
-            "ヨルダンでの攻撃により、米兵2人が死亡し、1人が行方不明となっています。"
+            "ヨルダンでの米兵2名死亡を受け、米国とイランが報復攻撃を応酬しています。",
+            "米軍は8夜連続でイラン関連施設を標的に攻撃を実施。",
+            "一方、イランはクウェートの米軍に対しドローンを発射したと発表しました。"
           ]
         },
         {
-          "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T21:03:34Z",
-          "excerpt": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-          "translationStatus": "failed"
+          "title": "Tate brothers arrested in US as further UK charges take total to 59",
+          "source": "BBC News",
+          "publishedAt": "2026-07-19T10:22:35Z",
+          "excerpt": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "テイト兄弟、米国で逮捕 英国での容疑は計59件に",
+          "summaryJa": [
+            "テイト兄弟が米国で逮捕されました。",
+            "英国での追加起訴により、容疑は合計59件に上るとのことです。",
+            "英国検察庁は米国に対し、兄弟の身柄引き渡しを要請しています。",
+            "兄弟の弁護士は無実を主張しています。"
+          ]
         },
         {
-          "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
+          "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
           "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T21:02:44Z",
-          "excerpt": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
-          "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-07-19T10:09:25Z",
+          "excerpt": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
+          "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ガザ住民、W杯決勝でスペインを応援 パレスチナ連帯を理由に",
+          "summaryJa": [
+            "ワールドカップ決勝を前に、ガザ地区のサッカーファンがスペインを応援しています。",
+            "アルゼンチンとの対戦で、スペインへの支持を表明。",
+            "その理由として、パレスチナ人へのスペインの連帯を挙げています。"
+          ]
         },
         {
-          "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T20:24:51Z",
-          "excerpt": "A week after he was shot in his West Bank village, Fadi al-Nassan's death comes amid a surge in settler violence.",
-          "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Drone video shows scale of major wildfire in northern Spain",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T20:18:46Z",
-          "excerpt": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+          "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
           "source": "NPR World",
-          "publishedAt": "2026-07-18T20:06:35Z",
-          "excerpt": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
-          "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+          "publishedAt": "2026-07-19T10:00:00Z",
+          "excerpt": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+          "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
           "translationStatus": "translated",
-          "titleJa": "英国のジョシュ・カー選手、マイル走で27年ぶり世界記録更新",
+          "titleJa": "エルサレム嘆きの壁のツバメ救出へ イスラエル人パラグライダーが活動",
           "summaryJa": [
-            "英国のジョシュ・カー選手がマイル走で世界記録を更新しました。",
-            "彼は数ヶ月前から記録更新への挑戦を表明しており、土曜日にロンドンでその計画を達成しました。",
-            "この記録は27年ぶりの更新となります。"
+            "エルサレムの嘆きの壁には、聖書時代からツバメが営巣しています。",
+            "渡り鳥であるツバメを救うため、一人のイスラエル人パラグライダーが活動を開始。",
+            "ツバメの保護に向けた取り組みが行われています。"
           ]
         },
         {
-          "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T19:55:16Z",
-          "excerpt": "Palestinians who have endured Israel's genocidal war are still being targeted.",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T19:42:27Z",
-          "excerpt": "A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.",
-          "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "カナダ森林火災の煙、大気質、W杯決勝に関する情報",
-          "summaryJa": [
-            "カナダの森林火災による煙が、ニューヨーク市で大気質の懸念を引き起こしています。",
-            "この地域では雷雨が発生し、混乱が生じました。",
-            "森林火災の煙と大気質、そしてワールドカップ決勝に関する情報が注目されています。"
-          ]
-        },
-        {
-          "title": "Hungary's president agrees to stand down after parliament backs removal",
+          "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
           "source": "BBC News",
-          "publishedAt": "2026-07-18T19:34:16Z",
-          "excerpt": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-          "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-07-19T09:59:41Z",
+          "excerpt": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ガイアナ沖でフェリー沈没、116人乗船 53人救助",
+          "summaryJa": [
+            "ガイアナ沖で乗客116人を乗せたフェリーが沈没しました。",
+            "首都ジョージタウンとポートカイチュマの間で転覆した模様です。",
+            "これまでに53人が救助されたと当局が発表しました。"
+          ]
         },
         {
-          "title": "Thousands rally in London in support of Gaza, demand new PM take action",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-18T19:30:30Z",
-          "excerpt": "Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.",
-          "link": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
+          "title": "Russia launches major ballistic missile attack on Kyiv",
+          "source": "BBC News",
+          "publishedAt": "2026-07-19T09:54:50Z",
+          "excerpt": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "ロンドンでガザ支持デモ、新首相に行動を要求",
+          "titleJa": "ロシア、キーウに大規模弾道ミサイル攻撃 1人死亡",
           "summaryJa": [
-            "ロンドンで数千人がガザを支持するデモを行いました。",
-            "デモ参加者は、アンディ・バーナム新首相に対し、イスラエルへの武器禁輸措置を課すよう求めています。",
-            "また、イスラエル政府に「ジェノサイド」を終わらせるよう圧力をかけることも要求しています。"
+            "ロシアがウクライナの首都キーウに対し、大規模な弾道ミサイル攻撃を実施しました。",
+            "この攻撃により1人の死亡が報告されています。",
+            "ゼレンスキー大統領は「最も大規模な弾道攻撃の一つ」と述べました。"
+          ]
+        },
+        {
+          "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-19T09:46:35Z",
+          "excerpt": "South African fighter held the middleweight belt ⁠from January 2024 until August 2025 when he lost to Chimaev.",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "デュ・プレシ、UFC復帰戦でウスマンに勝利",
+          "summaryJa": [
+            "南アフリカの格闘家デュ・プレシがUFC復帰戦で勝利を飾りました。",
+            "ウスマンに対し、圧倒的な判定で勝利。",
+            "彼は2024年1月から2025年8月までミドル級王座を保持し、その後チマエフに敗れました。"
+          ]
+        },
+        {
+          "title": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-19T09:35:52Z",
+          "excerpt": "Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break.",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "2026年W杯決勝、閉会式とハーフタイムショーの概要",
+          "summaryJa": [
+            "2026年ワールドカップ決勝では、スペインとアルゼンチンが対戦します。",
+            "試合前とハーフタイムにはミュージシャンによるパフォーマンスが予定されています。",
+            "閉会式とハーフタイムショーの詳細が発表されました。"
+          ]
+        },
+        {
+          "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+          "source": "NPR World",
+          "publishedAt": "2026-07-19T09:14:38Z",
+          "excerpt": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
+          "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+          "translationStatus": "translated",
+          "titleJa": "ロシア、ウクライナ首都に夜間攻撃 多数のミサイルとドローン使用",
+          "summaryJa": [
+            "ロシアが夜間にウクライナの首都を標的とした攻撃を実施しました。",
+            "ウクライナ空軍によると、ロシアはミサイル41発と攻撃ドローン125機を発射。",
+            "この攻撃により死者が出ているとのことです。"
+          ]
+        },
+        {
+          "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-19T09:08:55Z",
+          "excerpt": "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.",
+          "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "インドネシア沖でボート沈没、5人救助 20人以上が行方不明",
+          "summaryJa": [
+            "インドネシア沖でボートが沈没し、5人が救助されました。",
+            "沈没から3日後、生存者は漁具や漂流物に掴まっているところを発見。",
+            "少なくとも20人以上が依然として行方不明となっています。"
           ]
         }
       ]
@@ -116,145 +153,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "20日の天気（西日本）(共同通信)",
+          "title": "釣り船が炎上・沈没 客ら11人は無事避難(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T22:00:06Z",
-          "excerpt": "◆大阪 曇り時々晴れ ◆京都 曇り時々晴れ ◆広島 曇り時々晴れ ◆高松 晴れ時々曇り ◆福岡 晴れ時々曇り ◆鹿児島 晴れ時々曇り ◆那覇 晴れ時々曇り",
-          "link": "https://news.yahoo.co.jp/articles/748015eb984ae54655a051d904b0e4c835a5f9ff?source=rss",
+          "publishedAt": "2026-07-19T10:18:15Z",
+          "excerpt": "神奈川県三浦市の沖合で釣り船から火が出ました。その後、船は沈没しましたが、乗っていた人は全員避難していて無事ということです。 午前11時半ごろ、三浦市の沖合で「船から火が出た」と船長から海上保安",
+          "link": "https://news.yahoo.co.jp/articles/9a8605db3d3b4141bc4fc68e36d320b71cccb870?source=rss",
           "translationStatus": "translated",
-          "titleJa": "20日の西日本の天気 曇り時々晴れの地域が多い見込み",
+          "titleJa": "釣り船が炎上・沈没、乗客ら全員無事避難 神奈川・三浦沖",
           "summaryJa": [
-            "20日の西日本の天気予報が発表されました。",
-            "大阪、京都、広島は曇り時々晴れとなるでしょう。",
-            "高松、福岡、鹿児島、那覇は晴れ時々曇りの予報です。"
+            "神奈川県三浦市の沖合で、釣り船から火災が発生しました。",
+            "その後、船は沈没しましたが、乗っていた全員が無事に避難したとのことです。",
+            "午前11時半ごろ、船長から海上保安庁に「船から火が出た」と通報がありました。"
           ]
         },
         {
-          "title": "ミャンマーの翡翠、詐欺拠点摘発で価格下落 中国系国際犯罪組織の買い付けが減ったか(共同通信)",
+          "title": "安倍昭恵夫人が銃撃時に応援受けた佐藤副長官にエール「この国をよくすることを望む」(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T22:00:02Z",
-          "excerpt": "ミャンマー中部マンダレーの翡翠市場で、取引価格が下落している。主要輸出先の中国の景気減速に加え、特殊詐欺拠点の摘発が本格化し中国系国際犯罪組織の資金洗浄目的の買い付けが減少した影響との見方がもっぱら",
-          "link": "https://news.yahoo.co.jp/articles/c86d32fe7edd2136b8e3d7d0b9cf5cc0ff8e7fc0?source=rss",
+          "publishedAt": "2026-07-19T10:09:46Z",
+          "excerpt": "亡くなって4年を迎えた安倍元総理大臣の回顧展が奈良で行われ、昭恵夫人が銃撃現場で応援演説を受けていた佐藤官房副長官にエールを送りました。 昭恵夫人 「主人が信頼していた高市総理がここ奈良から総理大臣",
+          "link": "https://news.yahoo.co.jp/articles/d6dfc617acd63cee4f4147d9a2bfb1dad5d8f998?source=rss",
           "translationStatus": "translated",
-          "titleJa": "ミャンマー産翡翠の価格下落、中国の詐欺拠点摘発が影響か",
+          "titleJa": "安倍昭恵夫人、佐藤官房副長官にエール 安倍元首相回顧展で",
           "summaryJa": [
-            "ミャンマー中部マンダレーの翡翠市場で取引価格が下落しています。",
-            "主要輸出先の中国の景気減速に加え、特殊詐欺拠点の摘発が本格化しています。",
-            "中国系国際犯罪組織による資金洗浄目的の買い付けが減少した影響との見方がもっぱらです。"
+            "亡くなって4年を迎えた安倍元総理大臣の回顧展が奈良で開催されました。",
+            "昭恵夫人は、銃撃現場で応援演説を受けていた佐藤官房副長官にエールを送りました。",
+            "夫人は「主人が信頼していた高市総理がここ奈良から総理大臣に」と述べました。"
           ]
         },
         {
-          "title": "20日の天気（東日本）(共同通信)",
+          "title": "官房副長官「安倍氏の志継ぐ」 銃撃の奈良で昭恵さんに(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T22:00:01Z",
-          "excerpt": "◆札幌 曇り ◆秋田 雨のち曇り ◆仙台 晴れ時々曇り ◆新潟 晴れ ◆東京 晴れ時々曇り ◆名古屋 晴れ時々曇り",
-          "link": "https://news.yahoo.co.jp/articles/2f430f966295609fe36f2b002caabb04e9e4d494?source=rss",
+          "publishedAt": "2026-07-19T10:03:54Z",
+          "excerpt": "佐藤啓官房副長官は19日、奈良市で開かれた安倍晋三元首相の回顧展に出席し、安倍氏の妻昭恵さんと対談した。2022年7月の銃撃事件以降を振り返り「安倍氏の政治理念を実現するためには高市政権を誕生させな",
+          "link": "https://news.yahoo.co.jp/articles/9f56dacbdca70b3d2f3ddbc1df90e4dafc706b82?source=rss",
           "translationStatus": "translated",
-          "titleJa": "20日の東日本の天気 札幌は曇り、東京・名古屋は晴れ時々曇り",
+          "titleJa": "佐藤官房副長官、安倍元首相の志を継ぐと表明 奈良の回顧展で昭恵夫人と対談",
           "summaryJa": [
-            "20日の東日本の天気予報が発表されました。",
-            "札幌は曇り、秋田は雨のち曇りとなる見込みです。",
-            "仙台、東京、名古屋は晴れ時々曇り、新潟は晴れの予報です。"
+            "佐藤啓官房副長官は19日、奈良市で開催された安倍晋三元首相の回顧展に出席しました。",
+            "安倍氏の妻である昭恵さんと対談し、2022年7月の銃撃事件以降を振り返りました。",
+            "佐藤副長官は「安倍氏の政治理念を実現するためには高市政権を誕生させなければならない」と述べました。"
           ]
         },
         {
-          "title": "「何かの恐ろしい物語を見ているようで…」8000万円ギャンブルで溶かした倉本幹太容疑者の凶暴性と、「生き埋めにされた共犯者」との不可解な関係《広島》(NEWSポストセブン)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T21:59:00Z",
-          "excerpt": "恩人夫妻を放火のうえ刺殺し、友人を生き埋めに──広島県警が7月17日に再逮捕した広島市南区の無職・倉本幹太容疑者（29）にかかっているのは、あまりに残虐な殺しの容疑だ。【前後編の後編。前編から読む】",
-          "link": "https://news.yahoo.co.jp/articles/1fb5b9f9b65df05b6fde77e1d1ea5b53f81ea9fe?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "広島の倉本容疑者を再逮捕、恩人夫妻殺害と友人生き埋めの容疑",
-          "summaryJa": [
-            "広島県警は7月17日、広島市南区の無職、倉本幹太容疑者（29）を再逮捕しました。",
-            "容疑は恩人夫妻を放火のうえ刺殺したこと、そして友人を生き埋めにしたことです。",
-            "倉本容疑者には残虐な殺しの容疑がかかっています。"
-          ]
-        },
-        {
-          "title": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
+          "title": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-07-18T21:57:26Z",
-          "excerpt": "アメリカとイランの攻撃の応酬が続くなか、イラン側は、アメリカが戦闘終結に向けた覚書のすべての義務に違反しているとした上で「われわれも義務の履行を停止している」と主張しました。一方、アメリカ中央軍はイランの攻撃に対応していた兵士2人が死亡したと発表し、対立がいっそう先鋭化すること...",
-          "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html",
+          "publishedAt": "2026-07-19T09:56:41Z",
+          "excerpt": "19日も西日本や北陸の各地で気温が上がり、福岡県太宰府市では38度ちょうどと危険な暑さとなりました。20日は、埼玉県で危険な暑さが見込まれるなど関東甲信や東北でも気温が上がるため、熱中症への対策を徹底してください。",
+          "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
           "translationStatus": "translated",
-          "titleJa": "イラン、覚書履行停止を主張 米兵2人死亡で対立激化",
+          "titleJa": "福岡・太宰府で38度記録、20日も埼玉などで危険な暑さ予想 熱中症対策を",
           "summaryJa": [
-            "アメリカとイランの間で攻撃の応酬が続いています。",
-            "イラン側は、アメリカが戦闘終結に向けた覚書の義務に違反していると主張し、自らも義務の履行を停止していると述べました。",
-            "一方、アメリカ中央軍はイランの攻撃に対応していた兵士2人が死亡したと発表しました。",
-            "これにより、両国の対立がいっそう先鋭化しています。"
+            "19日、西日本や北陸各地で気温が上昇し、福岡県太宰府市では38度を記録する危険な暑さとなりました。",
+            "20日は埼玉県で危険な暑さが見込まれるほか、関東甲信や東北でも気温が上がる予想です。",
+            "各地で熱中症への厳重な警戒と対策が呼びかけられています。"
           ]
         },
         {
-          "title": "【速報中】W杯 イングランドがリードで前半終了 フランス戦",
+          "title": "県道で正面衝突、2人死亡 2人けが、岡山・備前(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-07-19T09:51:13Z",
+          "excerpt": "19日午前11時45分ごろ、岡山県備前市の県道「岡山ブルーライン」で、乗用車とスポーツカーが正面衝突し、スポーツカーに乗っていた男性2人が死亡した。備前署によると、2人は兵庫県赤穂市に住む30代男性",
+          "link": "https://news.yahoo.co.jp/articles/c99ecf0ba9d8c5d7dd9eac50890e3aef427aba0b?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "岡山・備前の県道で正面衝突、2人死亡 2人負傷",
+          "summaryJa": [
+            "19日午前11時45分ごろ、岡山県備前市の県道「岡山ブルーライン」で乗用車とスポーツカーが正面衝突しました。",
+            "この事故で、スポーツカーに乗っていた男性2人が死亡しました。",
+            "備前署によると、死亡した2人は兵庫県赤穂市に住む30代男性とのことです。"
+          ]
+        },
+        {
+          "title": "維新・吉村氏、中傷動画「国会でまだやるの？首相への誹謗中傷では」 中道・伊佐氏と応酬(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-07-19T09:48:24Z",
+          "excerpt": "日本維新の会の吉村洋文代表は18日の朝日放送番組「教えて！ニュースライブ 正義のミカタ」で、中道改革連合の伊佐進一衆院議員と共演し、中道の小川淳也代表が党首討論で高市早苗首相陣営による中傷動画作成疑惑",
+          "link": "https://news.yahoo.co.jp/articles/ccf8216cef698e19ba33846aec477d2dd1c3d936?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "維新・吉村代表、中傷動画問題で中道・伊佐氏と応酬",
+          "summaryJa": [
+            "日本維新の会の吉村洋文代表は18日、朝日放送の番組で中道改革連合の伊佐進一衆院議員と共演しました。",
+            "番組内で、中道の小川淳也代表が党首討論で高市早苗首相陣営による中傷動画作成疑惑を取り上げたことについて議論。",
+            "吉村氏は「国会でまだやるのか？首相への誹謗中傷ではないか」と述べ、伊佐氏と応酬しました。"
+          ]
+        },
+        {
+          "title": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
           "source": "NHK NEWS WEB",
-          "publishedAt": "2026-07-18T21:54:45Z",
-          "excerpt": "サッカーワールドカップ北中米大会は3位決定戦。世界ランキング3位のフランスと世界4位のイングランドの対戦です。勝敗とともに注目されるのが両チームのスター選手による得点王争いです。最新情報をお伝えしています。NHKは総合とBSプレミアム4Kで中継するとともに、NHK ONEでも配...",
-          "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html",
+          "publishedAt": "2026-07-19T09:47:43Z",
+          "excerpt": "19日午後、静岡県御殿場市にあるグラウンドの周辺で複数の木が倒れ、サッカーの試合を観戦していた子どもを含む7人が病院に搬送されました。警察が当時の詳しい状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180731000.html",
           "translationStatus": "translated",
-          "titleJa": "サッカーW杯3位決定戦、イングランドがフランスにリードし前半終了",
+          "titleJa": "静岡・御殿場で倒木、子ども含む7人搬送 グラウンド周辺",
           "summaryJa": [
-            "サッカーワールドカップ北中米大会の3位決定戦が行われています。",
-            "世界ランキング3位のフランスと4位のイングランドが対戦中です。",
-            "前半が終了し、イングランドがフランスにリードしています。",
-            "試合の勝敗と両チームのスター選手による得点王争いが注目されています。"
+            "19日午後、静岡県御殿場市にあるグラウンドの周辺で複数の木が倒れました。",
+            "サッカーの試合を観戦していた子どもを含む7人が病院に搬送されています。",
+            "警察は当時の詳しい状況について調査を進めています。"
           ]
         },
         {
-          "title": "五輪金メダリスト「着衣泳」教室 着衣でも「力抜くと浮きやすい」(テレビ朝日系（ANN）)",
+          "title": "横浜線で人身事故 一部運転見合わせ(レスキューナウニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T21:33:49Z",
-          "excerpt": "夏休み中の水の事故を防ぐため、子どもたちに服を着たまま泳ぐ方法などを伝える教室が都内で開かれ、講師に競泳のオリンピック金メダリストが招かれました。 夏休み初日の18日、渋谷区のプールで水難事故を防",
-          "link": "https://news.yahoo.co.jp/articles/ed13cbbb21d5713961e153b507a20be56f519a80?source=rss",
+          "publishedAt": "2026-07-19T09:40:00Z",
+          "excerpt": "18:32頃、相模原～橋本駅間で発生した人身事故の影響で、横浜線は町田～橋本駅間の運転を見合わせています。振替輸送を行っています。",
+          "link": "https://news.yahoo.co.jp/articles/c4605d5639d84ac0823bae4e67f51d557e5606e4?source=rss",
           "translationStatus": "translated",
-          "titleJa": "五輪金メダリストが着衣泳教室開催、水の事故防止を呼びかけ",
+          "titleJa": "横浜線で人身事故、一部区間で運転見合わせ",
           "summaryJa": [
-            "夏休み中の水の事故を防ぐため、都内で着衣泳の教室が開かれました。",
-            "講師には競泳のオリンピック金メダリストが招かれました。",
-            "教室では、服を着たまま水に浮く方法などが子どもたちに伝えられ、「力を抜くと浮きやすい」と指導がありました。"
+            "18日午後6時32分ごろ、横浜線の相模原駅～橋本駅間で人身事故が発生しました。",
+            "この影響で、横浜線は町田駅～橋本駅間の運転を見合わせています。",
+            "現在、振替輸送が実施されています。"
           ]
         },
         {
-          "title": "富岡海水浴場25年ぶり海開き 福島第一原発事故の影響などで閉鎖(テレビ朝日系（ANN）)",
+          "title": "【動画】20日の天気 - 東日本も猛暑日地点続出へ 東京･名古屋で36℃予想 熱中症対策を（19日19時更新）(ウェザーマップ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T21:32:50Z",
-          "excerpt": "福島第一原発事故の影響で閉鎖されていた福島県富岡町の海水浴場が25年ぶりに海開きしました。 富岡町の富岡海水浴場は近くの漁港の整備や東日本大震災と福島第一原発事故の影響で閉鎖されていましたが、18",
-          "link": "https://news.yahoo.co.jp/articles/093f45f96d8ec396788651d7cdbf5bf7a1ee38f8?source=rss",
+          "publishedAt": "2026-07-19T09:38:07Z",
+          "excerpt": "20日（月・海の日）は、東日本でも35℃以上の猛暑日になる所が続出となりそうです。東京や名古屋で36℃、熊谷で38℃など、強い日差しも照りつけて体にこたえる暑さとなります。冷房を使うなどの暑さ対策が必",
+          "link": "https://news.yahoo.co.jp/articles/9f593a1ecb98b02fc00989b3a66d273baa376a93?source=rss",
           "translationStatus": "translated",
-          "titleJa": "福島・富岡海水浴場が25年ぶり海開き、原発事故で閉鎖",
+          "titleJa": "20日、東日本で猛暑日続出予想 東京・名古屋36℃ 熱中症対策を",
           "summaryJa": [
-            "福島県富岡町の富岡海水浴場が25年ぶりに海開きしました。",
-            "この海水浴場は、近くの漁港整備や東日本大震災、福島第一原発事故の影響で閉鎖されていました。",
-            "7月18日に再開され、多くの人が訪れました。"
+            "20日（月・海の日）は、東日本でも35℃以上の猛暑日となる地点が続出する見込みです。",
+            "東京や名古屋で36℃、熊谷で38℃など、強い日差しが照りつけ体にこたえる暑さとなるでしょう。",
+            "冷房の使用など、熱中症への厳重な警戒と対策が呼びかけられています。"
           ]
         },
         {
-          "title": "静岡県とJR東海協定締結 リニア静岡工区着工へ(テレビ朝日系（ANN）)",
+          "title": "【関東の天気】晴れエリア拡大も 山沿いで急変アリ 猛暑＆雷雨 北部から拡大(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T21:31:51Z",
-          "excerpt": "静岡県とJR東海はリニア中央新幹線の静岡工区着工の前提となる「自然環境保全協定」を締結しました。 18日に締結された自然環境保全協定には、県の専門部会で議論された環境保全措置や不測の事態が起きた場",
-          "link": "https://news.yahoo.co.jp/articles/e3b2d057f3108f7939bd51d0153199d20e7d8f23?source=rss",
+          "publishedAt": "2026-07-19T09:35:51Z",
+          "excerpt": "3連休中ですが、行楽日和でした。18日よりも晴れた所が多くなりました。 20日の海の日は、東日本から西日本にかけて晴れる所が多くなりそうです。ただ、20日は19日よりも大気の状態が不安定になります",
+          "link": "https://news.yahoo.co.jp/articles/b92e1ce997e7c16c7682013fc5c58d6078f2bc2e?source=rss",
           "translationStatus": "translated",
-          "titleJa": "静岡県とJR東海が協定締結、リニア静岡工区着工へ前進",
+          "titleJa": "20日「海の日」東日本から西日本で晴れも、大気不安定で猛暑・雷雨に注意",
           "summaryJa": [
-            "静岡県とJR東海は、リニア中央新幹線の静岡工区着工の前提となる「自然環境保全協定」を締結しました。",
-            "この協定は、県の専門部会で議論された環境保全措置などが盛り込まれています。",
-            "7月18日に締結され、リニア静岡工区の着工に向けた大きな一歩となります。"
-          ]
-        },
-        {
-          "title": "「また責められるのではないか」少年院の保護者会を恐れていた母親が変わった瞬間【マンガ解説】(ダイヤモンド・オンライン)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-18T21:30:36Z",
-          "excerpt": "児童精神科医による大ヒット書籍のコミカライズ版として、くらげバンチ（新潮社）で連載されている『ケーキの切れない非行少年たち』（原作/宮口幸治、漫画/鈴木マサカズ）。今回は、第25話『積み重ね』から、",
-          "link": "https://news.yahoo.co.jp/articles/9eec42d783fa8e45df51ce56fa5e675a68bd2d34?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "少年院保護者会の母親の心境変化を描く漫画『ケーキの切れない非行少年たち』",
-          "summaryJa": [
-            "児童精神科医の書籍をコミカライズした漫画『ケーキの切れない非行少年たち』が連載中です。",
-            "今回は第25話『積み重ね』から、少年院の保護者会を恐れていた母親の心境変化が描かれています。",
-            "母親が「また責められるのではないか」という不安を抱えていた状況が示唆されています。"
+            "3連休最終日の20日「海の日」は、東日本から西日本にかけて晴れる所が多くなる見込みです。",
+            "しかし、19日よりも大気の状態が不安定になる予想です。",
+            "山沿いを中心に天気の急変や、猛暑と雷雨に注意が必要です。"
           ]
         }
       ]
@@ -264,144 +299,143 @@
       "name": "投資ニュース",
       "items": [
         {
+          "title": "Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-19T10:00:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html",
+          "translationStatus": "translated",
+          "titleJa": "定期預金金利、2026年7月19日時点で最大4.10%に",
+          "summaryJa": [
+            "2026年7月19日時点の定期預金金利は、最大で年利4.10%に達しています。",
+            "投資家は、この高金利を固定する機会を得られます。",
+            "貯蓄を増やすための魅力的な選択肢として注目されています。"
+          ]
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-19T10:00:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html",
+          "translationStatus": "translated",
+          "titleJa": "住宅ローン金利、イラン紛争激化で先週上昇 2026年7月19日",
+          "summaryJa": [
+            "2026年7月19日時点の住宅ローンおよび借り換え金利が公表されました。",
+            "先週、イラン紛争が激化したことを背景に、金利は上昇傾向を示しました。",
+            "地政学的緊張が金融市場に影響を与えていることがうかがえます。"
+          ]
+        },
+        {
+          "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-07-19T09:47:28Z",
+          "excerpt": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on...",
+          "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+          "translationStatus": "translated",
+          "titleJa": "米国、米兵死亡攻撃への報復でイラン軍施設を標的と発表",
+          "summaryJa": [
+            "米国は、イランによる攻撃で米軍兵士2名が死亡したことを受け、イラン軍を標的としたと発表しました。",
+            "米中央軍（Centcom）によると、米兵死亡の翌日、イランの沿岸監視施設と防空施設を攻撃しました。",
+            "これは、イランによる攻撃に対する報復措置とされています。"
+          ]
+        },
+        {
+          "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-19T09:20:00Z",
+          "excerpt": "“I’m wondering whether I should ask to work with someone closer to our generation.”",
+          "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "30代の金融アドバイザーの不適切な呼称に不快感、世代の近い担当者への変更を検討",
+          "summaryJa": [
+            "退職した夫婦が、30代の金融アドバイザーから「you guyses」と呼ばれたことに不快感を示しています。",
+            "夫婦は、この呼称がプロフェッショナルとして不適切ではないかと疑問を呈しています。",
+            "自身の世代に近い担当者への変更を検討しているとのことです。"
+          ]
+        },
+        {
+          "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-07-18T23:01:01Z",
+          "excerpt": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.",
+          "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+          "translationStatus": "translated",
+          "titleJa": "自動車のOTA技術利用拡大、サイバーセキュリティリスクへの懸念高まる",
+          "summaryJa": [
+            "自動車業界における無線通信（OTA）技術の利用拡大が、アナリストの間で懸念を引き起こしています。",
+            "アナリストは、OTA技術の普及により、自動車がサイバー攻撃に対してより脆弱になると指摘しています。",
+            "この技術は利便性をもたらす一方で、新たなセキュリティ上の課題を生み出しています。"
+          ]
+        },
+        {
           "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
           "source": "CNBC Markets",
           "publishedAt": "2026-07-18T22:04:02Z",
           "excerpt": "Taylor Farms is recalling iceberg lettuce in 27 states because of the potential that the greens could be contaminated with cyclosporiasis.",
           "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
           "translationStatus": "translated",
-          "titleJa": "テイラーファームズ、27州でレタス回収 サイクロスポラ症汚染の可能性",
+          "titleJa": "テイラーファームズ、27州でアイスバーグレタスを自主回収 シクロスポラ症汚染の可能性",
           "summaryJa": [
-            "テイラーファームズは、27州で販売されたアイスバーグレタスの自主回収を発表しました。",
-            "これは、レタスがサイクロスポラ症に汚染されている可能性が指摘されたためです。",
-            "消費者の健康と安全を確保するための措置としています。"
+            "テイラーファームズ社は、27州で販売されたアイスバーグレタスの自主回収を発表しました。",
+            "これは、レタスがシクロスポラ症に汚染されている可能性があるためです。",
+            "消費者に対し、対象製品の摂取を避けるよう呼びかけています。"
           ]
         },
         {
-          "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
+          "title": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
           "source": "CNBC Markets",
-          "publishedAt": "2026-07-18T22:01:48Z",
-          "excerpt": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Ir...",
-          "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+          "publishedAt": "2026-07-18T20:12:00Z",
+          "excerpt": "Yona Sahar, founder of Locksmith Girl of NYC, spent two years learning the trade. Now, she runs her own business while working around the c...",
+          "link": "https://www.cnbc.com/2026/07/18/how-27-year-old-left-her-job-to-start-locksmith-girl-of-nyc.html",
           "translationStatus": "translated",
-          "titleJa": "ヨルダンで米兵2名死亡、1名不明 イランは「忘れがたい教訓」を警告",
+          "titleJa": "27歳女性鍵師、未経験から7000ドル投資しNYで24時間営業の事業を設立",
           "summaryJa": [
-            "ヨルダンで米軍兵士2名が死亡し、1名が行方不明となっていると報じられました。",
-            "米中央軍はイランに対する海上封鎖を継続していると発表。",
-            "イランは暫定和平合意を破棄後、「忘れがたい教訓」を与えると警告しています。",
-            "クウェートとバーレーンは、イランからのさらなる侵入を阻止したと述べています。"
+            "ニューヨークで鍵師として活躍する27歳のヨナ・サハル氏は、未経験からこの道を志しました。",
+            "彼女は工具に7,000ドルを費やし、2年間かけて技術を習得しました。",
+            "現在、「Locksmith Girl of NYC」を設立し、24時間体制で自身の事業を運営しています。"
           ]
         },
         {
-          "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:56:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
+          "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-18T19:16:00Z",
+          "excerpt": "“I met with a financial representative who was not aware that AT&T was the shortened form of American Telephone and Telegraph.”",
+          "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "来年Nvidiaを上回る可能性のあるAI関連株3選",
+          "titleJa": "金融アドバイザーの無礼な態度に不満、専門知識の欠如も指摘",
           "summaryJa": [
-            "来年、Nvidiaの業績を上回る可能性があるとされるAI関連株3銘柄が注目されています。",
-            "これらの銘柄は、人工知能分野での成長が期待されています。",
-            "投資家は、今後の市場動向に注目しています。"
+            "ある夫婦は、金融アドバイザーが「ヘイ」と呼びかけるような無礼な態度を取れば、その場を立ち去ると述べています。",
+            "敬意の欠如が問題視されており、どこまで許容できるかの線引きが問われています。",
+            "また、AT&TがAmerican Telephone and Telegraphの略称であることを知らない担当者にも遭遇したと報告されています。"
           ]
         },
         {
-          "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:45:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
+          "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-07-18T19:11:33Z",
+          "excerpt": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
+          "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
           "translationStatus": "translated",
-          "titleJa": "ポケモンカードがS&P 500を2.5倍上回るも、その計算には疑問符",
+          "titleJa": "米国で韓国コスメが主流化、2026年には市場規模40億ドルに成長予測",
           "summaryJa": [
-            "ポケモンカードの投資リターンがS&P 500を2.5倍上回ったという分析が提示されました。",
-            "しかし、その計算方法や前提には疑義が呈されています。",
-            "投資としてのポケモンカードの価値について、慎重な見方が求められています。"
+            "韓国の美容製品、いわゆるK-ビューティーが米国市場で主流になりつつあります。",
+            "モルガン・スタンレーは、米国内のK-ビューティー売上が2026年には約40億ドルに達すると予測しています。",
+            "今後もさらなる成長が見込まれており、市場拡大の可能性が指摘されています。"
           ]
         },
         {
-          "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look Like?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:43:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-stocks-last-decade-spectacular-214300078.html",
+          "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-18T19:00:00Z",
+          "excerpt": "“I’ve just been ignoring their attempts.”",
+          "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "Netflix株の過去10年は目覚ましい成長、次の10年はどうなるか",
+          "titleJa": "空のロビンフッド口座を狙う詐欺師、執拗なメール変更試行に困惑",
           "summaryJa": [
-            "Netflixの株価は過去10年間で目覚ましい成長を遂げました。",
-            "しかし、今後の10年間で同様の成長を維持できるかどうかが注目されています。",
-            "競争激化や市場の変化が、同社の将来に影響を与える可能性があります。"
-          ]
-        },
-        {
-          "title": "Why Intuitive Surgical Stock Dropped This Week",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:41:17Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-surgical-stock-dropped-214117069.html",
-          "translationStatus": "translated",
-          "titleJa": "今週、インテュイティブ・サージカル株が下落した理由",
-          "summaryJa": [
-            "今週、医療機器メーカーのインテュイティブ・サージカルの株価が下落しました。",
-            "下落の具体的な理由は記事では言及されていません。",
-            "市場の動向や企業固有のニュースが影響した可能性があります。"
-          ]
-        },
-        {
-          "title": "Everyone’s Chasing Portugal. Smart American Retirees Are Quietly Moving Here Instead",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:07:57Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/real-estate/articles/everyone-chasing-portugal-smart-american-210757304.html",
-          "translationStatus": "translated",
-          "titleJa": "ポルトガルが人気を集める中、賢明な米国人退職者が静かに移住する別の場所",
-          "summaryJa": [
-            "ポルトガルが退職者の移住先として人気を集めています。",
-            "しかし、賢明な米国人退職者の中には、別の場所へ静かに移住する動きが見られます。",
-            "記事では、その「別の場所」がどこであるかについては触れていません。"
-          ]
-        },
-        {
-          "title": "Bank of America revamps Tesla forecast before earnings",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T21:06:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
-          "translationStatus": "translated",
-          "titleJa": "バンク・オブ・アメリカ、決算発表前にテスラの予測を修正",
-          "summaryJa": [
-            "バンク・オブ・アメリカが、テスラの決算発表を前に同社の業績予測を修正しました。",
-            "修正内容の詳細は記事には記載されていません。",
-            "投資家は、この修正がテスラの株価に与える影響に注目しています。"
-          ]
-        },
-        {
-          "title": "The Social Security Cut Everyone Fears Is Not the Biggest Threat to Your Retirement",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T20:50:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/social-security-cut-everyone-fears-205000175.html",
-          "translationStatus": "translated",
-          "titleJa": "誰もが恐れる社会保障費削減は、老後の最大の脅威ではない",
-          "summaryJa": [
-            "社会保障費の削減は多くの人が老後の脅威と見なしています。",
-            "しかし、記事はそれが老後の最大の脅威ではないと指摘しています。",
-            "他の要因が退職後の生活に、より大きな影響を与える可能性があることを示唆しています。"
-          ]
-        },
-        {
-          "title": "What Do SpaceX, AMD, and Palantir Have in Common?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-18T20:33:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
-          "translationStatus": "translated",
-          "titleJa": "SpaceX、AMD、Palantirの共通点とは",
-          "summaryJa": [
-            "SpaceX、AMD、Palantirという異なる分野の企業に共通点があるとしています。",
-            "記事では、その具体的な共通点については言及されていません。",
-            "これらの企業のビジネスモデルや成長戦略に何らかの共通項がある可能性が示唆されています。"
+            "ユーザーが所有する残高ゼロのロビンフッド口座に対し、詐欺師が執拗にメールアドレスの変更を試みています。",
+            "ユーザーはこれらの試みを無視し続けていますが、詐欺師の目的が不明であることに困惑しています。",
+            "空の口座であっても、個人情報や他のアカウントへのアクセスを狙っている可能性が考えられます。"
           ]
         }
       ]
@@ -417,11 +451,11 @@
           "excerpt": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screen...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
           "translationStatus": "translated",
-          "titleJa": "デイブ・エガーズ氏、OpenAI職員に「ChatGPTは世代を沈黙させる」と語る",
+          "titleJa": "デイブ・エガーズ氏、OpenAI職員に「ChatGPTが世代全体を沈黙させている」と語る",
           "summaryJa": [
             "昨年、作家のデイブ・エガーズ氏がOpenAIの職員約200人を前に講演を行いました。",
-            "エガーズ氏は、ChatGPTが「全世代を沈黙させている」と述べたとのことです。",
-            "彼は数多くの小説や脚本を手がけている作家です。"
+            "エガーズ氏は、ChatGPTが「世代全体を沈黙させている」と述べたとのことです。",
+            "この発言は、AIが創造性や表現に与える影響について懸念を示唆しています。"
           ]
         },
         {
@@ -431,11 +465,11 @@
           "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
           "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
           "translationStatus": "translated",
-          "titleJa": "中国Moonshot AIが新モデル「Kimi」発表、「AI共産主義」への懸念も",
+          "titleJa": "中国Moonshot AIの「Kimi」新モデル、AI共産主義への懸念を呼ぶ",
           "summaryJa": [
-            "中国企業Moonshot AIが今週、AIモデル「Kimi」の新バージョンをリリースしました。",
+            "中国企業Moonshot AIが今週、AIモデル「Kimi」の新バージョンを発表しました。",
             "この発表は、「完全なAI共産主義」に関する懸念を引き起こしています。",
-            "Kimiの登場が、AIの未来にどのような影響を与えるか注目されます。"
+            "新モデルの登場が、AIの社会への影響について議論を呼んでいます。"
           ]
         },
         {
@@ -448,8 +482,8 @@
           "titleJa": "ベンチャー投資家ニール・ライマー氏、AI投資資金の流出を予測",
           "summaryJa": [
             "Index Venturesの共同創設者であるベンチャー投資家ニール・ライマー氏が予測を発表しました。",
-            "同氏は、AIがシリコンバレーで生み出している歴史的な富が、いずれ流出すると考えています。",
-            "AI分野への過熱した投資動向に変化が生じる可能性を示唆しています。"
+            "同氏は、AIがシリコンバレーで生み出す歴史的な富が、いずれ流出すると考えています。",
+            "これは、AI分野への過剰な投資に対する懸念を示唆するものです。"
           ]
         },
         {
@@ -459,11 +493,11 @@
           "excerpt": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
           "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
           "translationStatus": "translated",
-          "titleJa": "Vertu、AIエージェントに6,880ドルを要求、その実性能は",
+          "titleJa": "Vertu、幹部向けAIエージェントに6,880ドルを要求、その性能は？",
           "summaryJa": [
-            "高級スマートフォンブランドVertuは、AIエージェントに6,880ドルの支払いを経営者に求めています。",
-            "このAIエージェントの実際の性能について、詳細が報じられています。",
-            "AIワークフロー、バッテリー寿命、セキュリティなど、Vertuの高級折りたたみスマホでの日常利用が検証されています。"
+            "高級スマートフォンブランドVertuが、幹部向けAIエージェントに6,880ドルを課金する意向です。",
+            "このAIエージェントは、AIワークフロー、バッテリー寿命、セキュリティなどに対応します。",
+            "記事では、Vertuの高級折りたたみ式デバイスとAIエージェントの実際の使用感を検証しています。"
           ]
         },
         {
@@ -473,10 +507,10 @@
           "excerpt": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
           "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
           "translationStatus": "translated",
-          "titleJa": "Databricks、評価額1880億ドルに達しAI企業としての地位を確立",
+          "titleJa": "Databricks、評価額1880億ドルに達しAI分野での存在感を拡大",
           "summaryJa": [
-            "Databricks社の評価額が1880億ドルに達し、AI分野での存在感を高めています。",
-            "同社はAI企業へとイメージを刷新し、その地位を確立しました。",
+            "Databricks社の評価額が1880億ドルに達し、AI分野での地位を確立しています。",
+            "同社はAI企業へとイメージを刷新し、その存在感を高めています。",
             "コーディング向けオープンウェイトAIモデルによるコスト削減に関する研究も発表しています。"
           ]
         },
@@ -487,11 +521,11 @@
           "excerpt": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
           "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
           "translationStatus": "translated",
-          "titleJa": "Zoomの「録音しないで」ハック、記録される会話の行方",
+          "titleJa": "Zoomの「録音しないで」ハック、会議記録の課題を提起",
           "summaryJa": [
-            "Zoom会議や日常会話、デートまでが文字起こしされ、要約される状況について言及されています。",
-            "全ての会話が記録・要約される場合、実際に誰がそれらを読むのかという疑問が提起されています。",
-            "プライバシーと情報過多の問題が示唆されています。"
+            "Zoomにおける「録音しないで」というハックが話題になっています。",
+            "全ての会議や会話が文字起こしされ要約される現状に疑問を投げかけています。",
+            "膨大な記録が生成される中で、実際に誰がそれらを読むのかという課題を提起しています。"
           ]
         },
         {
@@ -501,11 +535,11 @@
           "excerpt": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you...",
           "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
           "translationStatus": "translated",
-          "titleJa": "読者必携のアプリ、ガジェット、ツールを紹介",
+          "titleJa": "読者必携のアプリ、ガジェット、ツールの紹介",
           "summaryJa": [
-            "「Installer No. 136」として、読者にとって役立つアプリ、ガジェット、ツールが紹介されています。",
-            "世界中の優れた製品やVergeが推奨するアイテムがガイドされています。",
-            "新規読者への歓迎のメッセージも含まれています。"
+            "「Installer No. 136」として、読者向けのアプリ、ガジェット、ツールが紹介されています。",
+            "世界で最も優れた、そしてVergeらしい製品が厳選されています。",
+            "新規読者にも歓迎のメッセージが送られており、役立つ情報提供が目的です。"
           ]
         },
         {
@@ -518,8 +552,8 @@
           "titleJa": "Agility Robotics、テスラの地元にロボット訓練センター開設",
           "summaryJa": [
             "Agility Robotics社が、カリフォルニア州フリーモントに新たな訓練センターを開設します。",
-            "このセンターは、同社のDigitロボットの訓練を目的としています。",
-            "フリーモントはテスラの本拠地であり、ロボット分野での競争が激化する可能性を示唆しています。"
+            "このセンターは、同社のロボット「Digit」の訓練を目的としています。",
+            "フリーモントはテスラの本拠地であり、ロボット分野での競争を示唆しています。"
           ]
         },
         {
@@ -533,7 +567,7 @@
           "summaryJa": [
             "インドのスマートフォン市場の減速は、AIブームが家電業界を再構築していることを示しています。",
             "価格設定や需要から企業戦略に至るまで、AIが大きな影響を与えています。",
-            "メモリ需要の増加が、特にインド市場に波紋を広げています。"
+            "特にAIによるメモリ需要の増加が、市場に新たな課題をもたらしています。"
           ]
         },
         {
@@ -543,11 +577,11 @@
           "excerpt": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social m...",
           "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
           "translationStatus": "translated",
-          "titleJa": "TikTok、AI生成コンテンツ検出ツールのテストを開始",
+          "titleJa": "TikTok、AI生成類似性検出ツールのテストを開始",
           "summaryJa": [
-            "TikTokが、AI生成コンテンツの検出ツールのテストを開始しました。",
-            "このツールは、AIによる類似性をスキャンし、クリエイターが会社に報告できるオプトイン方式です。",
-            "ソーシャルメディアの専門家によって発見されたもので、AIコンテンツへの対応が強化されます。"
+            "TikTokが、AIによって生成された類似性をスキャンするツールのテストを開始しました。",
+            "このツールはオプトイン方式で、クリエイターがAI生成コンテンツを報告できるようにします。",
+            "ソーシャルメディアの専門家によって発見され、AIコンテンツへの対応を強化する動きです。"
           ]
         }
       ]
@@ -557,17 +591,31 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
+          "source": "The 74",
+          "publishedAt": "2026-07-19T10:30:00Z",
+          "excerpt": "When Zohran Mamdani became mayor of New York City, he vowed to gather community feedback on how the public schools are working. His chancel...",
+          "link": "https://www.the74million.org/article/nycs-mayor-asked-for-parents-opinions-on-schools-heres-what-some-have-to-say/",
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク市長、学校運営に関する保護者の意見を募集",
+          "summaryJa": [
+            "ニューヨーク市長は、公立学校の運営について地域社会からのフィードバックを募ると公約しました。",
+            "保護者からの意見収集を開始し、その一部が報じられています。",
+            "市長は就任当初から、学校運営における保護者の声の重要性を強調していました。"
+          ]
+        },
+        {
           "title": "Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse",
           "source": "The 74",
           "publishedAt": "2026-07-18T16:30:00Z",
           "excerpt": "Weeks before the first day of school, teachers across Mississippi say state leaders have made it more difficult for them to access money fo...",
           "link": "https://www.the74million.org/article/teachers-say-the-process-to-buy-classroom-supplies-is-worse/",
           "translationStatus": "translated",
-          "titleJa": "ミシシッピ州の教員、学用品購入手続きの悪化を訴え",
+          "titleJa": "ミシシッピ州の教員、教室用品購入手続きの悪化を訴え",
           "summaryJa": [
-            "新学期開始を数週間後に控え、ミシシッピ州の教員らが学用品購入のための資金調達が困難になったと訴えています。",
-            "州指導部が手続きを複雑にしたため、教員は必要な物資を入手しにくくなっているとのことです。",
-            "この状況は、教育現場に影響を及ぼす可能性があります。"
+            "ミシシッピ州の教員たちは、新学期開始を数週間後に控え、教室用品購入のための資金調達が困難になったと述べています。",
+            "州の指導者たちが、資金へのアクセスをより難しくしたと指摘されています。",
+            "教員らは、この変更が教育現場に悪影響を及ぼすと懸念しています。"
           ]
         },
         {
@@ -577,11 +625,11 @@
           "excerpt": "During the school year, Mānoa Heritage Center hosts students of all ages learning about native plants, Hawaiian culture and history. But on...",
           "link": "https://www.the74million.org/article/hawai%ca%bbi-teachers-take-learning-outside-in-summer-workshop/",
           "translationStatus": "translated",
-          "titleJa": "ハワイの教員、夏季研修で屋外学習を体験",
+          "titleJa": "ハワイの教員、夏季ワークショップで屋外学習を体験",
           "summaryJa": [
-            "マノア・ヘリテージ・センターは、学期中にあらゆる年齢の生徒にハワイの固有植物、文化、歴史を教えています。",
-            "今回の夏季研修では、ハワイの教員が屋外での学習方法を体験しました。",
-            "これは、教室外での教育実践を促進する取り組みの一環です。"
+            "マノア・ヘリテージ・センターは、学期中にあらゆる年齢の生徒を対象に、ハワイ固有の植物や文化、歴史について学ぶ機会を提供しています。",
+            "今回の夏季ワークショップでは、ハワイの教員たちが屋外での学習を体験しました。",
+            "自然や文化に触れることで、教員は生徒への教育方法を深めることを目指します。"
           ]
         },
         {
@@ -591,11 +639,11 @@
           "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
           "link": "https://www.chalkbeat.org/colorado/2026/07/17/advocates-launch-prop-nn-school-funding-yes-campaign/",
           "translationStatus": "translated",
-          "titleJa": "学校資金増額提案NN、過去の失敗経て「今が好機」と推進派",
+          "titleJa": "提案NN支持者、学校資金増額の好機と判断",
           "summaryJa": [
-            "提案NNの推進派は、過去の試みが失敗に終わった後、学校への資金提供を増やすのに今が適切な時期だと考えています。",
-            "この提案は、教育資金の確保を目指すものです。",
-            "推進派は、現在の状況が資金増額の実現に有利であると見ています。"
+            "提案NNの支持者たちは、過去の失敗を経て、学校への資金提供を増やす時期が来たと考えています。",
+            "この提案は、学校教育の財政基盤を強化することを目的としています。",
+            "支持者らは、現在の状況が資金増額の実現に有利であると見ています。"
           ]
         },
         {
@@ -605,11 +653,11 @@
           "excerpt": "An Agency That Supports Health-Care Improvement Cuts Off Grant Funding Ryan Quinn Fri, 07/17/2026 - 06:15 PM The Agency for Healthcare Rese...",
           "link": "https://www.insidehighered.com/news/government/science-research-policy/2026/07/17/agency-supports-health-care-improvement-cuts",
           "translationStatus": "translated",
-          "titleJa": "医療改善支援機関、助成金支給を打ち切り",
+          "titleJa": "医療改善支援機関、助成金支給を停止",
           "summaryJa": [
-            "医療改善を支援する機関が、助成金の支給を打ち切りました。",
+            "医療改善を支援するある機関が、助成金の支給を打ち切りました。",
             "この決定は、医療研究や改善プロジェクトに影響を与える可能性があります。",
-            "詳細は不明ですが、資金提供の停止は関連分野に波紋を広げると見られます。"
+            "詳細は不明ですが、資金提供の中止は関連分野に波紋を広げています。"
           ]
         },
         {
@@ -619,11 +667,11 @@
           "excerpt": "This story was published in partnership with WBEZ and the Chicago Sun-Times. Sign up for Chalkbeat Chicago’s free daily newsletter to keep...",
           "link": "https://www.chalkbeat.org/chicago/2026/07/17/campaign-contribution-limits-lifted-in-school-board-president-election/",
           "translationStatus": "translated",
-          "titleJa": "シカゴ教育委員会選挙、寄付上限撤廃で180万ドル超集まる",
+          "titleJa": "シカゴ教育委員会選挙、180万ドル超の資金調達",
           "summaryJa": [
-            "シカゴ教育委員会の選挙で、180万ドル以上の資金が集まりました。",
-            "これは、委員長選における寄付金の上限が撤廃されたことによるものです。",
-            "資金調達の活発化は、選挙戦の激化を示唆しています。"
+            "シカゴ教育委員会の選挙において、180万ドルを超える資金が調達されました。",
+            "委員長選では、献金の上限が撤廃されたことが影響しています。",
+            "この多額の資金は、選挙戦の激しさを物語っています。"
           ]
         },
         {
@@ -633,11 +681,11 @@
           "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. Thousands...",
           "link": "https://www.chalkbeat.org/newyork/2026/07/17/ny-summer-ebt-food-benefits-unspent-money-how-to-apply-replacement-card/",
           "translationStatus": "translated",
-          "titleJa": "NY州、昨年の夏季食料支援6200万ドルが未利用、120ドルの申請方法を案内",
+          "titleJa": "NY州、昨年の夏季食料支援6200万ドルが未利用に",
           "summaryJa": [
-            "昨年、ニューヨーク州の家庭が夏季食料支援として受け取った6200万ドルが未利用のまま残されました。",
-            "現在、120ドルの支援金を受け取る方法が案内されています。",
-            "多くの家庭がこの支援金を受け取っていない状況が明らかになりました。"
+            "ニューヨーク州の家庭で、昨年の夏季食料支援金6200万ドルが未利用のまま残されました。",
+            "現在、120ドルの支援金を申請する方法が案内されています。",
+            "多くの家庭がこの支援制度を利用しきれていない現状が浮き彫りになりました。"
           ]
         },
         {
@@ -647,11 +695,11 @@
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/07/17/ipec-announces-finalists-for-executive-director-role/",
           "translationStatus": "translated",
-          "titleJa": "IPEC、次期事務局長を間もなく選出へ、最終候補者リスト公開",
+          "titleJa": "IPEC、事務局長候補者の最終リストを公開",
           "summaryJa": [
-            "IPECは、次期事務局長を間もなく選出する予定です。",
-            "最終候補者のリストが公開されました。",
-            "この選出は、IPECの今後の運営に重要な影響を与えるでしょう。"
+            "IPEC（組織名）が、新たな事務局長を選出する準備を進めています。",
+            "最終候補者のリストが公開され、選考が最終段階に入っています。",
+            "事務局長の決定は、IPECの今後の運営に重要な影響を与えると見られます。"
           ]
         },
         {
@@ -661,11 +709,11 @@
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/07/17/school-districts-asking-voters-for-tax-increases-reaches-record-high/",
           "translationStatus": "translated",
-          "titleJa": "インディアナ州、過去最多の学区が固定資産税増税を住民投票で要請",
+          "titleJa": "インディアナ州、過去最多の学区が固定資産税増額を住民投票に",
           "summaryJa": [
-            "インディアナ州で、過去最多の学区が固定資産税の増税を住民投票で有権者に求めています。",
-            "これは、学校運営資金の確保が目的と見られます。",
-            "多くの学区が財政的な課題に直面している状況が浮き彫りになりました。"
+            "インディアナ州で、過去最多の学区が固定資産税の増額を住民投票で求めることになりました。",
+            "これは学校運営資金の確保を目的とした動きです。",
+            "住民投票の結果は、各学区の財政状況に大きな影響を与える見込みです。"
           ]
         },
         {
@@ -677,23 +725,9 @@
           "translationStatus": "translated",
           "titleJa": "教員離職危機の深刻さ、新たなデータで明らかに",
           "summaryJa": [
-            "新しいデータにより、教員の離職危機の深刻さが明らかになりました。",
+            "新たなデータにより、教員離職危機の深刻な実態が明らかになりました。",
             "このデータは、アメリカの学校が直面する大きな課題を示しています。",
             "Chalkbeatは、この問題に関するバーチャルイベントを開催する予定です。"
-          ]
-        },
-        {
-          "title": "Connecticut Sues, Again, Over Withheld School Mental Health Grants",
-          "source": "The 74",
-          "publishedAt": "2026-07-17T16:30:00Z",
-          "excerpt": "Connecticut Attorney General William Tong is again joining a lawsuit against the U.S. Department of Education as it continues trying to end...",
-          "link": "https://www.the74million.org/article/connecticut-sues-again-over-withheld-school-mental-health-grants/",
-          "translationStatus": "translated",
-          "titleJa": "コネチカット州、学校精神保健助成金不支給で再び提訴",
-          "summaryJa": [
-            "コネチカット州は、学校への精神保健助成金が不支給となっている問題で、再び米国教育省を提訴しました。",
-            "ウィリアム・トン州司法長官が訴訟に参加しています。",
-            "これは、助成金支給の停止を終わらせるための継続的な取り組みの一環です。"
           ]
         }
       ]
@@ -706,7 +740,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 44,
+    "translatedItems": 50,
     "failedBatches": []
   }
 }
