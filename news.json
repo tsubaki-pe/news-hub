@@ -1,148 +1,148 @@
 {
-  "generatedAt": "2026-07-20T11:59:34.848947Z",
+  "generatedAt": "2026-07-20T22:14:45.735005Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+          "title": "Trump imposes 50% tariff on Canadian imports",
+          "source": "BBC News",
+          "publishedAt": "2026-07-20T22:02:42Z",
+          "excerpt": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏、カナダ製品に50%関税を課す",
+          "summaryJa": [
+            "米国のトランプ大統領は、カナダからの輸入品に対し50%の関税を課すと発表しました。",
+            "この関税は30日以内に発効する予定です。",
+            "北米の隣国間における貿易摩擦が大幅にエスカレートすることを示しています。"
+          ]
+        },
+        {
+          "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-20T21:52:02Z",
+          "excerpt": "Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square.",
+          "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "サッカーW杯優勝のスペイン代表、マドリードで凱旋パレード",
+          "summaryJa": [
+            "サッカーワールドカップで優勝したスペイン代表チームが、マドリードに帰国しました。",
+            "数万人のファンが歴史的な大通りからシベーレス広場までを埋め尽くし、選手たちを歓迎しました。",
+            "チームは王室からの歓迎も受け、盛大な凱旋パレードを行いました。"
+          ]
+        },
+        {
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "source": "BBC News",
+          "publishedAt": "2026-07-20T21:30:19Z",
+          "excerpt": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "イエメンのフーシ派、サウジアラビアへの「海上封鎖」を発表",
+          "summaryJa": [
+            "イエメンのフーシ派は、サウジアラビアに対する「海上封鎖」を直ちに開始すると発表しました。",
+            "これは、サウジアラビアによるイエメンの港湾や空港の封鎖への対抗措置とされています。",
+            "地域情勢の緊張がさらに高まる可能性があります。"
+          ]
+        },
+        {
+          "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-20T21:19:41Z",
+          "excerpt": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アルバニアで抗議デモ、リゾート開発巡り議員の車に投石",
+          "summaryJa": [
+            "アルバニアの議会前で、抗議者たちが議員の車両に卵を投げつけました。",
+            "彼らはリゾート開発プロジェクトに関連する法律の改正を要求しています。",
+            "このデモは、政府の政策に対する市民の不満を示しています。"
+          ]
+        },
+        {
+          "title": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-20T21:12:22Z",
+          "excerpt": "Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.",
+          "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "サッカーW杯決勝後の乱闘、FIFAが調査開始",
+          "summaryJa": [
+            "サッカーワールドカップ決勝のスペイン対アルゼンチン戦後、ピッチ上で乱闘が発生しました。",
+            "アルゼンチンのパレデス選手がスペインの選手を突き飛ばす場面が目撃され、騒動に発展しました。",
+            "FIFAはこの件について調査を開始すると発表しました。"
+          ]
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "source": "BBC News",
+          "publishedAt": "2026-07-20T21:09:31Z",
+          "excerpt": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国、イランに新たな空爆実施 トランプ氏が兵士死亡への報復警告",
+          "summaryJa": [
+            "米国はイランに対し、新たな空爆を実施しました。",
+            "トランプ大統領は、米兵死亡への報復を警告しています。",
+            "米国は、ホルムズ海峡で船舶を攻撃するイランの能力を低下させることが攻撃の目的だと説明しています。"
+          ]
+        },
+        {
+          "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-20T21:06:42Z",
+          "excerpt": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
+          "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏、ネタニヤフ首相の逮捕要求を拒否",
+          "summaryJa": [
+            "トランプ米大統領は、イスラエルのネタニヤフ首相を戦争犯罪で逮捕するという要求を拒否しました。",
+            "国際刑事裁判所（ICC）の逮捕状が出ているにもかかわらず、ネタニヤフ首相は逮捕されないと主張しています。",
+            "この発言は、国際的な司法機関の権限を巡る議論を呼んでいます。"
+          ]
+        },
+        {
+          "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+          "source": "BBC News",
+          "publishedAt": "2026-07-20T21:03:24Z",
+          "excerpt": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to t...",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "悪名高い麻薬カルテル幹部、米国で終身刑に",
+          "summaryJa": [
+            "悪名高い麻薬カルテル「シナロア・カルテル」の共同創設者であるイスマエル・サンバダ被告が、米国で終身刑を言い渡されました。",
+            "「エル・マヨ」として知られる同被告は、大量の麻薬を米国に送ったことを認めました。",
+            "裁判所はまた、150億ドルの支払いを命じました。"
+          ]
+        },
+        {
+          "title": "King of Spain celebrates World Cup winners in Madrid",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-07-20T21:01:01Z",
+          "excerpt": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "スペイン国王、W杯優勝チームをマドリードで祝福",
+          "summaryJa": [
+            "サッカーワールドカップで優勝したスペイン代表チームが、マドリードでフェリペ6世国王から王室の歓迎を受けました。",
+            "勝利パレードに先立ち、国王は選手たちの偉業を称えました。",
+            "国を挙げての祝賀ムードが高まっています。"
+          ]
+        },
+        {
+          "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
           "source": "NPR World",
-          "publishedAt": "2026-07-20T11:40:28Z",
-          "excerpt": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Ne...",
-          "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+          "publishedAt": "2026-07-20T20:55:53Z",
+          "excerpt": "As the U.S-Iran war ramps up again, hundreds of diplomats are in limbo. The State Department drew down staffing due to Iran's attacks on Gu...",
+          "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
           "translationStatus": "translated",
-          "titleJa": "米国とイランの緊張激化、米兵3名が死亡",
+          "titleJa": "米イラン戦争激化、数百人の米外交官が宙ぶらりんに",
           "summaryJa": [
-            "米国とイラン間の緊張が高まる中、金曜日以降、米軍兵士3名が死亡しました。",
-            "これは両国間の対立が激化していることを示しています。",
-            "また、ハンター・バイデン氏がNPRのインタビューに応じました。"
-          ]
-        },
-        {
-          "title": "Scores feared dead after passenger ferry capsizes off Guyana",
-          "source": "BBC News",
-          "publishedAt": "2026-07-20T11:37:32Z",
-          "excerpt": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ガイアナ沖で旅客フェリー転覆、多数の死者懸念",
-          "summaryJa": [
-            "ガイアナ沖で旅客フェリーが転覆しました。",
-            "これまでに67人が救助されました。",
-            "フェリーには130人以上が乗船していたとみられており、多数の死者が懸念されています。"
-          ]
-        },
-        {
-          "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-          "source": "BBC News",
-          "publishedAt": "2026-07-20T11:28:30Z",
-          "excerpt": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
-          "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "JD・バンス氏に第4子誕生、妻と息子は「幸せで健康」",
-          "summaryJa": [
-            "JD・バンス氏夫妻に第4子となる男の子が誕生しました。",
-            "日曜日の朝にアレック・ニール・バンスと名付けられた赤ちゃんが生まれました。",
-            "バンス氏は、妻のウシャさんと息子が「幸せで健康」であると発表しました。"
-          ]
-        },
-        {
-          "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-20T11:27:04Z",
-          "excerpt": "This is a breaking news story.",
-          "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ハマス、ハリール・アル＝ハイヤ氏を新指導者に選出 ハーリド・メシャール氏との決選投票経て",
-          "summaryJa": [
-            "イスラム組織ハマスは、ハリール・アル＝ハイヤ氏を新たな指導者に指名しました。",
-            "同氏はハーリド・メシャール氏との決選投票を経て選出されました。",
-            "これは速報として報じられています。"
-          ]
-        },
-        {
-          "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-          "source": "BBC News",
-          "publishedAt": "2026-07-20T11:18:40Z",
-          "excerpt": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-          "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、米兵殺害の「名誉」にかけイランを攻撃と表明",
-          "summaryJa": [
-            "トランプ氏は、殺害された米兵の「名誉」にかけ、米国がイランを攻撃したと表明しました。",
-            "これに対し、イランはシリアとヨルダンで攻撃を行いました。",
-            "また、ホルムズ海峡では2隻の船が爆発したと報じられています。"
-          ]
-        },
-        {
-          "title": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-20T11:15:15Z",
-          "excerpt": "Wild celebrations in Spain after La Roja defeat Argentina 1-0 in extra-time to win the title for the second time.",
-          "link": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "スペイン代表「ラ・ロハ」がアルゼンチンを破り2度目のW杯優勝、国内は歓喜",
-          "summaryJa": [
-            "スペイン代表「ラ・ロハ」がアルゼンチンを延長戦で1-0で破り、2度目のワールドカップタイトルを獲得しました。",
-            "この勝利により、スペイン国内は熱狂的な祝賀ムードに包まれています。",
-            "国民は歓喜に沸いています。"
-          ]
-        },
-        {
-          "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-20T11:09:16Z",
-          "excerpt": "Spain beat Argentina 1-0 in Sunday's final in the US, and are expected to parade the trophy in Madrid on Monday.",
-          "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "W杯優勝のスペイン代表、マドリードで100万人規模の歓迎パレードへ",
-          "summaryJa": [
-            "スペインは日曜日の米国での決勝でアルゼンチンを1-0で破り、ワールドカップで優勝しました。",
-            "月曜日にはマドリードで優勝トロフィーを掲げてパレードを行う予定です。",
-            "100万人規模の群衆が選手たちを歓迎すると予想されています。"
-          ]
-        },
-        {
-          "title": "At least 930 people have died in Congo's Ebola outbreak",
-          "source": "NPR World",
-          "publishedAt": "2026-07-20T10:36:08Z",
-          "excerpt": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorde...",
-          "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-          "translationStatus": "translated",
-          "titleJa": "コンゴのエボラ出血熱、死者930人超に",
-          "summaryJa": [
-            "コンゴで発生しているエボラ出血熱の流行により、少なくとも930人が死亡しました。",
-            "コンゴ保健省によると、土曜日までに確認された2,344件の症例のうち、これらの死者が記録されました。",
-            "新たに37人の死亡も記録されています。"
-          ]
-        },
-        {
-          "title": "Occupied West Bank World Cup screening halted for funeral",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-20T10:33:16Z",
-          "excerpt": "A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "占領下のヨルダン川西岸、W杯決勝上映が中止 2名のパレスチナ人死亡で",
-          "summaryJa": [
-            "占領下のヨルダン川西岸ラマラで予定されていたFIFAワールドカップ決勝のパブリックビューイングが中止されました。",
-            "これは2名のパレスチナ人が殺害されたとのニュースを受けたものです。",
-            "葬儀のため、上映が中断されました。"
-          ]
-        },
-        {
-          "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-07-20T10:08:00Z",
-          "excerpt": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "イランによるクウェートインフラ攻撃、湾岸地域への影響を分析",
-          "summaryJa": [
-            "イランがクウェートのインフラ施設を攻撃しました。",
-            "この攻撃が湾岸地域にどのような影響をもたらすのか、その意味が問われています。",
-            "今後の情勢が注目されます。"
+            "米国とイランの間の戦争が再び激化する中、数百人の米国人外交官が不安定な状況に置かれています。",
+            "国務省は、イランによる攻撃を受けて人員を削減しました。",
+            "外交官たちは、今後の任務や安全について不確実な状況にあります。"
           ]
         }
       ]
@@ -152,143 +152,151 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
-          "source": "NHK NEWS WEB",
-          "publishedAt": "2026-07-20T11:47:30Z",
-          "excerpt": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-          "translationStatus": "translated",
-          "titleJa": "英労働党バーナム党首、国王任命で新首相に就任",
-          "summaryJa": [
-            "イギリスの与党・労働党のバーナム党首が20日、首相に就任しました。",
-            "同氏はチャールズ国王から任命を受けました。",
-            "これにより、イギリスに新たな首相が誕生しました。"
-          ]
-        },
-        {
-          "title": "メダカの世話中に倒れた70代の男性“熱中症”で死亡 富山・射水市(テレビ朝日系（ANN）)",
+          "title": "【山口組分裂「10年抗争」秘録】「出所した司忍組長の車をバイクで追え」2011年4月、中央高速で展開された、制限速度を厳守した追跡劇(NEWSポストセブン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T11:13:22Z",
-          "excerpt": "富山県射水市の自宅前でメダカの世話をしていた70代の男性が倒れて病院に搬送されましたが、その後、死亡しました。熱中症とみられています。 20日午後0時半すぎ、射水市で「自宅の前で飼育しているメダカ",
-          "link": "https://news.yahoo.co.jp/articles/6c9f0c0e8f20f35cfd50c3b114a11c7f96c3fbe0?source=rss",
+          "publishedAt": "2026-07-20T22:13:00Z",
+          "excerpt": "歴史的な検証が必要なのは何も政治や経済に限ったことではない。裏社会にも歴史があり、2015年から始まった「山口組分裂抗争」はこの国の暴力団社会にとって大きな歴史的転換点となった。誰よりも間近で抗争を",
+          "link": "https://news.yahoo.co.jp/articles/8124ae15bde3491ec14ebb5ab07c0e04af1c66d6?source=rss",
           "translationStatus": "translated",
-          "titleJa": "富山・射水市で70代男性、メダカ世話中に熱中症で死亡か",
+          "titleJa": "山口組分裂「10年抗争」秘録、2011年の組長追跡劇を公開",
           "summaryJa": [
-            "富山県射水市で20日午後、70代の男性が自宅前でメダカの世話中に倒れました。",
-            "男性は病院に搬送されましたが、その後死亡が確認されました。",
-            "死因は熱中症とみられています。"
+            "2015年から始まった山口組分裂抗争は、日本の暴力団社会における歴史的転換点とされています。",
+            "記事では、この抗争の歴史的検証の必要性を指摘しています。",
+            "特に2011年4月、出所した司忍組長の車を中央高速で追跡したエピソードが紹介されています。",
+            "制限速度を厳守した追跡劇として、その詳細が明かされています。"
           ]
         },
         {
-          "title": "この夏どうなる？暑さとゲリラ雷雨のピークは？(テレビ朝日系（ANN）)",
+          "title": "「なぜ女性天皇ではダメなの？」皇室典範改正案にヤフコメ激論、決定プロセスの透明性を求める声も「国民としては快く思わない」「時代にあわない」(文春オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T11:06:16Z",
-          "excerpt": "東京が今年初めて猛暑日になった20日は、この夏一体どこまで暑くなるのでしょうか?そして、激しさを増すゲリラ雷雨のピークはいつなのでしょうか。",
-          "link": "https://news.yahoo.co.jp/articles/bbd37c86558d7e095a38683f4525b8e1a04fc9f6?source=rss",
+          "publishedAt": "2026-07-20T22:12:16Z",
+          "excerpt": "「週刊文春」が報じた、皇室典範改正案をめぐる三笠宮彬子女王（44）の過去の発言と皇位継承問題。Yahoo!ニュースのコメント欄（ヤフコメ）には、改正案の進め方や男系維持の是非をめぐり、さまざまな意見",
+          "link": "https://news.yahoo.co.jp/articles/575f99944747d8425cc915ff653c2d6c6ee03aae?source=rss",
           "translationStatus": "translated",
-          "titleJa": "今夏の暑さとゲリラ雷雨、ピークはいつ？",
+          "titleJa": "皇室典範改正案にヤフコメで激論、「女性天皇の是非」や「決定プロセスの透明性」求める声",
           "summaryJa": [
-            "東京では20日、今年初めての猛暑日を記録しました。",
-            "今後、この夏はどこまで暑くなるのか、注目されています。",
-            "また、激しさを増すゲリラ雷雨のピークがいつになるのかも懸念されています。"
+            "週刊文春が報じた三笠宮彬子女王の過去の発言と皇位継承問題が注目されています。",
+            "Yahoo!ニュースのコメント欄では、皇室典範改正案について活発な議論が展開されています。",
+            "「なぜ女性天皇ではダメなのか」という問いや、改正案の進め方、男系維持の是非が主な論点です。",
+            "国民からは「決定プロセスの透明性を求める声」や「時代に合わない」といった意見も出ています。"
           ]
         },
         {
-          "title": "“初猛暑日”続出 「うちわ祭り」に異変 “奇跡の避暑地”発見(テレビ朝日系（ANN）)",
+          "title": "宗教法人「闇の錬金術」最前線、1億円以上で転売し脱税とマネロンの抜け道に(週プレNEWS)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T11:00:35Z",
-          "excerpt": "20日、関東で最も暑くなった埼玉県熊谷市では、38.6℃を記録しました。猛烈な暑さで、伝統あるお祭りに異変が起きています。そんな中、87年間、猛暑日ゼロの“奇跡の避暑地”と呼ばれる場所を発見しました",
-          "link": "https://news.yahoo.co.jp/articles/09b685febcf244dfc40e2a8b0bb0e55a9673efc7?source=rss",
+          "publishedAt": "2026-07-20T22:04:26Z",
+          "excerpt": "信教の自由という\"聖域\"は、いつしか脱税とマネーロンダリングの抜け道になっていた。後継者を失った全国5000の寺社を巡り、ブローカー、富裕層、外国資本が群がる宗教法人売買。文化庁がようやく重い腰を上げ",
+          "link": "https://news.yahoo.co.jp/articles/9ed567467e2f4b33605547ffe4c8a5d9617b8e5c?source=rss",
           "translationStatus": "translated",
-          "titleJa": "関東で猛暑日続出、熊谷38.6℃ 伝統祭りに異変も",
+          "titleJa": "宗教法人が脱税・マネロンの抜け道に、1億円以上で転売される実態",
           "summaryJa": [
-            "20日、関東で猛暑日が相次ぎ、埼玉県熊谷市では38.6℃を記録し最も暑くなりました。",
-            "猛烈な暑さの影響で、伝統的なお祭りにも異変が起きています。",
-            "一方、87年間猛暑日ゼロという「奇跡の避暑地」も発見されました。"
+            "信教の自由という「聖域」が、脱税やマネーロンダリングの抜け道として利用されている実態が報じられています。",
+            "後継者不足に悩む全国約5000の寺社が、宗教法人売買の対象となっています。",
+            "ブローカーや富裕層、外国資本がこれらの宗教法人に群がり、1億円以上で転売されるケースも。",
+            "文化庁がこの問題に対し、ようやく対策に乗り出したとされています。"
           ]
         },
         {
-          "title": "Researchers find tiny marine ecosystem — population 307 — in a bottle cap",
-          "source": "The Japan Times",
-          "publishedAt": "2026-07-20T10:54:00Z",
-          "excerpt": "The discovery shows that a large amount of plastic waste floating in the sea can become small ships of organisms, according to a Japanese r...",
-          "link": "https://www.japantimes.co.jp/news/2026/07/20/japan/tiny-ecosystem-bottle-cap/",
-          "translationStatus": "translated",
-          "titleJa": "ペットボトルキャップ内に微小海洋生態系を発見、生物307匹生息",
-          "summaryJa": [
-            "研究者らが、ペットボトルのキャップ内に微小な海洋生態系を発見しました。",
-            "このキャップには307匹の生物が生息していたとのことです。",
-            "日本からの報告によると、これは大量の海洋プラスチックごみが生物の小さな「船」となり得ることを示しています。"
-          ]
-        },
-        {
-          "title": "草むらに女性“2遺体”男逮捕 不審な“液体”被害も…(テレビ朝日系（ANN）)",
+          "title": "九州から東北南部は急な雷雨に注意 滝のような雨も 今日7月21日(火)の天気(tenki.jp)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T10:51:19Z",
-          "excerpt": "■草むらに女性“2遺体”男逮捕 逮捕・送検されたのは、奈良市の会社員・今北享宏容疑者（37）です。逮捕のきっかけとなったのは、奈良市の草むらで見つかった女性2人の遺体でした。 2人の遺体は、道",
-          "link": "https://news.yahoo.co.jp/articles/5d54a36c6f997c37a36869bbad4694fb5634edfd?source=rss",
+          "publishedAt": "2026-07-20T22:04:00Z",
+          "excerpt": "今日21日(火)は広い範囲で強い日差しが照りつけて、猛烈な暑さが続くでしょう。日差しと気温の上昇で、午後は九州から東北南部にかけて、局地的に雷雲が発達します。山沿いや内陸では滝のような雨の降る所もあり",
+          "link": "https://news.yahoo.co.jp/articles/e939a3fe863bda9ef232e4d87199d3740542af87?source=rss",
           "translationStatus": "translated",
-          "titleJa": "奈良の草むらで女性2遺体、会社員の男を逮捕",
+          "titleJa": "7月21日(火)は九州から東北南部で猛暑、午後は急な雷雨や滝のような雨に注意",
           "summaryJa": [
-            "奈良市の草むらで女性2人の遺体が見つかりました。",
-            "この事件で、奈良市の会社員、今北享宏容疑者（37）が逮捕・送検されました。",
-            "遺体発見が容疑者逮捕のきっかけとなったとのことです。"
+            "7月21日(火)は、広い範囲で強い日差しが照りつけ、猛烈な暑さが続く見込みです。",
+            "日差しと気温の上昇に伴い、午後には九州から東北南部にかけて局地的に雷雲が発達するでしょう。",
+            "山沿いや内陸部では、滝のような激しい雨が降る所もあると予想されています。",
+            "急な雷雨には十分な注意が必要です。"
           ]
         },
         {
-          "title": "事故ではなく殺人…“高さ数10m”橋から落ちた女性 首絞められたか(テレビ朝日系（ANN）)",
+          "title": "SNSで分断も起きた杉並区長選 激しい「空中戦」と「場外乱闘」…公開討論会の中継も(withnews by 朝日新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T10:49:16Z",
-          "excerpt": "大阪市で先週、「人が倒れている。意識がなく頭から出血している」などと通報があり、海に浮かぶ台船の上で女性が見つかり、その後、死亡が確認されました。 事故ではなく、女性が殺害されていたことが分かりま",
-          "link": "https://news.yahoo.co.jp/articles/b5f2ba9dede48e0d6d97e66d86182c96806d3eec?source=rss",
+          "publishedAt": "2026-07-20T22:02:00Z",
+          "excerpt": "6月29日に開票され、現職の岸本聡子区長が大差で再選された東京・杉並区長選。日中の街頭演説や集会などの「地上戦」の一方で、SNSでの激しい「空中戦」と「場外乱闘」が印象深い選挙でした。（朝日新聞記者・",
+          "link": "https://news.yahoo.co.jp/articles/c0a3c51454ffb2796d1d9061cee614bac443d5f1?source=rss",
           "translationStatus": "translated",
-          "titleJa": "大阪の台船で女性遺体、殺人事件と判明",
+          "titleJa": "杉並区長選、SNSで「空中戦」と「場外乱闘」が激化し分断も",
           "summaryJa": [
-            "先週、大阪市で海に浮かぶ台船の上で倒れている女性が見つかり、その後死亡が確認されました。",
-            "「人が倒れている」との通報があり、意識がなく頭から出血していました。",
-            "捜査の結果、事故ではなく女性が殺害された殺人事件と判明しました。"
+            "6月29日に開票された東京・杉並区長選では、現職の岸本聡子区長が大差で再選されました。",
+            "この選挙では、街頭演説などの「地上戦」に加え、SNS上での激しい「空中戦」や「場外乱闘」が特徴的でした。",
+            "SNSでの議論は分断を生む側面もあったと報じられています。",
+            "公開討論会の中継も行われるなど、多角的な選挙戦が展開されました。"
           ]
         },
         {
-          "title": "湘南に夏を告げる「浜降祭」 朝焼けに38基の神輿が練り歩く 神奈川・茅ケ崎市(テレビ朝日系（ANN）)",
+          "title": "「20年近く前から胸の谷間に興味」神戸市の中学教師がカメラ付き眼鏡で盗撮か(ABCニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T10:46:48Z",
-          "excerpt": "20日は海の日です。神奈川県茅ケ崎市では湘南に夏を告げる伝統行事「浜降祭」が行われました。 夜明け前に神社を出発した神輿（みこし）が、まだ暗い町を練り歩き、海岸へ向かいます。 大小合わせて38",
-          "link": "https://news.yahoo.co.jp/articles/3ead2745fd26f9897beb71cf988de3b4885ae3f0?source=rss",
+          "publishedAt": "2026-07-20T22:01:48Z",
+          "excerpt": "兵庫県伊丹市のショッピングモールで、カメラ付き眼鏡を使って女性の胸元を盗撮したとして、２１日、自称中学校教師の５３歳の男が逮捕されました。 兵庫県迷惑防止条例違反の疑いで逮捕されたのは、神戸市灘",
+          "link": "https://news.yahoo.co.jp/articles/046b605f358ecaf2856ca03a23c21027b12100ff?source=rss",
           "translationStatus": "translated",
-          "titleJa": "湘南の夏告げる「浜降祭」、茅ヶ崎市で38基の神輿が練り歩く",
+          "titleJa": "神戸市の中学教師、カメラ付き眼鏡で女性を盗撮容疑で逮捕",
           "summaryJa": [
-            "海の日である20日、神奈川県茅ヶ崎市で湘南に夏を告げる伝統行事「浜降祭」が開催されました。",
-            "夜明け前に神社を出発した神輿が、まだ暗い町を練り歩き海岸へ向かいました。",
-            "大小合わせて38基の神輿が参加しました。"
+            "兵庫県伊丹市のショッピングモールで、カメラ付き眼鏡を使い女性の胸元を盗撮した疑いが持たれています。",
+            "21日、自称中学校教師の53歳の男が兵庫県迷惑防止条例違反の疑いで逮捕されました。",
+            "男は神戸市灘区に住んでおり、「20年近く前から胸の谷間に興味があった」と供述しているとのことです。"
           ]
         },
         {
-          "title": "湘南に夏を告げる「暁の祭典 浜降祭」(ABEMA TIMES)",
+          "title": "「外資に日本人の最期を委ねるのか」…東京23区の火葬場約7割を握る民間企業に外資売却が浮上…独占市場を厚労省はなぜ長年放置したのか(集英社オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T10:39:15Z",
-          "excerpt": "きょうは海の日です。神奈川県・茅ヶ崎市では、湘南に夏を告げる伝統行事「浜降祭」が行われました。 夜明け前に神社を出発した神輿が、まだ暗い町を練り歩き海岸へ向かいます。 大小合わせて38基の神",
-          "link": "https://news.yahoo.co.jp/articles/55a49fd9ef551a36213f7e709d90cd2942c1b151?source=rss",
+          "publishedAt": "2026-07-20T22:00:36Z",
+          "excerpt": "電力にも通信にもあるのに、なぜ火葬場だけ「ルール」がないのか――。東京23区の火葬の約7割を担う東京博善について、米系ファンドへの売却観測が報じられたことで、「外資に日本人の最期を委ねるのか」との議論",
+          "link": "https://news.yahoo.co.jp/articles/d676f47142b2e9cc9c49347f0af79d8a3d3f50ad?source=rss",
           "translationStatus": "translated",
-          "titleJa": "湘南の夏告げる「暁の祭典 浜降祭」、茅ヶ崎市で開催",
+          "titleJa": "東京23区の火葬場約7割を占める企業に外資売却観測、独占市場の放置に疑問の声",
           "summaryJa": [
-            "海の日である20日、神奈川県茅ヶ崎市で湘南に夏を告げる伝統行事「浜降祭」が開催されました。",
-            "夜明け前に神社を出発した神輿が、まだ暗い町を練り歩き海岸へ向かいました。",
-            "大小合わせて38基の神輿が参加しました。"
+            "東京23区の火葬の約7割を担う東京博善について、米系ファンドへの売却観測が報じられました。",
+            "これに対し、「外資に日本人の最期を委ねるのか」という議論が浮上しています。",
+            "電力や通信と異なり、火葬場には「ルール」がないことへの疑問が呈されています。",
+            "厚生労働省が長年、この独占市場を放置してきた理由についても問題提起されています。"
           ]
         },
         {
-          "title": "紀子さま チャリティーコンサート鑑賞(ABEMA TIMES)",
+          "title": "「殺した相手は“惚れた女性”と別人だった」19歳女性をバラバラに…勘違いで人を殺した【29歳ストーカー男の末路】（昭和29年の事件）(文春オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-07-20T10:36:16Z",
-          "excerpt": "秋篠宮妃紀子さまが、チャリティーコンサートを鑑賞されました。 紀子さまが鑑賞されたのは、国指定の難病、視神経脊髄炎スペクトラム障害（＝NMOSD）の患者やその家族を支援するコンサートです。",
-          "link": "https://news.yahoo.co.jp/articles/efdcf2fd931c21ea2ef850b900aa010a68526c22?source=rss",
+          "publishedAt": "2026-07-20T22:00:36Z",
+          "excerpt": "〈見つかったのは「乳房と下腹部を切り取られた」19歳女性の遺体…《一目惚れからストーカー化》29歳男が「殺人衝動」にかられた理由（昭和29年の事件）〉 から続く 昭和29年、埼玉県で19歳の女性",
+          "link": "https://news.yahoo.co.jp/articles/6d97ad3411b65dbfd8139e89b390667af961b38c?source=rss",
           "translationStatus": "translated",
-          "titleJa": "紀子さま、難病支援チャリティーコンサートを鑑賞",
+          "titleJa": "昭和29年の事件、ストーカー男が勘違いで19歳女性を殺害・遺体損壊",
           "summaryJa": [
-            "秋篠宮妃紀子さまが、チャリティーコンサートを鑑賞されました。",
-            "鑑賞されたのは、国指定の難病患者とその家族を支援する目的のコンサートです。",
-            "対象となる難病は、視神経脊髄炎スペクトラム障害（NMOSD）です。"
+            "昭和29年、埼玉県で19歳女性の遺体が発見された事件が報じられています。",
+            "遺体は乳房と下腹部が切り取られた状態でした。",
+            "29歳の男が一目惚れからストーカー化し、殺人衝動にかられたとされています。",
+            "男は殺害した相手が「惚れた女性」と別人だったと供述しているとのことです。"
+          ]
+        },
+        {
+          "title": "22日の天気（西日本）(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-07-20T22:00:07Z",
+          "excerpt": "◆大阪 晴れ時々曇り ◆京都 晴れ時々曇り ◆広島 晴れ時々曇り ◆高松 晴れ時々曇り ◆福岡 晴れ時々曇り ◆鹿児島 晴れ時々曇り ◆那覇 晴れ",
+          "link": "https://news.yahoo.co.jp/articles/956bf859611f6ad360a34a7aa571f086f67445a6?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "7月22日(水)の西日本の天気予報",
+          "summaryJa": [
+            "7月22日(水)の西日本の天気予報が発表されました。",
+            "大阪、京都、広島、高松、福岡、鹿児島は「晴れ時々曇り」の見込みです。",
+            "那覇は「晴れ」と予想されています。"
+          ]
+        },
+        {
+          "title": "22日の天気（東日本）(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-07-20T22:00:01Z",
+          "excerpt": "◆札幌 曇り時々晴れ ◆秋田 雨時々止む ◆仙台 晴れのち曇り ◆新潟 曇り時々晴れ ◆東京 晴れ時々曇り ◆名古屋 晴れ",
+          "link": "https://news.yahoo.co.jp/articles/51f6b75c6b174d3804aebab9b811116324c844ea?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "7月22日(水)の東日本の天気予報",
+          "summaryJa": [
+            "7月22日(水)の東日本の天気予報が発表されました。",
+            "札幌は「曇り時々晴れ」、秋田は「雨時々止む」の見込みです。",
+            "仙台は「晴れのち曇り」、新潟は「曇り時々晴れ」と予想されています。",
+            "東京は「晴れ時々曇り」、名古屋は「晴れ」となるでしょう。"
           ]
         }
       ]
@@ -298,138 +306,113 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Textile graduates struggling to secure roles, despite skills shortages",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:54:45Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/small-business/articles/textile-graduates-struggling-secure-roles-115445422.html",
-          "translationStatus": "translated",
-          "titleJa": "繊維業界の卒業生、人材不足にも関わらず就職難に",
-          "summaryJa": [
-            "繊維業界ではスキルを持った人材が不足しているにもかかわらず、",
-            "関連分野の卒業生が職を得るのに苦労している状況です。",
-            "これは業界内のミスマッチを示唆しています。"
-          ]
-        },
-        {
-          "title": "French watchdog conditionally clears Euralis, Maïsadour merger",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:54:18Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/french-watchdog-conditionally-clears-euralis-115418336.html",
-          "translationStatus": "translated",
-          "titleJa": "フランス規制当局、EuralisとMaïsadourの合併を条件付き承認",
-          "summaryJa": [
-            "フランスの監視機関が、EuralisとMaïsadourの合併計画に対し、",
-            "特定の条件を付して承認を与えました。",
-            "これにより、両社の統合が前進する見込みです。"
-          ]
-        },
-        {
-          "title": "UK's Andy Burnham becomes PM as Trump slams Britain as 'Poverty Stricken Disaster'",
+          "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
           "source": "CNBC Markets",
-          "publishedAt": "2026-07-20T11:54:15Z",
-          "excerpt": "The prospect of Burnham, considered more left-leaning than Starmer, replacing the incumbent prime minister sent jitters through bond market...",
-          "link": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
-          "translationStatus": "translated",
-          "titleJa": "英首相にアンディ・バーナム氏就任か、トランプ氏が英国を酷評",
-          "summaryJa": [
-            "英国でアンディ・バーナム氏が首相に就任する可能性が浮上しました。",
-            "バーナム氏は現首相よりも左派と見られており、",
-            "その就任の見通しは債券市場に動揺をもたらしています。",
-            "一方、トランプ氏は英国を「貧困に苦しむ悲惨な国」と酷評しています。"
-          ]
-        },
-        {
-          "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:53:24Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
-          "translationStatus": "translated",
-          "titleJa": "決算速報：Google、テスラが「マグニフィセント・セブン」の四半期決算発表を開始",
-          "summaryJa": [
-            "Googleとテスラが、主要7社「マグニフィセント・セブン」の",
-            "四半期決算発表の先陣を切って開始します。",
-            "投資家はこれらの企業の業績に注目しています。"
-          ]
-        },
-        {
-          "title": "Australia’s Perpetual turns down updated EQT offer",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:51:36Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/australia-perpetual-turns-down-updated-115136282.html",
-          "translationStatus": "translated",
-          "titleJa": "オーストラリアのPerpetual、EQTからの最新買収提案を拒否",
-          "summaryJa": [
-            "オーストラリアの資産運用会社Perpetualが、",
-            "EQTからの更新された買収提案を拒否しました。",
-            "これにより、両社間の交渉は新たな局面を迎えることになります。"
-          ]
-        },
-        {
-          "title": "Dollar drifts as US-Iran conflict intensifies; sterling inches higher",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:50:50Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-us-iran-conflict-052226780.html",
-          "translationStatus": "translated",
-          "titleJa": "米イラン対立激化でドルは軟調、ポンドは小幅上昇",
-          "summaryJa": [
-            "米国とイランの対立が激化する中、",
-            "ドルは市場で軟調な動きを見せています。",
-            "一方、英ポンドはわずかに上昇しています。"
-          ]
-        },
-        {
-          "title": "Moody's Trades at 37 Times Earnings Ahead of Its July 22 Report. Is the Wide-Moat Ratings Giant Worth the Premium?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:50:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/moodys-trades-37-times-earnings-115000952.html",
-          "translationStatus": "translated",
-          "titleJa": "ムーディーズ、7月22日決算発表前にPER37倍で取引、プレミアムは妥当か",
-          "summaryJa": [
-            "格付け大手ムーディーズの株価は、",
-            "7月22日の決算発表を前に、株価収益率（PER）が37倍で取引されています。",
-            "投資家の間では、この高いプレミアムが妥当であるかどうかが議論されています。"
-          ]
-        },
-        {
-          "title": "Isracard abandons Esh Bank acquisition plan",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:46:47Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/isracard-abandons-esh-bank-acquisition-114647716.html",
+          "publishedAt": "2026-07-20T22:13:57Z",
+          "excerpt": "Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pa...",
+          "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
           "translationStatus": "failed"
         },
         {
-          "title": "At This Pace, QDOBA Won’t Be a Best-Kept Secret Much Longer",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:44:15Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/small-business/articles/pace-qdoba-won-t-best-165444906.html",
+          "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T22:00:00Z",
+          "excerpt": "“We would rather pay taxes upfront than pay mortgage interest.”",
+          "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T21:53:00Z",
+          "excerpt": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as d...",
+          "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "QDOBA、このペースでは「隠れた名店」でいられなくなる",
+          "titleJa": "米国、カナダに新たな高関税を課し貿易摩擦が激化",
           "summaryJa": [
-            "QDOBAは急速に人気を集めており、",
-            "もはや「隠れた名店」とは言えない状況になりつつあります。",
-            "その成長ぶりから、今後さらに注目されることが予想されます。"
+            "トランプ政権は月曜日、カナダからの輸入品の一部に50%の関税を課すと発表しました。",
+            "これは、米国が差別的と見なす行為を終わらせるための措置です。",
+            "この決定により、両国間の貿易緊張がさらに高まっています。"
           ]
         },
         {
-          "title": "ASML Has Terrific News for Intel Investors That Could Send the Stock Soaring After July 23",
+          "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-07-20T21:50:17Z",
+          "excerpt": "Israel's prime minister, Benjamin Netanyahu, is the target of an arrest warrant issued by the International Criminal Court related to the w...",
+          "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T21:44:00Z",
+          "excerpt": "Shares of salad chains like Cava, Chipotle and Sweetgreen closed lower on Monday.",
+          "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Average retirement savings by state: Where are Americans saving the most — and least?",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-07-20T11:43:00Z",
+          "publishedAt": "2026-07-20T21:43:02Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/asml-terrific-news-intel-investors-114300172.html",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T21:11:00Z",
+          "excerpt": "Oil prices settled at one-month highs in volatile trading on Monday as traders weighed escalating geopolitical tensions following a fresh b...",
+          "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ASML、インテル投資家にとって朗報か、7月23日以降株価急騰の可能性",
+          "titleJa": "世界原油価格が1カ月ぶり高値 イラン停戦提案も地政学リスクで",
           "summaryJa": [
-            "ASMLがインテル投資家にとって非常に良いニュースを発表する可能性があります。",
-            "このニュースは、7月23日以降にインテルの株価を急騰させるかもしれません。",
-            "投資家は今後の発表に注目しています。"
+            "世界の原油価格は月曜日の不安定な取引で、1カ月ぶりの高値で取引を終えました。",
+            "イランからの新たな停戦提案があったにもかかわらず、イエメンのフーシ派によるサウジアラビアへの封鎖が市場を緊張させています。",
+            "トレーダーは、新たな封鎖に続く地政学的緊張の高まりを考慮しました。"
+          ]
+        },
+        {
+          "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T21:05:00Z",
+          "excerpt": "A Barclays analyst now recommends Lumentum’s stock after a period of substantial underperformance relative to the broader chip sector.",
+          "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "ルメンタム株に注目集まる バークレイズが強気に転換",
+          "summaryJa": [
+            "ルメンタムの株価が注目を集めています。",
+            "バークレイズのアナリストは、より広範な半導体セクターに対して大幅な低迷が続いた後、同社の株を推奨しています。",
+            "これにより、バークレイズはルメンタム株に対して強気の見方を示しました。"
+          ]
+        },
+        {
+          "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+          "source": "MarketWatch",
+          "publishedAt": "2026-07-20T20:55:00Z",
+          "excerpt": "Three years into the AI trade, Wall Street is no closer to agreeing about whether it’s a bubble, how much longer it can keep going or what...",
+          "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "ウォール街のAIを巡る見解の相違 株市場の今後を巡り強気・弱気論",
+          "summaryJa": [
+            "AI関連株取引が始まって3年が経過しましたが、ウォール街ではその将来について意見が分かれています。",
+            "AI市場がバブルなのか、いつまで続くのか、あるいは次に何が起こるのかについて、合意には至っていません。",
+            "記事では、株市場の今後に関する強気と弱気の見方を掘り下げています。"
+          ]
+        },
+        {
+          "title": "Alphabet stock pops on report it's developing a more efficient AI chip",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-07-20T20:44:46Z",
+          "excerpt": "The new AI chip, called \"Frozen v2,\" would embed parts of Gemini's architecture directly into the silicon, according to the report.",
+          "link": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
+          "translationStatus": "translated",
+          "titleJa": "アルファベット株が上昇 新AIチップ開発報道で",
+          "summaryJa": [
+            "アルファベットの株価が上昇しました。",
+            "これは、同社がより効率的なAIチップを開発しているとの報道を受けたものです。",
+            "報道によると、「Frozen v2」と呼ばれるこの新しいAIチップは、Geminiのアーキテクチャの一部を直接シリコンに組み込むとされています。"
           ]
         }
       ]
@@ -439,18 +422,124 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T21:21:15Z",
+          "excerpt": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "translationStatus": "translated",
+          "titleJa": "Google、Gemini向け新AIチップ開発中か",
+          "summaryJa": [
+            "Googleの親会社であるAlphabetが、",
+            "Geminiモデルの効率を大幅に向上させるための",
+            "新しいAIチップを開発していると報じられています。"
+          ]
+        },
+        {
+          "title": "AI’s most important protocol is getting a little bit easier to use",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T20:50:40Z",
+          "excerpt": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access extern...",
+          "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "translationStatus": "translated",
+          "titleJa": "AIの重要プロトコル「MCP」が使いやすく改善",
+          "summaryJa": [
+            "AIの相互運用性の基盤となる「モデルコンテキストプロトコル（MCP）」が、",
+            "より使いやすくなるよう改善されています。",
+            "MCPはAIモデルが外部に安全にアクセスするための方法を提供します。"
+          ]
+        },
+        {
+          "title": "X relaunches a rebuilt Android app after year-long effort",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T19:37:39Z",
+          "excerpt": "X says the rebuilt version of its Android app is now available globally.",
+          "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T19:33:25Z",
+          "excerpt": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "translationStatus": "translated",
+          "titleJa": "OpenAI、オープンウェイトモデルへの懸念と米国の課題",
+          "summaryJa": [
+            "OpenAIがオープンウェイトモデルに懸念を抱いていると報じられています。",
+            "中国製オープンウェイトLLMの禁止に関する議論は、",
+            "AIをビジネスとして確立する上での課題を浮き彫りにしています。"
+          ]
+        },
+        {
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-07-20T18:00:00Z",
+          "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. O...",
+          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "translationStatus": "translated",
+          "titleJa": "中国のAIモデルが米国のAI政策に影響",
+          "summaryJa": [
+            "中国のAIモデルの進展が、",
+            "米国のAI政策に内部的な対立を生じさせていると報じられています。",
+            "この話題はMIT Technology ReviewのAIニュースレターで取り上げられました。"
+          ]
+        },
+        {
+          "title": "Adobe camera app’s new feature will critique your photos using AI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T15:45:00Z",
+          "excerpt": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+          "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+          "translationStatus": "translated",
+          "titleJa": "Adobeカメラアプリ、AIで写真の背景を自動削除",
+          "summaryJa": [
+            "Adobeの「Project Indigo」に新機能が追加されました。",
+            "この機能により、アプリで撮影した写真から",
+            "あらゆる種類の背景をAIが自動で削除できるようになります。"
+          ]
+        },
+        {
+          "title": "YouTube clarifies policies around AI slop and upsetting videos",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-20T15:23:06Z",
+          "excerpt": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad re...",
+          "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+          "translationStatus": "translated",
+          "titleJa": "YouTube、AI生成・低品質動画の収益化ポリシーを明確化",
+          "summaryJa": [
+            "YouTubeは、AI生成動画や低品質動画に関する",
+            "収益化ポリシーを更新しました。",
+            "これにより、広告収入を得られない動画の種類が",
+            "より明確に定義されることになります。"
+          ]
+        },
+        {
           "title": "China delivers a one-two punch to America’s AI dominance",
           "source": "The Verge AI",
-          "publishedAt": "2026-07-20T11:21:45Z",
+          "publishedAt": "2026-07-20T12:47:44Z",
           "excerpt": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-t...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
           "translationStatus": "translated",
-          "titleJa": "中国AI企業が米国優位に挑戦、新モデル発表で圧力強化",
+          "titleJa": "中国AI企業、米国AI優位に挑戦状",
           "summaryJa": [
-            "中国の主要AI企業がシリコンバレーへの圧力を強めている。",
-            "MoonshotとAlibabaが、米国の技術に匹敵すると主張する新たなAIモデルを発表した。",
-            "これはAI分野における米国の優位性への挑戦と見られている。",
-            "中国はAI技術開発で存在感を増している。"
+            "中国の主要AI企業が、シリコンバレーへの圧力を強めています。",
+            "MoonshotとAlibabaは、米国のモデルと対等に競合できると主張する",
+            "新しいAIモデルを発表しました。"
+          ]
+        },
+        {
+          "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+          "source": "The Verge AI",
+          "publishedAt": "2026-07-20T11:18:31Z",
+          "excerpt": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-l...",
+          "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+          "translationStatus": "translated",
+          "titleJa": "Adobeのカメラアプリ「Project Indigo」が生成AIを導入",
+          "summaryJa": [
+            "Adobeの実験的なカメラアプリ「Project Indigo」が、",
+            "生成AI技術を取り入れ、新たな展開を見せています。",
+            "昨年、より自然な写真表現を目指してリリースされたアプリです。"
           ]
         },
         {
@@ -460,132 +549,11 @@
           "excerpt": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screen...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
           "translationStatus": "translated",
-          "titleJa": "作家デイヴ・エガーズ氏、OpenAIで「ChatGPTが世代を沈黙させる」と講演",
+          "titleJa": "作家デイヴ・エガーズ氏、ChatGPTは「世代を沈黙させる」とOpenAIに警告",
           "summaryJa": [
-            "昨年、作家のデイヴ・エガーズ氏がOpenAIの約200人の従業員向けに講演を行った。",
-            "エガーズ氏は、ChatGPTが「一世代全体を沈黙させている」と述べた。",
-            "彼は数多くの小説や脚本を手がけている著名な作家である。",
-            "この講演はサム・アルトマン氏の招待によるものだった。"
-          ]
-        },
-        {
-          "title": "I hate that I don’t hate this song made with Suno",
-          "source": "The Verge AI",
-          "publishedAt": "2026-07-20T09:37:27Z",
-          "excerpt": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made...",
-          "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-          "translationStatus": "translated",
-          "titleJa": "AI音楽生成ツールSunoで作成された楽曲への複雑な感情",
-          "summaryJa": [
-            "筆者はAIが音楽に介入することに反対ではないが、一般的にAIが作った音楽には抵抗を感じていた。",
-            "しかし、今回Sunoで作成された楽曲を聴いたところ、嫌悪感を抱かなかったという。",
-            "この予期せぬ反応に対し、筆者は複雑な感情を抱いている。",
-            "AIによる音楽制作の可能性と受け入れられ方について示唆を与えている。"
-          ]
-        },
-        {
-          "title": "AI is more likely than humans to form biases when hiring",
-          "source": "MIT Technology Review AI",
-          "publishedAt": "2026-07-20T08:39:01Z",
-          "excerpt": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will...",
-          "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-          "translationStatus": "translated",
-          "titleJa": "採用選考におけるAIの偏見形成リスク、人間より高い可能性",
-          "summaryJa": [
-            "次回の求職活動では、履歴書が人間の目に触れる前にAIによって選別される可能性がある。",
-            "しかし、AIが公平な選考を行うかについては疑問が呈されている。",
-            "AIは人間よりも採用において偏見を形成しやすい傾向があるという。",
-            "この問題は、AIによる採用プロセスの導入において考慮すべき点である。"
-          ]
-        },
-        {
-          "title": "What to watch for after Jensen Huang’s Japan visit",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-19T21:16:07Z",
-          "excerpt": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-          "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏の訪日後、日本のテックエコシステムに広がる影響",
-          "summaryJa": [
-            "ジェンスン・フアン氏が東京を訪問した。",
-            "彼は日本のテクノロジーエコシステム全体にわたる取引を成立させた。",
-            "今後、この訪日が日本のテック業界にどのような影響を与えるか注目される。",
-            "彼の訪問は日本のAI・テクノロジー分野に大きな動きをもたらす可能性がある。"
-          ]
-        },
-        {
-          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-19T19:24:45Z",
-          "excerpt": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go...",
-          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-          "translationStatus": "translated",
-          "titleJa": "Appleの訴訟、OpenAIのハードウェア事業計画に影響か",
-          "summaryJa": [
-            "最新のエピソード「Equity」で、ある議論が交わされた。",
-            "Appleが提起した訴訟がOpenAIのハードウェア事業計画に影を落とすかというものだ。",
-            "OpenAIはハードウェア分野への参入を計画していると報じられている。",
-            "この訴訟がその計画を頓挫させる可能性について議論されている。"
-          ]
-        },
-        {
-          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-19T14:52:08Z",
-          "excerpt": "\"Everybody knows the Greeks are inside.\"",
-          "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-          "translationStatus": "translated",
-          "titleJa": "クリストファー・ノーラン監督、AIを「トロイの木馬」と表現",
-          "summaryJa": [
-            "映画「オデッセイ」の監督であるクリストファー・ノーラン氏がAIについて言及した。",
-            "彼はAIを「明白なトロイの木馬」と呼んだ。",
-            "ノーラン監督は「誰もがギリシャ人が中にいることを知っている」と述べた。",
-            "これはAIの潜在的な危険性や意図しない結果に対する警告と見られる。"
-          ]
-        },
-        {
-          "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-19T14:00:00Z",
-          "excerpt": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-          "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-          "translationStatus": "translated",
-          "titleJa": "非営利団体Current AI、誰もが利用できる「AIのワールドワイドウェブ」構築へ",
-          "summaryJa": [
-            "非営利団体Current AIは、誰もが取り残されないAIの構築を目指している。",
-            "同団体は「AIのワールドワイドウェブ」を無料で提供しようとしている。",
-            "デバイスやAIチャットなど、様々な分野で目覚ましい進歩を遂げている。",
-            "全ての文化に配慮したAIの普及を目指す活動である。"
-          ]
-        },
-        {
-          "title": "Kimi: Threat or menace?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-18T18:51:07Z",
-          "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-          "translationStatus": "translated",
-          "titleJa": "中国Moonshot AIが新モデル「Kimi」発表、「完全AI共産主義」への懸念も",
-          "summaryJa": [
-            "中国企業Moonshot AIが今週、Kimiモデルの新バージョンをリリースした。",
-            "この発表は「完全AI共産主義」に関する懸念を引き起こしている。",
-            "Kimiモデルの登場が、AIの未来にどのような影響を与えるか注目されている。",
-            "その影響について、脅威と捉える見方もある。"
-          ]
-        },
-        {
-          "title": "Neil Rimer thinks the AI money is coming back out",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-18T04:47:25Z",
-          "excerpt": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have...",
-          "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-          "translationStatus": "translated",
-          "titleJa": "ベンチャー投資家ニール・ライマー氏、AI投資資金の流出を予測",
-          "summaryJa": [
-            "Index Venturesの共同創設者であるベンチャー投資家ニール・ライマー氏が予測を発表した。",
-            "シリコンバレーでAIが生み出している歴史的な富は、いずれ流出するという。",
-            "これはAI分野への過剰な投資やバブルに対する警告と見られる。",
-            "今後のAI市場の動向に注目が集まる。"
+            "昨年、作家のデイヴ・エガーズ氏がOpenAIの社員約200名に対し講演を行いました。",
+            "その中でエガーズ氏は、ChatGPTが「一つの世代全体を沈黙させている」と述べました。",
+            "彼は数多くの小説や脚本を手がけています。"
           ]
         }
       ]
@@ -595,17 +563,101 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "NY officials propose mandatory science of reading update for teacher prep programs",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-20T19:40:28Z",
+          "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. New York o...",
+          "link": "https://www.chalkbeat.org/newyork/2026/07/20/new-york-proposes-science-of-reading-teacher-preparation-rules/",
+          "translationStatus": "translated",
+          "titleJa": "NY州、教員養成プログラムに「読解科学」導入を義務化提案",
+          "summaryJa": [
+            "ニューヨーク州当局は、教員養成プログラムに対し、「読解科学」の更新を義務付けることを提案しました。",
+            "これは、ニューヨーク市の公立学校に関する重要なニュースとして報じられています。",
+            "教員の読解指導能力向上を目指す動きと見られます。"
+          ]
+        },
+        {
+          "title": "A trip to Scotland with 75 teenagers: This Colorado theater teacher wants to make memories",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-07-20T19:16:41Z",
+          "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
+          "link": "https://www.chalkbeat.org/colorado/2026/07/20/theater-teacher-shawn-hann-denver-school-of-the-arts/",
+          "translationStatus": "translated",
+          "titleJa": "コロラド州の演劇教師、75人の生徒とスコットランド旅行へ",
+          "summaryJa": [
+            "コロラド州の演劇教師が、75人のティーンエイジャーと共にスコットランドへの旅行を計画しています。",
+            "この教師は、生徒たちにとって忘れられない思い出を作りたいと考えています。",
+            "この取り組みは、コロラド州の教育関連ニュースとして報じられました。"
+          ]
+        },
+        {
+          "title": "Hawaii’s Childcare Shortage Is One of the Nation’s Worst",
+          "source": "The 74",
+          "publishedAt": "2026-07-20T18:30:00Z",
+          "excerpt": "Nearly every child in Hawaiʻi lives in a community that lacks adequate licensed childcare, with access rates falling far behind the nationa...",
+          "link": "https://www.the74million.org/zero2eight/hawaiis-childcare-shortage-is-one-of-the-nations-worst/",
+          "translationStatus": "translated",
+          "titleJa": "ハワイ州、全国でも最悪レベルの保育施設不足に直面",
+          "summaryJa": [
+            "ハワイ州では、ほぼ全ての子どもが適切な認可保育施設が不足している地域に住んでいます。",
+            "保育施設へのアクセス率は全国平均を大きく下回っています。",
+            "この状況は、国内でも特に深刻な保育施設不足の一つとされています。"
+          ]
+        },
+        {
+          "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
+          "source": "The 74",
+          "publishedAt": "2026-07-20T16:33:27Z",
+          "excerpt": "There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receivin...",
+          "link": "https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/",
+          "translationStatus": "translated",
+          "titleJa": "米国の最貧困学区、富裕層学区よりも教育支出が多いとの報告",
+          "summaryJa": [
+            "米国では、教育格差の原因は資金格差にあるという考えが一般的です。",
+            "しかし、新たな報告によると、最貧困層の学区が富裕層の学区よりも教育支出が多いことが示されました。",
+            "この事実は、従来の教育資金に関する認識とは異なるものです。"
+          ]
+        },
+        {
+          "title": "ICE Has Detained More Than 650 Kids in California Under Trump Deportation Crackdown",
+          "source": "The 74",
+          "publishedAt": "2026-07-20T14:30:00Z",
+          "excerpt": "U.S. Immigrations and Customs Enforcement has detained more than 650 children in California under President Donald Trump’s second term, an...",
+          "link": "https://www.the74million.org/article/ice-has-detained-more-than-650-kids-in-california-under-trump-deportation-crackdown/",
+          "translationStatus": "translated",
+          "titleJa": "トランプ政権下の強制送還強化で、カリフォルニア州で650人以上の子どもが拘束",
+          "summaryJa": [
+            "米国移民関税執行局（ICE）は、トランプ大統領の2期目の強制送還強化策の下で、カリフォルニア州において650人以上の子どもを拘束しました。",
+            "この措置は、移民政策の一環として実施されたものです。",
+            "拘束された子どもの数は、カリフォルニア州で特に注目されています。"
+          ]
+        },
+        {
+          "title": "Opinion: Screen Bans Can Be Education’s Dry January — Time for a Much-Needed Reset",
+          "source": "The 74",
+          "publishedAt": "2026-07-20T12:30:00Z",
+          "excerpt": "More than 250 million American adults start the new calendar year with a pledge to complete Dry January. By giving up alcohol for a month,...",
+          "link": "https://www.the74million.org/article/screen-bans-can-be-educations-dry-january-time-for-a-much-needed-reset/",
+          "translationStatus": "translated",
+          "titleJa": "【意見】スクリーン禁止は教育の「ドライ・ジャニュアリー」となり得る",
+          "summaryJa": [
+            "意見記事によると、スクリーン使用の禁止は教育における「ドライ・ジャニュアリー」のようなものになり得ると提言されています。",
+            "これは、アルコールを控える「ドライ・ジャニュアリー」のように、一時的な制限がリセットの機会となるという考えです。",
+            "教育現場におけるデジタルデバイスとの向き合い方について、再考を促す内容です。"
+          ]
+        },
+        {
           "title": "From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief",
           "source": "The 74",
           "publishedAt": "2026-07-20T10:30:00Z",
           "excerpt": "Princess Moss has been a leader of the National Education Association since 2014, but soon she will implement her own plans for the union a...",
           "link": "https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/",
           "translationStatus": "translated",
-          "titleJa": "音楽教師から全米教職員組合のトップへ：新NEA代表の主要な方針",
+          "titleJa": "新NEA会長、音楽教師から全米教員組合リーダーへ",
           "summaryJa": [
-            "プリンセス・モス氏が全米教職員組合（NEA）の新代表に就任します。",
-            "彼女は2014年から同組合のリーダーを務めてきました。",
-            "今後、彼女自身の計画を組合内で実行に移す予定です。"
+            "プリンセス・モス氏が、全米教育協会（NEA）の新会長に就任します。",
+            "彼女は2014年からNEAのリーダーを務めており、今後は自身の計画を実行に移す予定です。",
+            "音楽教師としての経歴を持つ彼女が、全米規模の教員組合を率いることになります。"
           ]
         },
         {
@@ -615,11 +667,11 @@
           "excerpt": "The research behind the influential “science of reading” movement was built over decades through federally supported research spanning cogn...",
           "link": "https://hechingerreport.org/proof-points-education-omb-comments/",
           "translationStatus": "translated",
-          "titleJa": "連邦助成金の政治的審査、研究分野の再編に繋がる可能性を教育研究者が警告",
+          "titleJa": "教育研究者、連邦助成金の政治的審査が研究内容を変える可能性を警告",
           "summaryJa": [
-            "教育研究者たちは、連邦助成金に対する政治的審査が研究内容を大きく変える可能性があると警告しています。",
-            "影響力のある「読解の科学」運動の背後にある研究は、数十年にわたり連邦政府の支援を受けた研究によって築かれました。",
-            "この動きは、認知科学など多岐にわたる分野の研究に基づいています。"
+            "教育研究者たちは、連邦助成金に対する政治的審査が、研究対象となる分野を大きく変える可能性があると警告しています。",
+            "影響力のある「読解科学」運動の研究は、連邦政府の支援を受けて数十年にわたり構築されてきました。",
+            "政治的介入により、客観的な研究の方向性が歪められる懸念が示されています。"
           ]
         },
         {
@@ -631,9 +683,9 @@
           "translationStatus": "translated",
           "titleJa": "テキサス州の大学、州予算要求を3%削減するよう指示",
           "summaryJa": [
-            "テキサス州の大学に対し、州への予算要求を3%削減するよう指示が出されました。",
-            "この指示は、州全体の財政方針の一環と見られます。",
-            "大学運営に影響を与える可能性があります。"
+            "テキサス州の大学に対し、州政府から予算要求額を3%削減するよう指示が出されました。",
+            "この指示は、州全体の財政状況を反映したものと見られます。",
+            "各大学は、この削減要請に対応する必要があります。"
           ]
         },
         {
@@ -645,93 +697,9 @@
           "translationStatus": "translated",
           "titleJa": "ニューヨークでの共同作業について",
           "summaryJa": [
-            "ニューヨークにおける共同作業に関する記事です。",
-            "長年の読者向けに最新情報が提供されています。",
-            "詳細については記事で確認できます。"
-          ]
-        },
-        {
-          "title": "Do You Have to Be Fancy to Get Published in ‘Science’?",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "Do You Have to Be Fancy to Get Published in ‘Science’? kathryn.palmer… Mon, 07/20/2026 - 03:00 AM No, not necessarily. But scientists who w...",
-          "link": "https://www.insidehighered.com/news/faculty/research/2026/07/20/do-you-have-be-fancy-get-published-science",
-          "translationStatus": "translated",
-          "titleJa": "「サイエンス」誌に掲載されるには華やかさが必要か？",
-          "summaryJa": [
-            "科学誌「サイエンス」に論文が掲載されるために、必ずしも華やかさが必要なわけではないとされています。",
-            "しかし、掲載される科学者には特定の条件があるようです。",
-            "記事ではその詳細が議論されています。"
-          ]
-        },
-        {
-          "title": "Driving More Students to ‘High-Value’ Programs",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "Driving More Students to ‘High-Value’ Programs Doug Lederman Mon, 07/20/2026 - 03:00 AM Defining programs solely by graduates’ earnings isn...",
-          "link": "https://www.insidehighered.com/opinion/columns/tough-love/2026/07/20/how-drive-more-students-programs-value-column",
-          "translationStatus": "translated",
-          "titleJa": "より多くの学生を「高価値」プログラムへ誘導する試み",
-          "summaryJa": [
-            "学生を「高価値」とされるプログラムへ誘導する取り組みが議論されています。",
-            "プログラムの価値を卒業生の収入のみで定義することには課題があると指摘されています。",
-            "記事では、その定義の複雑さについて考察しています。"
-          ]
-        },
-        {
-          "title": "Inside the ‘Culture of Fear’ at One American-Chinese University",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "Inside the ‘Culture of Fear’ at One American-Chinese University Emma Whitford Mon, 07/20/2026 - 03:00 AM Faculty at Wenzhou-Kean have accus...",
-          "link": "https://www.insidehighered.com/news/faculty/contingent-faculty/2026/07/20/wenzhou-kean-faculty-say-leaders-keep-things-hidden",
-          "translationStatus": "translated",
-          "titleJa": "米中合弁大学における「恐怖の文化」の実態",
-          "summaryJa": [
-            "ある米中合弁大学で「恐怖の文化」が存在すると報じられています。",
-            "温州ケイン大学の教員が、この文化について告発しています。",
-            "記事では、その内部事情が詳しく語られています。"
-          ]
-        },
-        {
-          "title": "New Initiative Targets Transfer Credit Loss",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "New Initiative Targets Transfer Credit Loss Joshua.Bay Mon, 07/20/2026 - 03:00 AM Higher education accreditor SACSCOC’s new consortium aims...",
-          "link": "https://www.insidehighered.com/news/student-success/life-after-college/2026/07/20/new-initiative-targets-transfer-credit-loss",
-          "translationStatus": "translated",
-          "titleJa": "単位移行時の損失削減を目指す新たな取り組み",
-          "summaryJa": [
-            "高等教育の認定機関SACSCOCが、単位移行時の損失を減らすための新たなコンソーシアムを立ち上げました。",
-            "この取り組みは、学生が転校する際に単位が無駄になる問題を解決することを目的としています。",
-            "学生の学習成果をより効率的に評価し、移行させることを目指します。"
-          ]
-        },
-        {
-          "title": "How Soon Could Colleges Lose Loan Access Under New Accountability Metric?",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "How Soon Could Colleges Lose Loan Access Under New Accountability Metric? jessica.blake@… Mon, 07/20/2026 - 03:00 AM For most programs, dat...",
-          "link": "https://www.insidehighered.com/news/government/student-aid-policy/2026/07/20/how-soon-could-colleges-lose-loan-access",
-          "translationStatus": "translated",
-          "titleJa": "新たな説明責任指標の下、大学が融資アクセスを失う可能性は？",
-          "summaryJa": [
-            "新しい説明責任指標の導入により、大学が融資へのアクセスを失う可能性が議論されています。",
-            "多くのプログラムにおいて、データがこの指標に影響を与えます。",
-            "大学の財政状況に大きな影響を及ぼす可能性があります。"
-          ]
-        },
-        {
-          "title": "Young Men’s Perceptions of Higher Ed",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-07-20T07:00:00Z",
-          "excerpt": "Young Men’s Perceptions of Higher Ed Sara Weissman Mon, 07/20/2026 - 03:00 AM Byline(s) Sara Weissman",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/07/20/young-mens-perceptions-higher-ed",
-          "translationStatus": "translated",
-          "titleJa": "若年男性の高等教育に対する認識",
-          "summaryJa": [
-            "若年男性が高等教育に対してどのような認識を持っているかに関する記事です。",
-            "記事では、その認識や見解について掘り下げています。",
-            "詳細な内容は記事で確認できます。"
+            "「Tag-Teaming New York」と題された記事が公開されました。",
+            "これは、長年の読者向けに提供される最新情報です。",
+            "ニューヨークにおける共同作業や連携に関する内容と推測されます。"
           ]
         }
       ]
@@ -744,7 +712,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 49,
+    "translatedItems": 44,
     "failedBatches": []
   }
 }
