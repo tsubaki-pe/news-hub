@@ -1,137 +1,95 @@
 {
-  "generatedAt": "2026-08-08T21:47:52.264166Z",
+  "generatedAt": "2026-08-09T09:59:50.119742Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+          "source": "NPR World",
+          "publishedAt": "2026-08-09T09:44:02Z",
+          "excerpt": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is press...",
+          "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+          "translationStatus": "translated",
+          "titleJa": "イエメンのフーシ派、サウジの石油施設攻撃を主張 中東情勢",
+          "summaryJa": [
+            "イエメンのフーシ派は、サウジアラビアの国営石油会社アラムコ施設への攻撃を主張しました。",
+            "一方、イランは交渉再開とホルムズ海峡の再開通に関して新たな要求を提示。",
+            "米国防総省はこれに対し圧力をかけています。"
+          ]
+        },
+        {
+          "title": "It won’t be Trump who kills the ICC",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T09:05:47Z",
+          "excerpt": "It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.",
+          "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T08:37:39Z",
+          "excerpt": "The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.",
+          "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T08:37:37Z",
+          "excerpt": "Over 1,600 flights cancelled as Typhoon Dolphin approaches China's eastern coast, with winds reaching 162km/h overnight.",
+          "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T07:58:00Z",
+          "excerpt": "No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.",
+          "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T07:56:47Z",
+          "excerpt": "Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T07:10:56Z",
+          "excerpt": "Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.",
+          "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Israel announces tender for 627 settler units in occupied West Bank",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-09T06:57:56Z",
+          "excerpt": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
+          "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
           "source": "BBC News",
-          "publishedAt": "2026-08-08T21:06:48Z",
-          "excerpt": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+          "publishedAt": "2026-08-09T06:46:40Z",
+          "excerpt": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
           "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "カナダの山火事、規模が倍増し数千人が避難",
-          "summaryJa": [
-            "カナダ、ブリティッシュコロンビア州で発生した「バルドレンジ山火事」が急速に拡大しています。",
-            "この山火事は「制御不能」な状態とされており、その規模は95平方キロメートル以上に達しました。",
-            "規模が倍増したことで、数千人もの住民が自宅からの避難を余儀なくされています。"
-          ]
-        },
-        {
-          "title": "Trump’s Former Lawyer Is Now Attorney General",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T21:04:54Z",
-          "excerpt": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
           "translationStatus": "failed"
         },
         {
-          "title": "What are the challenges facing the Mecca agreement?",
+          "title": "Wildfire forces thousands of evacuations in Western Canada",
           "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T20:25:43Z",
-          "excerpt": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "サウジアラビア、防衛関係でトルコ・パキスタンに接近 米国依存に疑問",
-          "summaryJa": [
-            "サウジアラビアが防衛関係において、トルコとパキスタンとの連携を強化しています。",
-            "この動きは、これまでの米国への依存度について疑問を投げかけています。",
-            "メッカ合意が直面する課題について、議論が提起されています。"
-          ]
-        },
-        {
-          "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-          "source": "BBC News",
-          "publishedAt": "2026-08-08T20:18:28Z",
-          "excerpt": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-          "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "パリ市、電動スクーター利用者に安全装備着用義務化 違反者には罰金",
-          "summaryJa": [
-            "フランスの首都パリで、電動スクーターの利用者に対する規制が強化されました。",
-            "死亡事故の急増を受け、警察は安全装備の着用を義務付け、違反者には罰金を科す方針です。",
-            "この措置は、利用者の安全確保を目的としています。"
-          ]
-        },
-        {
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "source": "BBC News",
-          "publishedAt": "2026-08-08T19:18:57Z",
-          "excerpt": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡航路協議に進展の兆し、イランは合意でも海峡開放せずと警告",
-          "summaryJa": [
-            "オマーンは、ホルムズ海峡の新たな航路に関する協議が前向きに進んでいると述べました。",
-            "双方は協議の進展を示唆していますが、具体的な打開策はまだ不明確です。",
-            "一方、イランは、合意が成立しても海峡が開放されるわけではないと警告しています。"
-          ]
-        },
-        {
-          "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T19:13:03Z",
-          "excerpt": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+          "publishedAt": "2026-08-09T06:10:08Z",
+          "excerpt": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
           "translationStatus": "failed"
-        },
-        {
-          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T19:00:43Z",
-          "excerpt": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
-          "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "レバノン兵が負傷、イスラエル軍が南部町に侵入か",
-          "summaryJa": [
-            "レバノン南部ザウタール・アル・ガルビーヤで、レバノン兵が不発弾を処理中に負傷しました。",
-            "この地域は、イスラエル軍が土塁を建設したと報じられている場所の近くです。",
-            "イスラエル軍の侵入疑惑とレバノン兵の負傷について、緊張が高まっています。"
-          ]
-        },
-        {
-          "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-          "source": "BBC News",
-          "publishedAt": "2026-08-08T19:00:22Z",
-          "excerpt": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-          "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "オーストラリアは絶滅危惧種のホットスポット、しかし一筋の希望も",
-          "summaryJa": [
-            "オーストラリアは、世界で最もユニークな種が生息する国の一つです。",
-            "しかし、これらの種が驚くべき速さで失われており、地球上で最も絶滅危惧種が多い地域となっています。",
-            "その中で、ある動物が絶滅を食い止める一筋の希望を与えていると報じられています。"
-          ]
-        },
-        {
-          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T18:57:53Z",
-          "excerpt": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
-          "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "米国、中国の「自然保護区」設定を南シナ海領有権主張の試みと非難",
-          "summaryJa": [
-            "米国務省は、中国が南シナ海に「自然保護区」を設定したことを非難しました。",
-            "米国は、この動きが係争地域におけるフィリピン漁船の漁場へのアクセスを妨害する試みだと指摘しています。",
-            "これは、中国が南シナ海の領有権を主張するための行動であると見ています。"
-          ]
-        },
-        {
-          "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-08T18:55:20Z",
-          "excerpt": "The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.",
-          "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ハンター・バイデン氏、父ジョー・バイデン大統領の健康状態について語る",
-          "summaryJa": [
-            "ハンター・バイデン氏が、父であるジョー・バイデン大統領の健康状態について言及しました。",
-            "彼は、大統領の討論会でのパフォーマンスや、自身が重罪判決後に受けた恩赦についても語っています。",
-            "「衰弱させるような」という言葉で、父の健康状態について表現しました。"
-          ]
         }
       ]
     },
@@ -140,145 +98,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "「トヨタの非を認める判決が出る可能性は、限りなくゼロ」裁判で“勝ち目がない”と伝えたけれど…《池袋暴走事故》父・飯塚幸三を説得できなかった「長男の葛藤」(文春オンライン)",
+          "title": "海岸散歩の38歳男性死亡、千葉 波にさらわれたか(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:30:42Z",
-          "excerpt": "〈「上級国民は逮捕されなくて良いですね」自宅住所がネットに流出、嫌がらせ電話も…《12人死傷の池袋暴走事故》飯塚幸三の長男が直面した「加害者家族への暴力」〉 から続く 2019年4月に発生した「",
-          "link": "https://news.yahoo.co.jp/articles/5ad65cdcfe8bcc6cdad2b7415da09dd289654946?source=rss",
+          "publishedAt": "2026-08-09T09:43:38Z",
+          "excerpt": "9日午前11時45分ごろ、千葉県いすみ市岩船の海岸で「38歳の男性が波にさらわれ姿が見えない」と、一緒にいた女性から119番があった。県警などが捜索したところ、約600メートル離れた海で男性が浮いて",
+          "link": "https://news.yahoo.co.jp/articles/6eab01f5de5a77e74337f06296193c415c9acc87?source=rss",
           "translationStatus": "translated",
-          "titleJa": "池袋暴走事故、飯塚幸三氏長男の葛藤明かす",
+          "titleJa": "千葉の海岸で散歩中の38歳男性が死亡、波にさらわれたか",
           "summaryJa": [
-            "2019年に発生した池袋暴走事故について、加害者である飯塚幸三氏の長男が葛藤を明かした。",
-            "長男は父親に対し、裁判で勝訴する可能性は「限りなくゼロ」と伝えていたという。",
-            "事故後、長男は自宅住所の流出や嫌がらせ電話など、加害者家族として直面した苦悩を語った。"
+            "9日午前、千葉県いすみ市の海岸で、散歩中の38歳男性が波にさらわれ行方不明となりました。",
+            "一緒にいた女性が119番通報し、県警などが捜索を開始。",
+            "約600メートル離れた海で男性が浮いているのが発見され、その後死亡が確認されました。"
           ]
         },
         {
-          "title": "｢サンダル登山の若者｣より実は危険…標高599ｍの高尾山で年間100件超の遭難事故を起こしている\"張本人\"(プレジデントオンライン)",
+          "title": "台風13号、台風15号 そして台風16号も お盆に直撃 珍しい台風進路に注意(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:15:51Z",
-          "excerpt": "日帰り登山で人気の「高尾山」で、遭難する人が後を絶たない。標高599mの低山で何が起きているのか。ノンフィクションライターの羽根田治さんの著書『低山遭難 「まさかの遭難」から生きて帰った人たち』(東洋",
-          "link": "https://news.yahoo.co.jp/articles/26e857210880eb818862dffffebabb4f1aabff14?source=rss",
+          "publishedAt": "2026-08-09T09:42:52Z",
+          "excerpt": "今後の台風について久能木気象予報士の解説です。 現在、列島付近はトリプル台風となっています。台風13号、9日発生した16号、そして15号です。列島に大きく影響するのは15号となりそうです。 今",
+          "link": "https://news.yahoo.co.jp/articles/9168f5d30f8ed3b9c68f22d5ee537e597729ad28?source=rss",
           "translationStatus": "translated",
-          "titleJa": "高尾山で年間100件超の遭難事故、低山のリスクを指摘",
+          "titleJa": "列島付近にトリプル台風、お盆期間中に15号が影響か",
           "summaryJa": [
-            "日帰り登山で人気の高尾山（標高599m）で、年間100件を超える遭難事故が発生している。",
-            "ノンフィクションライターの羽根田治氏は、低山での遭難が後を絶たない現状を指摘。",
-            "「サンダル登山の若者」よりも危険な「張本人」がいると分析している。"
+            "現在、日本列島付近には台風13号、15号、そして9日に発生した16号のトリプル台風が存在しています。",
+            "気象予報士によると、このうち列島に大きく影響するのは台風15号となる見込みです。",
+            "お盆期間中に台風が直撃する珍しい進路に注意が必要です。"
           ]
         },
         {
-          "title": "｢織田家の後継者選び｣でも｢秀吉の一人勝ち｣でもない…清洲会議で信長の息子2人が争った\"本当の争点\"(プレジデントオンライン)",
+          "title": "熊本地震、家屋被害2万棟超える 6千人避難(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:15:46Z",
-          "excerpt": "NHK「豊臣兄弟！」では、秀吉の転機として清洲会議が描かれる。一般的には、秀吉が三法師を担いで柴田勝家を出し抜き、天下取りへ踏み出した会議とされてきた。実際はどうだったのか。昼間さんが、文献などから史",
-          "link": "https://news.yahoo.co.jp/articles/ed568d975dcdec3050997838945783ae5ef2e5c3?source=rss",
+          "publishedAt": "2026-08-09T09:42:01Z",
+          "excerpt": "最大震度7の地震を観測した熊本県は9日、推計を含め家屋被害が2万662棟に上ったと明らかにした。8日から約1150棟増えた。死者は39人、重症者は23人でいずれも変わらなかった。避難者は6183人。",
+          "link": "https://news.yahoo.co.jp/articles/72157f6f11bbf1b90816cdd52a0077504a3acf2f?source=rss",
           "translationStatus": "translated",
-          "titleJa": "清洲会議の「本当の争点」を考察、信長息子2人の対立に焦点",
+          "titleJa": "熊本地震、家屋被害が2万棟超え 避難者6千人以上",
           "summaryJa": [
-            "清洲会議について、従来の「秀吉の一人勝ち」という見方とは異なる考察が示された。",
-            "一般的には秀吉が三法師を擁立し、天下取りへ踏み出した会議とされる。",
-            "しかし実際には、織田信長の息子2人が争った「本当の争点」があったと分析。",
-            "文献に基づき、会議の史実を再検証する内容となっている。"
+            "最大震度7を観測した熊本地震で、熊本県は9日、家屋被害が推計で2万662棟に上ったと発表しました。",
+            "これは8日から約1150棟の増加です。",
+            "死者は39人、重症者は23人で変動はなく、避難者は6183人となっています。"
           ]
         },
         {
-          "title": "ハウステンボスが長崎国際大と包括連携協定、観光人材の育成と地域社会の発展目指す(日刊スポーツ)",
+          "title": "広く真夏日…“お盆休み”観光地に多くの人 クマ牧場にひまわり畑に(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:10:01Z",
-          "excerpt": "ハウステンボスはこのほど、長崎国際大と包括連携協定を締結した。国内外の観光業界をリードする高度な観光人材の育成、地域社会の発展に貢献することを目的としている。この協定を通じて、ハウステンボスが目指す",
-          "link": "https://news.yahoo.co.jp/articles/2830040f474812be32965dbdeafc9bb5e66ea838?source=rss",
+          "publishedAt": "2026-08-09T09:41:53Z",
+          "excerpt": "9日は全国的に日差しに恵まれたところも多く、広く真夏日となり、観光地などは多くの人でにぎわいました。 ■広く真夏日に…“お盆休み”で 駅員はファンのついた服で暑さ対策です。お盆休みも厳しい暑さ。",
+          "link": "https://news.yahoo.co.jp/articles/a7d6c8dcc3be27fa491c2a5b20feb2eaf4501125?source=rss",
           "translationStatus": "translated",
-          "titleJa": "ハウステンボスと長崎国際大が連携協定、観光人材育成へ",
+          "titleJa": "お盆休み、全国的に真夏日で観光地が賑わう",
           "summaryJa": [
-            "ハウステンボスが長崎国際大学と包括連携協定を締結した。",
-            "目的は、国内外の観光業界をリードする高度な観光人材の育成。",
-            "地域社会の発展への貢献も目指すとしている。"
+            "9日は全国的に日差しに恵まれ、広い範囲で真夏日となりました。",
+            "お盆休み期間中と重なり、クマ牧場やひまわり畑などの観光地は多くの人で賑わいました。",
+            "駅員がファンのついた服で暑さ対策をするなど、厳しい暑さが続いています。"
           ]
         },
         {
-          "title": "軽井沢で自動運転バスの実証運行、予約制で１日あたり６便 ９月６日から実施(日刊スポーツ)",
+          "title": "【動画】10日の天気 - 西日本や東海で厳しい暑さ 午後は関東から西で雷雨も 台風15号は東北へ（9日19時更新）(ウェザーマップ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:10:01Z",
-          "excerpt": "長野・軽井沢町とJR東日本、西武ホールディングスは、9月6日から12月15日まで、同町で自動運転バスの実証運行を行うと発表した。ルートは、軽井沢駅から中軽井沢駅、軽井沢千ケ滝温泉までの片道約6・7キ",
-          "link": "https://news.yahoo.co.jp/articles/98c129d205cface35c8e2c15e9b31a12690c0fcc?source=rss",
+          "publishedAt": "2026-08-09T09:40:03Z",
+          "excerpt": "月曜日は晴れ間の出る所が多くなりますが、午後は関東から西を中心に、にわか雨や雷雨の所があるでしょう。東海や西日本では日中の気温が35℃くらいまで上がり、厳しい暑さとなりそうです。日本の東にある台風15",
+          "link": "https://news.yahoo.co.jp/articles/5343ee23da78ae175a19720cc2adbf6a2db79ac7?source=rss",
           "translationStatus": "translated",
-          "titleJa": "軽井沢町で自動運転バスの実証運行、9月6日より開始",
+          "titleJa": "10日は西日本・東海で猛暑、午後は関東以西で雷雨の恐れ",
           "summaryJa": [
-            "長野県軽井沢町で、自動運転バスの実証運行が9月6日から12月15日まで行われる。",
-            "軽井沢町、JR東日本、西武ホールディングスが発表した。",
-            "軽井沢駅から軽井沢千ケ滝温泉までの片道約6.7kmを、予約制で1日6便運行する。"
+            "10日（月曜日）は晴れ間が広がる地域が多いものの、午後には関東から西を中心ににわか雨や雷雨の可能性があります。",
+            "東海や西日本では日中の気温が35℃前後まで上昇し、厳しい暑さとなる見込みです。",
+            "日本の東にある台風15号は東北地方へ向かうと予想されています。"
           ]
         },
         {
-          "title": "西武新宿線の新車両「トキイロ」で有料着席サービス「トキイロエクスプレス」も運行開始(日刊スポーツ)",
+          "title": "【関東の天気】今夜も突然の雷雨に注意 お盆 真夏を通り越して9月へ(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:10:01Z",
-          "excerpt": "西武鉄道は2028年春までに新宿線で運行する有料着席列車を新車両「トキイロ」に統一し、有料着席サービスを刷新すると明らかにした。第1弾として、来年春から10000系「ニューレッドアロー」を新車両「ト",
-          "link": "https://news.yahoo.co.jp/articles/9eafc8bc0adb7ed132ef39142c1eb6e8ee3f1ccf?source=rss",
+          "publishedAt": "2026-08-09T09:39:10Z",
+          "excerpt": "9日は大気の状態が不安定で、東北で猛烈な雨が降り、新潟では雲が垂れ下がる漏斗雲、竜巻の卵も見られました。関東でも局地的に雨雲が発達していて、夜遅くまで注意が必要です。 さて、お盆期間は天気とともに",
+          "link": "https://news.yahoo.co.jp/articles/cd13f932fb8d5094328ba88011f8f8e0989258be?source=rss",
           "translationStatus": "translated",
-          "titleJa": "西武新宿線、新車両「トキイロ」導入 有料着席サービス刷新へ",
+          "titleJa": "関東、今夜も突然の雷雨に注意 お盆期間は9月のような気候に",
           "summaryJa": [
-            "西武鉄道は、西武新宿線の有料着席列車を新車両「トキイロ」に統一すると発表した。",
-            "2028年春までにサービスを刷新し、新車両「トキイロ」による「トキイロエクスプレス」を運行開始する。",
-            "第1弾として、来年春から10000系「ニューレッドアロー」が置き換えられる。"
+            "9日は大気の状態が不安定で、東北で猛烈な雨が降り、新潟では漏斗雲も観測されました。",
+            "関東でも局地的に雨雲が発達しており、夜遅くまで突然の雷雨に注意が必要です。",
+            "お盆期間中の天気は、真夏を通り越して9月のような気候になると予想されています。"
           ]
         },
         {
-          "title": "東武東上線で人身事故 一部運転見合わせ(レスキューナウニュース)",
+          "title": "「高い」と言わないで…農家が消費者に知ってほしいこと 日本農業新聞アンケート調査(日本農業新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T21:10:00Z",
-          "excerpt": "06:03頃、北坂戸駅で発生した人身事故の影響で、東武東上線は川越市～森林公園駅間の運転を見合わせています。振替輸送を行っています。",
-          "link": "https://news.yahoo.co.jp/articles/afff684db9b416bd196d94eecb5da0a2aa4c1d6a?source=rss",
+          "publishedAt": "2026-08-09T09:30:02Z",
+          "excerpt": "消費者に何を理解してもらいたいですか――。日本農業新聞「農家の特報班」が高温の影響を調べたアンケートに、生産現場から「生産コストが増えている実態」「再生産可能な価格の大切さ」への理解を求める声が数多",
+          "link": "https://news.yahoo.co.jp/articles/36cc3fa500c155e9179276ca98f0b0a9cbb0b266?source=rss",
           "translationStatus": "translated",
-          "titleJa": "東武東上線、人身事故で一部区間運転見合わせ",
+          "titleJa": "農家が消費者へ理解求める「生産コスト増と適正価格の重要性」",
           "summaryJa": [
-            "9日午前6時3分頃、東武東上線の北坂戸駅で人身事故が発生した。",
-            "この影響により、川越市駅から森林公園駅間の運転が見合わせとなっている。",
-            "現在、振替輸送が実施されている。"
+            "日本農業新聞のアンケート調査で、農家が消費者に対し「生産コストが増加している実態」への理解を求めています。",
+            "また、「再生産可能な価格」の重要性についても知ってほしいとの声が多数寄せられました。",
+            "これは高温の影響を調べたアンケートの中で明らかになったものです。"
           ]
         },
         {
-          "title": "「まるで難民キャンプ」 避難所の劣悪な環境に専門家も「びっくりした」 車中泊にもリスクが 「熱したフライパンに飛び込むようなもの」(デイリー新潮)",
+          "title": "関電社長、事故教訓風化させない 美浜原発追悼式(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T20:57:15Z",
-          "excerpt": "災害に際し、家屋の倒壊による圧死などを〈直接死〉という。対して〈災害関連死〉とは、被災後に病気を発症するなどして亡くなるケースを指す。10年前の熊本地震の死者は270人以上。このうち200人以上が、",
-          "link": "https://news.yahoo.co.jp/articles/c8661e6eb923d4c9bb9b384983494e968d63de50?source=rss",
+          "publishedAt": "2026-08-09T09:25:34Z",
+          "excerpt": "関西電力美浜原発3号機（福井県美浜町）で11人が死傷した蒸気噴出事故から22年となった9日、関電が同原発で追悼式を開き、森望社長は「事故の反省と教訓を決して風化させることなく、全ての事業活動で安全の",
+          "link": "https://news.yahoo.co.jp/articles/3b05ab44356ac10f14a0c705200e135db6320405?source=rss",
           "translationStatus": "translated",
-          "titleJa": "避難所の劣悪な環境と車中泊のリスク、専門家が警鐘",
+          "titleJa": "関電社長、美浜原発事故の教訓風化させず安全誓う",
           "summaryJa": [
-            "災害時の避難所環境が「難民キャンプのよう」と専門家が指摘し、その劣悪さに驚きを示した。",
-            "被災後に病気を発症するなどして亡くなる「災害関連死」のリスクに言及。",
-            "車中泊についても「熱したフライパンに飛び込むようなもの」と、その危険性を警告している。",
-            "熊本地震では死者の多くが関連死だった事例も紹介された。"
+            "関西電力美浜原発3号機で11人が死傷した蒸気噴出事故から22年となる9日、同原発で追悼式が開かれました。",
+            "森望社長は「事故の反省と教訓を決して風化させない」と述べ、安全への誓いを新たにしました。",
+            "全ての事業活動において安全を最優先する姿勢を示しました。"
           ]
         },
         {
-          "title": "岩手・普代村で震度4 M5.6(共同通信)",
+          "title": "「彼氏が波にさらわれた」海岸散歩中に水難事故 30代男性死亡 千葉・いすみ市(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T20:34:33Z",
-          "excerpt": "9日午前2時58分ごろ、岩手県普代村で震度4の地震があった。気象庁によると、震源地は岩手県沖で、震源の深さは約40キロ。地震の規模はマグニチュード（M）5.6と推定される。この地震による津波の心配は",
-          "link": "https://news.yahoo.co.jp/articles/9b173554fe27a925a2a79fd0baa2f8a1b12e4efd?source=rss",
+          "publishedAt": "2026-08-09T09:18:44Z",
+          "excerpt": "千葉県いすみ市の海岸で、30代の男性が波にさらわれ行方不明になりました。男性は溺れているところを発見されましたがその後、死亡が確認されました。 9日午後0時前、いすみ市岩船の海岸で「彼氏が波にさら",
+          "link": "https://news.yahoo.co.jp/articles/fab04d2702b7d809f527a5ba485826af1d43b3e3?source=rss",
           "translationStatus": "translated",
-          "titleJa": "岩手県沖でM5.6の地震、普代村で震度4",
+          "titleJa": "千葉・いすみ市の海岸で30代男性が波にさらわれ死亡",
           "summaryJa": [
-            "9日午前2時58分ごろ、岩手県普代村で震度4の地震を観測した。",
-            "気象庁によると、震源地は岩手県沖、震源の深さは約40キロ。",
-            "地震の規模はマグニチュード5.6と推定されており、津波の心配はない。"
+            "9日午後0時前、千葉県いすみ市岩船の海岸で、散歩中の30代男性が波にさらわれ行方不明となりました。",
+            "一緒にいた女性が通報し、男性は溺れている状態で発見されました。",
+            "その後、男性の死亡が確認されました。"
           ]
         },
         {
-          "title": "【速報】関西電力・大飯原発３号機が自動停止 発電機に関連する機器で警報「放射能漏れはなし」と発表(読売テレビ)",
+          "title": "熊本地震 今も3万戸以上で断水 配られた洗剤は能登の被災者の声から生まれる(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-08T20:34:00Z",
-          "excerpt": "関西電力は、９日未明、福井県おおい町で稼働中の大飯原子力発電所３号機で、原子炉が自動停止したと発表しました。 関西電力によりますと、８日午後１１時５６分、発電機内に磁界を発生させるための状態が失",
-          "link": "https://news.yahoo.co.jp/articles/b9ca4554e8e8d493f41fc8d853bba9f6485e3ce6?source=rss",
+          "publishedAt": "2026-08-09T09:16:51Z",
+          "excerpt": "熊本地震から2週間が経とうとしていますが、今も3万4000戸以上で断水しています。衣類の洗濯も課題となるなか、能登半島地震がきっかけでできた洗剤が熊本でも活用されています。 ■熊本地震 さまざまな支",
+          "link": "https://news.yahoo.co.jp/articles/a588b21559055c92bacff8973498a064e65696e1?source=rss",
           "translationStatus": "translated",
-          "titleJa": "大飯原発3号機が自動停止、関電「放射能漏れなし」",
+          "titleJa": "熊本地震、3万戸以上で断水続く 能登地震きっかけの洗剤活用",
           "summaryJa": [
-            "9日未明、福井県おおい町の大飯原子力発電所3号機で原子炉が自動停止した。",
-            "関西電力によると、8日午後11時56分に発電機関連機器で警報が発生したため。",
-            "同社は「放射能漏れはない」と発表している。"
+            "熊本地震から約2週間が経過しましたが、現在も3万4000戸以上で断水が続いています。",
+            "衣類の洗濯が課題となる中、能登半島地震の被災者の声から生まれた洗剤が熊本でも活用されています。",
+            "この洗剤は、被災地での生活支援の一環として役立てられています。"
           ]
         }
       ]
@@ -288,143 +244,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Here’s How You Can Retire to the Beaches of Florida’s Gulf Coast at 59",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:29:32Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/real-estate/articles/retire-beaches-florida-gulf-coast-212932409.html",
+          "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-08-09T05:00:01Z",
+          "excerpt": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analys...",
+          "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
           "translationStatus": "translated",
-          "titleJa": "59歳でフロリダ湾岸のビーチでリタイアする方法",
+          "titleJa": "「マイスペース」が再起を模索、SNS疲れの「解毒剤」となるか",
           "summaryJa": [
-            "当記事では、59歳でフロリダ湾岸のビーチでリタイアするための具体的な方法について解説しています。",
-            "早期リタイアを検討している個人向けに、必要な準備や計画に関する情報が提供されています。",
-            "理想的なリタイア生活を実現するためのヒントや戦略が紹介されています。"
+            "かつて人気を博したSNS「マイスペース」が、SNS疲れへの「解毒剤」として再起を目指している。",
+            "アナリストは、この再始動への期待は、アルゴリズムの影響が少なかったアナログな時代への懐かしさを反映していると指摘。",
+            "しかし、その成功には課題も多く、実現は容易ではない可能性もあると見られている。"
           ]
         },
         {
-          "title": "A Qorvo Executive's Shares Vested Amid the Skyworks Deal. Here's What to Know",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:24:10Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-executives-shares-vested-amid-212410795.html",
+          "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-08-09T00:36:19Z",
+          "excerpt": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reaso...",
+          "link": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
           "translationStatus": "translated",
-          "titleJa": "Skyworksとの取引中にQorvo幹部の株式が確定、知っておくべきこと",
+          "titleJa": "米ベライゾン、数千人規模の通信障害から復旧 顧客に端末再起動を推奨",
           "summaryJa": [
-            "Skyworksとの取引が進む中で、Qorvoの幹部が保有する株式が確定した件について報じています。",
-            "この株式確定が、企業合併や関連する市場に与える影響について分析しています。",
-            "投資家がこの状況に関して知っておくべき重要なポイントがまとめられています。"
+            "米国の通信大手ベライゾンで、数千人の顧客に影響が出たモバイル通信障害が復旧した。",
+            "同社は、まだサービスに問題がある顧客に対し、端末の再起動を推奨している。",
+            "ベライゾンは、今回の通信障害の原因については説明していない。"
           ]
         },
         {
-          "title": "Medtronic vs. Intuitive Surgical: Which MedTech Stock Is the Better Buy Right Now?",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:20:00Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-intuitive-surgical-medtech-212000312.html",
+          "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T20:00:00Z",
+          "excerpt": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+          "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "メドトロニック対インテュイティブサージカル：今買うべき医療技術株はどちらか？",
+          "titleJa": "兄弟ががんに、94歳の父は信託を設定 家族の責任と財産管理の課題",
           "summaryJa": [
-            "医療技術分野の主要企業であるメドトロニックとインテュイティブサージカルの株式を比較分析しています。",
-            "現在の市場状況において、どちらの銘柄がより良い投資対象であるかについて考察しています。",
-            "投資家が銘柄選択を行う上で役立つ情報が提示されています。"
+            "ある読者が、兄弟のがん発覚と94歳の父親の状況に直面し、精神的に困難な時期にあると語った。",
+            "父親は60万ドルのウィスコンシン州の自宅を取消可能信託に入れ、兄弟を受益者としている。",
+            "読者は、この状況における家族の責任をどのように負うべきか悩んでいる。"
           ]
         },
         {
-          "title": "A Qorvo Insider Disposed of Shares as a Merger Looms. Here's What Long-Term Investors Should Know",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:18:18Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-insider-disposed-shares-merger-211818399.html",
+          "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T19:00:00Z",
+          "excerpt": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+          "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "合併迫る中、Qorvo内部関係者が株式を処分：長期投資家が知るべきこと",
+          "titleJa": "70歳を超えても働く読者、社会保障給付額への影響と引退計画",
           "summaryJa": [
-            "合併が目前に迫る中、Qorvoの内部関係者が保有する株式を処分した件について報じています。",
-            "この内部関係者の動きが、長期投資家にとってどのような意味を持つのかを解説しています。",
-            "投資判断に影響を与える可能性のある情報が提供されています。"
+            "ある読者は、70歳を超えても働き続けており、現在が収入のピークであると述べている。",
+            "彼は70歳で引退し、メディケアに移行する計画があるという。",
+            "読者は、70歳以降も働くことが社会保障給付額の増加に繋がるかに関心を持っている。"
           ]
         },
         {
-          "title": "What a $2.2 Million Portfolio Actually Pays After Taxes in Florida vs. New York",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:11:14Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/2-2-million-portfolio-actually-211114864.html",
+          "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T19:00:00Z",
+          "excerpt": "Timing is everything when balancing retirement distributions and moving across state lines.",
+          "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "220万ドルのポートフォリオがフロリダとニューヨークで税引き後にもたらす収益",
+          "titleJa": "230万ドルの老後資金で節税しつつ、フロリダとニューイングランドに住宅購入する方法",
           "summaryJa": [
-            "220万ドルの投資ポートフォリオが、フロリダ州とニューヨーク州で税引き後に実際にどれだけの収益を生み出すかを比較しています。",
-            "各州の異なる税制が、投資収益に与える影響について詳しく分析しています。",
-            "居住地による投資収益の違いを理解するための情報が提供されています。"
+            "230万ドルの老後資金を持つ夫婦が、引退後の税金を最小限に抑えたいと考えている。",
+            "彼らはフロリダとニューイングランドで住宅を購入する計画がある。",
+            "引退後の資金分配と州をまたぐ移住のタイミングが、節税において重要となる。"
           ]
         },
         {
-          "title": "Navigator Q2 Earnings Call Highlights",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:03:55Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/navigator-q2-earnings-call-highlights-210355500.html",
+          "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T18:37:00Z",
+          "excerpt": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track...",
+          "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ナビゲーター社 第2四半期決算説明会ハイライト",
+          "titleJa": "他人の老後資金と比較せず、自分に最適な貯蓄額を見つける方法",
           "summaryJa": [
-            "当記事は、ナビゲーター社の第2四半期決算説明会の主要なポイントをまとめています。",
-            "企業の最新の業績や財務状況に関する重要な情報が提供されています。",
-            "投資家や市場関係者にとって注目すべきハイライトが紹介されています。"
+            "老後資金の準備において、他人の貯蓄額と比較することに意味はないと指摘されている。",
+            "意味のない数字に惑わされず、自分自身の状況に基づいた計算を行うべきだという。",
+            "これにより、自身の老後資金計画が順調に進んでいるかを確認できる。"
           ]
         },
         {
-          "title": "Nuvation Bio Q2 Earnings Call Highlights",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:03:54Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/nuvation-bio-q2-earnings-call-210354900.html",
+          "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T18:30:00Z",
+          "excerpt": "“He has never been particularly generous or nurturing.”",
+          "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ヌベーション・バイオ社 第2四半期決算説明会ハイライト",
+          "titleJa": "自立困難な高齢親族の介護、州に任せることへの葛藤",
           "summaryJa": [
-            "当記事は、ヌベーション・バイオ社の第2四半期決算説明会の主要なポイントをまとめています。",
-            "企業の最新の業績や財務状況に関する重要な情報が提供されています。",
-            "投資家や市場関係者にとって注目すべきハイライトが紹介されています。"
+            "ある読者が、自力での生活が困難になった高齢の親族の介護について悩んでいる。",
+            "親族はこれまで特に寛大でも世話好きでもなかったという。",
+            "読者は、親族の介護を州に任せることについて、自身の行動が冷酷ではないかと葛藤している。"
           ]
         },
         {
-          "title": "Natural Resource Partners Q2 Earnings Call Highlights",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:03:54Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/natural-partners-q2-earnings-call-210354695.html",
+          "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T18:30:00Z",
+          "excerpt": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+          "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ナチュラル・リソース・パートナーズ社 第2四半期決算説明会ハイライト",
+          "titleJa": "AIに懐疑的な失業中のソフトウェア開発者、テック業界での再就職は可能か",
           "summaryJa": [
-            "当記事は、ナチュラル・リソース・パートナーズ社の第2四半期決算説明会の主要なポイントをまとめています。",
-            "企業の最新の業績や財務状況に関する重要な情報が提供されています。",
-            "投資家や市場関係者にとって注目すべきハイライトが紹介されています。"
+            "AIに懐疑的な立場を取る失業中のソフトウェア開発者が、テック業界での再就職の可能性について悩んでいる。",
+            "彼は、AIを使って救急車を派遣する企業からアプローチを受けた経験がある。",
+            "AI技術が進化する中で、自身のスキルとキャリアパスについて模索している。"
           ]
         },
         {
-          "title": "Nutrien Q2 Earnings Call Highlights",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:03:54Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nutrien-q2-earnings-call-highlights-210354995.html",
+          "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T18:30:00Z",
+          "excerpt": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+          "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ニュートリエン社 第2四半期決算説明会ハイライト",
+          "titleJa": "退職夫婦、230万ドルの資金から30万ドルの住宅ローン（金利2.9%）を完済すべきか",
           "summaryJa": [
-            "当記事は、ニュートリエン社の第2四半期決算説明会の主要なポイントをまとめています。",
-            "企業の最新の業績や財務状況に関する重要な情報が提供されています。",
-            "投資家や市場関係者にとって注目すべきハイライトが紹介されています。"
+            "退職した夫婦が、230万ドルの投資資金を保有している。",
+            "彼らは金利2.9%の30万ドルの住宅ローンを抱えており、これを完済すべきか検討している。",
+            "現在、年間約10万ドルを投資から引き出している状況である。"
           ]
         },
         {
-          "title": "Northern Oil and Gas Q2 Earnings Call Highlights",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-08-08T21:03:53Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/energy/articles/northern-oil-gas-q2-earnings-210353210.html",
+          "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-08-08T17:58:00Z",
+          "excerpt": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+          "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ノーザン・オイル・アンド・ガス社 第2四半期決算説明会ハイライト",
+          "titleJa": "ターゲットデートファンドは老後資金を一生涯賄うのに十分な積極性があるか",
           "summaryJa": [
-            "当記事は、ノーザン・オイル・アンド・ガス社の第2四半期決算説明会の主要なポイントをまとめています。",
-            "企業の最新の業績や財務状況に関する重要な情報が提供されています。",
-            "投資家や市場関係者にとって注目すべきハイライトが紹介されています。"
+            "人気のあるデフォルト投資であるターゲットデートファンドについて、その有効性が問われている。",
+            "これがアメリカ人の老後資金を一生涯賄うのに十分な積極性を持っているかという疑問がある。",
+            "数十年にわたる老後生活を支えるためには、より積極的な運用が必要となる可能性がある。"
           ]
         }
       ]
@@ -440,11 +396,11 @@
           "excerpt": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of cl...",
           "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
           "translationStatus": "translated",
-          "titleJa": "アマゾン、テキサス州のデータセンター計画で米最大の気候汚染源となる可能性",
+          "titleJa": "アマゾンの新データセンター、米最大の気候汚染源となる可能性",
           "summaryJa": [
             "アマゾンがテキサス州に計画中のデータセンターに、敷地内発電所を建設する。",
             "この発電所は、米国で最大の気候汚染源となる可能性があると報じられている。",
-            "大規模なデータセンターの電力供給が環境に与える影響が懸念されている。"
+            "大規模なデータセンターの電力供給に伴う環境負荷が懸念されている。"
           ]
         },
         {
@@ -454,11 +410,11 @@
           "excerpt": "NextSlide says its team members are now working on ChatGPT.",
           "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
           "translationStatus": "translated",
-          "titleJa": "OpenAIがプレゼンテーションAIスタートアップ「NextSlide」を買収",
+          "titleJa": "OpenAIがプレゼン資料作成スタートアップNextSlideを買収",
           "summaryJa": [
-            "OpenAIがプレゼンテーション関連のスタートアップ企業NextSlideを買収した。",
+            "OpenAIがプレゼンテーション資料作成のスタートアップ企業NextSlideを買収した。",
             "NextSlideのチームメンバーは現在、ChatGPTの開発に携わっているという。",
-            "この買収により、OpenAIのAI技術がプレゼンテーション分野に応用される可能性がある。"
+            "AI技術を活用したプレゼンツールの開発経験がOpenAIのAI製品強化に貢献すると見られる。"
           ]
         },
         {
@@ -468,11 +424,11 @@
           "excerpt": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest sing...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
           "translationStatus": "translated",
-          "titleJa": "アマゾン、新データセンター向け発電所が国内最悪の汚染源となる恐れ",
+          "titleJa": "アマゾン、新データセンター向け発電所が国内最悪の汚染源に",
           "summaryJa": [
-            "アマゾンが西テキサス州に建設する新たなデータセンターの電力供給のため、新規発電所への投資を進めている。",
+            "アマゾンが西テキサス州に建設する新たなデータセンターの電力供給のため、発電所を建設中である。",
             "この発電所は、国内で最も大規模な単一汚染源の一つとなる可能性があると指摘されている。",
-            "データセンターの電力需要増大に伴う環境負荷が問題視されている。"
+            "データセンターの電力需要増大に伴う環境への影響が懸念されている。"
           ]
         },
         {
@@ -484,8 +440,8 @@
           "translationStatus": "translated",
           "titleJa": "OpenAI、AIモデル「Astra」の開発を減速、セキュリティ懸念で",
           "summaryJa": [
-            "OpenAIは開発中のAIモデル「Astra」について、セキュリティ上の懸念から開発ペースを落としたと発表した。",
-            "同モデルは「重大なサイバーセキュリティ閾値」に達し、独立して識別する能力を持つ可能性があるという。",
+            "OpenAIは開発中のAIモデル「Astra」について、セキュリティ上の懸念から開発を減速したと発表した。",
+            "同モデルは「重大なサイバーセキュリティ閾値」に達し、独立して識別可能になったという。",
             "高度なAIモデルの安全性確保が開発における重要な課題となっている。"
           ]
         },
@@ -496,11 +452,11 @@
           "excerpt": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI sp...",
           "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
           "translationStatus": "translated",
-          "titleJa": "Rippling、AI利用費高騰を受け従業員のAI投資対効果追跡ツールを開発",
+          "titleJa": "Rippling、AI利用費高騰を受け従業員AI支出追跡ツールを開発",
           "summaryJa": [
             "人事・ITプラットフォームのRipplingは、自社のAI利用費が数ヶ月で数百万ドルに達した経験から、新たなツールを発表した。",
-            "「AI Spend Console」は、従業員個人やチームのAI利用状況と費用を追跡する製品だ。",
-            "企業におけるAI利用の費用対効果を可視化し、管理することを目的としている。"
+            "「AI Spend Console」は、従業員やチームごとのAI支出を追跡・管理する製品である。",
+            "企業内でのAI利用が拡大する中、コスト管理の重要性が高まっている。"
           ]
         },
         {
@@ -510,11 +466,11 @@
           "excerpt": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comm...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
           "translationStatus": "translated",
-          "titleJa": "ラッパーFenix Flexin、楽曲「Rubberz」でのAI使用を事実上認める",
+          "titleJa": "ラッパーFenix Flexin、楽曲「Rubberz」でのAI使用を認める",
           "summaryJa": [
-            "ロサンゼルスのラッパーFenix Flexinが、80年代シンセポップ風の楽曲「Rubberz」にAIを使用したことを認めたようだ。",
-            "これまでAI使用について明確な言及を避けていたが、今回のコメントで事実上認めた形となった。",
-            "音楽制作におけるAI技術の活用が、アーティストの間でも広がりを見せている。"
+            "ロサンゼルスのラッパーFenix Flexinが、80年代シンセポップ風の楽曲「Rubberz」にAIを使用したことを認めた模様だ。",
+            "これまで否定していたが、ついにAI技術の利用を公にした形となる。",
+            "音楽制作におけるAIの活用が、アーティストの間でも広がりを見せている。"
           ]
         },
         {
@@ -526,10 +482,9 @@
           "translationStatus": "translated",
           "titleJa": "RokuのAIチャンネル、コンテンツの質に疑問符",
           "summaryJa": [
-            "Rokuが提供するAIチャンネルのコンテンツについて、その質に疑問が呈されている。",
-            "無料広告付きストリーミングテレビ（FAST）チャンネルは、通常、過去の名作を再発見する魅力がある。",
-            "しかし、AIチャンネルは、そうした従来のFASTチャンネルとは異なる体験を提供しているようだ。",
-            "記事は、AIが生成するコンテンツの現状について批判的な見方を示している。"
+            "Rokuが提供するAIチャンネルのコンテンツについて、その質が「飼い葉桶から食べるよう」と評されている。",
+            "無料広告付きストリーミングテレビ（FAST）チャンネルは、過去の名作を再発見する魅力があった。",
+            "しかし、AIが生成または選定するコンテンツの品質や視聴体験には課題があるようだ。"
           ]
         },
         {
@@ -539,11 +494,11 @@
           "excerpt": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standard...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、開発中のAIモデル「Astra」の活動を一時停止、安全性基準未達で",
+          "titleJa": "OpenAI、開発中のAIモデル「Astra」の活動を一時停止",
           "summaryJa": [
-            "OpenAIは、開発中のAIモデル「Astra」に関する社内活動を一時的に停止すると発表した。",
-            "これは、同モデルが新たなセキュリティ基準をまだ満たしていないためだという。",
-            "記事は、AIの能力が強力すぎる可能性を指摘し、安全性確保の重要性を強調している。"
+            "OpenAIは、開発中のAIモデル「Astra」に関する社内活動を一時停止すると発表した。",
+            "これは、同モデルが新たなセキュリティ基準を満たしていないためと説明されている。",
+            "モデルの能力が「強力すぎる」可能性が指摘されており、安全性確保が優先されている。"
           ]
         },
         {
@@ -553,11 +508,11 @@
           "excerpt": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs...",
           "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
           "translationStatus": "translated",
-          "titleJa": "Google AI部門で大規模な人事異動、その背景とは",
+          "titleJa": "Google AIチームで大規模な人事異動が発生",
           "summaryJa": [
-            "今週、GoogleのAIチームで主要なメンバーが新たな職務に就いたことが明らかになった。",
-            "著名なGoogle社員であるジェフ・ディーン氏を含む、複数の幹部が異動の対象となっている。",
-            "この大規模な人事異動の背景には、GoogleのAI戦略における何らかの変化があると見られている。"
+            "今週、GoogleのAIチームで主要なメンバーが新たな職務に就いた。",
+            "これには、著名なGoogle社員であるジェフ・ディーン氏も含まれる。",
+            "AI部門における組織再編や戦略変更の動きが背景にあると見られる。"
           ]
         },
         {
@@ -567,12 +522,11 @@
           "excerpt": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automati...",
           "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
           "translationStatus": "translated",
-          "titleJa": "Cloudflare、AIエージェント向けクラウドホスト型ブラウザ「Kitesurf」を発表",
+          "titleJa": "Cloudflare、AIエージェント向けブラウザ「Kitesurf」を発表",
           "summaryJa": [
-            "Cloudflareが、AIエージェント専用に設計されたクラウドホスト型ブラウザ「Kitesurf」をリリースした。",
-            "Kitesurfは人間ではなくAIエージェントが使用することを想定している。",
-            "一般的な自動化タスクにおいて、Chromiumよりも少ない計算能力で動作する。",
-            "AIエージェントの効率的なウェブ操作を支援する目的で開発された。"
+            "Cloudflareが、AIエージェント専用のクラウドホスト型ブラウザ「Kitesurf」をリリースした。",
+            "このブラウザは人間ではなくAIエージェント向けに設計されている。",
+            "一般的な自動化タスクにおいて、Chromiumよりも少ない計算能力で動作する。"
           ]
         }
       ]
@@ -588,11 +542,11 @@
           "excerpt": "Screen time limits for Los Angeles Unified School District’s youngest students begin in August. “My hope and expectation is that most famil...",
           "link": "https://www.the74million.org/zero2eight/lausds-youngest-students-will-start-a-screen-free-school-year-heres-what-parents-need-to-know/",
           "translationStatus": "translated",
-          "titleJa": "ロサンゼルス統一学区、最年少生徒にスクリーン時間制限を導入",
+          "titleJa": "ロサンゼルス統一学区、最年少生徒にスクリーン時間制限導入へ",
           "summaryJa": [
             "ロサンゼルス統一学区（LAUSD）は8月から、最年少の生徒を対象にスクリーン時間の制限を開始します。",
-            "これは、新学期からスクリーンなしの学習環境を導入するものです。",
-            "学区は、ほとんどの家庭がこの方針を支持し、協力することを期待しています。"
+            "これは、新学期からスクリーンなしの学習環境を目指すものです。",
+            "学区の期待は、ほとんどの家庭がこの方針を支持することです。"
           ]
         },
         {
@@ -602,11 +556,11 @@
           "excerpt": "On June 26, Children’s Aid was preparing to continue summer sexual health and youth development programming in schools, foster care setting...",
           "link": "https://www.the74million.org/article/when-sex-education-funding-is-taken-away-young-people-lose-a-safe-space/",
           "translationStatus": "translated",
-          "titleJa": "性教育資金削減で若者の安全な居場所が失われる懸念",
+          "titleJa": "性教育資金削減で若者の安全な場が失われる可能性",
           "summaryJa": [
-            "性教育への資金提供が停止されると、若者たちは安全な学習の場を失う可能性があります。",
-            "6月26日、Children’s Aidは学校や里親制度下での夏の性健康・青少年育成プログラム継続を準備していました。",
-            "しかし、資金削減により、これらのプログラムの提供が困難になることが懸念されています。"
+            "6月26日、児童援助団体は学校や里親施設での夏の性健康・青少年育成プログラム継続を準備していました。",
+            "しかし、性教育への資金提供が削減されると、若者たちは安全な学習の場を失うことになります。",
+            "これは、彼らが重要な情報やサポートを得る機会を奪うことにつながります。"
           ]
         },
         {
@@ -618,9 +572,9 @@
           "translationStatus": "translated",
           "titleJa": "連邦政府の幼児教育プログラム変更案に提供者から批判",
           "summaryJa": [
-            "連邦政府が幼児教育プログラム「ヘッドスタート」の変更を提案しており、提供者から強い批判が出ています。",
-            "批判の声は、「それではもはやヘッドスタートとは言えない」というものです。",
-            "ワシントン州スカジット郡で子供がヘッドスタートに通い始めた母親も、この変更案に懸念を示しています。"
+            "連邦政府が幼児教育プログラム「ヘッドスタート」の変更案を提示し、提供者から強い批判が出ています。",
+            "彼らは、この変更がプログラムの本質を損なうと主張しています。",
+            "ワシントン州スカジット郡でヘッドスタートを利用する母親も、懸念を示しています。"
           ]
         },
         {
@@ -630,11 +584,11 @@
           "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. Chicago Public Schools is...",
           "link": "https://www.chalkbeat.org/chicago/2026/08/08/illinois-state-funding-numbers-released-includes-chicago-public-schools/",
           "translationStatus": "translated",
-          "titleJa": "イリノイ州、州資金増にもかかわらず学校への十分な資金ギャップ拡大",
+          "titleJa": "イリノイ州、州の資金増にもかかわらず学校資金不足が拡大",
           "summaryJa": [
-            "イリノイ州では州からの資金が増加しているにもかかわらず、ほとんどの学区で学校に十分な資金を提供するギャップが拡大しています。",
-            "これは、シカゴ公立学校を含む多くの地区で財政的な課題が続いていることを示しています。",
-            "資金不足は、教育の質や提供されるサービスに影響を与える可能性があります。"
+            "イリノイ州では、州からの資金が増加しているにもかかわらず、ほとんどの学区で学校を適切に運営するための資金不足が拡大しています。",
+            "これは、シカゴ公立学校を含む多くの学区が直面する課題です。",
+            "資金ギャップの拡大は、教育サービスの質に影響を与える可能性があります。"
           ]
         },
         {
@@ -646,9 +600,9 @@
           "translationStatus": "translated",
           "titleJa": "コロラド州の公立大学、予算削減下で学生サービス維持に注力",
           "summaryJa": [
-            "コロラド州の公立大学は、予算が「引き締められる」中で学生サービスを維持しようと努めています。",
-            "財政的な制約があるにもかかわらず、学生への重要なサポートを確保することが目標です。",
-            "これは、高校卒業後の進路やキャリアパスに関する最新情報を提供する取り組みと関連しています。"
+            "コロラド州の公立大学は、予算が厳しくなる中で学生サービスを維持しようと努めています。",
+            "財政的な引き締めが行われる中でも、学生へのサポートを確保することが目標です。",
+            "これは、高校卒業後の進路を考える学生にとって重要な課題です。"
           ]
         },
         {
@@ -658,11 +612,11 @@
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/08/07/ips-board-candidate-voting-records-could-jeopardize-candidacy/",
           "translationStatus": "translated",
-          "titleJa": "IPS理事候補リンジー・コーネット氏、民主党立候補要件を満たさず",
+          "titleJa": "IPS教育委員候補、民主党立候補要件を満たさず",
           "summaryJa": [
-            "投票記録によると、インディアナポリス公立学校（IPS）理事候補のリンジー・コーネット氏は、民主党員として立候補するための要件を満たしていませんでした。",
-            "この事実は、マリオン郡の学区に関する最新ニュースとして報じられています。",
-            "立候補要件の不備は、選挙運動に影響を与える可能性があります。"
+            "インディアナポリス公立学校（IPS）の教育委員候補であるリンジー・コーネット氏が、民主党からの立候補要件を満たしていなかったことが投票記録で判明しました。",
+            "この事実は、マリオン郡の学区や州の教育政策に関するニュースの中で報じられました。",
+            "候補者の資格に関する問題が浮上しています。"
           ]
         },
         {
@@ -672,11 +626,11 @@
           "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. Reading sc...",
           "link": "https://www.chalkbeat.org/newyork/2026/08/07/nyc-students-reading-test-scores-decline-amid-literacy-instruction-changes/",
           "translationStatus": "translated",
-          "titleJa": "ニューヨーク市、読解力スコアが低下 3年生の習熟度が14ポイント下落",
+          "titleJa": "ニューヨーク市、読解力スコアが低下 3年生の習熟度が14ポイント減",
           "summaryJa": [
-            "ニューヨーク市では読解力スコアが低下しており、特に3年生の習熟度が14ポイントも下落しました。",
-            "これは、ニューヨーク市の公立学校における重要な教育課題として報じられています。",
-            "読解力低下は、生徒の学習全体に影響を及ぼす可能性があります。"
+            "ニューヨーク市の公立学校で、生徒の読解力スコアが低下していることが明らかになりました。",
+            "特に3年生の読解力習熟度は14ポイントも減少しています。",
+            "この結果は、市内の公立学校における重要な課題として注目されています。"
           ]
         },
         {
@@ -686,11 +640,11 @@
           "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. Katrina Kasten, a mother o...",
           "link": "https://www.chalkbeat.org/chicago/2026/08/07/chicago-school-board-candidates-run-unopposed/",
           "translationStatus": "translated",
-          "titleJa": "シカゴ学区理事の現職候補、対立候補なし 有権者への意味は？",
+          "titleJa": "シカゴ教育委員会の現職候補、無投票当選の可能性",
           "summaryJa": [
-            "シカゴ学区理事の現職候補者の一部が、対立候補なしで選挙に臨んでいます。",
-            "この状況は、有権者にとってどのような意味を持つのかが問われています。",
-            "シカゴ公立学校に関する最新ニュースとして注目されています。"
+            "シカゴ教育委員会の現職候補者の一部が、対立候補なしで選挙に臨んでいます。",
+            "これは、有権者にとってどのような意味を持つのかが議論されています。",
+            "シカゴ公立学校に関する最新ニュースの中で報じられた情報です。"
           ]
         },
         {
@@ -702,9 +656,9 @@
           "translationStatus": "translated",
           "titleJa": "論説：生徒の不安は教育方法に起因する可能性",
           "summaryJa": [
-            "論説によると、生徒たちが不安を感じるのは、そのように教えられているからであり、驚くことではないと指摘されています。",
             "新学期が始まる前には一時的な不安が生じることがよくあります。",
-            "しかし、それが大きな日への心構えに役立つ場合もありますが、教育方法が不安を助長している可能性も示唆されています。"
+            "しかし、生徒が不安を感じるのは、彼らをそのように教えているからだという意見が提示されています。",
+            "この論説は、教育が子供たちの心理状態に与える影響について考察しています。"
           ]
         },
         {
@@ -714,11 +668,11 @@
           "excerpt": "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy. One thing we...",
           "link": "https://www.chalkbeat.org/detroit/2026/07/31/free-school-supplies-giveaway-events-detroit-august/",
           "translationStatus": "translated",
-          "titleJa": "デトロイト、新学期用品を無料で入手する方法を保護者に提供",
+          "titleJa": "デトロイト市、新学期用品を無料で提供する方法を案内",
           "summaryJa": [
-            "デトロイト市では、新学期に向けて無料で学用品を入手する方法が保護者に提供されています。",
-            "これは、子供たちの新学期準備を支援するための取り組みです。",
-            "デトロイトの公立学校制度やミシガン州の教育政策に関する情報の一部として報じられています。"
+            "デトロイト市では、新学期に向けて学用品を必要とする保護者向けに、無料で入手する方法が案内されています。",
+            "これは、市内の公立学校システムやミシガン州の教育政策に関する情報の一部です。",
+            "保護者は、子供たちの新学期準備のための支援を受けることができます。"
           ]
         }
       ]
@@ -731,7 +685,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 48,
+    "translatedItems": 41,
     "failedBatches": []
   }
 }
