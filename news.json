@@ -1,100 +1,148 @@
 {
-  "generatedAt": "2026-08-16T09:46:13.523106Z",
+  "generatedAt": "2026-08-16T21:36:10.702691Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "title": "Trump says US will scale back military drills with South Korea",
           "source": "BBC News",
-          "publishedAt": "2026-08-16T09:27:58Z",
-          "excerpt": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Live video captures panic as gunman opens fire at park in Kentucky",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T09:24:22Z",
-          "excerpt": "Live video captures panic as gunman opens fire at park in Kentucky",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-          "source": "BBC News",
-          "publishedAt": "2026-08-16T09:04:14Z",
-          "excerpt": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T21:27:42Z",
+          "excerpt": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "ロシアがウクライナ全土に新たな空爆、5人死亡",
+          "titleJa": "トランプ氏、米韓合同軍事演習の規模縮小を表明",
           "summaryJa": [
-            "ロシアがウクライナ全土に新たな空爆を行い、5人が死亡しました。",
-            "ウクライナのゼレンスキー大統領は、ロシアが民間インフラを標的にしていると非難しています。",
-            "一方、ロシア側は倉庫が攻撃されたと報告しています。"
+            "トランプ大統領は、米国が韓国との合同軍事演習の規模を縮小すると発表しました。",
+            "この決定は、韓国がイランでの米国の戦争努力への支援を最近拒否した後に下されました。",
+            "米韓間の軍事協力関係に影響を与える可能性があります。"
           ]
         },
         {
-          "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+          "title": "Anwar Ibrahim: Malaysia between the superpowers",
           "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T09:03:05Z",
-          "excerpt": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T08:53:14Z",
-          "excerpt": "A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia’s earthquake.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "At least 12 people killed in Hungary bus crash",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T08:50:30Z",
-          "excerpt": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
-          "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-          "source": "BBC News",
-          "publishedAt": "2026-08-16T08:49:32Z",
-          "excerpt": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T08:40:34Z",
-          "excerpt": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
-          "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-08-16T08:39:38Z",
-          "excerpt": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-          "source": "BBC News",
-          "publishedAt": "2026-08-16T08:23:38Z",
-          "excerpt": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T21:23:03Z",
+          "excerpt": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+          "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "インドネシア地震で数千人が避難、死者51人以上",
+          "titleJa": "マレーシア首相、超大国間の立ち位置と役割を語る",
           "summaryJa": [
-            "インドネシアで発生した地震により、少なくとも51人が死亡しました。",
-            "数百の家屋や公共施設が甚大な被害を受け、数千人が避難を余儀なくされています。",
-            "救助活動が現在も続けられています。"
+            "マレーシアのアンワル・イブラヒム首相が、スリーニヴァサン・ジェイン氏との対談に応じました。",
+            "首相は、正義、貿易、そして超大国に責任を負わせる中堅国の役割について語りました。",
+            "マレーシアが国際社会で果たすべき役割に焦点を当てています。"
+          ]
+        },
+        {
+          "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T21:03:53Z",
+          "excerpt": "The boat overturned during heavy winds near the Zambian border.",
+          "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ジンバブエでフェリー転覆、死者84人に増加",
+          "summaryJa": [
+            "ジンバブエでフェリーが転覆する事故が発生し、死者数が84人に増加しました。",
+            "事故はザンビア国境付近で、強風の中発生しました。",
+            "多くの犠牲者が出た痛ましい事故として報じられています。"
+          ]
+        },
+        {
+          "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T21:02:08Z",
+          "excerpt": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アイスランドのパレスチナ系カフェで地図が破損される",
+          "summaryJa": [
+            "アイスランドにあるパレスチナ人経営のカフェで、パレスチナの地図が引き裂かれる事件がありました。",
+            "監視カメラの映像には、イスラエル人観光客とみられる人物が額入りの地図を破損する様子が映っています。",
+            "この行為は、カフェに対する嫌がらせと報じられています。"
+          ]
+        },
+        {
+          "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T20:55:19Z",
+          "excerpt": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "エルドアン大統領、ハマスの誠実な行動を評価しイスラエルを批判",
+          "summaryJa": [
+            "エルドアン大統領は、ハマスがあらゆる誠実な連帯を示したと述べました。",
+            "その一方で、イスラエルがガザへの攻撃を続けていることを批判しました。",
+            "大統領は、中東情勢における自身の見解を表明しています。"
+          ]
+        },
+        {
+          "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T20:46:01Z",
+          "excerpt": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
+          "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米空母リンカーン乗組員の精神衛生問題、司令官が乗員を称賛",
+          "summaryJa": [
+            "米空母USSリンカーンで、乗組員の精神衛生に関する懸念が報じられています。",
+            "議員からは、乗組員が投身自殺を図ろうとしたとの報告もあり、懸念の声が上がっています。",
+            "しかし、米海軍司令官は乗組員の働きを称賛する声明を発表しました。"
+          ]
+        },
+        {
+          "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T20:36:32Z",
+          "excerpt": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.",
+          "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ブラジル大統領選、ルラ氏とボルソナロ氏が地盤で選挙運動開始",
+          "summaryJa": [
+            "ブラジルでは、ルラ氏とボルソナロ氏が大統領選に向けてそれぞれの地盤で選挙運動を開始しました。",
+            "両候補は、女性有権者に対し、増加する女性殺害やジェンダー暴力への対策を約束しています。",
+            "女性票の獲得が選挙戦の重要な焦点となっています。"
+          ]
+        },
+        {
+          "title": "US-Iran MoU is set to expire: What to know",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T20:28:21Z",
+          "excerpt": "Both sides accused the other of violating the June agreement shortly after it was signed.",
+          "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米イラン間の覚書が期限切れへ、両国は違反を主張",
+          "summaryJa": [
+            "米国とイランの間で交わされた覚書が、まもなく期限切れを迎えます。",
+            "この覚書は6月に署名されましたが、直後に両国は互いに合意違反を主張していました。",
+            "今後の両国関係に影響を与える可能性があります。"
+          ]
+        },
+        {
+          "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+          "source": "NPR World",
+          "publishedAt": "2026-08-16T20:20:22Z",
+          "excerpt": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make...",
+          "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+          "translationStatus": "translated",
+          "titleJa": "クシュナー氏、ネタニヤフ首相との会談前にハマスと会合",
+          "summaryJa": [
+            "トランプ大統領の義理の息子であるジャレッド・クシュナー氏が、エジプトでハマス指導部と異例の会合を開きました。",
+            "これは、ガザのロードマップに関する新たな外交努力の一環とされています。",
+            "ネタニヤフ首相との会談を控えての動きとして注目されています。"
+          ]
+        },
+        {
+          "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-08-16T20:04:51Z",
+          "excerpt": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "セネガル、サンルイのレガッタが数世紀の伝統を継承",
+          "summaryJa": [
+            "セネガルのサンルイで、毎年恒例のレガッタが開催されました。",
+            "数千人がこのイベントに集まり、賑わいを見せました。",
+            "このレガッタは、数世紀にわたる地域の伝統を守り続けています。"
           ]
         }
       ]
@@ -104,143 +152,137 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "社説：多死社会の葬送 不安なく選択できる環境に(京都新聞)",
+          "title": "小渕優子「減税は次世代へのツケ」は本当か？ …「好き放題できた」政治家の証言が暴く“消費税と借金”のカラクリ(集英社オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:39:15Z",
-          "excerpt": "亡き人をしのぶ「お盆」に、だれもが直面する葬送や墓のあり方を見つめ直したい。 昨年に亡くなった日本人は約158万9千人。京都府は約3万1千人、滋賀県は約1万5千人だった。国は2040年ごろに16",
-          "link": "https://news.yahoo.co.jp/articles/3d617435b4ff03130ab0557b39fa5dd8e35a8122?source=rss",
+          "publishedAt": "2026-08-16T21:30:36Z",
+          "excerpt": "自民党の税制調査会で「インナー」と呼ばれる非公式幹部会のメンバーを務めてきた小渕優子氏が、食料品の消費減税案に反発し、辞任する意向を示した。「減税は次の世代にツケを回すことになる」というのが、その理由",
+          "link": "https://news.yahoo.co.jp/articles/9ddce791b3fccc1254b3a5fb570ec918632ff2ef?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "「結婚するにしても、子育てするにしても、車弄りは絶対に続けたい…」水族館めぐりが趣味だった水産系女子（20）が、突如として“シャコタンクラウン”の改造に目覚めた“驚きの理由”(文春オンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-08-16T21:21:19Z",
+          "excerpt": "車との出会いは人それぞれでも、カスタム沼にハマった者の思いはみな同じ。「自分だけの車」を目指して全力を注ぐ、改造車オーナーたちの素顔に迫る! 今回は「J.C.Y SUMMIT」の出展者から、12",
+          "link": "https://news.yahoo.co.jp/articles/84cbbf0e416b1f6ebae058be237293b9af0de37d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "社説：多死社会の葬送、不安なく選択できる環境を",
+          "titleJa": "カスタムカーに情熱を注ぐオーナーたち 「自分だけの車」への思いに迫る",
           "summaryJa": [
-            "「お盆」を機に、誰もが直面する葬送や墓のあり方を見つめ直す必要性が提起されています。",
-            "昨年、日本で亡くなった人は約158万9千人に上り、京都府で約3万1千人、滋賀県で約1万5千人でした。",
-            "国は2040年ごろには死亡者数が160万人を超えると予測しており、多死社会における葬送の選択肢が課題となっています。"
+            "カスタムカーの世界に魅了されたオーナーたちの素顔に迫る記事です。",
+            "「自分だけの車」を目指し、改造に情熱を注ぐ人々の思いを紹介。",
+            "今回は「J.C.Y SUMMIT」の出展者の中から、その魅力が語られます。"
           ]
         },
         {
-          "title": "宝くじ収益で被災地支援、特別交付税配分も(共同通信)",
+          "title": "未明に埠頭の路上で“ドリフト走行”か 交通の危険を生じさせた疑い トルコ国籍の29歳会社員の男逮捕(東海テレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:29:42Z",
-          "excerpt": "林芳正総務相は16日、熊本地震の被災者支援に宝くじの収益を活用すると表明した。被災した自治体に特別交付税を配分し、財政を支援する考えも示した。被災地を視察した後、報道陣の取材に明らかにした。",
-          "link": "https://news.yahoo.co.jp/articles/713da3c55a3aebfda667fbb7428469cca33f48b2?source=rss",
+          "publishedAt": "2026-08-16T21:21:04Z",
+          "excerpt": "愛知県の弥富ふ頭で先月、ドリフト走行をしたなどとして会社員の男が逮捕されました。警察は、アジア大会を前に湾岸エリアの取り締まりを強化するとしています。 逮捕されたのは、大治町に住むトルコ国籍の会",
+          "link": "https://news.yahoo.co.jp/articles/1dd400f826492ed794148cc7f0708c5c676ec0e4?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熊本地震被災地支援に宝くじ収益活用、特別交付税も配分へ",
+          "titleJa": "愛知・弥富ふ頭でドリフト走行か、トルコ国籍の会社員を逮捕",
           "summaryJa": [
-            "林芳正総務相は16日、熊本地震の被災者支援のため、宝くじの収益を活用すると表明しました。",
-            "被災地の自治体には特別交付税を配分し、財政支援を行う考えも示されました。",
-            "林総務相は被災地視察後、報道陣の取材でこれらの支援策を明らかにしました。"
+            "先月、愛知県の弥富ふ頭でドリフト走行をした疑いで、トルコ国籍の会社員の男が逮捕されました。",
+            "警察は、交通に危険を生じさせた疑いで捜査を進めています。",
+            "アジア大会を控え、湾岸エリアでの取り締まりを強化する方針です。"
           ]
         },
         {
-          "title": "熊本県の断水世帯、8000戸に 一時の10万戸から大幅解消(共同通信)",
+          "title": "だからテレビも新聞も藏内勇夫の\"犬\"になった…｢福岡のドン｣が県議会の番記者たちにバラまいた\"エサ\"の正体(プレジデントオンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:25:47Z",
-          "excerpt": "7月28日に最大震度7を観測した熊本県で断水世帯が1万戸を切り、約8400戸まで減少したことが分かった。県内では一時最大10万戸を超えており、大幅に解消した。同県宇城市などが16日、明らかにした。各",
-          "link": "https://news.yahoo.co.jp/articles/444a84ce9815eab31c9e20f465a4d4810b5e3fed?source=rss",
+          "publishedAt": "2026-08-16T21:15:35Z",
+          "excerpt": "福岡県議会の正副議長ポストをめぐる多額の金銭授受疑惑で、藏内勇夫・県議会議長が批判を集めている。藏内氏はどのようにして県知事を上回る権力を手に入れたのか。元関西テレビ記者で、神戸学院大学の鈴木洋仁准教",
+          "link": "https://news.yahoo.co.jp/articles/a239da7f5e35af1bafd749e30c356c85f338ccb0?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熊本県の断水世帯、一時10万戸超から8000戸台に大幅減少",
+          "titleJa": "福岡県議会議長に金銭授受疑惑、権力掌握の背景に注目",
           "summaryJa": [
-            "7月28日に最大震度7を観測した熊本県で、断水世帯が約8400戸まで減少したことが分かりました。",
-            "県内では一時最大10万戸を超えていましたが、大幅に解消された形です。",
-            "同県宇城市などが16日に状況を明らかにしました。"
+            "福岡県議会の正副議長ポストを巡る多額の金銭授受疑惑で、藏内勇夫県議会議長が批判の的となっています。",
+            "記事では、藏内氏がいかにして県知事を上回る権力を手に入れたのかに迫ります。",
+            "元関西テレビ記者で神戸学院大学の鈴木洋仁准教授が、その背景を分析しています。"
           ]
         },
         {
-          "title": "林道でランニング中の70代男性がツキノワグマに襲われる 右の頬を引っかかれ軽傷 当面の間入山を禁止しパトロール(東海テレビ)",
+          "title": "「立入禁止の廃線トンネルの先に…」群馬の山奥にポツン…55年前に地図から消えた廃線、残された“ナゾの巨大コンクリート建造物”の正体「400人の囚人が作った鉄道」(文春オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:22:48Z",
-          "excerpt": "16日午前、岐阜県池田町でランニングをしていた70代の男性がクマに襲われ軽いケガをしました。 岐阜県によりますと、16日午前10時ごろ、池田町片山の池田山の林道で、ランニングをしていた大垣市の7",
-          "link": "https://news.yahoo.co.jp/articles/725fd87831c4368a161d6df2b46944abce999c36?source=rss",
+          "publishedAt": "2026-08-16T21:12:17Z",
+          "excerpt": "草津よいとこ、一度はおいで——。 というわけで、特急「草津・四万」に乗り込んだ。 上野駅から草津温泉の玄関口・長野原草津口駅までを約2時間20分で結ぶ列車だ。夏休みの特急列車、家族連れや若い",
+          "link": "https://news.yahoo.co.jp/articles/af911bc3e9b82e1b1d84788b962535f2acac08fa?source=rss",
           "translationStatus": "translated",
-          "titleJa": "岐阜県池田町の林道で70代男性がクマに襲われ軽傷、入山禁止に",
+          "titleJa": "群馬の山奥に眠る廃線と謎の巨大建造物、55年前に地図から消えた鉄道の歴史",
           "summaryJa": [
-            "16日午前、岐阜県池田町の林道でランニングをしていた70代の男性がクマに襲われ軽いケガをしました。",
-            "男性は右頬を引っかかれ軽傷を負ったとのことです。",
-            "岐阜県は当面の間、入山を禁止しパトロールを行うとしています。"
+            "群馬県の山奥に、55年前に地図から消えた廃線と、謎の巨大コンクリート建造物が残されています。",
+            "記事では、立ち入り禁止の廃線トンネルの先に広がる、その鉄道の歴史に迫ります。",
+            "「400人の囚人が作った鉄道」という背景も紹介され、その正体が明かされます。"
           ]
         },
         {
-          "title": "明日17日 東京都心や千葉は大きく気温が上昇 関東～九州は急な雨に注意(tenki.jp)",
+          "title": "避難所ろう者に情報届かず 「見える方法で伝えて」(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:22:03Z",
-          "excerpt": "明日17日も、東日本から西日本には、太平洋側から湿った空気が流れ込みやすいでしょう。四国山地の南側では雨が続けて降りやすく、関東から九州でも局地的に雨が降る見込みです。また、東京都心や千葉で今日16日",
-          "link": "https://news.yahoo.co.jp/articles/a8c2e2ed955e1e20e548cb61fc2af9f74b9f878c?source=rss",
+          "publishedAt": "2026-08-16T21:07:43Z",
+          "excerpt": "熊本地震で避難所生活を送るろう者に必要な情報が届いていない。おにぎりやパンなど支援物資の情報を受け取ることができていなかったり、困り事を十分に伝えられなかったり。筆談ボードが置かれるなど一部では改善",
+          "link": "https://news.yahoo.co.jp/articles/c146cdfe5cfc2e50e602cda40ff1c8d202d70e5b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "明日17日、関東から九州で急な雨に注意、東京都心・千葉は気温上昇",
+          "titleJa": "熊本地震避難所でろう者に情報届かず、視覚的な伝達を求める声",
           "summaryJa": [
-            "明日17日も、東日本から西日本にかけて太平洋側から湿った空気が流れ込みやすいでしょう。",
-            "四国山地の南側では雨が降りやすく、関東から九州でも局地的に雨が降る見込みです。",
-            "東京都心や千葉では今日16日よりも気温が大きく上昇する予報です。"
+            "熊本地震の避難所で、ろう者が必要な情報を受け取れていない実態が明らかになりました。",
+            "支援物資の情報が届かなかったり、困り事を伝えられなかったりするケースが発生。",
+            "一部では筆談ボードの設置など改善も見られますが、「見える方法で伝えてほしい」との声が上がっています。"
           ]
         },
         {
-          "title": "千葉豪雨 10人死亡“行方不明者”捜索も 鉄道や道路の復旧は…(テレビ朝日系（ANN）)",
+          "title": "20年ぶり「オランダご訪問」雅子さまとオランダ王室を結ぶ絆…恩人「ベアトリクス元女王」と「マキシマ王妃」に通じる“厳しいバッシング”を乗り越えた過去(デイリー新潮)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:21:51Z",
-          "excerpt": "千葉県の豪雨から16日で3日です。被害の激しかった地域を中心に、鉄道や道路など依然として復旧の見通しが立たないところも残っています。 ■千葉豪雨 10人死亡“行方不明者”捜索も 記録的豪雨から3",
-          "link": "https://news.yahoo.co.jp/articles/ad44fff3f89ba3182c03347f21bbc2bac5558d69?source=rss",
+          "publishedAt": "2026-08-16T21:05:47Z",
+          "excerpt": "6月の訪欧で皇后雅子さまが滞在されたのは、オランダ王室の私的な古城「ヘット・アウデ・ロー城」だった。この城を雅子さまが初めて訪れたのは、今からちょうど20年前の2006年8月。敷地内にあるヘット・ロ",
+          "link": "https://news.yahoo.co.jp/articles/67c6dd9ce49ce25348aab80517112c72befa72d5?source=rss",
           "translationStatus": "translated",
-          "titleJa": "千葉豪雨から3日、死者10人 行方不明者の捜索続く、復旧に時間",
+          "titleJa": "皇后雅子さま、20年ぶりオランダご訪問 オランダ王室との絆",
           "summaryJa": [
-            "千葉県の豪雨発生から16日で3日が経過しました。",
-            "この豪雨により、これまでに10人の死亡が確認されています。",
-            "被害の激しい地域では、鉄道や道路の復旧に依然として見通しが立たない状況が続いています。"
+            "皇后雅子さまが6月の訪欧で、オランダ王室の私的な古城「ヘット・アウデ・ロー城」に滞在されました。",
+            "雅子さまがこの城を初めて訪れたのは20年前の2006年8月で、今回が20年ぶりのご訪問となります。",
+            "この訪問は、雅子さまとオランダ王室との長年の絆を示すものとして注目されています。"
           ]
         },
         {
-          "title": "48歳男性の遺体を病院に遺棄した疑いでイラン人ら男女3人逮捕の事件 犯行に使われた車が隣の市内に乗り捨てられる(東海テレビ)",
+          "title": "後遺症でもコスメで笑顔に 脳卒中当事者の声で開発(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:21:16Z",
-          "excerpt": "愛知県の豊川市民病院で、イラン国籍の男性の遺体を遺棄したとして男女3人が逮捕された事件で、犯行に使われた車が蒲郡市内に乗り捨てられていたことが分かりました。 イラン国籍のキャラミ・ナーデル容疑者",
-          "link": "https://news.yahoo.co.jp/articles/e146c1e6244cf875deaa52e74ddb1d50b0b25df4?source=rss",
+          "publishedAt": "2026-08-16T21:05:05Z",
+          "excerpt": "脳卒中による後遺症などで体の一部がうまく動かせない人にもスキンケアやメークで笑顔になってもらおうと、化粧品メーカーと支援団体がタッグを組み、メークセミナーを開いたり、当事者の声を取り入れたユニバーサ",
+          "link": "https://news.yahoo.co.jp/articles/0033183c4353e5d7903a6718c78280681e143fb9?source=rss",
           "translationStatus": "translated",
-          "titleJa": "病院に遺体遺棄容疑で逮捕の事件、使用車両が隣市で乗り捨て",
+          "titleJa": "脳卒中後遺症のある人もコスメで笑顔に、当事者の声で商品開発",
           "summaryJa": [
-            "愛知県豊川市民病院でイラン国籍の男性の遺体を遺棄した疑いで男女3人が逮捕された事件で、新たな事実が判明しました。",
-            "犯行に使われた車が、隣接する蒲郡市内に乗り捨てられていたことが分かりました。",
-            "逮捕されたのはイラン国籍のキャラミ・ナーデル容疑者らです。"
+            "脳卒中の後遺症で体に不自由がある人々に、スキンケアやメークで笑顔を取り戻してもらおうという取り組みが進んでいます。",
+            "化粧品メーカーと支援団体が連携し、メークセミナーの開催や商品開発を実施。",
+            "当事者の声を取り入れたユニバーサルデザインの化粧品が開発され、注目を集めています。"
           ]
         },
         {
-          "title": "【動画】17日の天気 - 西～東日本でにわか雨や雷雨も 蒸し暑さも続く 関東も暑さ厳しく（16日19時更新）(ウェザーマップ)",
+          "title": "百貨店が「アニメ」「漫画」「ゲーム」を大展開する理由…オタクコンテンツは海外の高級ブランドと肩を並べたのか(デイリー新潮)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:18:51Z",
-          "excerpt": "月曜日も西日本や東日本を中心に雲が広がりやすく、にわか雨や雷雨の所があるでしょう。局地的に強く降る所もある見込みです。湿気が多く蒸し暑さが続き、関東も東京で31℃まで上がり、暑さが厳しくなりそうです。",
-          "link": "https://news.yahoo.co.jp/articles/69f86bb594b76cee4d88e8daa5fbfae7a2b6fb23?source=rss",
+          "publishedAt": "2026-08-16T21:01:33Z",
+          "excerpt": "平成の時代は海外ブランドを盛んに誘致し、高級路線を推し進めた百貨店だが、昨今はアニメ・漫画関連の店舗が開店したり、イベントが開催されたりするようになってきた。リニューアルが進む「福岡三越」（福岡県福",
+          "link": "https://news.yahoo.co.jp/articles/c98b6b3e4f56f823c20e6b87e6d70eb25b9c96b1?source=rss",
           "translationStatus": "translated",
-          "titleJa": "17日、西日本から東日本で雨や雷雨、蒸し暑さ続く 関東も厳しい暑さ",
+          "titleJa": "百貨店がアニメ・漫画・ゲーム展開を強化、高級ブランドとの並立か",
           "summaryJa": [
-            "17日（月曜日）は、西日本や東日本を中心に雲が広がり、にわか雨や雷雨のところがあるでしょう。",
-            "局地的に強く降る可能性もあります。",
-            "湿気が多く蒸し暑さが続き、関東でも東京で31℃まで上がるなど、厳しい暑さとなる見込みです。"
+            "百貨店が近年、アニメや漫画、ゲーム関連の店舗開設やイベント開催を積極的に行っています。",
+            "平成期に海外高級ブランド誘致で高級路線を推し進めた百貨店の戦略転換が伺えます。",
+            "福岡三越など、リニューアルを進める百貨店でこうした動きが顕著になっています。"
           ]
         },
         {
-          "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流(テレビ朝日系（ANN）)",
+          "title": "〈令和8年熊本地震〉「耐震等級3だから安心」は危険…「大地震に強い家」の本当の条件とは？(ダイヤモンド・オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:07:09Z",
-          "excerpt": "被災した人たちにエールを送るため、サッカー日本代表の森保一監督が熊本県を訪れました。 森保監督は、地震で大きな被害を受けた氷川町の中学校を訪れて、子どもたちと交流しました。 サッカー日本代表 森",
-          "link": "https://news.yahoo.co.jp/articles/b0db78a9d619a81e69a11a1d0892f8adbff8eab4?source=rss",
+          "publishedAt": "2026-08-16T21:00:35Z",
+          "excerpt": "「令和8年熊本地震」では、激しい揺れによって倒壊した住宅の映像が映し出され、住まいの耐震性が改めて注目された。地震に強い家を建てるには、建物の構造だけでなく、土地の揺れやすさや間取り、停電対策、地震",
+          "link": "https://news.yahoo.co.jp/articles/19b9105da7bc77e6d49d7783a548f9184c116467?source=rss",
           "translationStatus": "translated",
-          "titleJa": "森保監督、熊本地震被災地を訪問 子どもたちと交流しエール",
+          "titleJa": "「令和8年熊本地震」で注目、大地震に強い家の真の条件とは",
           "summaryJa": [
-            "サッカー日本代表の森保一監督が、熊本地震の被災地である熊本県を訪問しました。",
-            "森保監督は「励ましのエールを届けたい」と語り、地震で大きな被害を受けた氷川町の中学校を訪れました。",
-            "そこで子どもたちと交流し、被災者への応援メッセージを送りました。"
-          ]
-        },
-        {
-          "title": "クマに襲われ70代男性けが 林道をランニング中に…岐阜・池田町(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-08-16T09:05:10Z",
-          "excerpt": "岐阜県池田町の林道でランニングをしていた70代の男性がクマに襲われました。軽傷だということです。 県によりますと、16日午前10時15分ごろ、池田町片山の林道でランニングをしていた70代の男性がツ",
-          "link": "https://news.yahoo.co.jp/articles/2902b7814da5193f1c44ead88e0e879af59010a0?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "岐阜県池田町の林道でランニング中の70代男性がクマに襲われ軽傷",
-          "summaryJa": [
-            "16日午前、岐阜県池田町の林道でランニングをしていた70代の男性がクマに襲われる事故がありました。",
-            "男性はツキノワグマに襲われ、軽傷を負ったということです。",
-            "事故は午前10時15分ごろ、池田町片山の林道で発生しました。"
+            "「令和8年熊本地震」で住宅の倒壊映像が報じられ、住まいの耐震性が改めて注目されています。",
+            "記事では、「耐震等級3だから安心」という考え方に警鐘を鳴らしています。",
+            "大地震に強い家を建てるには、建物の構造だけでなく、土地の揺れやすさや間取り、停電対策なども重要だと指摘しています。"
           ]
         }
       ]
@@ -250,143 +292,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+          "title": "Believe the unbelievable in this market — things can be different this time",
           "source": "CNBC Markets",
-          "publishedAt": "2026-08-16T09:45:45Z",
-          "excerpt": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of th...",
-          "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+          "publishedAt": "2026-08-16T21:32:25Z",
+          "excerpt": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
+          "link": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
           "translationStatus": "translated",
-          "titleJa": "欧州株式市場の「誤解」を払拭、ゴールドマン・サックスが隠れた優良市場を指摘",
+          "titleJa": "この市場では「信じられないこと」を信じよ、今回は違うかもしれない",
           "summaryJa": [
-            "欧州市場は、より規模が大きく流動性の高い米国市場と比較され、注目度が低い傾向にある。",
-            "しかし、ゴールドマン・サックスは、欧州市場に関するいくつかの「誤解」を払拭する見解を示した。",
-            "同社は、欧州市場が隠れた優良市場である可能性を指摘している。"
+            "市場で驚異的なパフォーマンスを見せている4銘柄がある。",
+            "これらの銘柄はウォール街で最も嫌われ、恐れられている。",
+            "しかし、今回は状況が異なる可能性があると指摘されている。"
           ]
         },
         {
-          "title": "Morgan Stanley sends a blunt Tesla message to investors",
+          "title": "Insider Sale: Monolithic Power Systems Interim CFO Sells 105 Shares for $141,148",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-08-16T01:03:00Z",
+          "publishedAt": "2026-08-16T21:15:01Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/insider-sale-monolithic-power-systems-211501756.html",
           "translationStatus": "translated",
-          "titleJa": "モルガン・スタンレー、テスラ投資家へ率直なメッセージ",
+          "titleJa": "Monolithic Power Systems暫定CFO、105株を14万1148ドルで売却",
           "summaryJa": [
-            "モルガン・スタンレーが、テスラ株の投資家に対し、率直なメッセージを送った。",
-            "詳細は不明だが、投資判断に影響を与える内容とみられる。",
-            "投資家は今後の動向に注目している。"
+            "Monolithic Power Systemsの暫定CFOが自社株を売却した。",
+            "売却されたのは105株で、総額は14万1148ドルに上る。",
+            "これはインサイダー取引の一環として報告された。"
           ]
         },
         {
-          "title": "Historic retailer gets lifeline after warning it could collapse",
+          "title": "Bank of America sees ‘great convergence’ across America’s two economies",
           "source": "Yahoo Finance",
-          "publishedAt": "2026-08-15T22:07:00Z",
+          "publishedAt": "2026-08-16T21:03:00Z",
           "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
+          "link": "https://finance.yahoo.com/economy/articles/bank-america-sees-great-convergence-210300748.html",
           "translationStatus": "translated",
-          "titleJa": "経営危機に瀕した老舗小売店、存続へ向けた支援を獲得",
+          "titleJa": "バンク・オブ・アメリカ、米国の二つの経済に「大きな収斂」を予測",
           "summaryJa": [
-            "経営破綻の可能性を警告していた老舗小売店が、新たな支援を得た。",
-            "これにより、同社は存続への道筋を確保した模様。",
-            "詳細は不明だが、事業継続に向けた重要な局面を迎えている。"
+            "バンク・オブ・アメリカが米国の経済動向について分析を発表した。",
+            "同行は、米国内の二つの異なる経済状況が「大きな収斂」に向かっていると見ている。",
+            "この収斂が今後の経済にどのような影響を与えるか注目される。"
           ]
         },
         {
-          "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-08-15T20:38:29Z",
-          "excerpt": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-          "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+          "title": "Here's How to Read BBB Foods' Latest Insider Filings as Chain Grows 39% Despite Soft Economy",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:59:40Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-read-bbb-foods-latest-205940527.html",
           "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡巡るトランプ氏の発言にイランが反発、船舶攻撃報道も",
+          "titleJa": "BBB Foods、軟調な経済下で39%成長、最新のインサイダー取引報告書の読み方",
           "summaryJa": [
-            "トランプ氏がホルムズ海峡が間もなく米国の領土になると主張したことに対し、イランの副外務大臣が反発した。",
-            "副外務大臣は、ホルムズ海峡は「イランのものであり続ける」と述べた。",
-            "別の船舶が攻撃されたとの報道もあり、地域の緊張が高まっている。"
+            "BBB Foodsは経済が軟調な中でも39%の成長を遂げている。",
+            "同社の最新のインサイダー取引報告書が注目されている。",
+            "この報告書から企業の健全性や将来性について読み解く方法が提示されている。"
           ]
         },
         {
-          "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-08-15T20:30:00Z",
-          "excerpt": "“We were advised to return the bonus and take out a home-equity loan.”",
-          "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:57:04Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/stripe-reportedly-acquire-ai-gateway-205704570.html",
           "translationStatus": "translated",
-          "titleJa": "4万2000ドルのボーナス、医療保険補助金への影響と専門家のアドバイス",
+          "titleJa": "Stripe、AIゲートウェイ新興企業OpenRouterを70億ドル超で買収か",
           "summaryJa": [
-            "夫が4万2000ドルのボーナスを受け取ったことで、アフォーダブルケア法（ACA）の補助金がなくなる可能性が懸念されている。",
-            "このボーナスは「諸刃の剣」であると指摘されている。",
-            "専門家からは、ボーナスを返還し、住宅担保ローンを組むようアドバイスがあった。"
+            "決済サービス大手Stripeが、AIゲートウェイの新興企業OpenRouterを買収する模様だ。",
+            "買収額は70億ドル（約1兆円）を超える見込みと報じられている。",
+            "この買収はStripeのAI分野への注力を示すものとみられる。"
           ]
         },
         {
-          "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-08-15T20:00:00Z",
-          "excerpt": "“I don’t expect my marginal tax rate to be materially different in the future.”",
-          "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+          "title": "BBB Foods Shows a Net Loss but Its Cash Flow Surged. Here's How to Read an Insider's Trade Before Last Week's Earnings",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:49:43Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bbb-foods-shows-net-loss-204943229.html",
           "translationStatus": "translated",
-          "titleJa": "63歳退職CPA、120万ドルの401(k)保有者がロス転換の必要性を検討",
+          "titleJa": "BBB Foods、純損失もキャッシュフローは急増、先週の決算前のインサイダー取引の読み方",
           "summaryJa": [
-            "63歳で退職した公認会計士が、120万ドルの401(k)を保有している。",
-            "将来の限界税率が大きく変わるとは予想していないため、ロス転換の必要性について疑問を呈している。",
-            "専門家のアドバイスが求められている状況。"
+            "BBB Foodsは純損失を計上したが、キャッシュフローは急増している。",
+            "先週の決算発表前にインサイダー取引が行われていたことが明らかになった。",
+            "このインサイダー取引が企業の財務状況をどう示唆するか分析されている。"
           ]
         },
         {
-          "title": "Think interest rates are high now? These charts offer a different perspective.",
-          "source": "MarketWatch",
-          "publishedAt": "2026-08-15T19:01:00Z",
-          "excerpt": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
-          "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+          "title": "An Estate Can Pick Its Own Valuation Date. Here’s the Six-Month Do-Over That Cuts the Tax Bill When Markets Fall",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:48:53Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/real-estate/articles/estate-pick-own-valuation-date-204853000.html",
           "translationStatus": "translated",
-          "titleJa": "現在の金利は本当に高いのか？チャートが示す異なる視点",
+          "titleJa": "遺産評価日を自由に選択可能、市場下落時に税負担を軽減する6ヶ月間の再評価制度",
           "summaryJa": [
-            "現在の金利水準が高いと感じる人々に対し、複数のチャートが異なる視点を提供している。",
-            "週末の読み物として、注目すべき住宅市場10選や株式推奨銘柄も紹介されている。",
-            "また、健康保険を巡る議論についても触れられている。"
+            "遺産は評価日を自由に選択できる制度がある。",
+            "市場が下落した場合、6ヶ月間の再評価制度を利用することで税負担を軽減できる。",
+            "この制度は、相続税の節税対策として有効な手段となる。"
           ]
         },
         {
-          "title": "Owning a home is overrated. Renting is now often a much better money move.",
-          "source": "MarketWatch",
-          "publishedAt": "2026-08-15T18:23:00Z",
-          "excerpt": "There are better ways to think about investments than homeownership.",
-          "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+          "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:23:14Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
           "translationStatus": "translated",
-          "titleJa": "持ち家は過大評価されている？賃貸がより賢明な選択肢に",
+          "titleJa": "NVIDIA、AIの裏側にある電力に30億ドルを投資",
           "summaryJa": [
-            "持ち家を持つことの価値が過大評価されているという見方が示されている。",
-            "現在では、賃貸の方が経済的に賢明な選択となる場合が多いと指摘されている。",
-            "投資について考える際、持ち家以外のより良い方法があると提言されている。"
+            "NVIDIAがAI関連技術への大規模な投資を発表した。",
+            "投資額は30億ドルに上り、AIを支える電力インフラに焦点を当てている。",
+            "これはAI技術の発展に伴う電力需要の増加に対応する動きとみられる。"
           ]
         },
         {
-          "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-          "source": "MarketWatch",
-          "publishedAt": "2026-08-15T18:05:00Z",
-          "excerpt": "For diversification in the stock market, there are actively managed alternatives to index funds.",
-          "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+          "title": "1 Major Red Flag AMD Investors Can't Afford to Ignore",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:18:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-major-red-flag-amd-201800600.html",
           "translationStatus": "translated",
-          "titleJa": "800銘柄を保有するアクティブファンド、主要指数を上回る成績",
+          "titleJa": "AMD投資家が無視できない一つの大きな危険信号",
           "summaryJa": [
-            "800もの銘柄を保有するアクティブ運用ファンドが、主要な株価指数を上回る成績を収めている。",
-            "株式市場での分散投資において、インデックスファンド以外にもアクティブ運用という選択肢があることを示している。",
-            "その成功の秘訣が注目されている。"
+            "AMDの投資家にとって、無視できない一つの大きな危険信号が指摘されている。",
+            "この警告は、同社の将来性や株価に影響を与える可能性がある。",
+            "投資家は、このリスク要因を慎重に評価する必要がある。"
           ]
         },
         {
-          "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-08-15T17:35:09Z",
-          "excerpt": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains u...",
-          "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+          "title": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-08-16T20:14:00Z",
+          "excerpt": "",
+          "link": "https://www.wsj.com/finance/prosecutors-focus-on-four-businesses-tied-to-dodgers-owner-mark-walter-965e382b?siteid=yhoof2&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "大麻改革、中間選挙の主要争点に浮上か",
+          "titleJa": "検察、ドジャースオーナーのマーク・ウォルター氏関連の4事業に注目",
           "summaryJa": [
-            "11月の中間選挙が迫る中、大麻改革が主要な争点として浮上している。",
-            "この問題は有権者からの人気が高い。",
-            "しかし、選挙結果を左右する力については、まだ不透明な部分がある。"
+            "検察当局が、ドジャースのオーナーであるマーク・ウォルター氏に関連する4つの事業に焦点を当てている。",
+            "これらの事業について、何らかの調査が行われている模様だ。",
+            "ウォルター氏の事業活動に対する監視が強化されていることが示唆される。"
           ]
         }
       ]
@@ -396,31 +438,101 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "OpenAI reportedly disbanded its preparedness team",
+          "source": "The Verge AI",
+          "publishedAt": "2026-08-16T21:32:56Z",
+          "excerpt": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "translationStatus": "translated",
+          "titleJa": "OpenAI、準備チームを解散か",
+          "summaryJa": [
+            "英フィナンシャル・タイムズ紙によると、OpenAIは先月末に準備チームを解散した模様です。",
+            "このチームは、AIの安全性や将来のリスクに備える役割を担っていました。",
+            "解散の背景や具体的な理由は報じられていません。"
+          ]
+        },
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-16T20:57:04Z",
+          "excerpt": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "translationStatus": "translated",
+          "titleJa": "Stripe、AIゲートウェイ新興企業OpenRouterを70億ドル超で買収か",
+          "summaryJa": [
+            "決済サービス大手Stripeが、AIゲートウェイの新興企業OpenRouterを70億ドル以上で買収する見込みです。",
+            "OpenRouterのCEOは、自社を「AI版Stripe」と表現していました。",
+            "この買収により、StripeはAI分野での存在感を強化するとみられます。"
+          ]
+        },
+        {
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-16T20:32:01Z",
+          "excerpt": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "translationStatus": "translated",
+          "titleJa": "マーク・ザッカーバーグ氏のAI構想、なぜ受け入れられないのか",
+          "summaryJa": [
+            "最新のEquityポッドキャストでは、マーク・ザッカーバーグ氏が提唱するAIの未来像が、なぜ全ての人に受け入れられていないのかを議論しています。",
+            "彼のAIに関するビジョンに対する世間の反応や懸念点が取り上げられました。",
+            "ポッドキャストでは、その背景にある理由が分析されています。"
+          ]
+        },
+        {
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-16T16:53:51Z",
+          "excerpt": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic CEO、AIへの反発は「根本的に信頼の危機」と指摘",
+          "summaryJa": [
+            "Anthropicのダリオ・アモデイCEOは、AIに対する反発は「根本的に信頼の危機」であると述べました。",
+            "彼は、自身がAIについて過度に悲観的な見方をしているという意見に反論しています。",
+            "AI技術の発展に伴う信頼構築の重要性を強調しました。"
+          ]
+        },
+        {
+          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "source": "The Verge AI",
+          "publishedAt": "2026-08-16T14:57:57Z",
+          "excerpt": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work,...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "translationStatus": "translated",
+          "titleJa": "ChatGPTのデスクトップアプリ、操作履歴を学習データに利用",
+          "summaryJa": [
+            "macOS版ChatGPTのデスクトップアプリに「Computer History」という新機能が追加されました。",
+            "この機能は、ユーザーのクリックやキー入力などの操作を追跡します。",
+            "ユーザーの作業方法を学習し、それをAIのトレーニングデータとして活用するとのことです。"
+          ]
+        },
+        {
+          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+          "source": "The Verge AI",
+          "publishedAt": "2026-08-16T14:21:27Z",
+          "excerpt": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the...",
+          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "translationStatus": "translated",
+          "titleJa": "チャットボットになりきってAIをからかうゲームが登場",
+          "summaryJa": [
+            "「Your AI Slop Bores Me」というシンプルなゲームが話題になっています。",
+            "このゲームには「人間」と「AIになりきる」の2つのタブがあります。",
+            "ユーザーはリクエストを入力し、AIになりきって応答することで、AIの費用で笑いを楽しむことができます。"
+          ]
+        },
+        {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-15T21:29:19Z",
           "excerpt": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
           "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
           "translationStatus": "translated",
-          "titleJa": "継父がGrokを使い幼少期の写真を性的画像に加工と女性が主張",
+          "titleJa": "継父がAI「Grok」で幼少期の写真を性的画像に加工と女性が訴え",
           "summaryJa": [
-            "ある女性が、継父がAIツール「Grok」を使って自身の幼少期の写真を性的画像に加工したと主張しています。",
-            "女性は、AIツールが「日常生活を児童性的虐待に変えている」と訴えています。",
-            "この主張は、AI技術の悪用に関する深刻な懸念を提起しています。"
-          ]
-        },
-        {
-          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-          "source": "The Verge AI",
-          "publishedAt": "2026-08-15T20:43:38Z",
-          "excerpt": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the...",
-          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-          "translationStatus": "translated",
-          "titleJa": "チャットボットになりきってAIをからかうウェブサイトが登場",
-          "summaryJa": [
-            "「Your AI Slop Bores Me」というウェブサイトが、AIをからかうシンプルな方法を提供しています。",
-            "このサイトには「人間」と「AIになりきる」の2つのタブがあります。",
-            "ユーザーはAIになりきって応答することで、AIの欠点をユーモラスに表現できます。"
+            "ある女性が、継父がAIツール「Grok」を使って幼少期の写真を性的画像に加工したと主張しています。",
+            "女性は、AIツールが「日常生活を児童性的虐待に変えている」と訴えました。",
+            "この事例は、AI技術の悪用に関する深刻な懸念を浮き彫りにしています。"
           ]
         },
         {
@@ -430,11 +542,11 @@
           "excerpt": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
           "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
           "translationStatus": "translated",
-          "titleJa": "Anthropic、Claudeの新しい透かし機能の詳細を公開",
+          "titleJa": "Anthropic、AI「Claude」の新しい透かし機能の詳細を公開",
           "summaryJa": [
-            "Anthropic社が、AIモデル「Claude」に導入される新しい透かし機能について詳細を明らかにしました。",
-            "透かしがどのように機能するのか、編集で隠せるのか、そしてコードにどのような影響を与えるのかが説明されています。",
-            "これは、AI生成コンテンツの識別と信頼性に関する取り組みの一環です。"
+            "Anthropicは、AIモデル「Claude」に導入される新しい透かし機能について詳細を明らかにしました。",
+            "透かしがどのように機能するのか、編集で隠せるのか、そしてコードにどのような影響があるのかが説明されています。",
+            "AI生成コンテンツの識別と信頼性向上を目的とした取り組みです。"
           ]
         },
         {
@@ -444,11 +556,11 @@
           "excerpt": "AI coding startup Cursor is now officially a part of SpaceX.",
           "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
           "translationStatus": "translated",
-          "titleJa": "SpaceX、AIコーディングスタートアップCursorの買収を正式完了",
+          "titleJa": "SpaceX、AIコーディング新興企業Cursorの買収を完了",
           "summaryJa": [
-            "SpaceX社が、AIコーディングスタートアップ「Cursor」の買収を正式に完了しました。",
-            "これにより、CursorはSpaceXの一部となりました。",
-            "この買収は、SpaceXのAI技術への投資を示唆しています。"
+            "SpaceXが、AIコーディングの新興企業Cursorの買収を正式に完了しました。",
+            "これにより、CursorはSpaceXの一部門となりました。",
+            "SpaceXは、AI技術を自社の事業に統合し、開発能力を強化する狙いがあるとみられます。"
           ]
         },
         {
@@ -458,81 +570,11 @@
           "excerpt": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week...",
           "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
           "translationStatus": "translated",
-          "titleJa": "Instagramが新しいワードマークを導入",
+          "titleJa": "Instagramが新しいワードマークを発表",
           "summaryJa": [
-            "Instagramが今週、新しいワードマークを発表しました。",
-            "同社は、これまでの象徴的なワードマークが古く見えたため、変更したようです。",
-            "この変更は、ブランドイメージの刷新を目的としています。"
-          ]
-        },
-        {
-          "title": "You can now turn off Google Gemini’s visible watermarks",
-          "source": "The Verge AI",
-          "publishedAt": "2026-08-14T16:49:56Z",
-          "excerpt": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can togg...",
-          "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "translationStatus": "translated",
-          "titleJa": "Google Gemini、AI生成コンテンツの可視透かしをオフにする機能を提供",
-          "summaryJa": [
-            "Googleは、AIツール「Gemini」で作成された画像、動画、音楽から可視透かしを削除できる機能を提供開始しました。",
-            "このアップデートにより、ユーザーは設定を切り替えることで透かしを非表示にできます。",
-            "これは、AI生成コンテンツの利用における柔軟性を高めるものです。"
-          ]
-        },
-        {
-          "title": "Google will now allow users to remove visible watermark from its AI generations",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-14T16:13:40Z",
-          "excerpt": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-          "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-          "translationStatus": "translated",
-          "titleJa": "Google、AI生成コンテンツの可視透かし削除を許可",
-          "summaryJa": [
-            "Googleは、AIが生成したコンテンツから可視透かしを削除する機能をユーザーに提供します。",
-            "この設定をオフにしても、AI生成ファイルを識別するための不可視のベンチマークには影響しません。",
-            "ユーザーは、コンテンツの見た目に関するより多くの制御を得ることができます。"
-          ]
-        },
-        {
-          "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-14T15:43:28Z",
-          "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the...",
-          "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-          "translationStatus": "translated",
-          "titleJa": "Meta、オープンウェイトAIモデル「Glimmer」を公開",
-          "summaryJa": [
-            "Meta社は今週、オープンウェイトのAIモデル「Glimmer」をリリースしました。",
-            "このモデルは誰でもダウンロードし、自身のハードウェアで実行可能です。",
-            "これは、同社のAI技術を「誰もが利用できる」という信念を反映している可能性があります。"
-          ]
-        },
-        {
-          "title": "Kog is going deeper to squeeze more inference out of GPUs",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-14T14:50:11Z",
-          "excerpt": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-          "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-          "translationStatus": "translated",
-          "titleJa": "フランスのスタートアップKog、GPUからより多くの推論性能を引き出す技術を開発",
-          "summaryJa": [
-            "フランスのスタートアップKogは、GPUからより多くの推論性能を引き出すための技術を開発しています。",
-            "同社によると、GPUがエージェントワークフローに適さないという考えは誤解である可能性があります。",
-            "Kogは、GPUの潜在能力を最大限に活用することを目指しています。"
-          ]
-        },
-        {
-          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-14T14:05:00Z",
-          "excerpt": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data center...",
-          "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-          "translationStatus": "translated",
-          "titleJa": "米国の一部で天然ガス価格が3倍に、AIデータセンター運営企業に影響か",
-          "summaryJa": [
-            "新しい予測が正しければ、米国の一部地域で天然ガス価格が3倍になる可能性があります。",
-            "これは、AIデータセンターを運営するハイパースケーラー企業に莫大な電力費用を課すことになります。",
-            "天然ガスへの依存度が高い企業は、この価格上昇を後悔するかもしれません。"
+            "Instagramが、ブランドの象徴であったワードマークを刷新しました。",
+            "同社は、従来のワードマークが古く見えると感じたため、今週新しいデザインを導入したとのことです。",
+            "この変更は、ブランドイメージの現代化を図るものとみられます。"
           ]
         }
       ]
@@ -542,17 +584,59 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Sen. Murkowski Pushes for Delayed Federal Grants for Alaska Native Education",
+          "source": "The 74",
+          "publishedAt": "2026-08-16T16:30:00Z",
+          "excerpt": "The U.S. Department of Education is expected to award $41.3 million in grant funding through the Alaska Native Education Program to 26 Alas...",
+          "link": "https://www.the74million.org/article/sen-murkowski-pushes-for-delayed-federal-grants-for-alaska-native-education/",
+          "translationStatus": "translated",
+          "titleJa": "マコウスキー上院議員、アラスカ先住民教育への連邦助成金延期を推進",
+          "summaryJa": [
+            "米国教育省は、アラスカ先住民教育プログラムを通じて、26のアラスカ州の団体に総額4130万ドルの助成金を支給する予定です。",
+            "マコウスキー上院議員は、この連邦助成金の支給延期を求めています。",
+            "この動きは、アラスカ先住民の教育支援に関する議論を呼んでいます。"
+          ]
+        },
+        {
+          "title": "The movement to remake school playgrounds as urban climate oases",
+          "source": "The Hechinger Report",
+          "publishedAt": "2026-08-16T16:01:00Z",
+          "excerpt": "Stepping into the schoolyard at the Adolph S. Ochs public school in Manhattan’s bustling Hell’s Kitchen neighborhood, you’re greeted by a c...",
+          "link": "https://hechingerreport.org/the-movement-to-remake-school-playgrounds-as-urban-climate-oases/",
+          "translationStatus": "translated",
+          "titleJa": "学校の校庭を都市の気候オアシスへ変革する動き",
+          "summaryJa": [
+            "マンハッタンのヘルズキッチン地区にある公立学校の校庭では、気候変動対策として校庭を再構築する動きが見られます。",
+            "これは、学校の遊び場を都市部の「気候オアシス」として機能させることを目指すものです。",
+            "都市環境における緑化と気候変動への適応策として注目されています。"
+          ]
+        },
+        {
+          "title": "Head Start Could Soon Be Overhauled. Here’s Exactly What Would Change.",
+          "source": "The 74",
+          "publishedAt": "2026-08-16T10:30:00Z",
+          "excerpt": "The Trump administration is pushing a total overhaul of Head Start that could fundamentally reshape the 60-year-old program that has provid...",
+          "link": "https://www.the74million.org/zero2eight/head-start-could-soon-be-overhauled-heres-exactly-what-would-change/",
+          "translationStatus": "translated",
+          "titleJa": "ヘッドスタートプログラム、大幅な見直しへ トランプ政権が推進",
+          "summaryJa": [
+            "トランプ政権は、60年間続くヘッドスタートプログラムの全面的な見直しを推進しています。",
+            "この見直しにより、プログラムの根幹が大きく変わる可能性があります。",
+            "貧困層の子どもたちに教育と健康サービスを提供するこのプログラムの将来が注目されています。"
+          ]
+        },
+        {
           "title": "How One Rural North Carolina School District Delivers Summer Meals",
           "source": "The 74",
           "publishedAt": "2026-08-15T16:30:00Z",
           "excerpt": "On a warm Tuesday in late July, a blue van marked with a Transylvania County Schools logo pulled into a gravel driveway and let out a light...",
           "link": "https://www.the74million.org/article/how-one-rural-nc-school-district-delivers-summer-meals/",
           "translationStatus": "translated",
-          "titleJa": "ノースカロライナ州の郡、夏季の学校給食を配送",
+          "titleJa": "ノースカロライナ州の地方学区、夏季の給食提供方法を工夫",
           "summaryJa": [
-            "7月下旬の暖かい火曜日、トランスylvania郡学校のロゴが入った青いバンが砂利道に停車した。",
-            "このバンは、夏季の学校給食を生徒たちに届けるために使用されている。",
-            "地方の学校区がどのように夏季の食事を提供しているかを紹介する記事。"
+            "ノースカロライナ州のトランシルバニア郡学区では、夏季の給食提供に独自の工夫を凝らしています。",
+            "7月下旬のある火曜日には、学区のロゴが入った青いバンが砂利道に入り、給食を届けました。",
+            "これは、地方の生徒たちに夏季休暇中も食事を届けるための取り組みです。"
           ]
         },
         {
@@ -564,9 +648,9 @@
           "translationStatus": "translated",
           "titleJa": "デトロイトで新たな提携、大学・キャリア支援を地域住民に提供",
           "summaryJa": [
-            "デトロイトで新たな提携が結ばれた。",
-            "この提携により、中学生から成人学習者までが大学やキャリアに関するリソースにアクセスできるようになる。",
-            "地域住民が就職や進学に役立つ支援を受けられるよう設計されている。"
+            "デトロイトで新たな提携が結ばれ、地域住民に大学進学やキャリア形成のためのリソースが提供されます。",
+            "対象は中学生から成人学習者までと幅広く、住民が労働力に参入するのを支援する目的です。",
+            "この取り組みは、デトロイトの教育と雇用機会の向上を目指します。"
           ]
         },
         {
@@ -576,11 +660,11 @@
           "excerpt": "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy. The coming s...",
           "link": "https://www.chalkbeat.org/detroit/2026/08/14/what-to-expect-in-detroit-schools-for-the-2026-27-school-year/",
           "translationStatus": "translated",
-          "titleJa": "デトロイトの新学期、保護者の関与と登校支援強化に期待",
+          "titleJa": "デトロイトの新学年、保護者の関与と登校支援強化に焦点",
           "summaryJa": [
-            "デトロイトの新学期では、保護者の関与が重視される見込み。",
-            "子どもたちの登校を促すためのリソースも強化される予定。",
-            "市の公立学校制度とミシガン州の教育政策に関する情報が提供される。"
+            "デトロイトでは新学年を迎え、保護者の学校への関与を深めることが重視されています。",
+            "子どもたちの登校を促すための資源も強化される見込みです。",
+            "これは、デトロイトの公立学校制度とミシガン州の教育政策に関する動向の一部です。"
           ]
         },
         {
@@ -592,9 +676,9 @@
           "translationStatus": "translated",
           "titleJa": "コロラド州の「公立キリスト教学校」開設団体、活動終了の可能性",
           "summaryJa": [
-            "コロラド州で「公立キリスト教学校」を開設した教育団体の活動が終焉を迎える可能性がある。",
-            "この団体に関する最新情報が報じられている。",
-            "コロラド州の教育関連ニュースとして注目されている。"
+            "コロラド州で「公立キリスト教学校」を開設した教育団体の活動が、終焉を迎える可能性があります。",
+            "この団体は、公立学校の枠組みで宗教教育を提供することについて議論を呼んでいました。",
+            "コロラド州の教育界における今後の動向が注目されます。"
           ]
         },
         {
@@ -604,11 +688,11 @@
           "excerpt": "This story originally appeared in New York Focus , a nonprofit news publication investigating power in New York. Sign up for their newslett...",
           "link": "https://www.chalkbeat.org/newyork/2026/08/14/trump-administration-cuts-sex-education-funding/",
           "translationStatus": "translated",
-          "titleJa": "ニューヨーク州、ティーン妊娠増加で性教育資金を数百万ドル喪失",
+          "titleJa": "ニューヨーク州、ティーン妊娠増加で性教育資金数百万ドルを失う",
           "summaryJa": [
-            "ニューヨーク州でティーンエイジャーの妊娠が増加した。",
-            "これを受け、州は性教育関連の資金数百万ドルを失った。",
-            "この問題は、ニューヨーク州の権力を調査する非営利ニュース出版物によって報じられた。"
+            "ニューヨーク州では、ティーンエイジャーの妊娠が増加したことを受け、性教育プログラムへの数百万ドル規模の資金を失っています。",
+            "この資金は、若者の性に関する健康教育を支援するために使われていました。",
+            "資金削減が、今後の性教育の取り組みにどのような影響を与えるか懸念されています。"
           ]
         },
         {
@@ -620,9 +704,9 @@
           "translationStatus": "translated",
           "titleJa": "元ケンブリッジ大学教授ジェイソン・アーデイ氏が死去",
           "summaryJa": [
-            "元ケンブリッジ大学教授のジェイソン・アーデイ氏が死亡しているのが発見された。",
-            "警察によると、41歳の同氏は反応がない状態で発見されたという。",
-            "詳細は不明だが、教育界に衝撃を与えている。"
+            "元ケンブリッジ大学教授のジェイソン・アーデイ氏が亡くなっているのが発見されました。",
+            "警察によると、41歳のアーデイ氏は意識不明の状態で発見されたとのことです。",
+            "彼の死因や詳細については、現時点では明らかにされていません。"
           ]
         },
         {
@@ -634,51 +718,9 @@
           "translationStatus": "translated",
           "titleJa": "サウスカロライナ州の生徒、算数と読解力は向上も算数基準達成は半数以下",
           "summaryJa": [
-            "サウスカロライナ州の小中学生が、学年末の標準テストで過去最高の成績を記録した。",
-            "しかし、算数においては半数以上の生徒が基準を満たしていない。",
-            "読解力と算数で改善が見られるものの、課題も残る結果となった。"
-          ]
-        },
-        {
-          "title": "Why a Philly district report on the success of its summer programs includes ‘imperfect data points’",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-08-14T16:52:31Z",
-          "excerpt": "Sign up for Chalkbeat Philadelphia’s free newsletter to keep up with news on the city’s public school system. From the field trips to the c...",
-          "link": "https://www.chalkbeat.org/philadelphia/2026/08/14/summer-learning-program-enrollment-grows-academic-benefits-unclear/",
-          "translationStatus": "translated",
-          "titleJa": "フィラデルフィア学区、夏季プログラム成功報告書に「不完全なデータ」を含む理由",
-          "summaryJa": [
-            "フィラデルフィア学区の夏季プログラム成功に関する報告書に「不完全なデータポイント」が含まれている。",
-            "その理由について、記事が解説している。",
-            "市の公立学校制度に関するニュースとして注目されている。"
-          ]
-        },
-        {
-          "title": "Opinion: Head Start Was Built to Include Children With Disabilities. Don’t Weaken It",
-          "source": "The 74",
-          "publishedAt": "2026-08-14T16:30:00Z",
-          "excerpt": "The federal government last week proposed sweeping changes to Head Start, describing them as a way to expand access for children. For famil...",
-          "link": "https://www.the74million.org/zero2eight/head-start-was-built-to-include-children-with-disabilities-dont-weaken-it/",
-          "translationStatus": "translated",
-          "titleJa": "意見：障害児を包摂するヘッドスタート、弱体化させるべきではない",
-          "summaryJa": [
-            "先週、連邦政府はヘッドスタートプログラムの大幅な変更を提案した。",
-            "政府はこれを子どもたちのアクセスを拡大する方法だと説明している。",
-            "しかし、障害を持つ子どもたちを包摂するために作られたプログラムを弱体化させるべきではないという意見が述べられている。"
-          ]
-        },
-        {
-          "title": "School Backpack Overload: Heavy Bags Can Strain Kids’ Bodies",
-          "source": "The 74",
-          "publishedAt": "2026-08-14T14:30:00Z",
-          "excerpt": "Backpacks can be fashionable and functional, but they can also be too heavy — weighed down by digital devices, musical instruments, sports...",
-          "link": "https://www.the74million.org/article/school-backpack-overload-heavy-bags-can-strain-kids-bodies/",
-          "translationStatus": "translated",
-          "titleJa": "学校のリュックサック過重問題：重いカバンが子どもの体に負担",
-          "summaryJa": [
-            "学校のリュックサックは、おしゃれで機能的である一方で、重すぎる場合がある。",
-            "デジタル機器、楽器、スポーツ用品などで重くなったカバンは、子どもの体に負担をかける可能性がある。",
-            "この問題は、子どもの健康に影響を与えるとして懸念されている。"
+            "サウスカロライナ州の小中学生は、学年末の標準テストで過去最高の成績を記録しました。",
+            "しかし、算数においては、基準を満たした生徒は半数以下にとどまっています。",
+            "読解力と算数の両方で改善が見られるものの、算数の習熟度には課題が残ります。"
           ]
         }
       ]
@@ -691,7 +733,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 42,
+    "translatedItems": 49,
     "failedBatches": []
   }
 }
