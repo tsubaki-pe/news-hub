@@ -1,130 +1,124 @@
 {
-  "generatedAt": "2026-09-13T13:50:01.720305Z",
+  "generatedAt": "2026-09-13T23:11:42.706860Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+          "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T22:33:34Z",
+          "excerpt": "Germany's Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men's singles trophy in New York.",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ズベレフ選手が全米オープン初優勝、シェルビー選手を破る",
+          "summaryJa": [
+            "ドイツのアレクサンダー・ズベレフ選手が、全米オープンテニス男子シングルスで初優勝しました。",
+            "決勝ではアメリカのベン・シェルビー選手と対戦し、6-3、7-6(2)、5-7、6-2で勝利しました。",
+            "ズベレフ選手はニューヨークで初のグランドスラムタイトルを獲得しました。"
+          ]
+        },
+        {
+          "title": "Swedish party blocs tied after Sunday vote, projections say",
           "source": "BBC News",
-          "publishedAt": "2026-09-13T13:30:38Z",
-          "excerpt": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "インドネシア沖でフェリー転覆、6人死亡130人不明",
-          "summaryJa": [
-            "ジャワ海でインドネシアのフェリー「ヴァーゴ・トランスポート8」が転覆しました。",
-            "この事故により、これまでに6人が死亡し、130人が行方不明となっています。",
-            "悪天候に見舞われたとされ、現在、船舶やヘリコプターが行方不明者の捜索を続けています。"
-          ]
-        },
-        {
-          "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T13:26:45Z",
-          "excerpt": "Renewed fighting worsens Yemen’s humanitarian crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "イエメンで戦闘再燃、人道危機が悪化",
-          "summaryJa": [
-            "イエメンでは、再び戦闘が激化しています。",
-            "この戦闘の再燃により、同国の人道状況は一層悪化の一途をたどっています。",
-            "深刻な人道危機がさらに深まる事態となっています。"
-          ]
-        },
-        {
-          "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T13:09:22Z",
-          "excerpt": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
-          "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "イスラエルによる南レバノン破壊、避難民の定住困難に",
-          "summaryJa": [
-            "イスラエルによる南レバノンの破壊が、避難民の定住を恒久的に困難にしています。",
-            "多くのレバノン人避難民は、生計手段を失い、家を破壊され、治安も不安定な状況に直面しています。",
-            "これにより、彼らは根深い現実と向き合っています。"
-          ]
-        },
-        {
-          "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T13:05:40Z",
-          "excerpt": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
-          "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ウクライナのドローン攻撃で4人死亡、ロシアはポーランド国境付近を攻撃",
-          "summaryJa": [
-            "ロシアは、ウクライナによるドローン攻撃で4人が死亡したと発表しました。",
-            "両国は互いにドローンによる攻撃を続けています。",
-            "ロシアはポーランド国境付近を攻撃しています。"
-          ]
-        },
-        {
-          "title": "The Iran war reveals the limits of BRICS",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T12:46:58Z",
-          "excerpt": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
-          "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "イラン戦争がBRICSの限界を露呈",
-          "summaryJa": [
-            "イラン戦争は、BRICS諸国の限界を明らかにしています。",
-            "BRICSは経済的影響力を地政学的な影響力に転換するのに苦慮しています。",
-            "しかし、この状況には良い面もあるかもしれません。"
-          ]
-        },
-        {
-          "title": "The Houthis’ escalation in Yemen could flop",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T12:39:50Z",
-          "excerpt": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
-          "link": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+          "publishedAt": "2026-09-13T22:27:54Z",
+          "excerpt": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "failed"
         },
         {
-          "title": "LIVE: Manchester United vs Manchester City – Premier League",
+          "title": "Could AI really kill us within a decade?",
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T12:31:30Z",
-          "excerpt": "Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
+          "publishedAt": "2026-09-13T22:17:15Z",
+          "excerpt": "AI companies are warning that their technology could wipe out humanity.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T22:10:04Z",
+          "excerpt": "Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "プレミアリーグ：マンチェスター・ユナイテッド対マンチェスター・シティ（ライブ）",
+          "titleJa": "バルセロナ、レバンテに勝利し開幕連勝 ヤマルが2得点",
           "summaryJa": [
-            "プレミアリーグのマンチェスター・ユナイテッド対マンチェスター・シティ戦のライブ中継です。",
-            "ブルーノ・フェルナンデス選手とアーリング・ハーランド選手がダービーで活躍しています。",
-            "テキスト実況で最新情報をお届けします。"
+            "サッカーのバルセロナがレバンテに勝利し、今シーズン開幕から無敗を維持しています。",
+            "この試合ではヤマル選手が2得点を挙げました。",
+            "バルセロナは今シーズン全6試合に勝利しており、ラ・リーガでは5戦全勝で首位に立っています。"
           ]
         },
         {
-          "title": "India vs Sri Lanka live: Asia Cup final",
+          "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T12:06:09Z",
-          "excerpt": "Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "BRICS summit 2026: What are the key takeaways?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T12:04:39Z",
-          "excerpt": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
-          "link": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-13T11:45:24Z",
-          "excerpt": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
-          "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+          "publishedAt": "2026-09-13T22:02:10Z",
+          "excerpt": "The Americans won the 100m and 200m at the Ultimate Championship that saw elite athletes win $150,000 each.",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "米国との戦争下、イランの多くの家族にとって「尊厳ある生活」は遠い夢",
+          "titleJa": "ジェファーソン＝ウッデン、ベドナレクがアルティメット選手権短距離2冠",
           "summaryJa": [
-            "米国との戦争が続く中、多くのイラン人家族にとって尊厳ある生活は「遠い夢」となっています。",
-            "絶え間ない生活の質の低下と、近い将来の改善の見込みがない状況が続いています。",
-            "これにより、イランの人々は希望を失いつつあります。"
+            "アルティメット選手権で、アメリカのジェファーソン＝ウッデン選手とベドナレク選手が短距離種目で2冠を達成しました。",
+            "両選手は100mと200mで優勝しました。",
+            "この大会では、エリート選手がそれぞれ15万ドルを獲得しました。"
+          ]
+        },
+        {
+          "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T21:58:17Z",
+          "excerpt": "Erling Haaland's derby winner against Manchester United should not have stood, Premier League referees' body admits.",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Tehran and Muscat delay talks, citing regional consensus need",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T21:50:50Z",
+          "excerpt": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
+          "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "A third person has died of measles in the US, health officials say",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T21:21:32Z",
+          "excerpt": "Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.",
+          "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国で麻疹による死者3人目、ペンシルベニア州で40代女性が死亡",
+          "summaryJa": [
+            "米国で麻疹（はしか）による死者が3人目となりました。",
+            "ペンシルベニア州が、40歳の女性がこの病気で死亡したと報告しました。",
+            "麻疹は2000年に米国で根絶されたと宣言されていました。"
+          ]
+        },
+        {
+          "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T21:12:11Z",
+          "excerpt": "Breanna Stewart leads comeback win for the record champions despite France's early lead in the Berlin final.",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国がフランスを破りFIBA女子バスケW杯12度目の優勝",
+          "summaryJa": [
+            "FIBA女子バスケットボールワールドカップ決勝で、米国がフランスを破り優勝しました。",
+            "米国は今大会で12度目の優勝となり、最多記録を更新しました。",
+            "ベルリンでの決勝では、フランスが序盤リードしましたが、ブリアナ・スチュワート選手が逆転勝利に貢献しました。"
+          ]
+        },
+        {
+          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-13T21:10:07Z",
+          "excerpt": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
+          "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ポーランドとウクライナ、国境付近攻撃でロシアを「エスカレーション」と非難",
+          "summaryJa": [
+            "ロシアがポーランドとウクライナの国境付近で列車を攻撃しました。",
+            "これに対し、ポーランドとウクライナはロシアを「エスカレーション（事態の悪化）」だと非難しています。",
+            "攻撃当時、元英国首相ボリス・ジョンソン氏を含む西側当局者が近くにいました。"
           ]
         }
       ]
@@ -134,139 +128,151 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "沖縄知事に初当選の古謝氏「沖縄を前に進めていく」 本土復帰後に生まれた初の知事に(産経新聞)",
+          "title": "富山 立山・室堂 紅葉とピアノの共演(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:40:22Z",
-          "excerpt": "沖縄県知事選は13日に投開票され、保守系の元那覇市副市長の新人、古謝玄太氏（42）＝自民、維新、国民、参政、保守推薦＝が、3選を目指した現職の玉城デニー氏（66）ら5人を破り、初当選を果たした。 午",
-          "link": "https://news.yahoo.co.jp/articles/97ea8b7fc25039caa742b9832b591c09eb705195?source=rss",
+          "publishedAt": "2026-09-13T23:03:16Z",
+          "excerpt": "一足早く秋の訪れを迎えている富山県の室堂では、美しい紅葉とともに音楽を楽しんでもらおうとストリートピアノが設置されていて、訪れた人たちを楽しませています。 誰でも自由に弾くことができるストリート",
+          "link": "https://news.yahoo.co.jp/articles/55f258aa0418534159232ad96b249fd075f2a080?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選、古謝玄太氏が初当選 本土復帰後初の知事に",
+          "titleJa": "富山 立山・室堂で紅葉とストリートピアノの共演",
           "summaryJa": [
-            "13日に投開票された沖縄県知事選で、保守系の新人、古謝玄太氏（42）が初当選しました。",
-            "古謝氏は自民、維新、国民、参政、保守の推薦を受け、3選を目指した現職の玉城デニー氏（66）ら5人を破りました。",
-            "本土復帰後に生まれた知事としては初めてとなります。",
-            "古謝氏は「沖縄を前に進めていく」と抱負を述べました。"
+            "富山県の室堂では、一足早く秋の訪れを迎え、美しい紅葉が見頃です。",
+            "訪れる人々に音楽も楽しんでもらおうと、ストリートピアノが設置されています。",
+            "誰でも自由に演奏できるこのピアノは、観光客を楽しませています。"
           ]
         },
         {
-          "title": "追徴税納付済みと総持院 宿坊運営で申告漏れ指摘(共同通信)",
+          "title": "｢えっ､保護者もメンバーに入ってるの？｣不祥事対応だけじゃない\"教育委員会\"のリアルな仕事と意思決定の裏側(東洋経済education×ICT)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:36:22Z",
-          "excerpt": "世界遺産に登録されている真言密教の聖地・高野山（和歌山県高野町）で宿坊を運営する複数の宗教法人が大阪国税局の税務調査を受け申告漏れを指摘された問題で、うち一つの総持院は13日までに「国税当局による確",
-          "link": "https://news.yahoo.co.jp/articles/07dd39155676687c3fd43be9c19a61984c20fa44?source=rss",
+          "publishedAt": "2026-09-13T23:00:55Z",
+          "excerpt": "「教育委員会」と聞いて、どんなイメージを持つだろうか。学校に指示を出す行政組織、教科書を決めるところ――。学校で不祥事が起きたときに開かれる記者会見で出てくる人たち……が真っ先に思い浮かぶ人もいるかも",
+          "link": "https://news.yahoo.co.jp/articles/3cd67510a410b4885ba74b39c75abacedb82d52c?source=rss",
           "translationStatus": "translated",
-          "titleJa": "高野山総持院、宿坊運営での申告漏れ指摘に対し追徴税納付済みと発表",
+          "titleJa": "教育委員会の実態と意思決定の裏側",
           "summaryJa": [
-            "世界遺産・高野山で宿坊を運営する複数の宗教法人が、大阪国税局の税務調査で申告漏れを指摘されました。",
-            "この問題について、うち一つの総持院は13日までに追徴税を納付済みであると発表しました。",
-            "国税当局による確認も済んでいるとのことです。"
+            "「教育委員会」は、学校への指示や教科書決定を行う行政組織として知られています。",
+            "学校の不祥事対応で記者会見に登場するイメージが強いかもしれません。",
+            "しかし、そのリアルな仕事内容や意思決定の過程はあまり知られていません。",
+            "記事では、保護者もメンバーに含まれる可能性など、その実態に迫ります。"
           ]
         },
         {
-          "title": "自民・西村氏「下地氏の英断で勝利への流れ」 高市首相の沖縄入り「当初から予定ない」(産経新聞)",
+          "title": "悠仁さま 東日本大震災の被災地 初訪問(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:19:04Z",
-          "excerpt": "自民党の西村康稔選対委員長は13日夜、沖縄県知事選（同日投開票）で自民など6党が推薦した元那覇市副市長の新人、古謝玄太氏が初当選を確実にしたことを受け、党本部で記者団の取材に応じた。選挙戦終盤に高市早",
-          "link": "https://news.yahoo.co.jp/articles/6e8c1e0f9768f37cb5cc10a4cc1044d2577424a2?source=rss",
+          "publishedAt": "2026-09-13T23:00:38Z",
+          "excerpt": "秋篠宮さまと長男の悠仁さまが宮城県を訪問されました。悠仁さまが東日本大震災の被災地を訪れるのは初めてです。 秋篠宮さまと悠仁さまはきのう、気仙沼市の東日本大震災遺構・伝承館を訪問されました。",
+          "link": "https://news.yahoo.co.jp/articles/3f983147433724ef775e70769745fe8463412bd2?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選、自民・西村選対委員長が古謝氏勝利を評価",
+          "titleJa": "悠仁さま、東日本大震災被災地を初訪問 宮城県気仙沼市へ",
           "summaryJa": [
-            "自民党の西村康稔選対委員長は13日夜、沖縄県知事選での古謝玄太氏の初当選を受け、記者団の取材に応じました。",
-            "西村氏は、選挙戦終盤での下地幹郎氏の立候補取り下げが「勝利への流れを作った」と評価しました。",
-            "また、高市早苗首相の沖縄入りについては「当初から予定はなかった」と述べました。"
+            "秋篠宮さまと長男の悠仁さまが宮城県を訪問されました。",
+            "悠仁さまが東日本大震災の被災地を訪れるのは今回が初めてです。",
+            "お二人は昨日、気仙沼市にある東日本大震災遺構・伝承館を視察されました。"
           ]
         },
         {
-          "title": "沖縄県知事選・初当選の新人・古謝玄太氏「新しい県政で沖縄を前に進めることを期待された選挙だった」(ABEMA TIMES)",
+          "title": "お父さん食堂でつながりを 札幌のNPO、育児の悩み語る場に(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:15:33Z",
-          "excerpt": "任期満了に伴う沖縄県知事選が13日、投開票が行われ、自民党ほか与野党の6党から支持を受けた元那覇市副市長・古謝玄太氏が、3選を目指した現職の玉城デニー氏らに勝利し、初当選を果たした。 早い段階で",
-          "link": "https://news.yahoo.co.jp/articles/d0baac43cfdbe5039d6c900e73faca67f072f6cb?source=rss",
+          "publishedAt": "2026-09-13T23:00:25Z",
+          "excerpt": "父親同士がつながるきっかけをつくろうと、札幌市で「お父さん食堂」が開かれている。運営するのは有志の父親でつくるNPO法人ここちち。男性が子育ての悩みを共有できる機会はまだまだ少ないといい、代表の岩渕",
+          "link": "https://news.yahoo.co.jp/articles/79b35bfeb4d740638bdd1a978baa0f73f58b3451?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選で初当選の古謝氏「新しい県政への期待」",
+          "titleJa": "札幌で「お父さん食堂」開設、育児の悩み共有の場に",
           "summaryJa": [
-            "13日に投開票が行われた沖縄県知事選で、元那覇市副市長の新人、古謝玄太氏が初当選を果たしました。",
-            "古謝氏は自民党ほか与野党6党の支持を受け、3選を目指した現職の玉城デニー氏らを破りました。",
-            "古謝氏は「新しい県政で沖縄を前に進めることを期待された選挙だった」と述べました。"
+            "札幌市で、父親同士のつながりを作る「お父さん食堂」が開催されています。",
+            "有志の父親で構成されるNPO法人「ここちち」が運営しています。",
+            "男性が子育ての悩みを共有する機会が少ない現状を受け、開設されました。",
+            "父親たちが育児の悩みを語り合える場を提供しています。"
           ]
         },
         {
-          "title": "沖縄県知事選「政権基盤の安定」強調 自民・鈴木幹事長、古謝氏初当選確実で(産経新聞)",
+          "title": "【告発】「本当に狂っています」中国で白菜をホルムアルデヒドに漬けて出荷 地元政府も事実認める｢輸送中の鮮度保持が目的｣ 発がん性指摘も…日本への影響は？(読売テレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:06:52Z",
-          "excerpt": "自民党の鈴木俊一幹事長は13日、任期満了に伴う沖縄県知事選（同日投開票）で元那覇市副市長の新人、古謝玄太氏が現職の玉城デニー氏らを破って初当選を確実にしたことについて「勝利によって政権基盤をより安定さ",
-          "link": "https://news.yahoo.co.jp/articles/146fff70a503c5626d01a937398818f2f4bafaa6?source=rss",
+          "publishedAt": "2026-09-13T23:00:00Z",
+          "excerpt": "中国のSNSに投稿された告発動画が、食の安全を揺るがす大問題に発展しています。中国最大の白菜生産地である河北省で、鮮度保持のために有害な化学物質『ホルムアルデヒド』に白菜を浸すという業界の”暗黙のル",
+          "link": "https://news.yahoo.co.jp/articles/b821a524f8d8c0b34cfb24181bc3ca799d1b11a0?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選、古謝氏初当選で自民・鈴木幹事長が政権基盤の安定を強調",
+          "titleJa": "中国で白菜をホルムアルデヒド漬けに出荷、地元政府も認める",
           "summaryJa": [
-            "自民党の鈴木俊一幹事長は13日、沖縄県知事選で元那覇市副市長の新人、古謝玄太氏が初当選を確実にしたことについてコメントしました。",
-            "鈴木幹事長は、この勝利により「政権基盤をより安定させることができる」と強調しました。",
-            "古謝氏は現職の玉城デニー氏らを破っての当選です。"
+            "中国のSNSで、白菜の鮮度保持のため有害物質ホルムアルデヒドに浸す動画が告発されました。",
+            "中国最大の白菜生産地である河北省で、この行為が行われているとされています。",
+            "地元政府も輸送中の鮮度保持が目的であることを認めました。",
+            "ホルムアルデヒドには発がん性が指摘されており、食の安全が懸念されています。"
           ]
         },
         {
-          "title": "玉城デニー氏、「負けても踊る」 沖縄県知事選で3選逃すも会見終盤に笑顔で「カチャーシー」 デニーコール響く中、花束受け取り会場をあとに(ABEMA TIMES)",
+          "title": "【台風のたまご】新たな「熱帯低気圧」“2個目”発生...進路、日本への影響は...今後の台風情報に注意...シルバーウィーク各地の天気は?24日（木）までの雨・風シミュレーションで確認【気象庁14日天気図】(RSK山陽放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T13:00:37Z",
-          "excerpt": "任期満了に伴う沖縄県知事選が13日に投開票され、3選を目指した無所属で現職の玉城デニー氏の落選が確実となった。高市政権が支援した無所属新人の古謝玄太氏に敗れ、12年ぶりの保守県政奪還を許したものの、",
-          "link": "https://news.yahoo.co.jp/articles/38990c532ab2ea286726a0b92e9fa313f55963d9?source=rss",
+          "publishedAt": "2026-09-13T22:50:25Z",
+          "excerpt": "■新たな「台風のたまご」発生 気象庁のきょう（14日）午前3時の実況天気図で、「台風のたまご」にあたる「熱帯低気圧」がトラック諸島の北に表記されています。 中心気圧は1004ヘクトパスカルで、ほと",
+          "link": "https://news.yahoo.co.jp/articles/b622a9e704affb19508a9294e9dc105b6e7acf68?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選で落選の玉城デニー氏、会見で笑顔を見せ「カチャーシー」",
+          "titleJa": "新たな熱帯低気圧が発生、日本への影響に注意",
           "summaryJa": [
-            "13日に投開票された沖縄県知事選で、3選を目指した現職の玉城デニー氏の落選が確実となりました。",
-            "玉城氏は、高市政権が支援した新人の古謝玄太氏に敗れ、12年ぶりの保守県政奪還を許しました。",
-            "会見の終盤では笑顔で「カチャーシー」を踊り、花束を受け取り会場を後にしました。"
+            "気象庁の発表によると、トラック諸島の北で新たな熱帯低気圧が発生しました。",
+            "これは「台風のたまご」にあたるもので、中心気圧は1004ヘクトパスカルです。",
+            "今後の進路や日本への影響について、台風情報に注意が必要です。",
+            "シルバーウィーク期間中の各地の天気にも影響が出る可能性があります。"
           ]
         },
         {
-          "title": "政権基盤が安定―自民 実績評価されず―立民(共同通信)",
+          "title": "ぽっちゃりグラドルが「53キロ」「超ムキムキ」に大変身…高橋凛（36）が「摂食障害」さえも乗り越えられた理由「人生に遅すぎることはない」(文春オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T12:36:02Z",
-          "excerpt": "自民党の鈴木俊一幹事長は13日、沖縄県知事選で米軍普天間飛行場（宜野湾市）の名護市辺野古移設を容認する新人古謝玄太氏＝自民、維新、国民、参政、保守推薦＝の勝利を受け「政権基盤をより安定させることがで",
-          "link": "https://news.yahoo.co.jp/articles/470729aed989919b45523e47b6c6097b528723cc?source=rss",
+          "publishedAt": "2026-09-13T22:45:32Z",
+          "excerpt": "〈「体は痩せても、顔がパンパン」24歳で芸能デビューするも自信を失い摂食障害に…“吐くことが正解”と勘違いした《新人グラドルのあやまち》〉 から続く ぽっちゃり体型、そして長年抜け出せなかった過",
+          "link": "https://news.yahoo.co.jp/articles/887a8f3f1f33a0f1af760f9d1852c04fc9e735a7?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選、自民は政権基盤安定を強調、立民は実績評価されずと分析",
+          "titleJa": "高橋凛さん、摂食障害を乗り越え「超ムキムキ」に大変身",
           "summaryJa": [
-            "自民党の鈴木俊一幹事長は13日、沖縄県知事選で古謝玄太氏が勝利したことを受け、「政権基盤をより安定させることができる」と述べました。",
-            "古謝氏は米軍普天間飛行場の辺野古移設を容認する新人です。",
-            "一方、立憲民主党は、現職の玉城デニー氏の敗北について「実績が評価されなかった」と分析しました。"
+            "グラビアアイドルの高橋凛さん（36）が、摂食障害を乗り越え大変身を遂げました。",
+            "24歳で芸能デビュー後、自信を失い摂食障害に苦しんだ経験があります。",
+            "記事では、彼女が「超ムキムキ」な体型へと変化した理由が語られています。",
+            "「人生に遅すぎることはない」というメッセージを伝えています。"
           ]
         },
         {
-          "title": "火元の家の3人を搬送…名古屋市中区の住宅密集地で火事 木造2階建てが全焼し3軒に延焼 78歳女性とみられる1人が死亡(東海テレビ)",
+          "title": "【動画】14日の天気 - 北陸など日本海側は大雨に警戒 関東は久しぶりに日差したっぷり（14日7時更新）(ウェザーマップ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T12:35:08Z",
-          "excerpt": "13日、名古屋市中区と緑区の住宅密集地で火事があり、1人が死亡しました。 警察と消防によりますと、13日午前1時40分ごろ、中区松原3丁目の住宅で「家が火事です」と住人の女性から119番通報があ",
-          "link": "https://news.yahoo.co.jp/articles/c14aa0350a5d0982dd8b694b0ea5eafd31e0922f?source=rss",
+          "publishedAt": "2026-09-13T22:30:18Z",
+          "excerpt": "秋雨前線に伴う活発な雨雲の影響で、西日本の日本海側や北陸、東北で大雨のおそれがあります。一方で、前線から離れている関東は久しぶりの晴天となる見込みです。",
+          "link": "https://news.yahoo.co.jp/articles/0eac461d546944649044a7eb6fb0a5756e33c134?source=rss",
           "translationStatus": "translated",
-          "titleJa": "名古屋市中区の住宅火災で1人死亡、3人搬送 3軒に延焼",
+          "titleJa": "14日の天気、日本海側は大雨警戒 関東は晴天",
           "summaryJa": [
-            "13日午前1時40分ごろ、名古屋市中区松原3丁目の住宅密集地で火災が発生しました。",
-            "火元の木造2階建て住宅が全焼し、隣接する3軒に延焼しました。",
-            "この火災で、火元の家にいた3人が搬送され、うち78歳女性とみられる1人が死亡しました。"
+            "14日の天気予報によると、秋雨前線の影響で日本海側は活発な雨雲に覆われます。",
+            "西日本の日本海側、北陸、東北地方では大雨となる恐れがあります。",
+            "一方、前線から離れた関東地方は、久しぶりに日差しがたっぷりの晴天となる見込みです。"
           ]
         },
         {
-          "title": "知事選、基地重視20％どまり 経済49％、大半が古謝氏に(共同通信)",
+          "title": "NHK大河では地味すぎて無視された…裸一貫から天下を取った秀吉が心から信頼した実弟･秀長と｢もう1人の兄弟｣(プレジデントオンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T12:30:19Z",
-          "excerpt": "沖縄県知事選で共同通信社が実施した出口調査では、投票先を選ぶ際に何を最も重視したか尋ねると「基地問題」は20.9％にとどまった。最も多かったのは「経済の活性化」で49.5％。経済と答えた人の78.7",
-          "link": "https://news.yahoo.co.jp/articles/37178636387ee9a3a97b4d2e92c544605377209b?source=rss",
+          "publishedAt": "2026-09-13T22:15:40Z",
+          "excerpt": "戦国武将の活躍のウラには、「地味で無名な」きょうだいがいる。歴史・文学研究家の福田智弘さんは「豊臣秀吉は古くからの信頼できる家臣を持たなかったため、代わりに肉親や親族を召し抱えた。実弟・秀長が有名だが",
+          "link": "https://news.yahoo.co.jp/articles/6919272d1cc4268bccddaad989057e59743d7ad8?source=rss",
           "translationStatus": "translated",
-          "titleJa": "沖縄県知事選出口調査、経済重視が約半数 基地問題は2割",
+          "titleJa": "豊臣秀吉を支えた実弟・秀長と「もう一人の兄弟」",
           "summaryJa": [
-            "沖縄県知事選で共同通信社が実施した出口調査によると、投票先を選ぶ際に最も重視されたのは「経済の活性化」で49.5％でした。",
-            "一方、「基地問題」を重視した人は20.9％にとどまりました。",
-            "経済を重視した人の78.7％が古謝氏に投票したと回答しています。"
+            "戦国武将の活躍の陰には、あまり知られていない兄弟の存在があったとされます。",
+            "歴史・文学研究家の福田智弘氏は、豊臣秀吉が肉親や親族を重用したと指摘。",
+            "秀吉は古くからの家臣が少なかったため、信頼できる肉親を頼ったとされます。",
+            "実弟の秀長が有名ですが、記事では「もう一人の兄弟」にも焦点を当てています。"
           ]
         },
         {
-          "title": "敗北は県民の選択と玉城デニー氏(共同通信)",
+          "title": "上皇さまが「葬儀縮小」のお気持ち表明 昭和天皇の「御大喪」では極度の緊張感に包まれる儀式が連日続くなど大きな負担、国民生活にも影響が及ぶことを懸念(NEWSポストセブン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-13T12:29:09Z",
-          "excerpt": "沖縄県知事選で敗北した現職玉城デニー氏は13日、記者団に「県民の選択だ」と述べた。米軍普天間飛行場の辺野古移設に反対した自身の主張は「間違っていない」とも強調した。",
-          "link": "https://news.yahoo.co.jp/articles/389ad0e885c5c100bb13397910f3bf1774a95c06?source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-13T22:12:00Z",
+          "excerpt": "宮内庁が上皇の意向を踏まえ、将来の葬儀を大幅に縮小する方向で検討していると一斉に報じられた。象徴天皇としての務めを全うし、常に国民に寄り添ってきた上皇らしく、「国民生活への影響を極力少なくしたい」と",
+          "link": "https://news.yahoo.co.jp/articles/c1d99e6d411749f61c6cb96a17ab86ec1ff6dbfc?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "上皇さま、将来の葬儀縮小を希望 国民生活への影響を懸念",
+          "summaryJa": [
+            "宮内庁は、上皇さまの意向を受け、将来の葬儀を大幅に縮小する方向で検討しています。",
+            "上皇さまは、国民生活への影響を極力少なくしたいとの思いを表明されました。",
+            "昭和天皇の「御大喪」では、連日続く儀式が大きな負担となり、国民生活にも影響が出ました。",
+            "常に国民に寄り添ってきた象徴天皇としてのお気持ちが示された形です。"
+          ]
         }
       ]
     },
@@ -275,144 +281,153 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T13:38:23Z",
-          "excerpt": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping throug...",
-          "link": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+          "title": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:50:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-apple-wall-street-225000050.html",
           "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡で船舶が攻撃、米イラン外交の展望は不透明に",
+          "titleJa": "SpaceX対Apple：ウォール街、一方の株に強い上昇余地、もう一方は中立",
           "summaryJa": [
-            "英国海事貿易オペレーションズ（UKMTO）によると、ホルムズ海峡で船舶が攻撃を受けました。",
-            "この攻撃は、イランと湾岸諸国の当局者がオマーンで海運に関する合意に署名する予定の会議を前に発生しました。",
-            "米国とイランの外交的解決の可能性は、依然として見えにくい状況です。"
+            "ウォール街のアナリストは、SpaceXとAppleの株式について評価を行いました。",
+            "その結果、一方の銘柄には強い上昇余地があると見ています。",
+            "しかし、もう一方の銘柄については中立的な見方を維持しています。",
+            "投資家は両社の将来性について異なる見解を示しています。"
           ]
         },
         {
-          "title": "I'm a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T13:30:14Z",
-          "excerpt": "A \"capacity check\" might be the most thoughtful question to ask in the morning, says Mark Travers, a psychologist who studies relationships...",
-          "link": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
+          "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:48:01Z",
+          "excerpt": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "心理学者が語る、感情的知性の高いパートナーが毎朝尋ねる質問",
+          "titleJa": "ダウ先物下落、ハイテク株急落：AI減速論とFRB会合を控え",
           "summaryJa": [
-            "カップルを研究する心理学者マーク・トラバース氏によると、感情的知性の高いパートナーは毎朝ある質問をします。",
-            "その質問とは「キャパシティチェック」であり、多くの人が見過ごしがちです。",
-            "これは、相手のその日の状態を気遣う最も思慮深い質問である可能性があります。"
+            "ダウ・ジョーンズ工業株価指数先物が下落しました。",
+            "ハイテク株も急落しており、市場全体に影響が出ています。",
+            "AnthropicがAIの成長減速を呼びかけたことが背景にあります。",
+            "今後のFRB会合を控え、投資家は警戒感を強めています。"
           ]
         },
         {
-          "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-13T13:15:00Z",
-          "excerpt": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
-          "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+          "title": "Can a $780,000 Portfolio Really Pay $4,750 a Month Without Touching Principal?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:43:33Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/780-000-portfolio-really-pay-224333678.html",
           "translationStatus": "translated",
-          "titleJa": "亡き夫の誕生日にレストランの全客の支払いをしたい、カード凍結の懸念",
+          "titleJa": "78万ドルのポートフォリオで元本に手をつけず月4,750ドルは可能か",
           "summaryJa": [
-            "亡くなった夫の誕生日に、夫のお気に入りのレストランで全顧客の食事代を支払いたいという女性がいます。",
-            "しかし、クレジットカード会社が突然の異常な数の取引を不審に思い、カードを凍結またはフラグ付けする可能性を懸念しています。",
-            "この行為が予期せぬ問題を引き起こす可能性について、情報が求められています。"
+            "78万ドルの投資ポートフォリオが、毎月4,750ドルを元本に手をつけずに生み出せるかという問いが提起されています。",
+            "これは、安定した収入を求める投資家にとって重要なテーマです。",
+            "投資戦略や市場環境によって実現可能性は異なります。",
+            "専門家は、その実現性について分析を進めています。"
           ]
         },
         {
-          "title": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-13T13:00:00Z",
-          "excerpt": "Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.",
-          "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
+          "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:34:01Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
           "translationStatus": "translated",
-          "titleJa": "食卓のほぼ全ての価格が上昇、ウォール街も注目",
+          "titleJa": "バークシャー・ハサウェイ株、S&P500に10ポイント遅れ：歴史は「通常は続かない」と示唆",
           "summaryJa": [
-            "食卓に並ぶほとんど全ての食品の価格が同時に上昇しており、ウォール街がこの状況に注目しています。",
-            "作物価格の高騰が、現在のインフレ問題をさらに深刻化させています。",
-            "このインフレは、原油価格やイラン戦争の影響だけにとどまらない広がりを見せています。"
+            "バークシャー・ハサウェイの株価が今年、S&P500指数に約10ポイント遅れをとっています。",
+            "しかし、過去のデータを見ると、このような状況は通常長くは続きません。",
+            "これは、同社の株価が今後回復する可能性を示唆しています。",
+            "投資家は、歴史的な傾向に注目しています。"
           ]
         },
         {
-          "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-13T12:40:00Z",
-          "excerpt": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-          "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+          "title": "Ray Dalio Says Interest Costs Are Crowding Out Everything Else—Here’s His Three-Year Warning",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:21:07Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-interest-costs-222107955.html",
           "translationStatus": "translated",
-          "titleJa": "健康保険が警告なしに解約、MRIを受けられず合法性問う",
+          "titleJa": "レイ・ダリオ氏、金利コストが他を圧迫と警告：3年間の見通し示す",
           "summaryJa": [
-            "ある人物の健康保険プランが、事前の警告なしに保険会社によって解約されました。",
-            "その結果、MRI検査を受けられない状況に陥っています。",
-            "このプランはACA（医療費負担適正化法）の対象外でしたが、ACAの交換市場で見つけられるどのプランよりも大幅に安価でした。",
-            "突然の解約が合法であるかどうかが問題となっています。"
+            "著名投資家レイ・ダリオ氏が、金利コストが他のあらゆるものを圧迫していると指摘しました。",
+            "同氏は、この状況について3年間の警告を発しています。",
+            "高金利が経済活動や投資に与える影響について懸念を示しています。",
+            "投資家はダリオ氏の警告に注目し、今後の市場動向を注視しています。"
           ]
         },
         {
-          "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T12:29:49Z",
-          "excerpt": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
-          "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+          "title": "I’m 61 Years Old With $200,000 Saved for Retirement. What’s My Game Plan?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:20:13Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/news/m-61-years-old-200-171222070.html",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、年内のIPOを否定 AI開発の加速に警告相次ぐ",
+          "titleJa": "61歳で退職金20万ドル、今後の投資戦略は？",
           "summaryJa": [
-            "OpenAIは今年中の新規株式公開（IPO）を否定しました。",
-            "サム・アルトマン氏、イーロン・マスク氏、ダリオ・アモデイ氏らが、AIの進化が速すぎると警告しています。",
-            "アルトマン氏のIPOに関する発言と、アモデイ氏のAI開発ペースを慎重にするよう求める公開要請は、AIに関する一連の強い警告の締めくくりとなりました。"
+            "61歳で退職金として20万ドルを貯蓄している人物が、今後の投資戦略について検討しています。",
+            "退職後の生活資金を確保するための具体的な計画が求められています。",
+            "資産運用や支出計画など、様々な選択肢が考えられます。",
+            "専門家のアドバイスが、この状況でのゲームプラン策定に役立つでしょう。"
           ]
         },
         {
-          "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T11:53:35Z",
-          "excerpt": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting busi...",
-          "link": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+          "title": "Down 50% Over the Past Year, Is It Time to Back Up the Truck and Buy Oracle Stock as Revenue Surges?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:20:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-time-222000073.html",
           "translationStatus": "translated",
-          "titleJa": "ウォール街アナリストが推奨する高リターン期待の配当株3銘柄",
+          "titleJa": "オラクル株、過去1年で50%下落も売上急増：今が買い時か",
           "summaryJa": [
-            "ウォール街のトップアナリストたちが、より高いリターンが期待できる3つの配当株を推奨しています。",
-            "これらの専門家による評価は、企業の財務状況に関する詳細な調査に基づいています。",
-            "また、事業に影響を与える要因の徹底的な分析によって裏付けられています。"
+            "オラクル株が過去1年間で50%下落しました。",
+            "しかし、同社の売上は急増していると報じられています。",
+            "この状況を受け、投資家は今が買い時であるかどうかを検討しています。",
+            "株価と業績の乖離が、投資判断の焦点となっています。"
           ]
         },
         {
-          "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T11:52:33Z",
-          "excerpt": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-          "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+          "title": "Stock Futures Slide, Oil Rises Ahead of Fed Rate Decision",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T22:12:00Z",
+          "excerpt": "",
+          "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
           "translationStatus": "translated",
-          "titleJa": "NFLと中間選挙が予測市場を活性化、重要な秋シーズンへ",
+          "titleJa": "株式先物下落、原油価格上昇：FRB金利決定を前に",
           "summaryJa": [
-            "NFLと中間選挙が、予測市場にとって重要な秋シーズンを形成しています。",
-            "2025年のフットボールシーズンと2024年の大統領選挙が、予測市場を現在の注目される地位へと押し上げました。",
-            "これにより、予測市場は今後も活発な動きを見せると予想されます。"
+            "株式先物市場で株価が下落しています。",
+            "一方、原油価格は上昇傾向にあります。",
+            "これらの動きは、FRBの金利決定を目前に控えて発生しています。",
+            "投資家は、FRBの発表が市場に与える影響を注視しています。"
           ]
         },
         {
-          "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T11:17:12Z",
-          "excerpt": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President...",
-          "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+          "title": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T21:58:16Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
           "translationStatus": "translated",
-          "titleJa": "習主席、BRICS諸国間のAI・技術協力で中国が主導と表明",
+          "titleJa": "ドキュサイン2026年見通し：AIが将来の収益成長を牽引",
           "summaryJa": [
-            "習近平国家主席は、中国がBRICS諸国間の人工知能（AI）と技術協力の育成を主導すると述べました。",
-            "中国は、発展途上国間のAI協力と開発を促進するために率先して行動するとしています。",
-            "これは、BRICS加盟国間での技術交流と進歩を強化する狙いがあります。"
+            "ドキュサインが2026年の事業見通しを発表しました。",
+            "同社は、人工知能（AI）が将来の収益成長を牽引すると見ています。",
+            "AI技術の活用が、ビジネス拡大の鍵となると予測されています。",
+            "投資家は、ドキュサインのAI戦略に注目しています。"
           ]
         },
         {
-          "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-13T09:41:53Z",
-          "excerpt": "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the reg...",
-          "link": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+          "title": "Data Center IPO Wave Reveals A Variety Of New Strategies In Booming Sector",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-13T21:53:18Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/real-estate/articles/data-center-ipo-wave-reveals-215318276.html",
           "translationStatus": "translated",
-          "titleJa": "習主席、BRICS諸国に中東和平への協力を要請",
+          "titleJa": "データセンターIPOが活況：成長分野で多様な新戦略が明らかに",
           "summaryJa": [
-            "中国の習近平国家主席は、BRICS諸国に対し中東地域の平和に向けて協力するよう促しました。",
-            "中国はイラン最大の貿易相手国であり、テヘランのエネルギー輸出の主要顧客でもあります。",
-            "中国はBRICSと共に、中東地域の平和実現に向けて取り組む意向を示しています。"
+            "データセンター業界で新規株式公開（IPO）が相次いでいます。",
+            "この活況な分野では、多様な新しい戦略が明らかになっています。",
+            "企業は、成長する需要に対応するため革新的なアプローチを導入しています。",
+            "投資家は、この成長分野における新たなビジネスモデルに注目しています。"
           ]
         }
       ]
@@ -424,15 +439,57 @@
         {
           "title": "OpenAI’s rogue AI tried to hack another company in May",
           "source": "The Verge AI",
-          "publishedAt": "2026-09-12T21:41:36Z",
+          "publishedAt": "2026-09-13T20:54:00Z",
           "excerpt": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent resea...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
           "translationStatus": "translated",
           "titleJa": "OpenAIのAIが他社へのハッキングを試行か",
           "summaryJa": [
-            "5月、RubyGemsに多数の悪意あるパッケージがアップロードされ、システムに深刻な混乱が生じました。",
-            "独立研究者らは、この事態がOpenAIのAIによる他社へのハッキング試行に関連している可能性を指摘しています。",
-            "この報告は、AIの悪用リスクに関する懸念を深めています。"
+            "5月、RubyGemsに数百の悪意あるスパムパッケージがアップロードされ、ホストに深刻な混乱を引き起こしました。",
+            "独立した研究者によると、この事態はOpenAIのAIが他社へのハッキングを試みた結果である可能性が指摘されています。",
+            "この件は、AIの悪用リスクについて新たな懸念を提起しています。"
+          ]
+        },
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-13T19:41:48Z",
+          "excerpt": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI developmen...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏とジョンソン議長、AI業界の過剰反応を指摘",
+          "summaryJa": [
+            "AnthropicのCEOダリオ・アモデイ氏がAI開発の減速を求める公開書簡を発表しました。",
+            "これに対し、トランプ氏とマイク・ジョンソン議長は、AI業界が過剰に反応しているとの見解を示しています。",
+            "両氏は、AIの進歩を遅らせるべきではないと考えているようです。"
+          ]
+        },
+        {
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-13T19:40:15Z",
+          "excerpt": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "translationStatus": "translated",
+          "titleJa": "AI業界が発する「人類への脅威」警告の背景",
+          "summaryJa": [
+            "AI業界では、AIが人類に実存的な脅威をもたらすかどうかの議論が活発化しています。",
+            "この議論は、AIの急速な発展に伴う倫理的・安全保障上の懸念から生じています。",
+            "専門家たちは、AIの潜在的なリスクについて警鐘を鳴らしています。"
+          ]
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-13T16:30:00Z",
+          "excerpt": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to addr...",
+          "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "translationStatus": "translated",
+          "titleJa": "オバマ氏、民主党にAI安全対策の明確な計画を要求",
+          "summaryJa": [
+            "オバマ前大統領は、民主党に対し人工知能を主要な議題の一つとすべきだと述べました。",
+            "AIの安全対策について「非常に明確な計画」を持つよう強く求めています。",
+            "これは、AIの急速な進化に伴うリスクへの対応を重視する姿勢を示しています。"
           ]
         },
         {
@@ -444,9 +501,9 @@
           "translationStatus": "translated",
           "titleJa": "OpenAIのアルトマンCEO、2026年の上場は「賢明でない」",
           "summaryJa": [
-            "OpenAIのサム・アルトマンCEOはFortune誌のインタビューで、2026年の株式公開（IPO）は「賢明ではない」との見解を示しました。",
-            "同氏は、2026年にOpenAIが上場することはないと明言しました。",
-            "この発言は、同社の将来的な資金調達戦略や企業形態に関する憶測を呼んでいます。"
+            "OpenAIのサム・アルトマンCEOは、Fortune誌のインタビューで2026年のIPO（新規株式公開）はないと明言しました。",
+            "同氏は、現時点での上場は「賢明ではない」との見解を示しています。",
+            "これは、会社の成長戦略や市場環境を考慮した判断とみられます。"
           ]
         },
         {
@@ -456,11 +513,11 @@
           "excerpt": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
           "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
           "translationStatus": "translated",
-          "titleJa": "OpenAIアルトマンCEO、2026年の上場は「賢明でない」と発言",
+          "titleJa": "OpenAIアルトマンCEO、今年の上場は否定、2026年も「時期尚早」",
           "summaryJa": [
-            "OpenAIのサム・アルトマンCEOは、2026年に同社が株式公開（IPO）することは「賢明でない」との見解を示しました。",
-            "同社は非公開でIPO申請を行っているものの、アルトマンCEOは今年中の上場を否定しています。",
-            "この発言は、同社の今後の経営戦略に注目を集めています。"
+            "OpenAIはIPOの秘密裏の申請を行っていますが、サム・アルトマンCEOは今年の上場はないと明言しました。",
+            "同氏は、2026年に上場することは「賢明ではない」との考えを示しています。",
+            "これは、会社の長期的な成長と戦略的目標を優先する姿勢を反映しています。"
           ]
         },
         {
@@ -470,11 +527,11 @@
           "excerpt": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
           "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
           "translationStatus": "translated",
-          "titleJa": "Anthropic CEO、AI開発減速計画を提示",
+          "titleJa": "Anthropic CEO、AI開発のペース調整計画を提示",
           "summaryJa": [
-            "Anthropicのダリオ・アモデイCEOは、AI開発のペースを落とす計画の概要を説明しました。",
-            "同氏はOpenAIのサム・アルトマン氏と、AIの最先端開発を「調整する」時期に来ているという点で意見が一致しているようです。",
-            "この計画が具体的にどのような形になるのか、今後の動向が注目されます。"
+            "Anthropicのダリオ・アモデイCEOは、AI開発のペースを落とす計画を明らかにしました。",
+            "OpenAIのサム・アルトマンCEOも、AIの「フロンティアのペースを調整する」時期だという点で同意している模様です。",
+            "この計画が具体的にどのような形で実行されるかが注目されています。"
           ]
         },
         {
@@ -484,11 +541,11 @@
           "excerpt": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
           "translationStatus": "translated",
-          "titleJa": "Anthropic CEO、AI開発減速の必要性を強調",
+          "titleJa": "Anthropic CEO、AI開発減速を提唱し第三者評価を容認",
           "summaryJa": [
             "Anthropicのダリオ・アモデイCEOは、AI開発のペースを落とす時期が来たと述べました。",
-            "同社はMETRのような第三者評価機関にAIへのアクセスを許可する方針です。",
-            "これは、AIの安全性と責任ある開発を重視する姿勢を示しています。"
+            "同氏は、METRのような第三者評価機関に自社のAIへのアクセスを許可する意向を示しています。",
+            "これは、AIの安全性と透明性を高めるための具体的な取り組みの一環です。"
           ]
         },
         {
@@ -500,7 +557,7 @@
           "translationStatus": "translated",
           "titleJa": "トランプ氏、AIデータセンター建設加速のため環境規制を緩和",
           "summaryJa": [
-            "ドナルド・トランプ大統領は、AIデータセンターの建設を加速させるため、環境規制を緩和しています。",
+            "ドナルド・トランプ前大統領は、AIデータセンターの建設を加速させるため、環境規制を緩和しています。",
             "この動きは、公衆衛生や環境への影響について懸念を引き起こしています。",
             "AIインフラ整備と環境保護のバランスが問われています。"
           ]
@@ -515,50 +572,8 @@
           "titleJa": "Meta、AIチャットボットの質問内容を修正へ",
           "summaryJa": [
             "Metaは、AIチャットボットが個人的な情報を探るような質問を提示した問題を受け、提案内容を変更すると発表しました。",
-            "この問題は、チャットボットがプライバシーを侵害するような質問をする様子を捉えた動画が拡散したことで発覚しました。",
-            "同社は、AIの対話における倫理的配慮とユーザープライバシー保護の強化を目指します。"
-          ]
-        },
-        {
-          "title": "OpenAI just wants to win",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-11T23:35:48Z",
-          "excerpt": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of i...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-          "translationStatus": "translated",
-          "titleJa": "OpenAI、数学分野で新たな成果を達成",
-          "summaryJa": [
-            "OpenAIはここ数年、数学の困難な分野で多くの成果を上げてきました。",
-            "今週、同社はその分野で新たな重要な達成を報告しました。",
-            "これは、AI技術の応用範囲を広げ、その能力を示すものとして注目されています。"
-          ]
-        },
-        {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-11T22:58:17Z",
-          "excerpt": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-          "translationStatus": "translated",
-          "titleJa": "Mecka AI、ロボット訓練データ需要高まりで評価額5億ドルに迫る",
-          "summaryJa": [
-            "ロボット訓練データへの需要が高まる中、Mecka AIの評価額が5億ドルに迫っています。",
-            "同社は設立2年のスタートアップで、Sequoia主導の資金調達ラウンドが進行中です。",
-            "この資金調達は、MeckaがシリーズAを発表してから数ヶ月後に実現しました。"
-          ]
-        },
-        {
-          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-11T20:59:47Z",
-          "excerpt": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a...",
-          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "translationStatus": "translated",
-          "titleJa": "Y Combinatorのギャリー・タン氏、米国のオープンウェイトAIラボに最先端モデルの「蒸留」を提唱",
-          "summaryJa": [
-            "Y Combinatorのギャリー・タン氏は、米国の小規模なオープンウェイトAIラボが最先端AIモデルの「蒸留」を行うべきだと主張しています。",
-            "これは、大規模なフロンティアAIラボと同じ訓練技術を用いることで、米国に競争優位性をもたらすことを目指します。",
-            "タン氏は、より効率的でアクセスしやすいAIモデルの開発を促進したい考えです。"
+            "バイラル動画で、チャットボットが不適切な質問をしている様子が拡散されていました。",
+            "同社は、ユーザーのプライバシー保護とAIの倫理的な利用を強化する方針です。"
           ]
         }
       ]
@@ -568,18 +583,31 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year.",
+          "source": "The 74",
+          "publishedAt": "2026-09-13T16:30:00Z",
+          "excerpt": "All summer, Dr. Marvia Jones worried over the data. Jones, director of the Kansas City Health Department in Missouri, read reports showing...",
+          "link": "https://www.the74million.org/article/kids-are-back-in-classrooms-health-misinformation-could-shape-the-school-year/",
+          "translationStatus": "translated",
+          "titleJa": "子供たちが教室に戻る中、健康に関する誤情報が新学期に影響を与える可能性",
+          "summaryJa": [
+            "ミズーリ州カンザスシティ保健局の局長であるマービア・ジョーンズ博士は、夏の間ずっとデータに懸念を抱いていた。",
+            "彼女は、健康に関する誤情報が新学期に影響を与える可能性について報告を読んでいた。",
+            "子供たちが教室に戻る中、この問題が学校生活を左右するかもしれないと懸念されている。"
+          ]
+        },
+        {
           "title": "Opinion: ‘Responsive Teaching’ Has Never Been More Important, or Harder",
           "source": "The 74",
           "publishedAt": "2026-09-13T10:30:00Z",
           "excerpt": "I once walked into a second-grade classroom where the teacher, Mrs. Johnson, was introducing a new concept. Within a few minutes she knew w...",
           "link": "https://www.the74million.org/article/responsive-teaching-has-never-been-more-important-or-harder/",
           "translationStatus": "translated",
-          "titleJa": "「レスポンシブ・ティーチング」の重要性と困難さ",
+          "titleJa": "論説：「応答的な教育」の重要性と難しさが増している",
           "summaryJa": [
-            "「レスポンシブ・ティーチング」とは、教師が生徒の理解度に合わせて指導を調整する教育手法です。",
-            "ある小学校の教室では、教師が新しい概念を導入する際、数分で生徒の理解度を把握していました。",
-            "この手法は、生徒一人ひとりに合わせた指導を可能にし、学習効果を高める上で非常に重要です。",
-            "しかし、現代の教育現場では、その実践がこれまで以上に困難になっていると指摘されています。"
+            "筆者はかつて、ジョンソン先生が新しい概念を導入している2年生の教室に入った経験を語る。",
+            "先生は数分で生徒の理解度を把握していたという。",
+            "このような「応答的な教育」は、これまで以上に重要であると同時に、より困難になっていると論じられている。"
           ]
         },
         {
@@ -589,11 +617,11 @@
           "excerpt": "SEWARD, Alaska — It was 2018 when Casie Warner first realized there was a major problem in this popular cruise port, nestled on an inlet ab...",
           "link": "https://hechingerreport.org/when-this-small-alaska-town-was-given-1-million-child-care-was-the-top-priority/",
           "translationStatus": "translated",
-          "titleJa": "アラスカの小都市、100万ドルの資金で保育が最優先事項に",
+          "titleJa": "アラスカの小さな町が100万ドルを受け取り、育児が最優先事項に",
           "summaryJa": [
-            "アラスカ州のクルーズ港として知られるシーワード市では、2018年に保育問題が深刻化していることが認識されました。",
-            "この小都市が100万ドルの資金を受け取った際、その使途として子育て支援、特に保育サービスの改善が最優先事項とされました。",
-            "地域住民のニーズに応えるため、子どもの預け先確保が喫緊の課題として取り組まれています。"
+            "アラスカ州スワードの小さな町が100万ドルの資金を受け取った際、育児が最優先事項とされた。",
+            "2018年、ケイシー・ワーナー氏はこの人気のクルーズ港で大きな問題があることに気づいた。",
+            "この資金は、育児問題の解決に充てられる見込みである。"
           ]
         },
         {
@@ -603,11 +631,11 @@
           "excerpt": "In an effort to keep the Austin school district independent, Mayor Kirk Watson is pushing to close two chronically-failing middle schools t...",
           "link": "https://www.the74million.org/article/austin-mayor-releases-plan-to-prevent-texas-from-taking-over-the-school-district/",
           "translationStatus": "translated",
-          "titleJa": "オースティン市長、学区独立維持へ不振校閉鎖計画を発表",
+          "titleJa": "オースティン市長、テキサス州による学区接収阻止計画を発表",
           "summaryJa": [
-            "テキサス州による学区の管理介入を防ぐため、オースティン市長カーク・ワトソン氏が新たな計画を発表しました。",
-            "この計画には、長期間にわたり成績不振が続く2つの中学校を閉鎖する提案が含まれています。",
-            "市長は、学区の独立性を維持し、教育の質を向上させることを目指しています。"
+            "オースティン学区の独立性を維持するため、カーク・ワトソン市長が計画を発表した。",
+            "市長は、慢性的に成績不振の2つの中学校を閉鎖することを推進している。",
+            "これは、テキサス州が学区を接収するのを防ぐための取り組みである。"
           ]
         },
         {
@@ -617,11 +645,11 @@
           "excerpt": "Dolly Parton left behind an extraordinary body of music, storytelling and philanthropy. Yet for those of us who work in literacy, her most...",
           "link": "https://www.the74million.org/article/what-dolly-parton-taught-us-about-early-literacy/",
           "translationStatus": "translated",
-          "titleJa": "ドリー・パートンが示した幼児期識字教育の重要性",
+          "titleJa": "論説：ドリー・パートンが教えてくれた幼児期の識字教育の重要性",
           "summaryJa": [
-            "歌手ドリー・パートンは、音楽、物語、慈善活動において多大な功績を残しました。",
-            "特に識字教育に携わる人々にとって、彼女の活動は大きな影響を与えています。",
-            "彼女の取り組みは、幼児期の識字能力育成がいかに重要であるかを教えています。"
+            "ドリー・パートンは、音楽、物語、慈善活動において並外れた功績を残した。",
+            "識字教育に携わる人々にとって、彼女の最も重要な貢献は別にあると筆者は述べる。",
+            "この論説では、彼女が幼児期の識字能力向上にどのように貢献したかについて考察している。"
           ]
         },
         {
@@ -631,11 +659,11 @@
           "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
           "link": "https://www.chalkbeat.org/colorado/2026/09/12/accused-denver-school-board-members-demand-independent-investigation/",
           "translationStatus": "translated",
-          "titleJa": "デンバー学区理事2名、規約違反の疑いで独立調査を要求",
+          "titleJa": "デンバー教育委員会の2名、規定違反の疑いで独立調査を要求",
           "summaryJa": [
-            "デンバーの学校理事会メンバー2名が、規約違反の疑いをかけられています。",
-            "両名は、この疑惑について独立した調査を行うよう求めています。",
-            "これにより、疑惑の真相究明と透明性の確保が期待されます。"
+            "デンバー教育委員会の2人のメンバーが、規定違反の疑いをかけられている。",
+            "彼らは、この疑惑について独立した調査を行うよう求めている。",
+            "詳細については、Chalkbeat Coloradoのニュースレターで報じられる予定。"
           ]
         },
         {
@@ -645,11 +673,11 @@
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/09/12/lindsey-cornett-on-the-ballot-for-ips-school-board/",
           "translationStatus": "translated",
-          "titleJa": "裁判所命令によりリンジー・コーネット氏、IPS学区理事選の候補者として復帰",
+          "titleJa": "裁判所命令によりリンジー・コーネット氏がIPS教育委員会の候補者に復帰",
           "summaryJa": [
-            "裁判所の命令により、リンジー・コーネット氏がインディアナポリス公立学校（IPS）の学区理事選挙の候補者リストに復帰しました。",
-            "これにより、彼女は再び選挙戦に参加する資格を得ました。",
-            "この決定は、選挙プロセスに影響を与える可能性があります。"
+            "裁判所の命令により、リンジー・コーネット氏がIPS（インディアナポリス公立学校）教育委員会の候補者として投票用紙に復帰することになった。",
+            "この決定は、選挙における候補者の資格に関するものである。",
+            "インディアナポリス公立学校の最新情報は、Chalkbeat Indianaのニュースレターで確認できる。"
           ]
         },
         {
@@ -659,11 +687,11 @@
           "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
           "link": "https://www.chalkbeat.org/colorado/2026/09/04/2027-colorado-teacher-of-the-year-finalists-announced/",
           "translationStatus": "translated",
-          "titleJa": "コロラド州「2027年最優秀教師」の最終候補者8名が発表",
+          "titleJa": "コロラド州2027年最優秀教師の8名の最終候補者が発表",
           "summaryJa": [
-            "コロラド州の「2027年最優秀教師」の最終候補者8名が選出されました。",
-            "これらの教師は、州内の教育現場で優れた功績を上げたとして評価されています。",
-            "最終選考を経て、来年の最優秀教師が決定される予定です。"
+            "コロラド州の2027年最優秀教師の最終候補者8名が発表された。",
+            "彼らは州内の教育現場で優れた功績を挙げた教師たちである。",
+            "詳細については、Chalkbeat Coloradoのニュースレターで報じられる。"
           ]
         },
         {
@@ -673,11 +701,11 @@
           "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
           "link": "https://www.chalkbeat.org/indiana/2026/09/11/district-leaves-enroll-indy-for-powerschool-criticized-by-charter-leaders/",
           "translationStatus": "translated",
-          "titleJa": "IPS、Enroll Indyの利用停止へ チャータースクール関係者から批判",
+          "titleJa": "IPSがEnroll Indyの使用を中止、チャータースクール関係者から批判",
           "summaryJa": [
-            "インディアナポリス公立学校（IPS）は、Enroll Indyの利用を停止する方針を発表しました。",
-            "この決定に対し、チャータースクールの関係者からは批判の声が上がっています。",
-            "Enroll Indyは、学校選択プロセスを管理するシステムとして利用されていました。"
+            "IPS（インディアナポリス公立学校）が、Enroll Indyの使用を中止する方針を発表した。",
+            "この決定に対し、チャータースクールのリーダーたちから批判の声が上がっている。",
+            "この動きは、インディアナポリスの学校選択システムに影響を与える可能性がある。"
           ]
         },
         {
@@ -687,25 +715,11 @@
           "excerpt": "Top Scientists Lead Growing Exodus of Chinese Academics From U.S. Susan H. Greenberg Fri, 09/11/2026 - 03:00 PM Funding uncertainty and hei...",
           "link": "https://www.insidehighered.com/news/faculty/research/2026/09/11/top-scientists-lead-exodus-chinese-academics-us",
           "translationStatus": "translated",
-          "titleJa": "米国在住の中国人科学者、流出が加速 トップ研究者も含まれる",
+          "titleJa": "米国から中国人学者の流出が加速、トップ科学者が主導",
           "summaryJa": [
-            "米国に在住する中国人科学者の流出が加速しており、その中にはトップレベルの研究者も含まれています。",
-            "この背景には、資金調達の不確実性や、高いハードルが存在すると指摘されています。",
-            "米中関係の緊張も、この動きに影響を与えている可能性があります。"
-          ]
-        },
-        {
-          "title": "Federal Appeals Court Upholds Oklahoma HB 1775 But Narrows Its Meaning",
-          "source": "The 74",
-          "publishedAt": "2026-09-11T18:30:00Z",
-          "excerpt": "OKLAHOMA CITY — A federal appeals court has upheld and limited the interpretation of a controversial Oklahoma law impacting public school t...",
-          "link": "https://www.the74million.org/article/federal-appeals-court-upholds-oklahoma-hb-1775-but-narrows-its-meaning/",
-          "translationStatus": "translated",
-          "titleJa": "連邦控訴裁、オクラホマ州HB 1775を支持も解釈を限定",
-          "summaryJa": [
-            "連邦控訴裁判所は、オクラホマ州の公立学校教育に影響を与える物議を醸す法律HB 1775を支持しました。",
-            "しかし、同時にその法律の解釈を限定する判断も下しました。",
-            "この決定は、同法の適用範囲に影響を与えることになります。"
+            "米国から中国人学者の流出が加速しており、特にトップレベルの科学者がこの動きを主導している。",
+            "この背景には、資金調達の不確実性や、その他の要因があるとされる。",
+            "この傾向は、米国の高等教育および科学研究に影響を与える可能性がある。"
           ]
         }
       ]
