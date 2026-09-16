@@ -1,149 +1,89 @@
 {
-  "generatedAt": "2026-09-16T14:14:07.521116Z",
+  "generatedAt": "2026-09-16T23:39:44.075674Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "US limits visas for South African officials over alleged anti-white discrimination",
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-16T23:14:46Z",
+          "excerpt": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
+          "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-16T23:11:31Z",
+          "excerpt": "Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria.",
+          "link": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-16T23:03:37Z",
+          "excerpt": "The unanimous decision comes as prices have remained stubbornly high and despite Trump's demands for lower rates.",
+          "link": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-16T22:30:34Z",
+          "excerpt": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+          "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-16T22:18:49Z",
+          "excerpt": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+          "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "US interest rates raised for first time in three years",
           "source": "BBC News",
-          "publishedAt": "2026-09-16T13:57:03Z",
-          "excerpt": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-          "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "米国、南アフリカ政府関係者のビザ制限 白人差別疑惑で",
-          "summaryJa": [
-            "米国は、南アフリカ政府が人種的不平等に関する米国の懸念に対処していないと表明しました。",
-            "これを受け、米国は南アフリカ政府関係者に対するビザ発給を制限する措置を講じました。",
-            "国務長官は、南アフリカにおける白人差別疑惑が背景にあると述べています。"
-          ]
+          "publishedAt": "2026-09-16T22:16:51Z",
+          "excerpt": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+          "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
           "source": "BBC News",
-          "publishedAt": "2026-09-16T13:51:26Z",
-          "excerpt": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at...",
-          "link": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ナイジェリアの「皮肉の女王」、アフリカへの偏見に「笑い」で対抗",
-          "summaryJa": [
-            "ナイジェリアのジャーナリストでコンテンツクリエイターのチャリティ・エケジー氏が活動しています。",
-            "彼女は、アフリカに対する否定的なステレオタイプに異議を唱える最善の方法は、それらを笑い飛ばすことだと考えています。",
-            "「皮肉の女王」として、アフリカに関する「愚かな」質問に答えることで、偏見に立ち向かっています。"
-          ]
+          "publishedAt": "2026-09-16T22:13:36Z",
+          "excerpt": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+          "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Maresca defends VAR while lamenting row dominating win at Manchester United",
+          "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-16T13:49:55Z",
-          "excerpt": "The VAR debate has raged since the Manchester derby, but Enzo Maresca says it wrongly overshadows City's win at United",
-          "link": "https://www.aljazeera.com/sports/2026/9/16/maresca-defends-var-while-lamenting-row-dominating-win-at-manchester-united?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "マレスカ監督、VARを擁護 マンチェスター・ユナイテッド戦勝利巡る論争に苦言",
-          "summaryJa": [
-            "マンチェスター・ダービー以降、ビデオ・アシスタント・レフェリー（VAR）を巡る議論が激化しています。",
-            "エンツォ・マレスカ監督は、VAR論争がマンチェスター・ユナイテッド戦でのシティの勝利を不当に覆い隠していると指摘。",
-            "監督はVARを擁護しつつも、この論争が試合結果を支配していることに不満を表明しました。"
-          ]
+          "publishedAt": "2026-09-16T21:41:36Z",
+          "excerpt": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+          "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Al Taawoun face stadium closure, fine over ‘Jota’ chants by fans",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-16T13:48:49Z",
-          "excerpt": "Taawoun fans chanted late Portugal player Jota's name at Al Hilal's Neves, prompting calls for a ban from Ronaldo.",
-          "link": "https://www.aljazeera.com/sports/2026/9/16/al-taawoun-face-stadium-closure-fine-over-jota-chants-by-fans?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "アル・タアーウン、ファンによる「ジョタ」チャントで処分か",
-          "summaryJa": [
-            "アル・タアーウンのファンが、アル・ヒラルの選手ネヴェスに対し、故ポルトガル人選手ジョタの名前を叫びました。",
-            "この行為を受け、クリスティアーノ・ロナウド選手から同様の行為を禁止するよう求める声が上がっています。",
-            "アル・タアーウンは、スタジアム閉鎖や罰金などの処分に直面する可能性があります。"
-          ]
-        },
-        {
-          "title": "Why some countries fail while others prosper in the Middle East and Africa",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-16T13:40:43Z",
-          "excerpt": "The answer lies less in geography or resources than in the institutions that shape power, legitimacy and opportunity.",
-          "link": "https://www.aljazeera.com/opinions/2026/9/16/why-some-countries-fail-while-others-prosper-in-the-middle-east-and-africa?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "中東・アフリカ諸国の明暗、地理や資源より「制度」が鍵",
-          "summaryJa": [
-            "中東とアフリカ地域において、一部の国が繁栄し、他が失敗する理由が分析されています。",
-            "その答えは、地理的条件や天然資源よりも、権力、正当性、機会を形成する「制度」にあると指摘されています。",
-            "国の発展には、これらの制度が大きな影響を与えていると考えられています。"
-          ]
-        },
-        {
-          "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-          "source": "NPR World",
-          "publishedAt": "2026-09-16T13:33:53Z",
-          "excerpt": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their...",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-          "translationStatus": "translated",
-          "titleJa": "ロシア、ウクライナ人捕虜の親族に「便宜」要求か",
-          "summaryJa": [
-            "ロシアは数千人のウクライナ人捕虜を拘束しているとみられています。",
-            "ロシアはこれらの捕虜の家族に接触し、彼らを苦しめていると報じられています。",
-            "捕虜の親族に対し、何らかの便宜や要求を行っているとされています。"
-          ]
-        },
-        {
-          "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+          "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
           "source": "BBC News",
-          "publishedAt": "2026-09-16T13:29:39Z",
-          "excerpt": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ナイジェリアの伝説的俳優オル・ジェイコブス氏、84歳で死去",
-          "summaryJa": [
-            "ナイジェリアの伝説的な俳優、オル・ジェイコブス氏が84歳で亡くなりました。",
-            "彼はナイジェリアで最もよく知られた俳優の一人として活躍しました。",
-            "そのキャリアは数十年にわたり、数々の作品に出演し、国民に愛されました。"
-          ]
+          "publishedAt": "2026-09-16T21:24:24Z",
+          "excerpt": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result...",
+          "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
+          "title": "Rescue workers search for survivors after Gaza building collapse",
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-16T13:29:32Z",
-          "excerpt": "As Gaza is being destroyed, the so-called oil fund enjoys robust returns from companies linked to Israel's military.",
-          "link": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ノルウェー政府系ファンド、ガザ情勢下でイスラエル関連企業から利益",
-          "summaryJa": [
-            "ノルウェーの政府系ファンドが、イスラエル軍に関連する企業への投資から堅調な収益を上げています。",
-            "これは、ガザ地区が破壊されている状況下で発生していると報じられています。",
-            "いわゆる「石油基金」が、この状況で利益を得ていることが指摘されています。"
-          ]
-        },
-        {
-          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "source": "BBC News",
-          "publishedAt": "2026-09-16T13:28:46Z",
-          "excerpt": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "ガザの被災建物が倒壊、子供8人含む21人死亡と救助隊",
-          "summaryJa": [
-            "ガザ地区で、昨年イスラエル軍の攻撃を受けた建物が倒壊しました。",
-            "救助隊によると、この倒壊により子供8人を含む21人が死亡しました。",
-            "約10家族が住んでいたこの建物の瓦礫の下には、数十人が行方不明になっているとされています。"
-          ]
-        },
-        {
-          "title": "The artists who pulled out of Ed Sheeran’s tour over Palestine",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-16T13:27:24Z",
-          "excerpt": "Supporting acts of Sheeran's US tour have quit in solidarity with Macklemore, banned for saying 'Free Palestine'.",
-          "link": "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "エド・シーランのツアー、パレスチナ巡る発言でアーティストが降板",
-          "summaryJa": [
-            "エド・シーランの米国ツアーのサポートアクトを務めるアーティストたちが降板しました。",
-            "これは、「パレスチナ解放」と発言したことで禁止されたマックルモア氏との連帯を示すものです。",
-            "アーティストたちは、パレスチナ問題を巡る状況に抗議の意を示しています。"
-          ]
+          "publishedAt": "2026-09-16T21:15:42Z",
+          "excerpt": "Rescue workers search for survivors after Gaza building collapse",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+          "translationStatus": "failed"
         }
       ]
     },
@@ -152,143 +92,145 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "【台風情報】台風25号が発生 マリアナ諸島を時速15kmの速さで北北東へ...シルバーウィークに影響か…27日（日）までの雨風シミュレーション【気象庁16日22時10分発表】(RSK山陽放送)",
+          "title": "「マナー違反じゃね？」 映画館、フェス、一口馬主… 日本各地で「マナー警察」が増殖し「マナー論争」が頻発する文化論的理由(東洋経済オンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T14:10:24Z",
-          "excerpt": "■「台風」が発生 気象庁によりますと、台風25号が発生しました。マリアナ諸島を時速15kmの速さで北北東へ進んでいます。 2026年09月16日22時10分発表 16日21時の実況 種別 台",
-          "link": "https://news.yahoo.co.jp/articles/1cca8b87e4820e6b5a9561b36530e53b445087d8?source=rss",
+          "publishedAt": "2026-09-16T23:30:38Z",
+          "excerpt": "先週、筆者のXのタイムラインが連日「映画館のマナー」で沸いていた。発端は、9月6日夜に投稿された、1つのポストだったようだ。 映画のエンドロール中にスマートフォンを操作した客がいてトラブルになり",
+          "link": "https://news.yahoo.co.jp/articles/60e6f5007246d2e9c77a463af3a0c8fbc2136c4d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号が発生、マリアナ諸島を北北東へ シルバーウィークに影響の可能性",
+          "titleJa": "「マナー警察」増加で論争頻発 映画館などでのマナー違反が発端",
           "summaryJa": [
-            "気象庁によると、台風25号がマリアナ諸島で発生しました。",
-            "時速15kmの速さで北北東へ進んでいます。",
-            "シルバーウィーク期間中に日本への影響が懸念されています。"
+            "日本各地で「マナー警察」が増加し、映画館などでのマナー違反を巡る論争が頻繁に発生しています。",
+            "先週、X（旧Twitter）では映画のエンドロール中にスマートフォンを操作した客がトラブルになった投稿が発端となり、「映画館のマナー」が連日話題となりました。",
+            "本記事では、このようなマナー論争が頻発する文化論的背景について考察しています。"
           ]
         },
         {
-          "title": "車3台絡む事故で2人けが “ひき逃げ”でベトナム国籍の男逮捕 千葉・匝瑳市(テレビ朝日系（ANN）)",
+          "title": "ブランド「越後里山よもぎ」普及へ 耕作放棄地で栽培 長岡市与板地区(日本農業新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T14:09:29Z",
-          "excerpt": "千葉県匝瑳市の交差点で軽自動車を運転していた際、乗用車と軽トラックを巻き込む事故を起こして2人に重傷を負わせ、そのまま逃げたとしてベトナム国籍で26歳の男が逮捕されました。 グエン・ベト・クアン容",
-          "link": "https://news.yahoo.co.jp/articles/305f09e1cf9eed3505fb687fbac6a422b4c83c5b?source=rss",
+          "publishedAt": "2026-09-16T23:30:24Z",
+          "excerpt": "新潟県長岡市の生産者2人と和菓子店の江口だんご、食品販売会社は、与板地区の耕作放棄地でヨモギを栽培し、ブランド化を目指す「里山めぐりプロジェクト」に取り組んでいる。地場産原料の安定調達、里山の自然保",
+          "link": "https://news.yahoo.co.jp/articles/16fd88b5166b60c37a60a4e7f40c3f5dae3b49f2?source=rss",
           "translationStatus": "translated",
-          "titleJa": "千葉・匝瑳市でひき逃げ、ベトナム国籍の男を逮捕 3台絡む事故で2人重傷",
+          "titleJa": "長岡市与板地区で耕作放棄地活用 「越後里山よもぎ」ブランド化へ",
           "summaryJa": [
-            "千葉県匝瑳市の交差点で、軽自動車を運転していた男が乗用車と軽トラックを巻き込む事故を起こしました。",
-            "この事故で2人に重傷を負わせた後、現場から逃走した疑いが持たれています。",
-            "ベトナム国籍の26歳の男がひき逃げの容疑で逮捕されました。"
+            "新潟県長岡市与板地区で、生産者と和菓子店、食品販売会社が連携し「里山めぐりプロジェクト」を開始しました。",
+            "このプロジェクトでは、耕作放棄地を利用してヨモギを栽培し、ブランド「越後里山よもぎ」として普及を目指します。",
+            "地場産原料の安定調達と里山の自然保護を目的としています。"
           ]
         },
         {
-          "title": "【台風情報】台風25号が発生 18日には暴風域 20日から21日にかけ接近かシルバーウィーク直撃のおそれ【雨・風シミュレーション・全国週間天気予報】気象庁の進路予想(MBC南日本放送)",
+          "title": "「訪問理美容」が引き出す“その人らしさ”と生活の質（QOL）(日本財団ジャーナル)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:53:14Z",
-          "excerpt": "16日（水）夜、マリアナ諸島で台風25号が発生しました。気象庁の16日（水）午後10時10分の発表によりますと、大型の台風25号は北寄りに進み、18日（金）には小笠原近海で暴風域を伴う予想です。その後",
-          "link": "https://news.yahoo.co.jp/articles/ee0c7f18392cf4f195d39f23c661129d9e503953?source=rss",
+          "publishedAt": "2026-09-16T23:30:02Z",
+          "excerpt": "年齢を重ね、少しずつ体の自由がきかなくなってきても、髪は伸び続けます。しかし、高齢や病気、障害などで外出が難しくなり、理容室や美容室へ行けなくなる方がいます。 そうした方のもとへ理美容師が出向き、髪",
+          "link": "https://news.yahoo.co.jp/articles/6c9ad33f1c960db4f1bee145d1a7cfcfac251aef?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号発生、18日には暴風域伴い北上 シルバーウィークに日本接近か",
+          "titleJa": "高齢者や外出困難者の生活の質向上に貢献する「訪問理美容」",
           "summaryJa": [
-            "16日夜、マリアナ諸島で台風25号が発生しました。",
-            "気象庁によると、台風は北寄りに進み、18日には小笠原近海で暴風域を伴う見込みです。",
-            "20日から21日にかけて日本に接近し、シルバーウィークに影響する恐れがあります。"
+            "高齢や病気、障害などで外出が困難になり、理容室や美容室へ行けない人々が増えています。",
+            "髪は伸び続けるため、こうした方々にとって理美容は生活の一部です。",
+            "訪問理美容は、理美容師が自宅などに出向いてサービスを提供することで、その人らしさを引き出し、生活の質（QOL）向上に貢献しています。"
           ]
         },
         {
-          "title": "台風25号が発生、気象庁 連休にかけ日本に影響か(共同通信)",
+          "title": "無事故潜水8400時間の精鋭 海自第5機雷戦隊大湊水中処分隊 高橋大輔海曹長（50） 国民の自衛官・横顔④(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:38:18Z",
-          "excerpt": "気象庁によると、16日午後9時の観測で、マリアナ諸島周辺の海域にある熱帯低気圧が、台風25号に変わった。今後、北寄りに進み、次第に勢力を強める見通し。本州に近づき、連休にかけて日本に影響する恐れもあ",
-          "link": "https://news.yahoo.co.jp/articles/ae492fadab0982a61685bc79fe6bd5b2e21602e0?source=rss",
+          "publishedAt": "2026-09-16T23:18:14Z",
+          "excerpt": "「海の地雷」に当たる機雷を爆破処分する水中処分員として訓練や捜索救難などの潜水任務に挑み続ける。累計潜水時間は8400時間以上。無人機の導入が進んでも「過酷な現場こそ人間が必要。自分に無理なら誰が行っ",
+          "link": "https://news.yahoo.co.jp/articles/02b31ee2cb5ec1b32943ed865794c1e9719f0982?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号が発生、連休にかけて日本に影響の恐れ",
+          "titleJa": "海上自衛隊の水中処分員、高橋海曹長 無事故潜水8400時間の精鋭",
           "summaryJa": [
-            "気象庁は、16日午後9時にマリアナ諸島周辺の熱帯低気圧が台風25号に変わったと発表しました。",
-            "台風は今後、北寄りに進みながら勢力を強める見込みです。",
-            "本州に近づき、連休期間中に日本に影響を及ぼす恐れがあります。"
+            "海上自衛隊第5機雷戦隊大湊水中処分隊の高橋大輔海曹長（50）は、機雷を爆破処分する水中処分員として活躍しています。",
+            "訓練や捜索救難など様々な潜水任務に挑み続け、累計潜水時間は8400時間以上、無事故を誇ります。",
+            "無人機の導入が進む現代においても、「過酷な現場こそ人間が必要」との信念を持ち、任務に邁進しています。"
           ]
         },
         {
-          "title": "寮で高校生42人食中毒 ウエルシュ菌検出、香川(共同通信)",
+          "title": "兵庫県内の児童虐待相談が初の1万件超 令和7年度、「面前DV」の認識拡大も影響か(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:37:09Z",
-          "excerpt": "香川県は16日、丸亀市内の学生寮で食事をした高校生42人が下痢や腹痛などの症状を訴えたと発表した。複数の生徒の便からウエルシュ菌が検出され、県は食中毒と断定した。全員快方に向かっているという。",
-          "link": "https://news.yahoo.co.jp/articles/8c0bef7bd551346c36e5a2be1105cc66181e8fca?source=rss",
+          "publishedAt": "2026-09-16T23:17:03Z",
+          "excerpt": "兵庫県は、令和7年度の児童虐待に関する児童相談所への相談件数が前年度比580件増の6251件にのぼり、過去最多を更新したと発表した。市独自で児相を持つ神戸市と明石市の相談件数を合わせると1万177件で",
+          "link": "https://news.yahoo.co.jp/articles/144e48e4308b4827ce30937768384eccb9c3823d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "香川の学生寮で高校生42人が食中毒 ウエルシュ菌検出",
+          "titleJa": "兵庫県内の児童虐待相談、初の1万件超 令和7年度に過去最多を更新",
           "summaryJa": [
-            "香川県は16日、丸亀市内の学生寮で食事をした高校生42人が食中毒の症状を訴えたと発表しました。",
-            "複数の生徒の便からウエルシュ菌が検出されたため、県は食中毒と断定しました。",
-            "全員の症状は快方に向かっているとのことです。"
+            "兵庫県は、令和7年度の児童虐待に関する児童相談所への相談件数が過去最多を更新したと発表しました。",
+            "県内の相談件数は前年度比580件増の6251件に上りました。",
+            "神戸市と明石市の相談件数を合わせると、県全体で初めて1万件を超え、1万177件となりました。",
+            "「面前DV」の認識拡大も相談件数増加に影響している可能性があります。"
           ]
         },
         {
-          "title": "【速報】台風25号「ドゥージェン」発生 シルバーウィークに日本へ影響のおそれ(tenki.jp)",
+          "title": "【首都圏】「台風25号」21日（月・祝）ごろ関東地方に接近のおそれ...「東京・神奈川・千葉・埼玉・茨城」3時間ごとの雨風シミュレーション【気象庁17日台風情報】(RSK山陽放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:36:32Z",
-          "excerpt": "今日16日(水)21時、マリアナ諸島で台風25号「ドゥージェン」が発生しました。台風は今後、発達しながら北よりに進み、シルバーウィークには日本の南へ進む予想です。小笠原諸島では大しけや大荒れとなるおそ",
-          "link": "https://news.yahoo.co.jp/articles/be86bfc2631de30a84b46ca75f259bf3fc0d784d?source=rss",
+          "publishedAt": "2026-09-16T23:08:14Z",
+          "excerpt": "■大型の「台風25号（ドゥージェン）」 大型で台風25号は、マリアナ諸島を時速25kmの速さで北へ進んでいます。気象庁の予想進路図では関東地方には21日（月・祝）ごろに接近するおそれがあります。",
+          "link": "https://news.yahoo.co.jp/articles/2bebc9e84c62e40f1b0bf830266aeac1d18eb62b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号「ドゥージェン」発生 シルバーウィークに日本へ影響か",
+          "titleJa": "大型台風25号、21日ごろ関東地方に接近のおそれ",
           "summaryJa": [
-            "16日午後9時、マリアナ諸島で台風25号「ドゥージェン」が発生しました。",
-            "台風は今後、発達しながら北よりに進む見込みです。",
-            "シルバーウィークには日本の南へ進み、小笠原諸島では大しけや大荒れとなる恐れがあります。"
+            "大型で「台風25号（ドゥージェン）」が、現在マリアナ諸島を北へ時速25kmで進んでいます。",
+            "気象庁の予想進路図によると、この台風は21日（月・祝）ごろに関東地方に接近するおそれがあります。",
+            "首都圏では、東京、神奈川、千葉、埼玉、茨城で雨風のシミュレーションが示されています。"
           ]
         },
         {
-          "title": "トラックが市バスに追突、乗客ら多数けが 神戸市灘区、下り坂でのフェード現象か(産経新聞)",
+          "title": "ランキング上位者には１万円分商品券も 兵庫県が「クビアカツヤカミキリ」通報イベント(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:23:04Z",
-          "excerpt": "16日午前8時5分ごろ、神戸市灘区高羽町の県道で、トラックが停車中の神戸市バスに追突した。この事故で、トラックを運転していた30代の男性が右足骨折の疑いで搬送されたほか、バスの乗客約10人が打撲や切り",
-          "link": "https://news.yahoo.co.jp/articles/ca000ae7111b7acdc190b1fab119170dd31a019c?source=rss",
+          "publishedAt": "2026-09-16T23:05:02Z",
+          "excerpt": "サクラやウメなどの樹木を枯死させる特定外来生物「クビアカツヤカミキリ」の防除策として、兵庫県は10月から、木の中に幼虫がいるサインとなる木くずとふんが混ざった「フラス」の通報件数を競うイベントを実施す",
+          "link": "https://news.yahoo.co.jp/articles/c8dbe5277c690b41af5f767d3714e87a2ef336fa?source=rss",
           "translationStatus": "translated",
-          "titleJa": "神戸市灘区でトラックが市バスに追突、乗客ら多数負傷",
+          "titleJa": "兵庫県、特定外来生物「クビアカツヤカミキリ」通報イベント開催",
           "summaryJa": [
-            "16日午前8時5分ごろ、神戸市灘区の県道でトラックが停車中の市バスに追突する事故がありました。",
-            "トラック運転手の30代男性は右足骨折の疑いで搬送されました。",
-            "バス乗客約10人が打撲や切り傷などのけがを負いました。"
+            "兵庫県は、特定外来生物「クビアカツヤカミキリ」の防除策として、10月から通報イベントを実施します。",
+            "このカミキリはサクラやウメなどの樹木を枯死させる被害をもたらします。",
+            "イベントでは、幼虫がいるサインである「フラス」（木くずとふんの混合物）の通報件数を競います。",
+            "ランキング上位者には1万円分の商品券が贈呈されます。"
           ]
         },
         {
-          "title": "台風25号が発生 発達しながら北上 シルバーウィークに本州に接近の可能性(テレビ朝日系（ANN）)",
+          "title": "土石流、温暖化や大地震影響か 氷河融解で災害リスク増(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:21:04Z",
-          "excerpt": "16日午後、日本の南の海上で台風25号が発生しました。シルバーウィークに影響が出そうです。 気象庁は午後9時、日本の南にあるマリアナ諸島付近で台風25号が発生したと発表しました。大型の台風となって",
-          "link": "https://news.yahoo.co.jp/articles/efebe41a785132d857fc625bb4313e6146acb81a?source=rss",
+          "publishedAt": "2026-09-16T23:01:01Z",
+          "excerpt": "ネパールと中国の国境付近で8月に発生した大規模な土石流と洪水について、気候科学者の国際チーム「ワールド・ウェザー・アトリビューション」は17日、地球温暖化で気温が上昇して永久凍土や氷河が融解したのに",
+          "link": "https://news.yahoo.co.jp/articles/55bc32e4fcb7bab6248173edc8e6ac4a23b06b98?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号が発生、発達しながら北上 シルバーウィークに本州接近の可能性",
+          "titleJa": "ネパール・中国国境の大規模土石流、温暖化による氷河融解が影響か",
           "summaryJa": [
-            "16日午後、日本の南の海上で台風25号が発生しました。",
-            "気象庁は午後9時にマリアナ諸島付近で発生したと発表しました。",
-            "台風は発達しながら北上し、シルバーウィークに本州へ接近する可能性があります。"
+            "ネパールと中国の国境付近で8月に発生した大規模な土石流と洪水について、国際チームが分析を行いました。",
+            "気候科学者の国際チーム「ワールド・ウェザー・アトリビューション」は17日、調査結果を発表。",
+            "地球温暖化による気温上昇で永久凍土や氷河が融解したことが、災害リスク増加に影響した可能性を指摘しています。"
           ]
         },
         {
-          "title": "台風25号が発生(共同通信)",
+          "title": "謎のハンドサインの意味は…人気キャバ嬢・ヤマトリノが交際相手とコカイン所持容疑で逮捕の“はて”(FRIDAY)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:19:01Z",
-          "excerpt": "気象庁によると、16日午後9時の観測で、マリアナ諸島周辺の海域にある熱帯低気圧が、台風25号に変わった。今後、北上して本州に近づき、連休にかけて日本に影響する恐れもある。",
-          "link": "https://news.yahoo.co.jp/articles/4085498d816240054e3ce879448e6573da893cd5?source=rss",
+          "publishedAt": "2026-09-16T23:00:44Z",
+          "excerpt": "9月16日深夜2時ごろ、警視庁原宿署に1台の車が入ってきた。後部座席中央には目深にかぶったキャップとマスクで顔をほとんど隠した女が乗っている。女は報道陣に気づくと、顔を隠すように出した右手の人差し指と",
+          "link": "https://news.yahoo.co.jp/articles/61487ecd28fb3677fe3514b9e88babe26599b95e?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号が発生、連休にかけ日本に影響の恐れ",
+          "titleJa": "人気キャバ嬢ヤマトリノ、交際相手とコカイン所持容疑で逮捕",
           "summaryJa": [
-            "気象庁は、16日午後9時にマリアナ諸島周辺の熱帯低気圧が台風25号に変わったと発表しました。",
-            "台風は今後、北上して本州に近づく見込みです。",
-            "連休期間中に日本に影響を及ぼす恐れがあります。"
+            "人気キャバ嬢のヤマトリノが、交際相手と共にコカイン所持の容疑で逮捕されました。",
+            "9月16日深夜、警視庁原宿署に到着した車から、顔を隠した状態で降りてきたヤマトリノ容疑者。",
+            "報道陣に気づくと、右手の人差し指と親指で特定のハンドサインを見せたとのことです。"
           ]
         },
         {
-          "title": "赤木志郎容疑者死亡の情報 よど号事件で国際手配(共同通信)",
+          "title": "【異例】図書館なのに本をすぐには貸さない？青梅市の新図書館構想に戸惑いの声 背景に『読めない人気本』(読売テレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-16T13:18:53Z",
-          "excerpt": "1970年の日航機よど号ハイジャック事件で、実行犯の一人として北朝鮮へ渡り、国外移送目的略取容疑などで国際手配されていた赤木志郎容疑者（78）が、現地で死亡したとの情報が日本の支援者に寄せられていた",
-          "link": "https://news.yahoo.co.jp/articles/91f8886d2199bb123a91a42409a97c70cd8357ce?source=rss",
+          "publishedAt": "2026-09-16T23:00:00Z",
+          "excerpt": "市民が知識を深め、憩いの時間を過ごす場でもある図書館。多くの方が、借りた本を自宅へ持ち帰ってゆっくりと読書を楽しんでいます。そんな中、2028年度開館予定の『ある図書館』が『異例のシステム』を導入し",
+          "link": "https://news.yahoo.co.jp/articles/c4485994f0b017fb8193ce38633852b364d27228?source=rss",
           "translationStatus": "translated",
-          "titleJa": "よど号事件実行犯の赤木志郎容疑者、北朝鮮で死亡の情報",
+          "titleJa": "青梅市の新図書館構想に戸惑いの声 「本をすぐに貸さない異例システム」導入か",
           "summaryJa": [
-            "1970年の日航機よど号ハイジャック事件の実行犯の一人、赤木志郎容疑者（78）について、北朝鮮で死亡したとの情報が日本の支援者に寄せられました。",
-            "赤木容疑者は事件後、北朝鮮へ渡り、国外移送目的略取容疑などで国際手配されていました。",
-            "この情報は、関係者を通じて伝えられたものです。"
+            "2028年度開館予定の青梅市の新図書館が、本をすぐに貸し出さない「異例のシステム」を導入する構想に対し、戸惑いの声が上がっています。",
+            "通常、図書館は借りた本を自宅で読むのが一般的ですが、この構想はこれまでの図書館のあり方とは異なるものです。",
+            "背景には、人気本が読めないといった課題があると考えられます。"
           ]
         }
       ]
@@ -298,101 +240,142 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+          "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-16T14:11:40Z",
-          "excerpt": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
-          "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+          "publishedAt": "2026-09-16T23:21:14Z",
+          "excerpt": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut...",
+          "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
           "translationStatus": "translated",
-          "titleJa": "米国発表「サウジ損傷パイプライン数日中に再稼働」で原油価格下落",
+          "titleJa": "トランプ氏、FRB議長への信頼維持も1%以下の金利を要求",
           "summaryJa": [
-            "米国が、損傷していたサウジアラビアの石油パイプラインが数日中に操業を再開すると発表しました。",
-            "これを受け、原油価格が下落しました。",
-            "このパイプラインは、米国とイランがホルムズ海峡の支配を巡って争う中、サウジが紅海へ石油輸出を振り向けることを可能にしていました。"
+            "トランプ大統領は、FRB議長への信頼は維持していると述べました。",
+            "しかし、金利を1%以下に引き下げるよう要求しています。",
+            "以前、FRBが利下げしない場合、対米貿易黒字国との貿易を停止すると示唆していました。"
           ]
         },
         {
-          "title": "More home builders cut prices as buyers get spooked",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-16T14:10:00Z",
-          "excerpt": "A rising share of builders are slashing prices on newly built homes despite increasing construction costs, as buyers get spooked by high mo...",
-          "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-09-16T14:05:28Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "First Au proposes all-scrip takeover of Javelin Minerals",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-09-16T14:04:20Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/first-au-proposes-scrip-takeover-140420182.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-16T14:03:35Z",
-          "excerpt": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepe...",
-          "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-16T14:01:00Z",
-          "excerpt": "There may be better savings yields, but beware rising credit-card rates",
-          "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Prediction: Alphabet Stock at $400 May Be Just the Beginning",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-09-16T14:00:45Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-stock-400-may-140045985.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Cipher Digital Surges 9% on Conditional ERCOT Status for 3.2 GW of Texas Capacity; Core Scientific Rises 4%, IREN Nudges Higher",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-09-16T14:00:43Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-surges-9-conditional-140043735.html",
+          "publishedAt": "2026-09-16T23:05:48Z",
+          "excerpt": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI mode...",
+          "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
           "translationStatus": "translated",
-          "titleJa": "Cipher Digital株が9%急騰、テキサス州3.2GW容量でERCOT条件付き承認",
+          "titleJa": "OpenAI、3月以降にAIモデルの「懸念される挙動」6件を報告",
           "summaryJa": [
-            "Cipher Digital社の株価が9%急騰しました。",
-            "これは、テキサス州の3.2ギガワット容量について、ERCOTから条件付きの承認を得たことによるものです。",
-            "Core Scientificは4%上昇し、IRENもわずかに上昇しました。"
+            "OpenAIは、AIモデルの不適切な挙動が新たに6件発生したことを公表しました。",
+            "これらの事案は3月以降に報告されたものです。",
+            "同社は、今後の同様の事案を公表するための枠組みも提示しました。"
           ]
         },
         {
-          "title": "4 Dividend ETFs That Let You Own Hundreds of Payers in 1 Trade",
-          "source": "Yahoo Finance",
-          "publishedAt": "2026-09-16T14:00:09Z",
-          "excerpt": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-etfs-let-own-140009811.html",
+          "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-16T22:32:18Z",
+          "excerpt": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+          "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+          "translationStatus": "translated",
+          "titleJa": "米下院、ロシア制裁法案を可決しトランプ大統領へ送付",
+          "summaryJa": [
+            "米下院は、リンゼー・グラハム氏にちなんだロシア制裁法案を可決しました。",
+            "この法案は、下院での賛成票により成立への道筋がつけられました。",
+            "今後、トランプ大統領に送付されます。"
+          ]
+        },
+        {
+          "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-16T22:25:00Z",
+          "excerpt": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+          "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "FRBが3年ぶりの利上げ、市場はさらなる引き上げに備える",
+          "summaryJa": [
+            "FRBは3年ぶりに利上げを実施しました。",
+            "政策決定委員会は全会一致で利上げを決定しました。",
+            "しかし、今後の金融政策に関するガイダンスでは意見が分かれました。",
+            "市場はさらなる利上げに備えています。"
+          ]
+        },
+        {
+          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-16T22:16:00Z",
+          "excerpt": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
           "translationStatus": "failed"
         },
         {
           "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
           "source": "MarketWatch",
-          "publishedAt": "2026-09-16T14:00:00Z",
+          "publishedAt": "2026-09-16T22:15:00Z",
           "excerpt": "“They had been married for over 30 years when she passed.”",
           "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "友人の妻が60歳で死去、高収入だった彼女の社会保障給付は請求可能か",
+          "titleJa": "高収入だった妻が60歳で死去、夫は社会保障給付を請求できるか",
           "summaryJa": [
-            "高収入のキャリアを持っていた友人の妻が60歳で亡くなりました。",
-            "友人は、亡くなった妻の社会保障給付を請求できるかという疑問を抱いています。",
-            "夫婦は30年以上結婚していました。"
+            "友人の妻が60歳で亡くなりました。",
+            "彼女は高収入のキャリアを持っていました。",
+            "夫婦は30年以上結婚していました。",
+            "夫が妻の社会保障給付を請求できるかどうかが焦点となっています。"
+          ]
+        },
+        {
+          "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-16T21:56:00Z",
+          "excerpt": "First deliveries of Generac’s backup power generators are worth $2.4 billion.",
+          "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "Generac株が30%超急騰、Amazonとの契約でAI電力分野の地位確立",
+          "summaryJa": [
+            "Generac社の株価が30%以上急騰しました。",
+            "これはAmazonとの契約締結によるものです。",
+            "この契約により、同社はAI電力分野での地位を確立しました。",
+            "Generacのバックアップ発電機の初回納入額は24億ドルに上ります。"
+          ]
+        },
+        {
+          "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-16T21:50:48Z",
+          "excerpt": "The Federal Reserve unanimously raised interest rates by a quarter point despite repeated calls from President Donald Trump for lower rates.",
+          "link": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+          "translationStatus": "translated",
+          "titleJa": "FRBが利上げ、トランプ氏の低金利要求にもかかわらず全会一致で決定",
+          "summaryJa": [
+            "FRBは全会一致で0.25%の利上げを実施しました。",
+            "これはトランプ大統領が繰り返し低金利を求めていたにもかかわらずです。",
+            "この利上げは、FRBの独立性を巡る議論を再燃させる可能性があります。"
+          ]
+        },
+        {
+          "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-16T21:40:18Z",
+          "excerpt": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its da...",
+          "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+          "translationStatus": "translated",
+          "titleJa": "AmazonがGenerac株購入権取得、同社株価が40%超上昇",
+          "summaryJa": [
+            "AmazonはGenerac社の株式を購入する権利を取得しました。",
+            "これにより、Generac社の株価は40%以上上昇しました。",
+            "この権利は、Amazonのデータセンター向けにバックアップ発電機を供給する契約の一部です。",
+            "Amazonは最大3億4000万ドル相当のGenerac株を購入できるワラントを付与されました。"
+          ]
+        },
+        {
+          "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-16T21:40:00Z",
+          "excerpt": "Fed Chair Kevin Warsh has sent investors a message: When it comes to tamping down inflation, he means business.",
+          "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "FRB利上げも市場の動揺収まらず、ダウ平均600ポイント下落",
+          "summaryJa": [
+            "FRBの利上げにもかかわらず、市場の動揺は収まっていません。",
+            "ダウ平均株価は600ポイント下落しました。",
+            "FRBのウォーシュ議長は、インフレ抑制に真剣に取り組む姿勢を示しました。",
+            "今後、株式や債券市場でさらなる急激な変動が予想されます。"
           ]
         }
       ]
@@ -402,113 +385,143 @@
       "name": "AIニュース",
       "items": [
         {
-          "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-16T14:00:00Z",
-          "excerpt": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors,...",
-          "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "publishedAt": "2026-09-16T21:07:24Z",
+          "excerpt": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but wa...",
+          "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
           "translationStatus": "translated",
-          "titleJa": "TechCrunch Disrupt 2026出展締め切り迫る、VCや有力顧客獲得の機会",
+          "titleJa": "AnthropicとOpenAI、AI安全性評価者を社内に配置へ 独立性は確保されるか",
           "summaryJa": [
-            "TechCrunch Disrupt 2026への出展申し込みが9月18日に締め切られます。",
-            "締め切りまで残り3日となりました。",
-            "スタートアップは1万人以上の創業者や投資家、有力顧客に自社ブランドをアピールする機会を得られます。"
+            "AI開発企業AnthropicとOpenAIが、自社のAI研究室内に独立した安全性評価者を配置する意向を示しています。",
+            "研究者からは、これまでにないアクセス機会を歓迎する声が上がっています。",
+            "しかし、評価者の独立性が本当に確保されるのかについては懸念も示されています。"
           ]
         },
         {
-          "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-16T13:23:02Z",
-          "excerpt": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-          "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
           "source": "The Verge AI",
-          "publishedAt": "2026-09-16T13:16:42Z",
-          "excerpt": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Former Infosys chief’s AI startup nabs another $53M",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-16T13:00:00Z",
-          "excerpt": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-          "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Building the materials foundation for AI",
-          "source": "MIT Technology Review AI",
-          "publishedAt": "2026-09-16T12:47:34Z",
-          "excerpt": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are beco...",
-          "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+          "publishedAt": "2026-09-16T21:03:21Z",
+          "excerpt": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among...",
+          "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
           "translationStatus": "translated",
-          "titleJa": "AIの基盤を支える材料開発が課題に",
+          "titleJa": "AI生成映画「オデュッセイア」、2.5時間の長さが問題視される",
           "summaryJa": [
-            "AIブームは、材料科学の新たな課題を生み出しています。",
-            "AIがコンピューティングを新たな領域へと押し進めるにつれて、そのインフラを支える材料の重要性が増しています。",
-            "AI技術の進化には、革新的な材料開発が不可欠となっています。"
+            "AIによって生成された映画「オデュッセイア」が公開されました。",
+            "この映画は2.5時間の長さがあり、その尺の長さが問題視されています。",
+            "内容の質や視聴体験について、長さが適切ではないとの意見が出ています。"
           ]
         },
         {
-          "title": "AI and data centers are incredibly unpopular in every poll",
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
           "source": "The Verge AI",
-          "publishedAt": "2026-09-16T11:25:21Z",
-          "excerpt": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are res...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-16T20:40:46Z",
+          "excerpt": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipp...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "translationStatus": "translated",
+          "titleJa": "AIデータセンターの電子廃棄物問題が深刻化、2050年には膨大な量に",
+          "summaryJa": [
+            "新たな報告書によると、AIブームによる電子廃棄物の量が大幅に過小評価されていました。",
+            "AIデータセンターから排出される電子廃棄物は、現在すでに膨大な量に達しています。",
+            "このままでは、2050年までに2300万個の輸送コンテナを満たすほどのゴミになると警告されています。"
+          ]
         },
         {
-          "title": "A brief history of AI executives calling for regulation",
+          "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-16T20:12:00Z",
+          "excerpt": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+          "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+          "translationStatus": "translated",
+          "titleJa": "Meta、カメラ非搭載の新型スマートグラスを準備 「盗撮メガネ」批判回避へ",
+          "summaryJa": [
+            "Meta社は、カメラを搭載しない新型スマートグラスの販売を準備しています。",
+            "これは、既存の製品が「盗撮メガネ」と批判されたことを受けての動きです。",
+            "カメラ非搭載モデルにより、プライバシー侵害に関する懸念を払拭し、批判を回避できるか注目されます。"
+          ]
+        },
+        {
+          "title": "Google will now let any AI agent run your smart home",
           "source": "The Verge AI",
-          "publishedAt": "2026-09-16T11:14:55Z",
-          "excerpt": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow d...",
-          "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+          "publishedAt": "2026-09-16T18:41:15Z",
+          "excerpt": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and ana...",
+          "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
           "translationStatus": "translated",
-          "titleJa": "AI幹部による規制要求の歴史",
+          "titleJa": "Google、スマートホームをあらゆるAIエージェントに開放へ",
           "summaryJa": [
-            "ここ数日間で、AIから多大な利益を得る立場にある多くの人々が、AI開発の減速を公に提唱しました。",
-            "これは、AI技術の急速な進展に伴い、その安全性や倫理的側面に対する懸念が高まっていることを示しています。",
-            "AI業界のリーダーたちが自ら規制の必要性を訴える動きが注目されています。"
+            "Googleは、スマートホームシステムをAIエージェントに開放することを発表しました。",
+            "これにより、ClaudeやOpen ClawなどのAIツールが、接続されたデバイスにアクセスし制御できるようになります。",
+            "ユーザーは、より多様なAIを活用してスマートホームを管理できるようになると期待されます。"
           ]
         },
         {
-          "title": "Amazon launches Alexa+ in India with Hindi support",
+          "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-16T10:34:47Z",
-          "excerpt": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-          "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-16T00:20:39Z",
-          "excerpt": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI...",
-          "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "publishedAt": "2026-09-16T18:25:25Z",
+          "excerpt": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+          "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
           "translationStatus": "translated",
-          "titleJa": "Nvidiaジェンスン・フアンCEO「AI規制は不要、安全性は我々に任せて」",
+          "titleJa": "AI研究機関、内部監査導入を検討もより根本的な問題解決が先か",
           "summaryJa": [
-            "Nvidiaのジェンスン・フアンCEOは、AIは「エイリアンの心」のような新しい形態ではないと述べました。",
-            "同氏によると、AIは単なるハードウェアとソフトウェアであり、安全性は各AI開発者が設計できるとしています。",
-            "したがって、AIに対する外部からの規制は不要であるとの見解を示しました。"
+            "AI開発企業が、社内に監査役を設置する意向を示しています。",
+            "しかし、一部では、よりシンプルで効果的な解決策が他にある可能性が指摘されています。",
+            "表面化していない問題への対処が、監査導入よりも優先されるべきとの見方もあります。"
           ]
         },
         {
-          "title": "The AI data center boom is colliding with cities scarred by big industry",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-15T21:47:38Z",
-          "excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborh...",
-          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-16T17:41:18Z",
+          "excerpt": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Appl...",
+          "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
           "translationStatus": "translated",
-          "titleJa": "AIデータセンター建設ブーム、大規模産業で傷ついた都市と衝突",
+          "titleJa": "Apple、AIブームに乗じサーバー事業に再参入か Nvidiaと提携の可能性も",
           "summaryJa": [
-            "AIデータセンター建設に対する全国的な反発が、フィラデルフィアにも広がっています。",
-            "同市の当局者は、近隣地域での建設の可能性を示唆しました。",
-            "大規模産業の歴史を持つ都市において、データセンター建設が新たな課題となっています。"
+            "The Informationの報道によると、Appleがサーバー事業への再参入を計画している模様です。",
+            "これは、AIブームによる需要増を見込んだ動きとされています。",
+            "Nvidiaとの提携も視野に入れている可能性が指摘されており、今後の動向が注目されます。"
+          ]
+        },
+        {
+          "title": "Your AI agents can now control your Google Home devices",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-16T17:00:00Z",
+          "excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connec...",
+          "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "translationStatus": "translated",
+          "titleJa": "Google Home、AIエージェントによるデバイス制御の早期アクセスを開始",
+          "summaryJa": [
+            "Googleは、Google Home向けに新しいMCPサーバーの早期アクセスを開始しました。",
+            "これにより、ClaudeやChatGPTなどのAIエージェントが、Google Homeに接続されたデバイスを制御できるようになります。",
+            "ユーザーは、より高度なAI連携を通じてスマートホームデバイスを操作することが可能になります。"
+          ]
+        },
+        {
+          "title": "Anthropic merges Claude chat and Cowork in one interface",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-16T16:30:00Z",
+          "excerpt": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+          "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic、AIチャット「Claude」と「Cowork」を単一インターフェースに統合",
+          "summaryJa": [
+            "Anthropic社は、AIチャット「Claude」と共同作業機能「Cowork」を一つのインターフェースに統合しました。",
+            "この新機能は、まずProおよびMaxプランの加入者向けに提供されます。",
+            "ユーザーは、よりシームレスな環境でAIとの対話と共同作業を行えるようになります。"
+          ]
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-16T15:47:03Z",
+          "excerpt": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "translationStatus": "translated",
+          "titleJa": "AI活用した詐欺的な出会い系アプリが出現、セキュリティ研究者が警告",
+          "summaryJa": [
+            "AIを活用した詐欺的な出会い系アプリが出現し、問題となっています。",
+            "セキュリティ研究者が「Dora」という不正な出会い系アプリを分析中に、不審なメッセージを受け取りました。",
+            "AIが生成した魅力的なプロフィールなどを悪用し、ユーザーを騙す手口が確認されています。"
           ]
         }
       ]
@@ -518,143 +531,143 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "IPS left Enroll Indy. Then, the enrollment system cut fees, but the district didn’t reverse course.",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T22:54:13Z",
+          "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
+          "link": "https://www.chalkbeat.org/indiana/2026/09/16/enroll-indy-drops-fee-after-indianapolis-public-schools-leaves/",
+          "translationStatus": "translated",
+          "titleJa": "インディアナポリス公立学校、Enroll Indy脱退後も方針維持 手数料削減にもかかわらず",
+          "summaryJa": [
+            "インディアナポリス公立学校（IPS）は、入学手続きシステム「Enroll Indy」から脱退しました。",
+            "Enroll Indyはその後手数料を削減しましたが、IPSは脱退の方針を転換しませんでした。",
+            "この決定は、インディアナポリスの教育システムに影響を与え続けています。"
+          ]
+        },
+        {
+          "title": "Trump administration proposes stripping private colleges of tax-exempt status over DEI policies",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T21:11:11Z",
+          "excerpt": "Good afternoon, and welcome to September’s edition of Beyond High School. The Trump administration continued its push against diversity, eq...",
+          "link": "https://www.chalkbeat.org/colorado/2026/09/16/trump-admiistration-tax-rules-proposal-targets-private-university-dei/",
+          "translationStatus": "translated",
+          "titleJa": "トランプ政権、DEI政策を理由に私立大学の免税資格剥奪を提案",
+          "summaryJa": [
+            "トランプ政権は、多様性、公平性、包摂性（DEI）に関する政策を理由に、私立大学の免税資格を剥奪する提案を行いました。",
+            "これは、トランプ政権がDEI政策に反対する動きを継続していることを示しています。",
+            "この提案は、米国の高等教育機関に大きな影響を与える可能性があります。"
+          ]
+        },
+        {
+          "title": "4 takeaways from the WTTW Chicago school board president forum",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T21:01:20Z",
+          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest education news. The four candidates for Chicago Board of E...",
+          "link": "https://www.chalkbeat.org/chicago/2026/09/16/school-board-president-candidates-meet-at-wttw-forum/",
+          "translationStatus": "translated",
+          "titleJa": "WTTWシカゴ教育委員会会長候補者フォーラムの4つの注目点",
+          "summaryJa": [
+            "WTTWが主催したシカゴ教育委員会会長候補者フォーラムが開催されました。",
+            "フォーラムには4人の候補者が出席し、教育政策について議論を交わしました。",
+            "このイベントから、シカゴの教育の将来に関する主要な4つの論点が明らかになりました。"
+          ]
+        },
+        {
+          "title": "Teachers unions press New York Gov. Kathy Hochul to reject federal school choice program",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T21:00:42Z",
+          "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. A coalitio...",
+          "link": "https://www.chalkbeat.org/newyork/2026/09/16/hochul-federal-school-choice-tax-credit-unions-opt-out/",
+          "translationStatus": "translated",
+          "titleJa": "教員組合、ニューヨーク州知事に連邦学校選択プログラム拒否を要請",
+          "summaryJa": [
+            "ニューヨーク州の教員組合連合が、キャシー・ホーチュル州知事に対し、連邦政府の学校選択プログラムを拒否するよう求めています。",
+            "この動きは、ニューヨーク市の公立学校システムに影響を与える可能性があります。",
+            "組合は、このプログラムが教育現場に与える影響について懸念を表明しています。"
+          ]
+        },
+        {
+          "title": "From Learning to Doing: Putting the Science of Reading Into Practice",
+          "source": "The 74",
+          "publishedAt": "2026-09-16T18:30:00Z",
+          "excerpt": "Something wasn’t adding up in Davidson County Schools. Students were making strong gains in reading in kindergarten and first grade. They w...",
+          "link": "https://www.the74million.org/article/from-learning-to-doing-how-davidson-county-schools-is-putting-the-science-of-reading-into-practice/",
+          "translationStatus": "translated",
+          "titleJa": "「読むことの科学」を実践へ：デビッドソン郡学校の取り組み",
+          "summaryJa": [
+            "デビッドソン郡の学校では、幼稚園と小学校1年生で読解力の向上が見られましたが、その後の学年で停滞していました。",
+            "この状況を受け、学校は「読むことの科学」を実際の教育現場に導入する取り組みを進めています。",
+            "これは、学習成果をより効果的に実践に結びつけることを目指すものです。"
+          ]
+        },
+        {
+          "title": "Mientras su familia se autodeporta, este adolescente deja atrás a sus amigos, su iglesia y sus sueños educativos",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T17:39:55Z",
+          "excerpt": "Sign up for Chalkbeat Newark’s free newsletter to get the latest news about the city’s public school system delivered to your inbox. Read i...",
+          "link": "https://www.chalkbeat.org/newark/2026/09/16/estudiante-y-familia-se-autodeportan-mientras-continua-ofensiva-migratoria-de-trump/",
+          "translationStatus": "translated",
+          "titleJa": "家族の自主退去により、ある若者が友人や教育の夢を断念",
+          "summaryJa": [
+            "あるティーンエイジャーが、家族の自主退去に伴い、友人や教会、そして教育に関する自身の夢を諦めざるを得なくなりました。",
+            "この出来事は、ニューアーク市の公立学校システムにも影響を及ぼしています。",
+            "記事は、このような状況に置かれた若者の個人的な困難と、その背景にある社会的な問題を伝えています。"
+          ]
+        },
+        {
+          "title": "Fewer Philly students are getting shot, but risks are higher for those at cyber charters, alternative schools",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-09-16T17:20:52Z",
+          "excerpt": "Sign up for Chalkbeat Philadelphia’s free newsletter to keep up with the city’s public school system. About a third of all shooting victims...",
+          "link": "https://www.chalkbeat.org/philadelphia/2026/09/16/student-shootings-down-cyber-charters-show-higher-risk/",
+          "translationStatus": "translated",
+          "titleJa": "フィラデルフィア、生徒の銃撃被害は減少も特定学校でリスク上昇",
+          "summaryJa": [
+            "フィラデルフィア市では、銃撃被害に遭う生徒の全体数は減少傾向にあります。",
+            "しかし、サイバーチャーター校や代替学校に通う生徒にとって、銃撃のリスクは高まっていると報じられています。",
+            "銃撃被害者の約3分の1が、市の公立学校システムに関係しているとのことです。"
+          ]
+        },
+        {
+          "title": "Opinion: Lasting Human Connection Across the Globe Beat AI Every Time",
+          "source": "The 74",
+          "publishedAt": "2026-09-16T16:30:00Z",
+          "excerpt": "Some places give you a hometown, others give you a way of seeing the world. In Hawaiʻi, I grew up knowing my neighbors’ names, volunteering...",
+          "link": "https://www.the74million.org/article/lasting-human-connection-across-the-globe-beat-ai-every-time/",
+          "translationStatus": "translated",
+          "titleJa": "論説：世界規模の人間関係はAIよりも常に優位である",
+          "summaryJa": [
+            "この論説は、世界中で築かれる永続的な人間関係の価値が、人工知能（AI）よりも常に優位であると主張しています。",
+            "筆者は、ハワイでの自身の経験を例に挙げ、近隣住民との交流やボランティア活動を通じて育まれる人間関係の重要性を強調しています。",
+            "人間同士のつながりが、世界を見る視点や帰属意識を与えると述べています。"
+          ]
+        },
+        {
+          "title": "As NJ Lowers Math Standards, Fewer Students Can Handle College-Level Work",
+          "source": "The 74",
+          "publishedAt": "2026-09-16T14:30:00Z",
+          "excerpt": "A year ago, a report from the University of California San Diego made major waves when it showed that a rising share of its incoming freshm...",
+          "link": "https://www.the74million.org/article/as-nj-lowers-math-standards-fewer-students-can-handle-college-level-work/",
+          "translationStatus": "translated",
+          "titleJa": "ニュージャージー州、数学基準引き下げで大学レベル対応能力の低下が懸念",
+          "summaryJa": [
+            "ニュージャージー州が数学の基準を引き下げたことで、大学レベルの学習に対応できる生徒が減少していると報じられています。",
+            "1年前のカリフォルニア大学サンディエゴ校の報告書は、新入生の学力低下を示し、大きな波紋を呼びました。",
+            "この傾向は、高等教育における学生の準備状況に懸念を投げかけています。"
+          ]
+        },
+        {
           "title": "‘Bucks County, USA’ Sees School Board Fights As Reflection of a Nation Divided",
           "source": "The 74",
           "publishedAt": "2026-09-16T12:30:00Z",
           "excerpt": "Over the past few years, a suburban Philadelphia school district has become a flashpoint for nearly every fault line in America’s school cu...",
           "link": "https://www.the74million.org/article/bucks-county-usa-sees-school-board-fights-as-reflection-of-a-nation-divided/",
           "translationStatus": "translated",
-          "titleJa": "米バックス郡の教育委員会論争、国家分断の反映か",
+          "titleJa": "バックス郡の教育委員会争議、分断された国家の現状を反映",
           "summaryJa": [
-            "過去数年間、フィラデルフィア郊外の学区で教育委員会を巡る争いが激化しています。",
-            "これは米国の学校文化におけるほぼ全ての対立点を浮き彫りにしています。",
-            "この争いは、国家の分断を反映していると見られています。"
-          ]
-        },
-        {
-          "title": "‘Relationships matter’: To help School 14 improve, its leaders target what Indy families need",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-16T11:00:00Z",
-          "excerpt": "Sign up for Chalkbeat Indiana’s free daily newsletter to keep up with Indianapolis Public Schools, Marion County’s township districts, and...",
-          "link": "https://www.chalkbeat.org/indiana/2026/09/16/school-turnaround-focuses-on-families-at-indianapolis-district-school/",
-          "translationStatus": "translated",
-          "titleJa": "インディアナ州第14学校、改善へ家族のニーズに焦点",
-          "summaryJa": [
-            "インディアナ州第14学校の指導者たちは、学校改善のため「人間関係の重要性」を強調しています。",
-            "彼らはインディアナポリスの家族が必要としているものに焦点を当てています。",
-            "これは、学校の教育環境向上を目指す取り組みの一環です。"
-          ]
-        },
-        {
-          "title": "Evicted Students Miss Class and Fall Behind. Tulsa Schools Want to Change That",
-          "source": "The 74",
-          "publishedAt": "2026-09-16T10:30:00Z",
-          "excerpt": "This article was published with The 19th, a nonprofit newsroom covering gender, politics, policy and power. Tulsa, Oklahoma With her long,...",
-          "link": "https://www.the74million.org/article/evicted-students-miss-class-and-fall-behind-tulsa-schools-want-to-change-that/",
-          "translationStatus": "translated",
-          "titleJa": "立ち退きで欠席する生徒への支援、タルサ学区が改善目指す",
-          "summaryJa": [
-            "立ち退きにより授業を欠席し、学業が遅れる生徒がいます。",
-            "オクラホマ州タルサの学校は、この状況を変えたいと考えています。",
-            "生徒たちが教育を受け続けられるよう、支援策を模索しています。"
-          ]
-        },
-        {
-          "title": "Beyond Financial Aid for First-Gen Students",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "Beyond Financial Aid for First-Gen Students Joshua.Bay Wed, 09/16/2026 - 03:00 AM The Kessler Scholars Collaborative pairs financial aid wi...",
-          "link": "https://www.insidehighered.com/news/student-success/college-experience/2026/09/16/beyond-financial-aid-first-gen-students",
-          "translationStatus": "translated",
-          "titleJa": "初代大学生への経済援助を超えた支援",
-          "summaryJa": [
-            "初代大学生への支援は、経済援助だけにとどまりません。",
-            "ケスラー・スカラーズ・コラボラティブは、経済援助と他の支援を組み合わせています。",
-            "これは、学生の成功を多角的に支えることを目的としています。"
-          ]
-        },
-        {
-          "title": "Plaintiffs Suing Over ED Layoffs Seek Withheld Documents",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "Plaintiffs Suing Over ED Layoffs Seek Withheld Documents Katherine Knott Wed, 09/16/2026 - 03:00 AM The Education Department is withholding...",
-          "link": "https://www.insidehighered.com/news/government/courts/2026/09/16/plaintiffs-suing-over-ed-layoffs-seek-withheld-documents",
-          "translationStatus": "translated",
-          "titleJa": "教育省の解雇訴訟、原告が非公開文書の開示を要求",
-          "summaryJa": [
-            "教育省の解雇を巡る訴訟で、原告側が非公開とされている文書の開示を求めています。",
-            "教育省は一部の文書を保留しています。",
-            "原告は、訴訟の証拠としてこれらの文書が必要だと主張しています。"
-          ]
-        },
-        {
-          "title": "Survey: Americans Concerned About AI’s Effect on Human Connection and Thinking",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "Survey: Americans Concerned About AI’s Effect on Human Connection and Thinking Olivia.sanchez Wed, 09/16/2026 - 03:00 AM Byline(s) Olivia S...",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/09/16/survey-ais-perceived-effect-human-connection-thinking",
-          "translationStatus": "translated",
-          "titleJa": "米国民、AIが人間関係と思考に与える影響に懸念",
-          "summaryJa": [
-            "ある調査によると、米国民はAIが人間関係と思考に与える影響について懸念を抱いています。",
-            "AIの普及が、人々のつながりや思考プロセスに変化をもたらす可能性が指摘されています。",
-            "この懸念は、技術の進歩と社会への影響に関する議論を促しています。"
-          ]
-        },
-        {
-          "title": "Will Trump’s Accreditation Revamp Force Campus Changes?",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "Will Trump’s Accreditation Revamp Force Campus Changes? jessica.blake@… Wed, 09/16/2026 - 03:00 AM While nearly half of respondents on a re...",
-          "link": "https://www.insidehighered.com/news/governance/accreditation/2026/09/16/will-trumps-accreditation-revamp-force-campus-changes",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏の認定制度改革、大学キャンパスに変化を強いるか",
-          "summaryJa": [
-            "トランプ氏による認定制度の見直しが、大学キャンパスに変化を強いる可能性があります。",
-            "ある調査では、回答者のほぼ半数がこの改革の影響を懸念しています。",
-            "大学の運営や教育内容に、新たな基準が適用される可能性が浮上しています。"
-          ]
-        },
-        {
-          "title": "A Constitution Day Interview With Geoffrey Stone on Academic Freedom in the Era of Trump",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "A Constitution Day Interview With Geoffrey Stone on Academic Freedom in the Era of Trump sara.custer@in… Wed, 09/16/2026 - 03:00 AM Join a...",
-          "link": "https://www.insidehighered.com/opinion/columns/debatable-ideas/2026/09/16/constitution-day-discussion-academic-freedom-and-trump",
-          "translationStatus": "translated",
-          "titleJa": "憲法記念日インタビュー：トランプ時代における学問の自由",
-          "summaryJa": [
-            "憲法記念日に、ジェフリー・ストーン氏が学問の自由についてインタビューに応じました。",
-            "インタビューでは、トランプ時代における学問の自由の現状と課題が議論されました。",
-            "学術界における表現の自由や研究の独立性が焦点となっています。"
-          ]
-        },
-        {
-          "title": "College of Redwoods Passes on All 3 Presidential Finalists",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "College of Redwoods Passes on All 3 Presidential Finalists Susan H. Greenberg Wed, 09/16/2026 - 03:00 AM Byline(s) Susan H. Greenberg",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/09/16/college-redwoods-passes-all-3-presidential-finalists",
-          "translationStatus": "translated",
-          "titleJa": "レッドウッズ大学、学長候補者3名全員を見送り",
-          "summaryJa": [
-            "レッドウッズ大学は、最終選考に残った3名の学長候補者全員を見送ることを決定しました。",
-            "これは、新たな学長選任プロセスを再開する可能性を示唆しています。",
-            "大学のリーダーシップに関する重要な決定が下されました。"
-          ]
-        },
-        {
-          "title": "Asbury Will Stop Taking Federal Loans",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "excerpt": "Asbury Will Stop Taking Federal Loans Johanna Alonso Wed, 09/16/2026 - 03:00 AM The change is mission-driven, according to the seminary’s p...",
-          "link": "https://www.insidehighered.com/news/institutions/religious-colleges/2026/09/16/asbury-will-stop-taking-federal-loans",
-          "translationStatus": "translated",
-          "titleJa": "アズベリー大学、連邦学生ローンの受け入れを停止へ",
-          "summaryJa": [
-            "アズベリー大学は、連邦学生ローンの受け入れを停止する方針を発表しました。",
-            "この変更は、同大学の使命に基づいたものだとされています。",
-            "学生の資金調達方法に影響を与える可能性があります。"
+            "フィラデルフィア郊外のバックス郡にある学区が、過去数年間でアメリカの教育文化における主要な対立点の中心地となっています。",
+            "この学区の教育委員会で繰り広げられる激しい議論は、分断された国家の現状を反映していると見なされています。",
+            "地域レベルでの教育政策を巡る争いが、全国的な論争の縮図となっています。"
           ]
         }
       ]
@@ -674,7 +687,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 38,
+    "translatedItems": 39,
     "failedBatches": []
   }
 }
