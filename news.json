@@ -1,112 +1,149 @@
 {
-  "generatedAt": "2026-09-18T23:20:07.462760Z",
+  "generatedAt": "2026-09-19T13:12:40.734180Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Trump says he is banning CNN and Politico from White House",
-          "source": "BBC News",
-          "publishedAt": "2026-09-18T23:06:59Z",
-          "excerpt": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:59:31Z",
+          "excerpt": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
+          "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ガザでのイスラエル攻撃、パレスチナ人3人死亡 子どもも犠牲に",
+          "summaryJa": [
+            "ガザ地区でイスラエル軍による攻撃があり、パレスチナ人3人が死亡しました。",
+            "犠牲者の中には子どもも含まれています。",
+            "ガザ保健省によると、同省事務局長ムニール・アル・ブルシュ氏の息子も死亡したとのことです。"
+          ]
         },
         {
-          "title": "Russians head to the polls to choose lawmakers for their parliament",
+          "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:51:43Z",
+          "excerpt": "Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'.",
+          "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イスラエル軍、兵力・装備不足の報道背景は",
+          "summaryJa": [
+            "イスラエル軍が兵力と装備の深刻な不足に直面しているとの報道が出ています。",
+            "イスラエルのチャンネル12とマアリブ紙がこの状況を報じています。",
+            "これらの報道の背景には何があるのかが注目されています。"
+          ]
+        },
+        {
+          "title": "Asian Games 2026: Top athletes and storylines to look out for",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:38:45Z",
+          "excerpt": "From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event.",
+          "link": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "2026年アジア競技大会 注目選手と見どころ",
+          "summaryJa": [
+            "2026年に開催されるアジア競技大会の注目選手と見どころが報じられています。",
+            "オリンピックチャンピオンから若手の新星まで、多くの選手がこの大陸イベントでの活躍を目指しています。",
+            "各選手がどのような活躍を見せるかが期待されています。"
+          ]
+        },
+        {
+          "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:34:37Z",
+          "excerpt": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military.",
+          "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国、エリトリアへの制裁解除 紅海での国益推進が目的",
+          "summaryJa": [
+            "米国はエリトリアに対する制裁を解除しました。",
+            "これは紅海地域における米国の国益を推進するためとされています。",
+            "バイデン政権下で導入されたこれらの制裁は、エリトリアの与党と軍を対象としていました。"
+          ]
+        },
+        {
+          "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:29:51Z",
+          "excerpt": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "パキスタン・コハットでモスク襲撃事件、葬儀が執り行われる",
+          "summaryJa": [
+            "パキスタンのコハットで、モスクへの襲撃事件を受けて葬儀が執り行われています。",
+            "自爆攻撃犯が爆発物を積んだ車をモスクに突入させ、多数の死者が出ました。",
+            "犠牲者の冥福を祈る儀式が続いています。"
+          ]
+        },
+        {
+          "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:21:01Z",
+          "excerpt": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "サウジアラビア主導の海軍連合、紅海の航路安全確保へ準備",
+          "summaryJa": [
+            "サウジアラビアが、紅海の航路保護を目的とした多国籍海軍連合の会議を主催しました。",
+            "この連合は、紅海の海上交通の安全を確保するための準備を進めています。",
+            "地域における船舶の安全保障体制が強化される見込みです。"
+          ]
+        },
+        {
+          "title": "In Gaza, actors perform a war they are still living",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:18:52Z",
+          "excerpt": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+          "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ガザの俳優たち、今も続く戦争を舞台で表現",
+          "summaryJa": [
+            "ガザ地区では、パレスチナ人俳優たちが包囲と喪失の物語を演劇にしています。",
+            "彼らは自身が直面している恐怖や困難と向き合いながら舞台に立っています。",
+            "演劇を通じて、彼らが生きる戦争の現実が表現されています。"
+          ]
+        },
+        {
+          "title": "Doomsday AI: panic, regulation and the China fear",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-19T12:10:21Z",
+          "excerpt": "When tech CEOs warn AI could end humanity, does the media get the story right?",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "AIによる人類滅亡論、パニックと規制、中国への懸念",
+          "summaryJa": [
+            "テクノロジー企業のCEOたちがAIが人類を滅ぼす可能性を警告しています。",
+            "このような警告に対し、メディアは正確に報じているのかが問われています。",
+            "AIに関するパニック、規制の必要性、そして中国への懸念が議論されています。"
+          ]
+        },
+        {
+          "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+          "source": "BBC News",
+          "publishedAt": "2026-09-19T11:50:22Z",
+          "excerpt": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark...",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "西オーストラリアでサメ襲撃、異例の駆除命令発令 犠牲者の身元判明",
+          "summaryJa": [
+            "西オーストラリア州でサメによる襲撃事件が発生し、犠牲者の身元が判明しました。",
+            "家族によると、犠牲者のグレッグ・オニールさんは「海を愛していた」とのことです。",
+            "警察のボートやヘリコプターがパースのビーチを巡回し、遺体とサメの捜索を続けています。",
+            "この事件を受けて、異例のサメ駆除命令が発令されました。"
+          ]
+        },
+        {
+          "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
           "source": "NPR World",
-          "publishedAt": "2026-09-18T23:04:57Z",
-          "excerpt": "Russians head to the polls to choose lawmakers for their parliament, the Duma. It's Russia's first nationwide parliamentary race since laun...",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-          "source": "BBC News",
-          "publishedAt": "2026-09-18T22:58:55Z",
-          "excerpt": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't be...",
-          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-19T11:40:48Z",
+          "excerpt": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
           "translationStatus": "translated",
-          "titleJa": "米国とデンマーク、グリーンランド巡り合意 トランプ氏の併合示唆後",
+          "titleJa": "フランス、ポーランドなど欧州同盟国、ロシアの「ハイブリッド攻撃」激化に警告",
           "summaryJa": [
-            "米国とデンマークがグリーンランドに関する合意に達しました。",
-            "これはトランプ大統領がグリーンランド併合を示唆した後に行われたものです。",
-            "トランプ氏は、この合意により米国がグリーンランドの安全保障などを「恒久的に管理」すると述べました。"
-          ]
-        },
-        {
-          "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T22:01:35Z",
-          "excerpt": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.",
-          "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、グリーンランド巡る合意で米国の「恒久的支配」主張",
-          "summaryJa": [
-            "トランプ大統領は、デンマークとの合意により米国がグリーンランドを「恒久的に支配」すると主張しました。",
-            "デンマークとグリーンランドは、来週にも米国の防衛協定に署名する予定です。",
-            "これは両議会の承認を条件としています。"
-          ]
-        },
-        {
-          "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T21:41:55Z",
-          "excerpt": "Premier League holders Arsenal have won all seven of their matches to start the new season.",
-          "link": "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "New cat species found, first in more than 100 years",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T21:06:15Z",
-          "excerpt": "A new species of living cat has been identified for the first time in more than a century.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T21:06:14Z",
-          "excerpt": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
-          "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ドイツ、米国から初のF-35戦闘機を受領 NATO軍事費増強の中",
-          "summaryJa": [
-            "ドイツが米国から最初のF-35ステルス戦闘機を受領しました。",
-            "これは4年前にロッキード・マーティン社に発注した約3ダースのF-35のうちの1機です。",
-            "NATOが軍事費を増強する中で行われました。"
-          ]
-        },
-        {
-          "title": "UK court clears woman of voicing support for Hamas in university speech",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T20:55:57Z",
-          "excerpt": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist.",
-          "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-18T20:38:00Z",
-          "excerpt": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-          "source": "BBC News",
-          "publishedAt": "2026-09-18T20:35:03Z",
-          "excerpt": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
-          "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、一部報道機関のホワイトハウス排除は「フェイクニュースのため」と説明",
-          "summaryJa": [
-            "トランプ米大統領は、一部の報道機関をホワイトハウスから排除すると発表しました。",
-            "大統領は、CNN、MS NOW、ポリティコを「即座に」ホワイトハウスから排除すると述べました。",
-            "その理由として「フェイクニュースだから」と説明しています。"
+            "フランス、ポーランド、その他の主要な欧州諸国の首脳が、ロシアによる「ハイブリッド攻撃」の激化に警戒を表明しました。",
+            "彼らは、ロシアの攻撃がエスカレートしていると指摘しています。",
+            "欧州同盟国は、この状況に懸念を抱いています。"
           ]
         }
       ]
@@ -116,143 +153,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "2人乗り無免許バイク パトカーと正面衝突 16歳高校生2人軽傷 挑発や信号無視…警察に追跡される 愛知・蒲郡市(CBCテレビ)",
+          "title": "沖縄知事選初当選の古謝氏に爆破予告(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:17:14Z",
-          "excerpt": "愛知県蒲郡市で、信号無視を繰り返した高校生のバイクが、パトカーとぶつかり、2人がケガをしました。 18日午後11時45分ごろ、蒲郡市栄町の路上で、男子高校生2人が乗ったバイクと、愛知県警のパトカーが",
-          "link": "https://news.yahoo.co.jp/articles/6deb67f7c11bfa5198e34a45d4eb0f4dfdd1e5a1?source=rss",
+          "publishedAt": "2026-09-19T12:56:18Z",
+          "excerpt": "沖縄県知事選で初当選した古謝玄太氏は19日、自身の公式ホームページに知事就任の辞退を要求し、応じなければ家族に関係する学校や県庁を爆破するという趣旨の脅迫があったとのコメントを発表した。警察に相談し",
+          "link": "https://news.yahoo.co.jp/articles/90da9d37968db4bdf09fe848253c8f36f8d8f495?source=rss",
           "translationStatus": "translated",
-          "titleJa": "愛知・蒲郡市で無免許バイクがパトカーと衝突、高校生2人軽傷",
+          "titleJa": "沖縄知事選初当選の古謝氏に爆破予告",
           "summaryJa": [
-            "18日夜、愛知県蒲郡市で高校生2人が乗ったバイクがパトカーと衝突しました。",
-            "バイクは信号無視を繰り返しており、警察に追跡されていたとのことです。",
-            "この事故により、バイクに乗っていた高校生2人が軽傷を負いました。"
+            "沖縄県知事選で初当選した古謝玄太氏が19日、自身の公式ホームページで脅迫があったと発表しました。",
+            "脅迫は知事就任の辞退を要求するもので、応じなければ家族関係の学校や県庁を爆破するという内容です。",
+            "古謝氏は警察に相談しているとのことです。"
           ]
         },
         {
-          "title": "｢豊臣兄弟!｣で前田利家に首を放り投げられた…息子は秀吉に従い13万石の大名になるも嘘がばれ減封された家(プレジデントオンライン)",
+          "title": "交番内で拳銃自殺図ったか 男性警察官が意識不明の重体 東京・八王子(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:15:41Z",
-          "excerpt": "大河ドラマ「豊臣兄弟！」(NHK)では、しばしば史実とかけ離れた描写が話題に。系図研究者の菊地浩之さんは「家康が小鳥を贈られたのは今川義元からではない。賤ヶ岳の戦いでも史実では戦死したのに、秀吉を裏切",
-          "link": "https://news.yahoo.co.jp/articles/54e359b0faa3e9ee2906592317b001d602700306?source=rss",
+          "publishedAt": "2026-09-19T12:30:17Z",
+          "excerpt": "東京・八王子市の交番で、男性警察官が頭の辺りから血を流して倒れているのが見つかり、意識のない状態で病院に搬送されました。近くには拳銃が落ちていたということです。 19日午後4時ごろ、警視庁・八王子",
+          "link": "https://news.yahoo.co.jp/articles/1235ed76a3ca10159d10e123d10ccd9e375ff545?source=rss",
           "translationStatus": "translated",
-          "titleJa": "大河ドラマ「豊臣兄弟！」、史実との乖離が話題に",
+          "titleJa": "八王子の交番で警察官が拳銃で自殺図ったか、意識不明の重体",
           "summaryJa": [
-            "NHK大河ドラマ「豊臣兄弟！」の描写が、しばしば史実とかけ離れていると話題になっています。",
-            "系図研究者の菊地浩之氏は、徳川家康が小鳥を贈られた相手や賤ヶ岳の戦いでの人物の動向など、具体的な相違点を指摘。",
-            "ドラマが歴史的事実と異なる描写をしているケースがあるとしています。"
+            "19日午後4時ごろ、東京・八王子市の交番で男性警察官が頭から血を流して倒れているのが見つかりました。",
+            "警察官は意識不明の重体で病院に搬送され、近くには拳銃が落ちていたとのことです。",
+            "警視庁は自殺を図った可能性もあるとみて調べています。"
           ]
         },
         {
-          "title": "台風、災害警戒呼びかけ 島しょ部や太平洋側(共同通信)",
+          "title": "飛行計画未提出か…アジア大会にあわせライトアップ中の名古屋市役所で撮影用ドローンが建物に衝突 航空法違反の疑いも(東海テレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:11:12Z",
-          "excerpt": "大型の台風25号が接近する影響で連休中は荒れた天気になるとして、気象庁は19日、東京・小笠原諸島や伊豆諸島、東日本から東北の太平洋側などで20～21日にかけて、暴風や高波、大雨による土砂災害や低い土",
-          "link": "https://news.yahoo.co.jp/articles/250f96ec42f9ab8bc42e33d81f5566f89957b8b9?source=rss",
+          "publishedAt": "2026-09-19T12:11:33Z",
+          "excerpt": "17日夜、名古屋市役所本庁舎のライトアップを撮影していたドローンが、向かいの西庁舎に衝突する事故がありました。 捜査関係者によりますと、17日午後9時前、名古屋市役所の本庁舎を撮影していたドロー",
+          "link": "https://news.yahoo.co.jp/articles/cc189c52124c833a8198ba081178d686020feac2?source=rss",
           "translationStatus": "translated",
-          "titleJa": "台風25号接近で災害警戒、島しょ部や太平洋側で荒天か",
+          "titleJa": "名古屋市役所でドローンが建物に衝突、航空法違反の疑い",
           "summaryJa": [
-            "大型台風25号の接近により、連休中は荒れた天気となる見込みです。",
-            "気象庁は19日、東京の小笠原諸島や伊豆諸島、東日本から東北の太平洋側で警戒を呼びかけました。",
-            "20日から21日にかけて、暴風や高波、大雨による土砂災害や低い土地の浸水に注意が必要です。"
+            "17日夜、名古屋市役所本庁舎のライトアップを撮影していたドローンが、向かいの西庁舎に衝突する事故がありました。",
+            "捜査関係者によると、ドローンは飛行計画を提出していなかった可能性があり、航空法違反の疑いも持たれています。",
+            "アジア大会に合わせたライトアップ中の出来事でした。"
           ]
         },
         {
-          "title": "修行僧70人蓮の花栽培 横浜の寺院 半年後の園芸博出展 荘厳空間演出へ(日本農業新聞)",
+          "title": "【台風情報】大型の「台風25号」最大瞬間風速50m/s・960hPa予想...関東・東海は「警報級大雨」のおそれ...雨風シミュレーション【気象庁19日18時45分発表】(RSK山陽放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:06:08Z",
-          "excerpt": "19日で2027年国際園芸博覧会開催までちょうど半年。横浜市にある曹洞宗の大本山總持寺は、国際園芸博に蓮の花を出展する。栽培するのは、全国から集まる修行僧約70人。管理事業部参務の菅原宗玄さん（48",
-          "link": "https://news.yahoo.co.jp/articles/b742b26710623d6b8618cec394e8e7e9d81cda28?source=rss",
+          "publishedAt": "2026-09-19T12:10:24Z",
+          "excerpt": "■大型「台風25号（ドゥージェン）」 気象庁によりますと、大型で台風25号は、日本の南を時速15kmの速さで北西へ進んでいます。 2026年09月19日18時45分発表 19日18時の実況 種別",
+          "link": "https://news.yahoo.co.jp/articles/ec3fb06ceda517b8813ec99aa14b2ac22a860d50?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜・總持寺、修行僧70人が蓮の花栽培 園芸博出展へ",
+          "titleJa": "大型台風25号、日本の南を北西へ進行中 関東・東海で警報級大雨のおそれ",
           "summaryJa": [
-            "2027年国際園芸博覧会の開催まで半年となる中、横浜市の曹洞宗大本山總持寺が蓮の花を出展します。",
-            "全国から集まった約70人の修行僧が、蓮の花の栽培に取り組んでいます。",
-            "博覧会では、蓮の花で荘厳な空間を演出することを目指しています。"
+            "気象庁の発表によると、大型の台風25号（ドゥージェン）が日本の南を時速15kmで北西に進んでいます。",
+            "最大瞬間風速50m/s、中心気圧960hPaが予想されており、関東・東海地方では警報級の大雨となるおそれがあります。",
+            "今後の情報に注意し、警戒が必要です。"
           ]
         },
         {
-          "title": "都がモスク建設に補助金? インバウンド対応の祈祷室と混同か【ファクトチェック】(日本ファクトチェックセンター)",
+          "title": "漫才師の中田ボタンさん死去(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:58Z",
-          "excerpt": "東京都がイスラム教のモスク建設に補助金を出しているかのような投稿が拡散しましたが、誤りです。都は外国人旅行者のニーズに対応するため、「祈祷室」の整備に補助金を出す制度はつくっていますが、ウェブサイトで",
-          "link": "https://news.yahoo.co.jp/articles/fa798e6e4dc40f4bbb1e11ce676aa1af4fd8cc19?source=rss",
+          "publishedAt": "2026-09-19T12:05:50Z",
+          "excerpt": "漫才コンビ「中田カウス・ボタン」の中田ボタンさんが14日に病気のため死去していたことが19日、分かった。78歳。香川県出身。",
+          "link": "https://news.yahoo.co.jp/articles/865b56bef8d07f3f5a3787b4ff65cac70e29aa88?source=rss",
           "translationStatus": "translated",
-          "titleJa": "東京都のモスク建設補助金は誤り、祈祷室整備への補助と混同か",
+          "titleJa": "漫才師の中田ボタンさん死去、78歳",
           "summaryJa": [
-            "東京都がイスラム教のモスク建設に補助金を出しているという投稿が拡散しましたが、これは誤りです。",
-            "都は、外国人旅行者のニーズに対応するため、「祈祷室」の整備に補助金を出す制度を設けています。",
-            "モスク建設への補助金制度は存在せず、情報が混同されたものとみられます。"
+            "漫才コンビ「中田カウス・ボタン」の中田ボタンさんが、14日に病気のため死去していたことが19日明らかになりました。",
+            "享年78歳でした。",
+            "香川県出身です。"
           ]
         },
         {
-          "title": "【吹奏楽部】は｢STEAM教育｣の先駆けだった？｢理数｣｢探究｣の要素満載なのに､なぜ｢情操教育｣から進化できなかったのか(東洋経済education×ICT)",
+          "title": "天皇皇后両陛下がアジア大会「開会式」にご出席 翌日20日（日）はジブリパーク視察や女子バスケットボール予選を観戦される予定(CBCテレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:50Z",
-          "excerpt": "「音楽は情操教育にいい」――学校吹奏楽部の長所は、まるで判で押したようにそう語られてきた。だが、この聞こえがよい評価が、吹奏楽部が学校教育の中で担ってきた本当の価値を曖昧なまま覆い隠してきたのではない",
-          "link": "https://news.yahoo.co.jp/articles/067092d046a49ee9a0a3ae8ee74c733924c9ab28?source=rss",
+          "publishedAt": "2026-09-19T11:35:22Z",
+          "excerpt": "天皇皇后両陛下がアジア大会の開会式出席のため、19日に愛知県に到着されました。 19日（土）午前11時半ごろ、中部空港に到着された天皇皇后両陛下。出迎えた愛知県の大村知事らと笑顔で挨拶を交わされまし",
+          "link": "https://news.yahoo.co.jp/articles/3b592cb32f17708c0512f007ea7480763dd3d1f3?source=rss",
           "translationStatus": "translated",
-          "titleJa": "吹奏楽部の真の価値とは？情操教育という評価への疑問",
+          "titleJa": "天皇皇后両陛下、アジア大会開会式ご出席のため愛知県に到着",
           "summaryJa": [
-            "学校吹奏楽部の長所は「音楽は情操教育に良い」と語られてきました。",
-            "しかし、この評価が吹奏楽部が学校教育の中で担ってきた本当の価値を曖昧にしてきた可能性が指摘されています。",
-            "記事は、従来の「情操教育」という枠組みを超えた、吹奏楽部の新たな価値について問いかけています。"
+            "天皇皇后両陛下がアジア大会の開会式にご出席のため、19日に愛知県に到着されました。",
+            "午前11時半ごろ中部空港に到着し、出迎えた愛知県の大村知事らと笑顔で挨拶を交わされました。",
+            "翌20日にはジブリパーク視察や女子バスケットボール予選の観戦も予定されています。"
           ]
         },
         {
-          "title": "警視庁麻薬Gメンの実名・顔出し告白…バンかけ編「バックミラーで見破った」銃刀法違反(FRIDAY)",
+          "title": "日本・ネパール国交70年 被災地支援と在留30万人の孤立防ごうと大阪で交流イベント(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:45Z",
-          "excerpt": "荏原(えばら)警察署(品川区)の管内にある補助26号線をパトカーで流していたときのことでした。ハンドルを握るのは故・黒木昭雄さん。後に警察ジャーナリストとして活躍されましたが、当時は第二自動車警ら隊の",
-          "link": "https://news.yahoo.co.jp/articles/f4d9f882c710fbc222abd35dad19bb272b95caa8?source=rss",
+          "publishedAt": "2026-09-19T11:27:50Z",
+          "excerpt": "8月の大規模土石流で計1400人以上が死亡するなど甚大な被害を受けたネパール。支援を届けるとともに、日本とネパールの交流推進を図ろうと大阪市で19日、地元NPOが主催するイベントが開かれた。日本には多",
+          "link": "https://news.yahoo.co.jp/articles/3a2bd334a17eba507b5d7c3804168a57d10df12b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "故・黒木昭雄氏、警察官時代のパトロールを回顧",
+          "titleJa": "日本・ネパール国交70年、大阪で被災地支援と交流イベント開催",
           "summaryJa": [
-            "故・黒木昭雄氏が、警察ジャーナリストとして活躍する前の警察官時代を回顧しています。",
-            "氏は当時、第二自動車警ら隊に所属し、荏原警察署管内の補助26号線をパトカーでパトロールしていました。",
-            "ハンドルを握っていた当時の様子が語られています。"
+            "日本とネパールの国交70年を記念し、大阪市で19日、地元NPO主催の交流イベントが開催されました。",
+            "8月の大規模土石流で甚大な被害を受けたネパールへの支援を届けることが目的です。",
+            "日本に在留する約30万人のネパール人の孤立を防ぎ、交流を深めることも目指しています。"
           ]
         },
         {
-          "title": "小さな水槽に自然の生態系を再現 初心者も挑戦できるネイチャーアクアリウム(テレビ朝日系（ANN）)",
+          "title": "性暴力被害を訴えた元検事は、なぜ検察を去らねばならなかったのか／ひかり氏（仮名・元大阪地検検事）、田中嘉寿子氏（弁護士・元検事）(ビデオニュース・ドットコム)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:37Z",
-          "excerpt": "水槽の中に小さな大自然を作り出すネイチャーアクアリウム。魚よりも水草が主役です。多くの愛好家を魅了する理由を調査しました。",
-          "link": "https://news.yahoo.co.jp/articles/f71301b71b26cf3fdf482cf5742860f39d799e0e?source=rss",
+          "publishedAt": "2026-09-19T11:21:04Z",
+          "excerpt": "「権力は腐敗する。絶対的権力は絶対的に腐敗する」。 19世紀イギリスの歴史家アクトン卿の言葉を待つまでもなく、誰からもチェックを受けない権力が腐敗を免れることはない。そして日本において、政治家も",
+          "link": "https://news.yahoo.co.jp/articles/e140ad71e61c938d4d82b72e6f56059619a89e21?source=rss",
           "translationStatus": "translated",
-          "titleJa": "水槽に小さな大自然を再現、ネイチャーアクアリウムの魅力",
+          "titleJa": "性暴力被害を訴えた元検事、検察を去った経緯を問う",
           "summaryJa": [
-            "ネイチャーアクアリウムは、水槽の中に小さな大自然を作り出す趣味です。",
-            "このアクアリウムでは、魚よりも水草が主役となり、多くの愛好家を魅了しています。",
-            "初心者でも挑戦できるとされており、その魅力が調査されました。"
+            "性暴力被害を訴えた元検事の「ひかり氏」（仮名）が、なぜ検察を去らねばならなかったのかを問う記事です。",
+            "弁護士の田中嘉寿子氏（元検事）も交え、権力と腐敗の問題に触れています。",
+            "誰からもチェックを受けない権力が腐敗を免れないという視点から、日本の検察組織のあり方を考察しています。"
           ]
         },
         {
-          "title": "《帰国翌日に誕生日》還暦を迎えた紀子さまの「ハードすぎる公務」と小室眞子さんへ向けた“母の眼差し”(週刊女性PRIME)",
+          "title": "【訃報】漫才コンビ「中田カウス・ボタン」の中田ボタンさん 14日に死去 78歳(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:37Z",
-          "excerpt": "《この度、大きな節目の日を迎えましたが、これまでの積み重ねのもと、天皇皇后両陛下をお支えしながら、一つ一つのお役目を大切に果たしていく努力を続けることができましたら、と思っております》 9月11日",
-          "link": "https://news.yahoo.co.jp/articles/64ce63c69844956bd57b214d8403773124078af9?source=rss",
+          "publishedAt": "2026-09-19T11:00:28Z",
+          "excerpt": "漫才コンビ「中田カウス・ボタン」の中田ボタンさんが亡くなりました。78歳でした。 関係者によりますと、中田ボタンさんは今月14日に亡くなったということです。 中田さんは、1967年に漫才コンビ",
+          "link": "https://news.yahoo.co.jp/articles/5f8a45538f372afdf26d4149276e1733212349bb?source=rss",
           "translationStatus": "translated",
-          "titleJa": "紀子さま、還暦の節目に公務への思いを語る",
+          "titleJa": "漫才師の中田ボタンさん死去、78歳",
           "summaryJa": [
-            "9月11日に還暦を迎えられた紀子さまが、その節目に際しての思いを述べられました。",
-            "紀子さまは、これまでの積み重ねを基に、天皇皇后両陛下をお支えしながら公務に臨む決意を示されています。",
-            "「一つ一つのお役目を大切に果たしていく努力を続けることができましたら」と語られました。"
+            "漫才コンビ「中田カウス・ボタン」の中田ボタンさんが、今月14日に亡くなっていたことが分かりました。",
+            "享年78歳でした。",
+            "中田さんは1967年に漫才コンビを結成し、長年活躍しました。"
           ]
         },
         {
-          "title": "東海地方は大丈夫?名古屋城や国宝･犬山城の耐震対策 「文化財保護と防災の両立」 来場時に注意すべき点が(CBCテレビ)",
+          "title": "「生きている間に一度あるかどうかなので母と」多くの人が待ちわびた「アジア大会」の開会式 19日の会場周辺は厳戒態勢 午前は愛知の空にブルーインパルス舞う(CBCテレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-18T23:00:36Z",
-          "excerpt": "7月末に発生した令和8年熊本地震で、またも被害を受けた熊本城の教訓から城の災害対策を考えます。名古屋城や犬山城は、どんな課題を抱えているのでしょうか。 7月に発生した最大震度7の熊本地震。前回10年",
-          "link": "https://news.yahoo.co.jp/articles/a300f6bdda018ca8eb5c0b1ccedbaa119881bf94?source=rss",
+          "publishedAt": "2026-09-19T10:25:24Z",
+          "excerpt": "アジア大会の開催地、愛知・名古屋で19日、開会式に先立ち航空自衛隊のブルーインパルスが、空を舞いました。 （矢野司記者）「名古屋の空にブルーインパルスがやってきました。集まった多くの人たちから歓声が",
+          "link": "https://news.yahoo.co.jp/articles/dacfaddef683696b2444430841e734a3775e096a?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熊本城の教訓から考える、名古屋城・犬山城の耐震対策",
+          "titleJa": "アジア大会開会式、愛知・名古屋でブルーインパルスが飛行",
           "summaryJa": [
-            "7月末に発生し、熊本城が再び被害を受けた令和8年熊本地震の教訓から、城の災害対策が検討されています。",
-            "東海地方の名古屋城や国宝・犬山城が抱える耐震対策の課題に焦点が当てられています。",
-            "文化財保護と防災の両立が重要なテーマとなっています。"
+            "アジア大会の開会式が19日、愛知・名古屋で開催され、会場周辺は厳戒態勢が敷かれました。",
+            "開会式に先立ち、午前中には航空自衛隊のブルーインパルスが名古屋の空を舞い、多くの観衆から歓声が上がりました。",
+            "多くの人が待ちわびた大会の幕開けとなりました。"
           ]
         }
       ]
@@ -262,143 +299,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+          "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-18T23:04:23Z",
-          "excerpt": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"...",
-          "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+          "publishedAt": "2026-09-19T13:11:34Z",
+          "excerpt": "Journalists from MS NOW were denied access to the White House grounds early Saturday, one day after Trump banned three media outlets over t...",
+          "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏、MSNBC、CNN、ポリティコをホワイトハウスから排除すると表明",
+          "titleJa": "トランプ氏のメディア禁止後、MS NOW記者がホワイトハウスへのアクセスを拒否される",
           "summaryJa": [
-            "トランプ氏は、MSNBC、CNN、ポリティコをホワイトハウスから排除すると述べました。",
-            "同氏は、これらのメディアが「フェイクニュース」を書いていると非難しています。",
-            "トランプ氏は自身のSNS「Truth Social」で、これらのメディアを許可すべきではないと発言しました。"
+            "トランプ氏が3つのメディアを禁止した翌日、MS NOWの記者がホワイトハウス敷地内への立ち入りを拒否されました。",
+            "これは土曜日の早朝に発生しました。",
+            "特定の報道機関に対する禁止措置が背景にあります。"
           ]
         },
         {
-          "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+          "title": "Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T13:02:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/articles/motorola-solutions-eyes-defense-drone-130200808.html",
+          "translationStatus": "translated",
+          "titleJa": "モトローラ・ソリューションズ、Silvusの規模拡大に伴い防衛・ドローンセキュリティ分野での成長を注視",
+          "summaryJa": [
+            "モトローラ・ソリューションズは、Silvusの事業拡大を背景に、防衛分野とドローンセキュリティ分野での成長機会を模索しています。",
+            "同社は新たな市場での事業拡大を目指しており、特にドローン関連のセキュリティ需要の高まりに注目しています。",
+            "これは、将来の収益源を多様化する戦略の一環です。"
+          ]
+        },
+        {
+          "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
           "source": "MarketWatch",
-          "publishedAt": "2026-09-18T23:00:00Z",
-          "excerpt": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-          "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+          "publishedAt": "2026-09-19T13:00:00Z",
+          "excerpt": "After more than five years of failing to do so, Federal Reserve leaders think they can shrink the rate of inflation to 2% by 2029 with just...",
+          "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "「燃え尽きた」金銭的に困窮するいとこへの援助に疲弊、姉妹の協力は望みすぎか",
+          "titleJa": "ウォーシュ氏率いるFRB、インフレ抑制に本腰 ウォール街が信頼する理由",
           "summaryJa": [
-            "投稿者は、金銭的に困窮しているいとこを常に助けていると訴えています。",
-            "家族との時間を削り、ガソリン代や食事代を負担しているとのことです。",
-            "援助による疲弊を感じており、いとこの姉妹にも協力を求めるべきか悩んでいます。"
+            "5年以上インフレ抑制に失敗した後、連邦準備制度理事会の指導者たちは、2029年までにインフレ率を2%に引き下げられると考えています。",
+            "ウォール街は現在、FRBのインフレ抑制への真剣な取り組みを信じ始めています。",
+            "これは、FRBが具体的な目標と計画を示したことによるものです。"
           ]
         },
         {
-          "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-18T22:45:00Z",
-          "excerpt": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-          "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+          "title": "Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T12:55:38Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html",
           "translationStatus": "translated",
-          "titleJa": "「総資産2000万ドルのはずが…」仮想通貨プラットフォームに110万ドル投資、全額失ったか",
+          "titleJa": "アムジェンかメルクか：配当成長でより強いのはどちらの製薬会社か",
           "summaryJa": [
-            "投稿者は仮想通貨プラットフォームに110万ドルを投資しました。",
-            "ニューヨークの大手投資銀行の副社長の勧めで投資したと述べています。",
-            "自身の総資産は2000万ドルになるはずだったと主張しており、投資した資金を全て失ったのではないかと懸念しています。"
+            "アムジェンとメルク、どちらの製薬会社がより強力な配当成長の可能性を秘めているかについて分析がなされています。",
+            "投資家は、両社の配当政策や将来の成長見通しを比較検討しています。",
+            "これは、安定した配当収入を重視する投資家にとって重要な情報です。"
           ]
         },
         {
-          "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-18T22:41:00Z",
-          "excerpt": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
-          "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "投資家は10月の株式市場暴落懸念に怯えるべきではない理由",
-          "summaryJa": [
-            "10月に株価暴落が起こりやすいという投資家の非合理的な信念があります。",
-            "この信念を利用して利益を得られる可能性があると指摘されています。",
-            "投資家は10月の市場暴落への過度な懸念に動揺すべきではないと論じています。"
-          ]
-        },
-        {
-          "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-18T22:32:08Z",
-          "excerpt": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the i...",
-          "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+          "publishedAt": "2026-09-19T12:50:49Z",
+          "excerpt": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy...",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏、グリーンランドに大規模な米軍駐留を計画と発言",
+          "titleJa": "堅調な経済にもかかわらず消費者心理は低迷、ゴールドマン・サックスは「幸福度の低下」を指摘",
           "summaryJa": [
-            "トランプ氏は、米国がグリーンランドとデンマークとの安全保障協定の一環として、グリーンランドに「大規模な軍事プレゼンス」を構築すると述べました。",
-            "グリーンランドは「売り物ではない」と主張しています。",
-            "欧州連合は今年初め、トランプ氏のグリーンランド買収提案を非難するために結束しました。"
+            "経済が堅調であるにもかかわらず、消費者心理は低迷しています。",
+            "ゴールドマン・サックスのエコノミスト、ジョセフ・ブリッグス氏は、社会全体の悲観主義が消費者心理の低迷に寄与していると述べています。",
+            "彼はこれを「幸福度の低下」と表現し、経済指標だけでは測れない要因の重要性を示唆しています。"
           ]
         },
         {
-          "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+          "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T12:50:00Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/john-ternuss-first-iphone-launch-125000640.html",
+          "translationStatus": "translated",
+          "titleJa": "ジョン・ターナス氏初のiPhone発表後、バンク・オブ・アメリカが目標株価を引き下げ：アップル株は買いか？",
+          "summaryJa": [
+            "ジョン・ターナス氏が初めて担当したiPhoneの発表後、バンク・オブ・アメリカがアップル株の目標株価を引き下げました。",
+            "この動きは、アップル株が現在買いであるかどうかという疑問を投げかけています。",
+            "投資家は、今後の株価動向とアナリストの評価に注目しています。"
+          ]
+        },
+        {
+          "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T12:45:47Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
+          "translationStatus": "translated",
+          "titleJa": "アフラック（AFL）の純利益は37.7%増も、調整後利益は減少",
+          "summaryJa": [
+            "アフラック（AFL）の純利益は37.7%増加しました。",
+            "しかし、調整後利益は実際には減少しています。",
+            "この差異は、会計上の特定の要因によるものと考えられます。"
+          ]
+        },
+        {
+          "title": "Buffett takes next step in plan to keep Berkshire from straying",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-18T21:37:38Z",
-          "excerpt": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to hum...",
-          "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+          "publishedAt": "2026-09-19T12:43:56Z",
+          "excerpt": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
+          "link": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
           "translationStatus": "translated",
-          "titleJa": "Anthropic、Amodei氏のAI開発減速提案実施のためアクセンチュアを選定",
+          "titleJa": "バフェット氏、バークシャーの経営方針維持へ次の一手：会長職を息子に譲渡",
           "summaryJa": [
-            "Anthropicは、Amodei氏のAI開発減速提案の実施を支援するため、アクセンチュアを初の組み込み評価機関として選定しました。",
-            "研究者らがAIが人類に壊滅的な被害をもたらす可能性について警告して以来、AnthropicとOpenAIは厳しく監視されています。",
-            "この選定は、AIの潜在的なリスクへの対応を目的としています。"
+            "ウォーレン・バフェット氏がバークシャー・ハサウェイの会長職を辞任しました。",
+            "後任には息子のハワード氏が就任します。",
+            "これは、バークシャーの経営方針を維持するための計画の一環とされています。"
           ]
         },
         {
-          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-18T21:35:55Z",
-          "excerpt": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-          "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+          "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T12:38:37Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
           "translationStatus": "translated",
-          "titleJa": "OpenAIの最新AI発表は「深刻な状況」とマイクロソフト幹部が指摘",
+          "titleJa": "センコラ（COR）、業績見通しを引き上げ10億ドルを自社株買い：その背景は？",
           "summaryJa": [
-            "マイクロソフトの幹部であるスレイマン氏は、OpenAIの最新のAI発表について「深刻な状況」だとCNBCに語りました。",
-            "同氏は「Squawk Box」に出演し、今週初めに開示されたOpenAIの「懸念されるモデルの挙動」について議論しました。",
-            "これは、AI技術の安全性や倫理に関する懸念が高まっていることを示唆しています。"
+            "センコラ（COR）は業績見通しを引き上げ、さらに10億ドル相当の自社株買いを実施しました。",
+            "この積極的な動きの背景には、何らかの特別な理由がある可能性があります。",
+            "投資家は、この発表の真意と今後の影響に注目しています。"
           ]
         },
         {
-          "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-18T21:16:00Z",
-          "excerpt": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if...",
-          "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+          "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19T12:35:08Z",
+          "excerpt": "",
+          "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
           "translationStatus": "translated",
-          "titleJa": "マンション売却が困難に、「身動きが取れない」と所有者",
+          "titleJa": "コヒーレント（COHR）、主要光ネットワーク機器をプラグインモジュールに集約",
           "summaryJa": [
-            "最近、マンションの売却が多くの人にとって困難になっています。",
-            "購入者は、上昇し続ける管理組合費（HOA fees）の負担を懸念し、購入をためらっています。",
-            "所有者からは「身動きが取れない」といった声が上がっており、市場の課題が浮き彫りになっています。"
-          ]
-        },
-        {
-          "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-18T21:14:00Z",
-          "excerpt": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecom...",
-          "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "UBSアナリストが選ぶ、アマゾン、パランティアなどテクノロジー株14銘柄",
-          "summaryJa": [
-            "UBSのアナリストが、アマゾン、パランティアを含む14の主要テクノロジー株を選定しました。",
-            "AIデータセンターの構築はまだ初期段階にあると指摘されています。",
-            "投資家はテクノロジー、メディア、通信分野への投資を通じて利益を得られる可能性があるとUBSは述べています。"
-          ]
-        },
-        {
-          "title": "AI cloud provider Nscale files to go public",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-18T21:08:28Z",
-          "excerpt": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
-          "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-          "translationStatus": "translated",
-          "titleJa": "AIクラウドプロバイダーNscaleが株式公開を申請",
-          "summaryJa": [
-            "AIクラウドプロバイダーのNscaleが株式公開を申請しました。",
-            "Nscaleは、公開市場に参入する最新の人工知能ネオクラウド企業です。",
-            "これは、AI関連企業の市場への関心の高まりを示しています。"
+            "コヒーレント（COHR）は、主要な光ネットワーク機器をプラグインモジュールに集約することに成功しました。",
+            "この技術革新により、機器の小型化と効率化が期待されます。",
+            "これは、光ネットワーク技術の進化における重要な一歩です。"
           ]
         }
       ]
@@ -408,32 +445,101 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-19T13:00:00Z",
+          "excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+          "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "translationStatus": "translated",
+          "titleJa": "Andreessen Horowitz支援のVals、AIベンチマークの標準化目指す",
+          "summaryJa": [
+            "Vals AIは、AIモデルが溢れる現代において、AIベンチマークをより中立的で信頼できるものにすることを目指しています。",
+            "同社は、AIの性能評価における「ゴールドスタンダード」となることを期待されています。",
+            "Andreessen Horowitzからの支援を受けており、その動向が注目されます。"
+          ]
+        },
+        {
+          "title": "India forces caller-ID apps to feed spam reports to telcos",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-19T01:00:00Z",
+          "excerpt": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+          "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+          "translationStatus": "translated",
+          "titleJa": "インド、発信者IDアプリにスパム報告の通信事業者提供を義務化",
+          "summaryJa": [
+            "インド政府は、発信者IDアプリに対し、スパム報告を通信事業者に提供するよう義務付けています。",
+            "Truecallerは、この一方的な情報共有が、商業的に価値のある独自の資産を通信事業者に渡すことになると主張しています。",
+            "この義務化は、スパム対策強化の一環と見られますが、アプリ提供者からは懸念の声が上がっています。"
+          ]
+        },
+        {
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-19T00:12:07Z",
+          "excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+          "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "translationStatus": "translated",
+          "titleJa": "AI「ティリー・ノーウッド」の記者会見で奇妙な事態、中国語を話し始める",
+          "summaryJa": [
+            "AI「ティリー・ノーウッド」の記者会見ツアーが進行中です。",
+            "あるインタビューで、ノーウッドは誤作動を起こしたかのように見え、突然中国語を話し始めました。",
+            "この予期せぬ出来事は、AIの挙動に関する議論を呼んでいます。"
+          ]
+        },
+        {
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-18T23:25:01Z",
+          "excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+          "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+          "translationStatus": "translated",
+          "titleJa": "スタートアップ育成企業Vantora、物理AIに注力し1億ドル調達",
+          "summaryJa": [
+            "他のスタートアップを構築する企業UP.Labs（現Vantora）が、1億ドルを調達しました。",
+            "同社は現在、物理AIに全面的に注力しています。",
+            "Vantoraは、産業企業向けにスタートアップを立ち上げる事業を展開しています。"
+          ]
+        },
+        {
           "title": "Anthropic is operating a lab that conducts biology experiments",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-18T23:13:31Z",
           "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill...",
           "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
           "translationStatus": "translated",
-          "titleJa": "Anthropicが生物学実験ラボを運営、AIによる病気治療とリスクを両立",
+          "titleJa": "Anthropic、生物学実験ラボを運営 人間疾患治療へのAI活用を模索",
           "summaryJa": [
-            "AI開発企業Anthropicが生物学実験を行うラボを運営している。",
-            "AI業界のリーダーたちは、AIが人類の病気を治療する鍵だと約束してきた。",
-            "しかし、Anthropicの研究者たちは、AIが人類を滅ぼす可能性についても警告している。",
-            "この動きは、AIの潜在的な恩恵とリスクの両面を探るものと見られる。"
+            "AI企業Anthropicが、生物学実験を行うラボを運営しています。",
+            "AI業界のリーダーたちは、AIが人間疾患の治療の鍵となると約束してきました。",
+            "一方で、Anthropicの研究者たちは、AIが人類を滅ぼす可能性についても警告しています。"
           ]
         },
         {
-          "title": "AI Hallucination Nearly Triggers US Military Operation",
+          "title": "AI hallucination nearly triggers US military operation",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-18T23:12:32Z",
           "excerpt": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
           "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
           "translationStatus": "translated",
-          "titleJa": "AIの幻覚が米軍作戦を危うく誘発、LLMの不確実性に警告",
+          "titleJa": "AIの「幻覚」が米軍事作戦を危うく誘発、LLMの不確実性に警鐘",
           "summaryJa": [
-            "AIの「幻覚」が原因で、米軍の作戦が危うく発動されそうになった。",
-            "GovAIの研究者は、大規模言語モデル（LLM）に内在する不確実性を軍関係者が理解することの重要性を警告している。",
-            "この事例は、AIの誤情報が現実世界に与える深刻な影響を示唆している。"
+            "AIの「幻覚」が原因で、米軍の作戦が危うく誘発されそうになる事態が発生しました。",
+            "GovAIの研究者は、大規模言語モデル（LLM）に内在する不確実性を軍関係者が理解することの重要性を警告しています。",
+            "この事例は、AIの軍事利用におけるリスクを示唆しています。"
+          ]
+        },
+        {
+          "title": "The AI regulation smackdown isn’t over",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-18T22:05:38Z",
+          "excerpt": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CE...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+          "translationStatus": "translated",
+          "titleJa": "AI規制を巡る議論は終結せず、業界内の意見対立続く",
+          "summaryJa": [
+            "AI規制を巡る議論はまだ終わっていません。",
+            "週初めには、AI業界の主要人物たちが暫定的にAI規制を支持する姿勢を見せていました。",
+            "しかし週末にかけて、AnthropicのCEOなどから異なる意見が表明され、業界内の意見対立が続いています。"
           ]
         },
         {
@@ -443,12 +549,11 @@
           "excerpt": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "translationStatus": "translated",
-          "titleJa": "AI超知能開発の減速、かつての「迅速な破壊」路線から転換か",
+          "titleJa": "AI超知能開発のペースが減速か、かつての「速く動いて破壊せよ」は過去に",
           "summaryJa": [
-            "かつてテクノロジー業界では「迅速に動き、破壊せよ」という方針が主流だった。",
-            "AI開発も同様の道を辿ると思われていたが、状況は変化している。",
-            "AI超知能の開発ペースが減速している兆候が見られる。",
-            "これは、AI開発におけるアプローチの変化を示唆している可能性がある。"
+            "かつてテクノロジー業界のリーダーたちは「速く動いて破壊せよ」と従業員に促していました。",
+            "AI開発も同様のペースで進むと思われていましたが、その勢いは減速しているようです。",
+            "AI超知能の開発ペースが鈍化している可能性が指摘されています。"
           ]
         },
         {
@@ -458,11 +563,11 @@
           "excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
           "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
           "translationStatus": "translated",
-          "titleJa": "Anthropic初の組み込み評価者にアクセンチュアが就任、高リスクな役割に",
+          "titleJa": "Anthropic初の組み込み評価機関にアクセンチュアが就任、高リスク案件か",
           "summaryJa": [
-            "AI開発企業Anthropicの初の「組み込み評価者」として、コンサルティング大手のアクセンチュアが指名された。",
-            "アクセンチュアは、これまでで最も高リスクなコンサルティング業務を引き受けることになる。",
-            "この役割は、AIシステムの安全性や倫理的側面を評価する上で重要な意味を持つとみられる。"
+            "Anthropicの最初の組み込み評価機関として、アクセンチュアが就任する見込みです。",
+            "アクセンチュアは、これまでで最もリスクの高いコンサルティング契約を引き受けることになります。",
+            "この提携は、AIの評価とガバナンスにおいて重要な意味を持つ可能性があります。"
           ]
         },
         {
@@ -472,86 +577,11 @@
           "excerpt": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill swit...",
           "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
           "translationStatus": "translated",
-          "titleJa": "カリフォルニア州知事、AIキルスイッチ導入を推進",
+          "titleJa": "カリフォルニア州知事、AIの「キルスイッチ」義務化を推進",
           "summaryJa": [
-            "カリフォルニア州のギャビン・ニューサム知事が、AIの監視において州が主導的役割を果たすことを目指している。",
-            "その一環として、AIシステムに「キルスイッチ」の義務付けを検討している。",
-            "これは、AIの暴走を防ぐための緊急停止機能の導入を意味する。",
-            "カリフォルニア州はAI規制の分野で先行する姿勢を示している。"
-          ]
-        },
-        {
-          "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-18T21:07:24Z",
-          "excerpt": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documenta...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-          "translationStatus": "translated",
-          "titleJa": "OpenAIとMicrosoft、ウェブの「破滅的ループ」を認識していた可能性",
-          "summaryJa": [
-            "ニューヨーク・タイムズがOpenAIとMicrosoftを提訴した訴訟で、最近公開された裁判文書が両社にとって不利な内容であることが判明した。",
-            "これらの文書は、両社がウェブにとって「破滅的なループ」を開始することを認識していた可能性を示唆している。",
-            "これは、AI技術がインターネットコンテンツに与える負の影響について、両社が事前に把握していたことを意味する。"
-          ]
-        },
-        {
-          "title": "World model companies are keeping a lot of secrets",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-18T20:18:14Z",
-          "excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to thei...",
-          "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-          "translationStatus": "translated",
-          "titleJa": "世界モデル開発企業、多くの秘密を保持か",
-          "summaryJa": [
-            "「世界モデル」と呼ばれるAI技術を開発する企業は、多額の資金と大きな注目を集めている。",
-            "しかし、これらの企業は創業者から従業員に至るまで、多くの情報を秘密にしている。",
-            "そのため、彼らの技術や開発状況に関する詳細な情報を得ることは困難である。",
-            "この状況は、AI技術の透明性に関する懸念を引き起こしている。"
-          ]
-        },
-        {
-          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-18T19:09:19Z",
-          "excerpt": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in da...",
-          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-          "translationStatus": "translated",
-          "titleJa": "バージニア州知事、AIタスクフォース設置とデータセンター規制を推進",
-          "summaryJa": [
-            "バージニア州のアビゲイル・スパンバーガー知事が、AIタスクフォースの設置を命じた。",
-            "また、データセンターの規制に向けた措置を州政府に指示した。",
-            "これは、地域社会がデータセンターの設置や運営に関してより大きな発言権を持つことを可能にするもの。",
-            "州はAI技術のガバナンスとインフラ整備の両面で対応を進めている。"
-          ]
-        },
-        {
-          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-18T18:49:30Z",
-          "excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-          "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-          "translationStatus": "translated",
-          "titleJa": "ChatGPT開発者が新型AIモデル「Jev」を発表、開発者から高い評価",
-          "summaryJa": [
-            "ChatGPTの開発者の一人が、新型AIモデル「Jev」を発表した。",
-            "Jevは、より安価かつ迅速にソフトウェアに知能を組み込む方法を開発者に提供している。",
-            "この新しいAIモデルは、開発者の間で大きな注目と興奮を集めている。",
-            "ソフトウェア開発におけるAI活用の新たな可能性を広げると期待されている。"
-          ]
-        },
-        {
-          "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-18T17:59:53Z",
-          "excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief tec...",
-          "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-          "translationStatus": "translated",
-          "titleJa": "ディズニー初のCTOに、かつて著作権侵害で警告したAIスタートアップの元CEOが就任",
-          "summaryJa": [
-            "ディズニーが初の最高技術責任者（CTO）に、Character.AIの元CEOを任命した。",
-            "Character.AIは、かつてディズニーからキャラクターの著作権侵害で停止命令書を送られた経緯がある。",
-            "この人事は、過去の対立を超えてAI技術の専門家を登用するディズニーの戦略を示すもの。",
-            "AI技術の活用を強化する同社の姿勢がうかがえる。"
+            "カリフォルニア州のギャビン・ニューサム知事（民主党）は、AI監督において州が主導権を握る姿勢を示しています。",
+            "その一環として、AIに「キルスイッチ」の搭載を義務付ける可能性を推進しています。",
+            "これは、AIの安全な運用と制御を確保するための取り組みです。"
           ]
         }
       ]
@@ -561,12 +591,32 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "When This Small Alaska Town Was Given $1 Million, Child Care Was Top Priority",
+          "source": "The 74",
+          "publishedAt": "2026-09-19T10:30:00Z",
+          "excerpt": "This story about child care solutions was produced by The Hechinger Report, a nonprofit, nonpartisan news outlet focused on education. SEWA...",
+          "link": "https://www.the74million.org/article/when-this-small-alaska-town-was-given-1-million-child-care-was-the-top-priority/",
+          "translationStatus": "translated",
+          "titleJa": "アラスカの小都市、100万ドル交付で保育を最優先",
+          "summaryJa": [
+            "アラスカ州の小さな町が100万ドルの資金を受け取った。",
+            "この町では、その資金の使途として保育が最優先事項とされた。",
+            "これは保育問題の解決策に関する記事である。"
+          ]
+        },
+        {
           "title": "Denver school board approves agreement with outside law firm that could cost up to $1,000 an hour",
           "source": "Chalkbeat",
           "publishedAt": "2026-09-18T22:46:47Z",
           "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
           "link": "https://www.chalkbeat.org/colorado/2026/09/18/denver-school-board-outside-attorney-agreement-1000-an-hour/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "デンバー教育委員会、外部法律事務所との契約承認 費用は時給1000ドルに",
+          "summaryJa": [
+            "デンバーの教育委員会が外部の法律事務所との契約を承認した。",
+            "この契約により、費用は最大で時給1000ドルに達する可能性がある。",
+            "この決定は、教育関連のニュースとして報じられている。"
+          ]
         },
         {
           "title": "Skyrocketing freshman enrollment at Philly’s Girls High creates new problem: overcrowded classrooms",
@@ -574,7 +624,13 @@
           "publishedAt": "2026-09-18T21:16:22Z",
           "excerpt": "Sign up for Chalkbeat Philadelphia’s free newsletter to keep up with the city’s public school system. Philadelphia Principal KaTiedra Argro...",
           "link": "https://www.chalkbeat.org/philadelphia/2026/09/18/girls-high-school-freshman-enrollment-growth-means-overcrowded-classrooms/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "フィラデルフィア女子高校、新入生急増で教室が過密化",
+          "summaryJa": [
+            "フィラデルフィアの女子高校で新入生の入学が急増している。",
+            "この急増により、教室の過密化という新たな問題が生じている。",
+            "市の公立学校システムに関するニュースとして報じられた。"
+          ]
         },
         {
           "title": "State Colleges, PreK-12 Schools Must Implement AI Guardrails Before July",
@@ -582,7 +638,13 @@
           "publishedAt": "2026-09-18T18:30:00Z",
           "excerpt": "The body regulating Florida public schools and state colleges Wednesday approved what the Florida Department of Education calls “one of the...",
           "link": "https://www.the74million.org/article/state-colleges-prek-12-schools-must-implement-ai-guardrails-before-july/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "フロリダ州、州立大学と小中高に7月までのAI利用規制導入を義務付け",
+          "summaryJa": [
+            "フロリダ州の公立学校と州立大学は、7月までにAI利用の安全対策を導入する必要がある。",
+            "フロリダ州教育省はこれを重要な措置と位置付けている。",
+            "規制機関が水曜日にこの方針を承認した。"
+          ]
         },
         {
           "title": "How LAUSD Teachers Are Adapting to Accommodate Screen Time Policy",
@@ -590,7 +652,13 @@
           "publishedAt": "2026-09-18T16:30:00Z",
           "excerpt": "A month into the school year, teachers in the Los Angeles Unified School District are still adapting to the district’s new policy that bans...",
           "link": "https://www.the74million.org/article/how-lausd-teachers-are-adapting-to-accommodate-screen-time-policy/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ロサンゼルス統一学区の教師たち、スクリーンタイム禁止の新方針に適応中",
+          "summaryJa": [
+            "ロサンゼルス統一学区では、スクリーンタイムを禁止する新方針が導入された。",
+            "新学期が始まって1ヶ月が経過したが、教師たちはこの方針への適応を続けている。",
+            "生徒のデバイス使用に関する新たな取り組みとして注目されている。"
+          ]
         },
         {
           "title": "Meet the 23-Year-Old Bed-Stuy Native Who Won a $200,000 David Prize for Teaching Kids Money Skills",
@@ -598,7 +666,13 @@
           "publishedAt": "2026-09-18T14:30:00Z",
           "excerpt": "When Aaliyah Duah was 17, she realized one of the major differences between an underserved community like Brooklyn’s Bedford-Stuyvesant, wh...",
           "link": "https://www.the74million.org/article/meet-the-23-year-old-bed-stuy-native-who-won-a-200000-david-prize-for-teaching-kids-money-skills/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "23歳女性、子どもへの金銭教育で20万ドルのデイビッド賞受賞",
+          "summaryJa": [
+            "ブルックリンのベッドフォード＝スタイベサント出身の23歳女性が、デイビッド賞を受賞した。",
+            "彼女は子どもたちに金銭スキルを教えている功績が評価された。",
+            "賞金は20万ドルに上る。"
+          ]
         },
         {
           "title": "Opinion: Transportation is the First Classroom of the Day",
@@ -607,11 +681,11 @@
           "excerpt": "Every school district I have worked in for 22 years asks the same question when a student’s attendance starts to slip: What is going on at...",
           "link": "https://www.the74million.org/article/transportation-is-the-first-classroom-of-the-day/",
           "translationStatus": "translated",
-          "titleJa": "意見：通学は一日の最初の教室である",
+          "titleJa": "論説：通学は一日の最初の教室である",
           "summaryJa": [
-            "筆者は、22年間勤務した全ての学区で、生徒の出席率が低下し始めると同じ質問が出ると述べています。",
-            "それは「学校で何が起こっているのか」という問いです。",
-            "この意見記事は、通学が一日で最初の教室であるという視点を提供しています。"
+            "筆者は22年間勤務した全ての学区で、生徒の出席率が低下するとある質問がされると述べている。",
+            "その質問は「何が起こっているのか」というものだ。",
+            "この論説は、通学が教育において重要な役割を果たすという視点を提供している。"
           ]
         },
         {
@@ -623,9 +697,9 @@
           "translationStatus": "translated",
           "titleJa": "オハイオ州の読解力スコア上昇、「読解の科学」の効果は？",
           "summaryJa": [
-            "オハイオ州の生徒の読解力スコアが、昨年度わずかに上昇しました。",
-            "昨年度は「読解の科学」が義務付けられた最初の年でした。",
-            "しかし、この上昇が「読解の科学」によるものかどうかを判断するには時期尚早です。"
+            "オハイオ州の生徒の読解力スコアが昨年度わずかに上昇した。",
+            "これは「読解の科学」が義務付けられてから初めての学年である。",
+            "しかし、その効果を判断するには時期尚早とされている。"
           ]
         },
         {
@@ -634,7 +708,13 @@
           "publishedAt": "2026-09-18T05:36:01Z",
           "excerpt": "Sign up for Chalkbeat Colorado’s free daily newsletter to get the latest reporting from us, plus curated news from other Colorado outlets,...",
           "link": "https://www.chalkbeat.org/colorado/2026/09/18/denver-school-board-orders-investigation-of-antisemitic-language-allegation/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "デンバー教育委員会、反ユダヤ主義的発言の疑いで調査を承認",
+          "summaryJa": [
+            "デンバーの教育委員会が、反ユダヤ主義的な発言の疑いに関する調査を承認した。",
+            "この決定は、学校環境における差別問題への対応を示すものだ。",
+            "コロラド州の教育関連ニュースとして報じられている。"
+          ]
         },
         {
           "title": "1 in 3 NYC students chronically absent as rates remain stubbornly high",
@@ -642,15 +722,13 @@
           "publishedAt": "2026-09-17T21:04:24Z",
           "excerpt": "Sign up for Chalkbeat New York’s free daily newsletter to get essential news about NYC’s public schools delivered to your inbox. New York C...",
           "link": "https://www.chalkbeat.org/newyork/2026/09/17/nyc-chronic-absenteeism-rates-stubbornly-high/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Exit interview: Former MSCS board member calls for leadership stability",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-17T21:01:43Z",
-          "excerpt": "Sign up for Chalkbeat Tennessee’s free newsletter to keep up with statewide education policy and Memphis-Shelby County Schools. Amber Huett...",
-          "link": "https://www.chalkbeat.org/tennessee/2026/09/17/exit-interview-amber-huett-garcia-leaves-memphis-school-board/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク市、生徒の3人に1人が慢性的な欠席状態",
+          "summaryJa": [
+            "ニューヨーク市では、生徒の3人に1人が慢性的に学校を欠席している。",
+            "この欠席率は依然として高い水準で推移している。",
+            "市の公立学校システムにおける重要な課題として報じられている。"
+          ]
         }
       ]
     }
@@ -675,7 +753,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 36,
+    "translatedItems": 50,
     "failedBatches": []
   }
 }
