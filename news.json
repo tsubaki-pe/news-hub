@@ -1,101 +1,149 @@
 {
-  "generatedAt": "2026-09-24T23:53:32.918186Z",
+  "generatedAt": "2026-09-25T14:38:30.249354Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
           "source": "BBC News",
-          "publishedAt": "2026-09-24T23:41:10Z",
-          "excerpt": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-          "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T14:24:19Z",
+          "excerpt": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "アフリカ富豪、エチオピア・ジブチ間の6.6億ドル燃料パイプライン建設を支援",
+          "summaryJa": [
+            "アフリカの富豪が、エチオピアとジブチを結ぶ6億6000万ドルの燃料パイプライン建設に資金援助を行っています。",
+            "このパイプラインは、内陸国エチオピアのエネルギー安全保障を強化することを目的としています。",
+            "また、ジブチの港では雇用創出にも繋がると期待されています。"
+          ]
         },
         {
-          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
           "source": "BBC News",
-          "publishedAt": "2026-09-24T23:32:51Z",
-          "excerpt": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T14:17:42Z",
+          "excerpt": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "エチオピア・ティグレ州で戦闘発生、インターネット接続を制限",
+          "summaryJa": [
+            "エチオピアのティグレ州で戦闘が発生し、インターネット接続が制限されています。",
+            "同地域では、2年間にわたる内戦中も外部との通信が完全に遮断されていました。",
+            "今回の制限により、再び情報へのアクセスが困難になる可能性があります。"
+          ]
         },
         {
-          "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+          "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T23:29:03Z",
-          "excerpt": "President Fernandez dismisses foreign minister over his attendance at the \"Shield of the Americas\" meeting in New York.",
-          "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T14:10:51Z",
+          "excerpt": "More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.",
+          "link": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イエメン紛争で7万1千人の子どもが避難、栄養失調が悪化：ユニセフ",
+          "summaryJa": [
+            "ユニセフによると、イエメンでの戦闘により7万1000人の子どもが避難民となっています。",
+            "また、栄養失調の状況も悪化していると報告されています。",
+            "ユニセフが最近検査した約2900人の子どものうち、4分の1以上が重度の栄養失調でした。"
+          ]
         },
         {
-          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "title": "Why Canada is not ruling out a possible war with the US",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T14:05:41Z",
+          "excerpt": "Trump’s annexation threats have prompted Carney to examine even remote risks to Canada’s sovereignty.",
+          "link": "https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カナダ、米国との戦争の可能性を排除せず",
+          "summaryJa": [
+            "カナダが米国との戦争の可能性を排除しない理由が報じられています。",
+            "トランプ氏による併合の脅威が、カナダの主権に対する遠隔のリスクさえも検討するきっかけとなりました。",
+            "カーニー氏がこの問題について調査を進めているとのことです。"
+          ]
+        },
+        {
+          "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T14:00:26Z",
+          "excerpt": "Washington asks for alignment while Beijing offers strategic flexibility without military entanglement.",
+          "link": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ・習近平会談、グローバルサウスにおける米国の不利を露呈",
+          "summaryJa": [
+            "トランプ氏と習近平氏の首脳会談が、グローバルサウスにおける米国の不利な立場を浮き彫りにしました。",
+            "米国が同盟を求める一方で、中国は軍事的関与なしに戦略的柔軟性を提供しています。",
+            "この違いが、グローバルサウス諸国の支持獲得において米国を不利にしていると指摘されています。"
+          ]
+        },
+        {
+          "title": "Jannik Sinner withdraws from China Open as recovery from injury continues",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T13:57:47Z",
+          "excerpt": "The 25-year-old Italian has not played since capturing his fifth ​major title at Wimbledon in July due to a knee injury.",
+          "link": "https://www.aljazeera.com/sports/2026/9/25/jannik-sinner-withdraws-from-china-open-as-recovery-from-injury-continues?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ヤニック・シナー選手、負傷回復のためチャイナ・オープンを欠場",
+          "summaryJa": [
+            "テニス選手のヤニック・シナーが、負傷からの回復が続いているためチャイナ・オープンを欠場します。",
+            "25歳のイタリア人選手は、7月のウィンブルドンで5度目の主要タイトルを獲得して以来、膝の負傷で試合に出場していません。",
+            "今回の欠場は、回復を優先するための決定と見られます。"
+          ]
+        },
+        {
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
           "source": "BBC News",
-          "publishedAt": "2026-09-24T23:17:00Z",
-          "excerpt": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+          "publishedAt": "2026-09-25T13:56:16Z",
+          "excerpt": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "FBIハッキングで特別捜査官の血液・尿検査結果が盗難",
+          "summaryJa": [
+            "FBIへのハッキングにより、特別捜査官の血液および尿検査の結果が盗まれました。",
+            "専門家は、このハッキングにより捜査官が詐欺、恐喝、標的型攻撃に対して脆弱になる可能性があると指摘しています。",
+            "個人情報が流出したことで、捜査官の安全が脅かされる懸念が高まっています。"
+          ]
+        },
+        {
+          "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+          "source": "BBC News",
+          "publishedAt": "2026-09-25T13:23:33Z",
+          "excerpt": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+          "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "2024年トランプ氏選挙集会での銃撃事件、負傷者が死亡",
+          "summaryJa": [
+            "2024年のトランプ氏の選挙集会中に発生した銃撃事件で、負傷していた男性が死亡しました。",
+            "銃撃犯はジム・コペンヘイバー氏を2度撃ち、別の男性も殺害しました。",
+            "トランプ氏の耳にも銃弾がかすめる事態となっていました。"
+          ]
+        },
+        {
+          "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T12:59:16Z",
+          "excerpt": "Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.",
+          "link": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "インド「ゴキブリ運動」が選挙管理委員長の辞任を要求",
+          "summaryJa": [
+            "インドの「ゴキブリ運動」と呼ばれる若者グループが、選挙管理委員長の辞任を要求しています。",
+            "彼らは、選挙への干渉疑惑を理由にギャネシュ・クマール氏の辞任期限を設定し、大規模な抗議活動の再開を警告しています。",
+            "この動きは、インドの政治情勢に新たな緊張をもたらす可能性があります。"
+          ]
+        },
+        {
+          "title": "Pope warns against 'losing humanity' to AI machines",
+          "source": "BBC News",
+          "publishedAt": "2026-09-25T12:44:08Z",
+          "excerpt": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
           "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T22:55:03Z",
-          "excerpt": "Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League.",
-          "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "UEFAネーションズリーグ、トルコ対フランス戦でジダン監督が初采配",
+          "titleJa": "ローマ教皇、AIによる「人間性の喪失」に警鐘",
           "summaryJa": [
-            "UEFAネーションズリーグでトルコとフランスが対戦します。",
-            "この試合は、ジネディーヌ・ジダン氏がフランス代表監督として初めて采配を振る試合となります。",
-            "彼の存在感がチームにもたらされると期待されています。"
+            "ローマ教皇が、AI（人工知能）によって「人間性が失われる」ことに対し警鐘を鳴らしました。",
+            "教皇は、フランス訪問初日の金曜日にこの警告を発しました。",
+            "AI技術の急速な発展がもたらす倫理的な問題について、懸念を示した形です。"
           ]
-        },
-        {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T22:32:39Z",
-          "excerpt": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
-          "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T21:56:15Z",
-          "excerpt": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-          "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "アフリカネイションズカップ予選開幕、DRコンゴとコートジボワールが勝利",
-          "summaryJa": [
-            "アフリカネイションズカップ予選が開幕し、DRコンゴが赤道ギニアに勝利しました。",
-            "コートジボワールはガーナを破り、カメルーンはコモロに勝利しました。",
-            "両国は予選初戦で好スタートを切りました。"
-          ]
-        },
-        {
-          "title": "Croatian court approves extradition in Nord Stream bombing case",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T21:47:44Z",
-          "excerpt": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-          "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Trump and Xi hold critical talks at White House summit",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T21:41:40Z",
-          "excerpt": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T21:15:56Z",
-          "excerpt": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
-          "translationStatus": "failed"
         }
       ]
     },
@@ -104,143 +152,144 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "「民主改革の会」新体制 18人でスタート(ABEMA TIMES)",
+          "title": "米ミサイル装置、嘉手納へ タイフォン、恒久配備否定(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:45:31Z",
-          "excerpt": "中道改革連合の解体に伴い立憲民主党出身の議員が結成した新党「民主改革の会」の新体制が発足しました。 民主改革の会は初めての議員総会を開き、国会対策委員長に後藤祐一氏、政調会長に落合貴之氏を起用す",
-          "link": "https://news.yahoo.co.jp/articles/0c887f2e756ac80b9e2fe6872624066c585227e0?source=rss",
+          "publishedAt": "2026-09-25T14:36:40Z",
+          "excerpt": "防衛省沖縄防衛局は25日、米軍が海上自衛隊鹿屋航空基地に一時展開中の中距離ミサイル発射装置「タイフォン」について、10月中旬をめどに撤収し、沖縄県嘉手納町などにある嘉手納基地で保管する予定だとホーム",
+          "link": "https://news.yahoo.co.jp/articles/884b75e6a2a38e703a55a0b1e44820da9bb5a92d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "「民主改革の会」新体制が発足、18人で活動開始",
+          "titleJa": "米ミサイル発射装置「タイフォン」、嘉手納基地で保管へ",
           "summaryJa": [
-            "中道改革連合の解体を受け、立憲民主党出身議員が新党「民主改革の会」を結成しました。",
-            "新体制は18人でスタートし、初の議員総会を開催。",
-            "国会対策委員長には後藤祐一氏、政調会長には落合貴之氏を起用しました。"
+            "防衛省沖縄防衛局は25日、米軍の中距離ミサイル発射装置「タイフォン」について発表しました。",
+            "現在、海上自衛隊鹿屋航空基地に一時展開中の同装置は、10月中旬をめどに撤収されます。",
+            "その後、沖縄県嘉手納基地で保管される予定です。"
           ]
         },
         {
-          "title": "JR成田線 一部で運転再開 台風25号死者11人に(ABEMA TIMES)",
+          "title": "女性刺され死亡、長男負傷 群馬、長女の元夫関与か(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:45:31Z",
-          "excerpt": "台風の影響で運転を見合わせていたJR成田線が、きょうの始発から一部区間で運転を再開しました。 JR東日本によりますと、運転を見合わせていた成田線は新木駅と木下駅の間できょうの始発から運転を再開し",
-          "link": "https://news.yahoo.co.jp/articles/3d04a45d9294944b974705b83e955e53085e28e7?source=rss",
+          "publishedAt": "2026-09-25T14:19:27Z",
+          "excerpt": "25日午後0時15分ごろ、群馬県太田市市場町の住宅で「母が刺された」と110番があった。住人の会社員手塚由佳さん（52）が室内で出血し意識のない状態で倒れており、救急隊が駆けつけたが、その場で死亡が",
+          "link": "https://news.yahoo.co.jp/articles/756f3258efebc2fd9ff06e5ae210d3900453c695?source=rss",
           "translationStatus": "translated",
-          "titleJa": "JR成田線、一部区間で運転再開 台風25号の影響",
+          "titleJa": "群馬・太田市で女性刺され死亡、長男も負傷 長女の元夫が関与か",
           "summaryJa": [
-            "台風の影響で運転を見合わせていたJR成田線が、本日始発から一部区間で運転を再開しました。",
-            "JR東日本によると、運転再開したのは新木駅と木下駅の間です。",
-            "なお、記事タイトルには台風25号による死者11人との記載がありますが、本文には成田線の運転再開のみが記述されています。"
+            "25日午後0時15分ごろ、群馬県太田市の住宅で「母が刺された」と110番通報がありました。",
+            "住人の会社員、手塚由佳さん（52）が室内で倒れており、その場で死亡が確認されました。",
+            "手塚さんの長男も負傷しているとのことです。",
+            "警察は、現場から逃走した手塚さんの長女の元夫が事件に関与したとみて捜査しています。"
           ]
         },
         {
-          "title": "下見不足､引率教員の有無より深刻…辺野古沖の高校生死亡事故の報告書でわかった研修旅行に潜む危険の正体(プレジデントオンライン)",
+          "title": "群馬女性殺害、逃走の男は長女の元夫か(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:15:38Z",
-          "excerpt": "辺野古沖の高校生死亡事故の報告書が公開された。名古屋大学大学院教育発達科学研究科教授の内田良さんは「現地の下見不足、引率教員が同乗していなかったなど問題点は多々あるが、そもそも根本に大きな問題があった",
-          "link": "https://news.yahoo.co.jp/articles/fe5c88306f57d87197c5968d9d557e936b620a6b?source=rss",
+          "publishedAt": "2026-09-25T13:56:09Z",
+          "excerpt": "群馬県太田市の住宅で手塚由佳さん（52）が殺害された事件で、現場から逃げた男は、手塚さんの長女の、30代の元夫とみて県警が行方を追っていることが25日、捜査関係者への取材で分かった。",
+          "link": "https://news.yahoo.co.jp/articles/ec4e4c08ad5b170a165c58f842aeec0a2b0a6462?source=rss",
           "translationStatus": "translated",
-          "titleJa": "辺野古沖高校生死亡事故、研修旅行の根本的危険を指摘する報告書",
+          "titleJa": "群馬女性殺害事件、逃走の男は長女の元夫とみて捜査",
           "summaryJa": [
-            "辺野古沖で発生した高校生の死亡事故に関する報告書が公開されました。",
-            "名古屋大学の内田良教授は、現地の下見不足や引率教員の不在など多くの問題点を指摘。",
-            "しかし、それ以上に研修旅行の根本に大きな問題があったと述べています。"
+            "群馬県太田市の住宅で手塚由佳さん（52）が殺害された事件で、新たな情報が判明しました。",
+            "捜査関係者によると、現場から逃走した男は、手塚さんの長女の30代の元夫とみられています。",
+            "県警は、この男の行方を追っています。"
           ]
         },
         {
-          "title": "横浜市長選、会社員の藤川祥子氏が出馬表明 「既存政党以外の受け皿ない」 表明は5人目(産経新聞)",
+          "title": "〔JR東日本〕東海道本線で人身事故 一部運転見合わせ(レスキューナウニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:15:34Z",
-          "excerpt": "山中竹春・前横浜市長（53）のパワハラ問題による辞職に伴う市長選（10月4日告示、18日投開票）で、会社員の藤川祥子（さちこ）氏（51）が24日、無所属で立候補することを表明した。市長選への出馬表明は",
-          "link": "https://news.yahoo.co.jp/articles/0b5a04873dc105d3707e611d95cac29c7e8e43e3?source=rss",
+          "publishedAt": "2026-09-25T13:55:00Z",
+          "excerpt": "品川～川崎駅間で発生した人身事故の影響で、東海道本線は品川～横浜駅間の運転を見合わせています。振替輸送を行っています。",
+          "link": "https://news.yahoo.co.jp/articles/998e844cd5ad26eef5600722d41c462787f2dfb8?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選、会社員の藤川祥子氏が無所属で立候補表明",
+          "titleJa": "JR東海道本線、人身事故で一部区間運転見合わせ",
           "summaryJa": [
-            "山中竹春前横浜市長の辞職に伴う市長選（10月4日告示、18日投開票）で、会社員の藤川祥子氏（51）が無所属での立候補を表明しました。",
-            "藤川氏は「既存政党以外の受け皿がない」と出馬理由を説明。",
-            "今回の市長選への出馬表明は5人目となります。"
+            "JR東海道本線は、品川～川崎駅間で発生した人身事故の影響を受けています。",
+            "このため、品川～横浜駅間の運転が見合わせとなっています。",
+            "現在、振替輸送が実施されています。"
           ]
         },
         {
-          "title": "諏訪理さん来春にも宇宙へ 初の長期滞在、日本8人目(共同通信)",
+          "title": "嘉手納のタイフォン、米側が恒久配備否定(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:13:18Z",
-          "excerpt": "【ニューヨーク共同】米航空宇宙局（NASA）は24日、宇宙航空研究開発機構（JAXA）の諏訪理飛行士（49）が2027年春にもスペースXの宇宙船に搭乗し、国際宇宙ステーション（ISS）へ出発すると発",
-          "link": "https://news.yahoo.co.jp/articles/aad60773e25bb1bd565990455a232692a4339677?source=rss",
+          "publishedAt": "2026-09-25T13:23:06Z",
+          "excerpt": "防衛省沖縄防衛局は25日、沖縄県にある米軍嘉手納基地で保管する中距離ミサイル発射装置「タイフォン」を巡り「米側からは、日本への恒久的な配備ではないとの説明を受けている」とした。嘉手納に運用部隊も配置",
+          "link": "https://news.yahoo.co.jp/articles/b7541c9ec5ea337954e0afe1752c40a1beefa703?source=rss",
           "translationStatus": "translated",
-          "titleJa": "JAXA諏訪理飛行士、2027年春にISSへ出発 日本人8人目の長期滞在",
+          "titleJa": "嘉手納基地の米ミサイル装置「タイフォン」、恒久配備を米側が否定",
           "summaryJa": [
-            "米航空宇宙局（NASA）は24日、JAXAの諏訪理飛行士（49）が2027年春にも国際宇宙ステーション（ISS）へ出発すると発表しました。",
-            "諏訪飛行士はスペースXの宇宙船に搭乗予定です。",
-            "これは日本人として8人目のISS長期滞在となります。"
+            "防衛省沖縄防衛局は25日、米軍嘉手納基地で保管される中距離ミサイル発射装置「タイフォン」について説明しました。",
+            "米側からは、この装置が日本へ恒久的に配備されるものではないとの説明を受けているとのことです。",
+            "嘉手納基地には運用部隊も配置されないとしています。"
           ]
         },
         {
-          "title": "エジプト・ギリシア・メソポタミアなど多くの文明を崩壊させた、200年間にわたる旱魃から始まった「メガラヤン期」には何が起こっているのだろうか。(ダイヤモンド・オンライン)",
+          "title": "米軍、ミサイル装置・タイフォンを嘉手納へ(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:06:19Z",
-          "excerpt": "過酷な大旱魃によって古代文明が崩壊した瞬間から始まった、現代の地質時代「メガラヤン期」。かつて獲物を追って移動していた人類は、農耕の獲得によって定住を果たし、やがて19世紀に世界を劇的に変容させる大",
-          "link": "https://news.yahoo.co.jp/articles/f868dd02bcbb6419ad8d10187ca1fd3c6811bce4?source=rss",
+          "publishedAt": "2026-09-25T13:11:49Z",
+          "excerpt": "防衛省沖縄防衛局は25日、米軍が海上自衛隊鹿屋航空基地に一時展開中の中距離ミサイル発射装置「タイフォン」を、10月中旬までをめどに撤収し、沖縄県にある嘉手納基地で保管する予定だとホームページで公表し",
+          "link": "https://news.yahoo.co.jp/articles/fe86fac1c7837aae7c36160e20ca246f903e2eca?source=rss",
           "translationStatus": "translated",
-          "titleJa": "古代文明崩壊の引き金「メガラヤン期」とは 大旱魃がもたらした影響",
+          "titleJa": "米軍ミサイル装置「タイフォン」、嘉手納基地へ移送・保管へ",
           "summaryJa": [
-            "現代の地質時代「メガラヤン期」は、過酷な大旱魃により古代文明が崩壊した時期から始まりました。",
-            "エジプト、ギリシア、メソポタミアなど多くの文明が200年間にわたる旱魃で崩壊したとされます。",
-            "人類が農耕を獲得し定住を始めた後、この時期に何が起こったのかを問いかけています。"
+            "防衛省沖縄防衛局は25日、米軍の中距離ミサイル発射装置「タイフォン」の移送計画を公表しました。",
+            "現在、海上自衛隊鹿屋航空基地に一時展開中の同装置は、10月中旬までに撤収されます。",
+            "その後、沖縄県にある嘉手納基地で保管される予定です。"
           ]
         },
         {
-          "title": "国内最大級地下壕公開 平和学習の場 赤猫洞観光活用へ新発想で誘客図る 先人築いた戦争遺産後世へ語り継ぐ(日本農業新聞)",
+          "title": "「本当にうれしい」 全東信破綻に伴う売上未払い、カード会社が支払う見込みに安堵の声(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:03:36Z",
-          "excerpt": "大分県臼杵市で採卵鶏40羽を飼育する斎藤行雄さん（65）は、民間によって造られた国内最大級の防空壕を広く公開する。周辺の農家らと協力し、自宅敷地内にある巨大な地下の防空壕の歴史遺産としての価値を早く",
-          "link": "https://news.yahoo.co.jp/articles/4445dd4c6af9ebe2f7347f6a607537b76adacee1?source=rss",
+          "publishedAt": "2026-09-25T13:04:32Z",
+          "excerpt": "突然の「全東信ショック」から約3カ月。加盟店の多くが抱えていた未入金がカード会社から支払われる見込みとなり、各地の飲食店の経営者から安堵（あんど）の声が上がった。 「もう、売り上げは戻ってこないと諦",
+          "link": "https://news.yahoo.co.jp/articles/2a5a92fbe20922e911e558aa052c00d0e1427f84?source=rss",
           "translationStatus": "translated",
-          "titleJa": "大分県臼杵市、国内最大級の民間防空壕を公開 平和学習・観光活用へ",
+          "titleJa": "全東信破綻による売上未払い、カード会社支払い見込みに安堵の声",
           "summaryJa": [
-            "大分県臼杵市の斎藤行雄さん（65）が、自宅敷地内にある国内最大級の民間防空壕を広く公開します。",
-            "周辺農家と協力し、この巨大な地下壕を歴史遺産として活用する方針です。",
-            "平和学習の場や観光資源として誘客を図り、戦争遺産を後世に語り継ぐことを目指します。"
+            "全東信の破綻から約3カ月が経過し、加盟店が抱えていた売上未払い問題に進展がありました。",
+            "未入金分がカード会社から支払われる見込みとなり、各地の飲食店経営者から安堵の声が上がっています。",
+            "「もう売り上げは戻らないと諦めていた」との声も聞かれました。"
           ]
         },
         {
-          "title": "元勉強嫌い→独学で東大合格の過程で導いた｢健全な｣原動力の見つけ方《燃料が｢学歴獲得｣｢他者との比較｣だけはキツい》(東洋経済education×ICT)",
+          "title": "細野大臣 仮設住宅増設など全面支援 熊本の被災地を視察 反省点「防災庁」に生かす(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:00:52Z",
-          "excerpt": "受験勉強のモチベーションをどう保つか。実は受験本番から遠い時期から、何をモチベーションに学ぶのかを考えておくことは大切だと私は考える。中には持続可能になりづらいモチベーションもある。 いい大学に行き",
-          "link": "https://news.yahoo.co.jp/articles/441ab240ab96a94a7e291a494394e33cf8b72295?source=rss",
+          "publishedAt": "2026-09-25T12:43:50Z",
+          "excerpt": "細野防災担当大臣は就任後初めて熊本地震の被災地を視察し、被災者の生活再建に向け、仮設住宅の増設などを全面的に支援していく考えを示しました。 細野防災担当大臣 「高市内閣としては『やれることは何でもや",
+          "link": "https://news.yahoo.co.jp/articles/11b393c790636ae47489f28bad73cd97ad954e4e?source=rss",
           "translationStatus": "translated",
-          "titleJa": "受験勉強の健全なモチベーション維持法、東大合格者が語る",
+          "titleJa": "細野防災担当大臣、熊本被災地を視察 仮設住宅増設など全面支援を表明",
           "summaryJa": [
-            "受験勉強のモチベーションをどう保つかについて、東大合格者が自身の経験から語っています。",
-            "受験本番から遠い時期から、何を学ぶモチベーションとするかを考えることが重要だと指摘。",
-            "「学歴獲得」や「他者との比較」だけでは持続しにくいモチベーションもあると述べています。"
+            "細野防災担当大臣は、就任後初めて熊本地震の被災地を視察しました。",
+            "被災者の生活再建に向け、仮設住宅の増設などを全面的に支援する考えを示しました。",
+            "大臣は「高市内閣としてやれることは何でもやる」と述べました。"
           ]
         },
         {
-          "title": "女性宅に100回以上侵入して下着を新品と取り替えたり掃除したり…住居侵入男が裁判で語った犯行動機(FRIDAY)",
+          "title": "インテリジェンス強化の有識者会議 28日に初開催へ(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:00:43Z",
-          "excerpt": "オンラインゲームで知り合った女性の自宅に100回以上侵入し、住居侵入などの罪に問われている岡田純被告(33=逮捕時)の公判が9月11日に東京地裁で開かれた。 「岡田被告は’23年10月に女性Aさん宅",
-          "link": "https://news.yahoo.co.jp/articles/1a07be22e4ade998aa143c907c603705d7cf5a3e?source=rss",
+          "publishedAt": "2026-09-25T12:42:03Z",
+          "excerpt": "政府は、情報収集や分析などインテリジェンス機能のさらなる強化に向けた有識者会議を設置し、初会合を9月28日に総理官邸で開催すると発表しました。 政府は国家情報会議を司令塔として、対外情報機能の充実",
+          "link": "https://news.yahoo.co.jp/articles/c8d82f3262e16a8b76e42a858ad503cd331342ee?source=rss",
           "translationStatus": "translated",
-          "titleJa": "女性宅に100回以上侵入、下着交換や掃除の男が公判で動機語る",
+          "titleJa": "政府、インテリジェンス強化へ有識者会議を設置 28日に初会合",
           "summaryJa": [
-            "オンラインゲームで知り合った女性宅に100回以上侵入したとして、住居侵入などの罪に問われている岡田純被告（33）の公判が東京地裁で開かれました。",
-            "被告は女性宅で下着を新品と交換したり、掃除をしたりしていたとされます。",
-            "公判では、被告が犯行動機について語ったと報じられています。"
+            "政府は、情報収集や分析といったインテリジェンス機能の強化を目指し、有識者会議を設置しました。",
+            "初会合は9月28日に総理官邸で開催される予定です。",
+            "政府は国家情報会議を司令塔とし、対外情報機能の充実を図る方針です。"
           ]
         },
         {
-          "title": "【窮地】一時、給料払えない恐れが！？赤字に苦しむ地域中核病院のリアルな現状…医療崩壊を防ぐための解決策とは(読売テレビ)",
+          "title": "首相の時間の使い方見直しを 国会答弁は党首討論に集約 民間シンクタンクが提言(産経新聞)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-09-24T23:00:00Z",
-          "excerpt": "現在、日本では全国の自治体病院の8割以上が赤字を抱え、大規模な病院でさえ医師や看護師への給与支払いが危ぶまれる事態に陥っています。深刻な財政危機は、なぜ起きたのでしょうか？",
-          "link": "https://news.yahoo.co.jp/articles/0110ac6e1c0fe25f6e474446e7e847cd2e5101ef?source=rss",
+          "publishedAt": "2026-09-25T12:40:23Z",
+          "excerpt": "時の首相が面会や国会答弁に割く時間を見直し、政策判断や首脳外交といった「首相にしかできない仕事」に集中できる環境を整えるべきだ―。 小倉将信元こども政策担当相が所長を務める民間シンクタンク「NXJI",
+          "link": "https://news.yahoo.co.jp/articles/712fe6062cb3b7286d82c6b1223ef00d0e97c1eb?source=rss",
           "translationStatus": "translated",
-          "titleJa": "地域中核病院の8割が赤字、給与支払い危ぶまれる深刻な財政危機",
+          "titleJa": "首相の国会答弁を党首討論に集約、民間シンクタンクが提言",
           "summaryJa": [
-            "日本では現在、全国の自治体病院の8割以上が赤字を抱える深刻な状況にあります。",
-            "大規模病院でも医師や看護師への給与支払いが危ぶまれる事態が発生。",
-            "記事では、この財政危機がなぜ起きたのか、医療崩壊を防ぐための解決策について問いかけています。"
+            "民間シンクタンクが、首相の時間の使い方を見直すよう提言しました。",
+            "首相が面会や国会答弁に割く時間を減らし、政策判断や首脳外交など「首相にしかできない仕事」に集中できる環境を整えるべきだとしています。",
+            "この提言は、小倉将信元こども政策担当相が所長を務めるシンクタンクが行いました。"
           ]
         }
       ]
@@ -250,153 +299,149 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:35:00Z",
-          "excerpt": "“She currently has about 15 sitters, all independent contractors.”",
-          "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "ペットシッター事業の収益性：年商30万ドル、オーナー報酬5万ドル",
-          "summaryJa": [
-            "友人のペットシッター事業は年間30万ドルの売上を計上しています。",
-            "事業主である友人は、自身に5万ドルを報酬として支払っています。",
-            "現在、約15名の独立請負業者としてシッターを雇用しています。",
-            "この事業の収益モデルが注目されています。"
-          ]
-        },
-        {
-          "title": "3 things Micron investors need to watch as the stakes get higher",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:28:00Z",
-          "excerpt": "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock...",
-          "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "マイクロン決算発表、投資家が注視すべき3つの要素",
-          "summaryJa": [
-            "マイクロンは来週決算を発表する予定です。",
-            "ローゼンブラットのアナリストは、追加の顧客契約に注目しています。",
-            "価格上昇と株式に関する情報も重要視されています。",
-            "投資家はこれらの動向を注視しています。"
-          ]
-        },
-        {
-          "title": "The S&P 500’s newest tech stock is now its best performer",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:26:00Z",
-          "excerpt": "Shares of data-storage company Everpure were leading S&P 500 gainers on Thursday.",
-          "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "S&P 500新規採用のテクノロジー株、パフォーマンス首位に",
-          "summaryJa": [
-            "データストレージ企業Everpureの株価が急騰しました。",
-            "同社はS&P 500に最近採用されたテクノロジー株です。",
-            "木曜日のS&P 500上昇銘柄の中でトップとなりました。",
-            "新規採用銘柄が市場で好調な動きを見せています。"
-          ]
-        },
-        {
-          "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:23:00Z",
-          "excerpt": "Tariff refunds helped deliver a profit beat during Costco’s fourth quarter.",
-          "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "コストコ決算、予想上回るも投資家は慎重姿勢",
-          "summaryJa": [
-            "コストコの第4四半期決算は市場予想を上回りました。",
-            "関税還付が利益を押し上げる要因となりました。",
-            "しかし、投資家は依然として慎重な見方を示しています。",
-            "決算内容の背景にある要因が注目されています。"
-          ]
-        },
-        {
-          "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:16:00Z",
-          "excerpt": "“My mother started having more trouble getting around. First a knee replacement, then a fall.”",
-          "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "高齢の母親の介護と資産配分、家族間の金銭問題が浮上",
-          "summaryJa": [
-            "筆者は高齢の母親の介護に時間と費用を費やしています。",
-            "しかし、母親は兄弟に10万ドルを贈与しました。",
-            "母親は膝の置換手術や転倒など、移動に困難を抱えています。",
-            "家族間の介護負担と資産配分に関する問題が提起されています。"
-          ]
-        },
-        {
-          "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+          "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-24T23:13:51Z",
-          "excerpt": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
-          "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+          "publishedAt": "2026-09-25T14:35:02Z",
+          "excerpt": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade m...",
+          "link": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
           "translationStatus": "translated",
-          "titleJa": "マーク・ザッカーバーグ氏、Meta VRグラスとAIエージェント向け新デバイスを発表",
+          "titleJa": "米中貿易交渉の詳細、月曜発表へ USTR高官が言及",
           "summaryJa": [
-            "Metaのマーク・ザッカーバーグCEOが新製品を発表しました。",
-            "1,299ドルのVRグラスとAIエージェント用ガジェット「Muse Charm」を披露しました。",
-            "これらはAIエージェント推進の一環として導入されます。",
-            "Meta Connectイベントで詳細が明らかにされました。"
+            "ホワイトハウスの貿易高官ジェイミソン・グリア氏が発言。",
+            "トランプ大統領と習近平国家主席による2日間の協議について言及。",
+            "貿易に関する進展があったことを示唆。",
+            "交渉の詳細は月曜日に発表される予定です。"
           ]
         },
         {
-          "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+          "title": "Treasury yields rise again to end a volatile week",
           "source": "CNBC Markets",
-          "publishedAt": "2026-09-24T23:08:16Z",
-          "excerpt": "The 30-year fixed rate surged to 7.45%, the highest level since April 2024 as bonds sold off and yields rose.",
-          "link": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
+          "publishedAt": "2026-09-25T14:27:33Z",
+          "excerpt": "U.S. Treasury yields rose on Friday as recent selling pressure intensified following hawkish Fed commentary and stronger-than-expected econ...",
+          "link": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
           "translationStatus": "translated",
-          "titleJa": "30年固定住宅ローン金利、7.45%に急上昇",
+          "titleJa": "米国債利回り、変動の激しい週を終え再び上昇",
           "summaryJa": [
-            "30年固定住宅ローン金利が木曜日に急騰しました。",
-            "金利は7.45%に達し、2024年4月以来の最高水準です。",
-            "債券の売却と利回りの上昇が背景にあります。",
-            "住宅市場への影響が懸念されます。"
+            "金曜日の米国債利回りが上昇しました。",
+            "積極的なFRBのコメントと予想を上回る経済指標が背景にあります。",
+            "これにより、最近の売り圧力が強まりました。",
+            "変動の激しい一週間を終えての上昇となりました。"
           ]
         },
         {
-          "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-24T23:07:54Z",
-          "excerpt": "Meta CEO Mark Zuckerberg's new Muse Charm device is intended to put his company ahead of rivals like OpenAI and Google in AI agents and con...",
-          "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
-          "translationStatus": "translated",
-          "titleJa": "Meta、消費者向けAIデバイス市場に先行参入も戦略は未検証",
-          "summaryJa": [
-            "MetaはOpenAIに先駆けて消費者向けAIデバイス市場に参入しました。",
-            "マーク・ザッカーバーグCEOの新しい「Muse Charm」デバイスがその一環です。",
-            "AIエージェント分野でOpenAIやGoogleなどの競合他社をリードする狙いがあります。",
-            "しかし、その戦略の有効性はまだ証明されていません。"
-          ]
-        },
-        {
-          "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+          "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
           "source": "MarketWatch",
-          "publishedAt": "2026-09-24T23:00:00Z",
-          "excerpt": "“When my father died, his trust was the Bible.”",
-          "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+          "publishedAt": "2026-09-25T14:27:00Z",
+          "excerpt": "Gen Z is entering the market unusually young, with easier access to investing than previous generations but vastly different amounts of mon...",
+          "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "高齢の父親の金銭管理、苦い経験から学ぶ教訓",
+          "titleJa": "Z世代、スポーツ賭博よりETFを選択 資産形成への新たなアプローチ",
           "summaryJa": [
-            "筆者は高齢の父親の金銭管理で困難な経験をしました。",
-            "父親の死後、彼の信託が重要な指針となりました。",
-            "家族が高齢者の資産管理で直面する課題を示唆しています。",
-            "適切な金銭管理の重要性が強調されています。"
+            "Z世代は異例の若さで投資市場に参入しています。",
+            "以前の世代よりも投資へのアクセスが容易になっています。",
+            "彼らはスポーツ賭博よりもETF（上場投資信託）を選好する傾向があります。",
+            "若い投資家たちがどのように資産を築いているかについて紹介されています。"
           ]
         },
         {
-          "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-09-24T22:41:11Z",
-          "excerpt": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
-          "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+          "title": "Why investors aren’t buying yet another attempt by the Treasury Department to calm the rattled bond market",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-25T14:17:00Z",
+          "excerpt": "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
+          "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "テスラ、ネバダ州新工場で大型トラック「セミ」の生産本格化へ",
+          "titleJa": "投資家、国債市場安定化への財務省の試みに反応せず",
           "summaryJa": [
-            "テスラはネバダ州スパークスに初の大型トラック工場を開設予定です。",
-            "これにより、大型トラック「セミ」の生産規模を拡大します。",
-            "イーロン・マスク氏率いるテスラは事業範囲の拡大を目指しています。",
-            "新工場の稼働が今後の生産能力に貢献すると見られます。"
+            "財務省が動揺する債券市場を落ち着かせようと試みています。",
+            "しかし、投資家はその試みに乗じていません。",
+            "国債入札が連続して不調に終わっています。",
+            "政府による買い戻しが債券需要を刺激していないことが示されています。"
+          ]
+        },
+        {
+          "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-25T14:15:00Z",
+          "excerpt": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+          "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "末期患者の友人、賃貸住宅売却と10万ドルのキャピタルゲインについて相談",
+          "summaryJa": [
+            "末期患者の友人が、賃貸住宅の売却を検討しています。",
+            "売却した場合、10万ドルのキャピタルゲインが発生する見込みです。",
+            "友人の下の息子がそのコンドミニアムに住んでいますが、",
+            "息子は友人と別の場所へ引っ越したいと考えています。"
+          ]
+        },
+        {
+          "title": "Airlines waive flight-change fees ahead of nor'easter",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-25T14:10:40Z",
+          "excerpt": "Flight disruptions were minimal for Saturday as of Friday morning.",
+          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+          "translationStatus": "translated",
+          "titleJa": "航空会社、ノーイースター接近でフライト変更手数料を免除",
+          "summaryJa": [
+            "航空会社がノーイースター接近に備え、フライト変更手数料を免除しています。",
+            "金曜日の朝の時点では、土曜日のフライトへの影響は最小限でした。",
+            "悪天候による混乱を避けるための措置とみられます。"
+          ]
+        },
+        {
+          "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-25T13:45:18Z",
+          "excerpt": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+          "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+          "translationStatus": "translated",
+          "titleJa": "イラン、ホルムズ海峡7日以内の再開と核協議再開を提案",
+          "summaryJa": [
+            "イランがホルムズ海峡を7日以内に再開する意向を示しました。",
+            "核協議の再開も提案しています。",
+            "この発言は、フーシ派が金曜朝にサウジ標的へのミサイル・ドローン攻撃を行った中でなされました。"
+          ]
+        },
+        {
+          "title": "The options market is sending a contrarian signal about oil prices",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-25T13:43:00Z",
+          "excerpt": "Also: How to use options around earnings to trade Nike’s stock, which has been down in the dumps for years.",
+          "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "オプション市場、原油価格に逆張りシグナルを発信",
+          "summaryJa": [
+            "オプション市場が原油価格について逆張りのシグナルを送っています。",
+            "記事では、決算発表前後のオプション活用法も紹介されています。",
+            "長年低迷しているナイキ株の取引方法についても触れられています。"
+          ]
+        },
+        {
+          "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-09-25T13:32:57Z",
+          "excerpt": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
+          "link": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+          "translationStatus": "translated",
+          "titleJa": "「レイク・アメリカ」スウェット写真投稿のCEO、会社を去る",
+          "summaryJa": [
+            "あるCEOが「レイク・アメリカ」と書かれたスウェットを着た家族の写真を投稿しました。",
+            "9月11日にFacebookに投稿された写真は、AIで編集された疑いがあります。",
+            "このCEOは現在、その会社には在籍していません。"
+          ]
+        },
+        {
+          "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-25T13:30:00Z",
+          "excerpt": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
+          "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "モルガン・スタンレー、米ドル見通しを修正「我々は間違っていた」",
+          "summaryJa": [
+            "モルガン・スタンレーが米ドルに対する見通しを変更しました。",
+            "同行は「我々は間違っていた」と認めています。",
+            "債券利回りの上昇とFRBの利上げ期待が、同行のドル予測を狂わせました。",
+            "現在の新たな予測について説明されています。"
           ]
         }
       ]
@@ -406,31 +451,101 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-25T14:15:00Z",
+          "excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "translationStatus": "translated",
+          "titleJa": "レイオフ経験者向け、TechCrunch Disrupt 2026 Expo+パスを75ドルで提供",
+          "summaryJa": [
+            "TechCrunch Disrupt 2026のExpo+パスが、レイオフ経験者向けに75ドルで提供されます。",
+            "この特別価格は、最初の100名限定です。",
+            "新たな機会を見つけるためのネットワーキングイベントへの参加を促しています。"
+          ]
+        },
+        {
+          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-25T14:00:00Z",
+          "excerpt": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you...",
+          "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+          "translationStatus": "translated",
+          "titleJa": "TechCrunch Disrupt 2026パス、最大200ドル割引の最終日",
+          "summaryJa": [
+            "TechCrunch Disrupt 2026のパスが最大200ドル割引となるキャンペーンが残り24時間となりました。",
+            "このイベントは、スタートアップの成長を加速させる機会を提供します。",
+            "参加することで、現在の状況よりもさらに前進できるとされています。"
+          ]
+        },
+        {
+          "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-25T13:35:25Z",
+          "excerpt": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzze...",
+          "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+          "translationStatus": "translated",
+          "titleJa": "Apple HomeのAIカメラ機能、AmazonやGoogleを凌駕するか検証",
+          "summaryJa": [
+            "Apple HomeのAIカメラ機能が、AmazonやGoogleの競合製品と比較して優れているかを検証する記事です。",
+            "筆者は、数年前のイースターエッグハントでの経験を例に挙げています。",
+            "スマートホームカメラのAI性能に焦点を当てたテストが行われました。"
+          ]
+        },
+        {
+          "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+          "source": "The Verge AI",
+          "publishedAt": "2026-09-25T13:14:27Z",
+          "excerpt": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three...",
+          "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "translationStatus": "translated",
+          "titleJa": "Microsoft、新Copilot「スーパーアプリ」を正式発表、Office並の影響力に期待",
+          "summaryJa": [
+            "Microsoftは、先月予告していた新しいCopilot「スーパーアプリ」を本日正式に発表しました。",
+            "再設計されたCopilotアプリは、複数の機能を統合しています。",
+            "同社は、このアプリがOffice製品と同様に大きな影響力を持つと期待しています。"
+          ]
+        },
+        {
+          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+          "source": "MIT Technology Review AI",
+          "publishedAt": "2026-09-25T09:16:25Z",
+          "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of D...",
+          "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+          "translationStatus": "translated",
+          "titleJa": "米国防総省、AI搭載の高性能嘘発見器開発に3000万ドルを要求",
+          "summaryJa": [
+            "米国防総省は、AIを活用した改良型嘘発見器の開発に今後5年間で3030万ドルを投じる意向です。",
+            "これは、より高度な嘘発見技術の実現を目指すものです。",
+            "米国政府がAI技術をセキュリティ分野に応用する動きを示しています。"
+          ]
+        },
+        {
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-25T05:00:00Z",
+          "excerpt": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment per...",
+          "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "translationStatus": "translated",
+          "titleJa": "Lightspeed、インド向け新ファンドで2.5億ドル調達へ、初期段階AIに注力",
+          "summaryJa": [
+            "ベンチャー企業のLightspeedは、インド向けの新ファンドで2億5000万ドルの調達を目指しています。",
+            "今回初めて、インドでの資金調達サイクルをグローバルファンドと同期させます。",
+            "このファンドは、特に初期段階のAI企業への投資に焦点を当てます。"
+          ]
+        },
+        {
           "title": "Muse will apparently let you download its entire filesystem",
           "source": "The Verge AI",
           "publishedAt": "2026-09-24T22:06:44Z",
           "excerpt": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. S...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
           "translationStatus": "translated",
-          "titleJa": "MetaのAI「Muse」がファイルシステム全体を共有可能に",
+          "titleJa": "MetaのMuse、わずかな指示でファイルシステム全体を共有可能か",
           "summaryJa": [
-            "開発者によると、MetaのAI「Muse」は簡単な指示でファイルシステム全体を共有する。",
-            "これは、AIがユーザーに内部構造を公開する可能性を示唆している。",
-            "Peter James氏とJonny L. S氏がこの挙動を確認したと報告している。"
-          ]
-        },
-        {
-          "title": "The vibes are bad for Flock in Washington",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-24T21:53:31Z",
-          "excerpt": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\"...",
-          "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-          "translationStatus": "translated",
-          "titleJa": "AI監視ネットワーク企業Flock、ワシントンで厳しい立場に",
-          "summaryJa": [
-            "AI監視ネットワークを提供するFlock社が、ワシントンで厳しい状況に置かれている。",
-            "同社のCEOは、上院議員による「AI監視ネットワーク」に関する公聴会への出席を拒否した。",
-            "これにより、同社への批判が高まっている。"
+            "開発者によると、MetaのAI「Muse」は簡単な指示でファイルシステム全体を共有する可能性があるとのことです。",
+            "Peter James氏とJonny L. S氏がこの挙動を指摘しています。",
+            "AIモデルのデータ共有に関する潜在的な機能が明らかになりました。"
           ]
         },
         {
@@ -440,11 +555,11 @@
           "excerpt": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time...",
           "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
           "translationStatus": "translated",
-          "titleJa": "GoogleのGemini 3.8 Live、AIアバターで対話に「顔」を付与",
+          "titleJa": "GoogleのGemini 3.8 Live、Live AvatarでAIに「顔」を与える",
           "summaryJa": [
-            "Googleの新しいGemini 3.8 Liveアップデートにより、AIに顔が与えられた。",
-            "ユーザーは、アニメーション化されたAIペルソナがリアルタイムで応答するのを見ながらモデルと会話できる。",
-            "これにより、AIとの対話体験がより視覚的でインタラクティブになる。"
+            "Googleの新しいGemini 3.8 Liveアップデートにより、AIにアニメーションのアバターが導入されました。",
+            "ユーザーは、リアルタイムで応答するAIアバターを見ながらモデルと会話できます。",
+            "これにより、GoogleのAIとの対話体験がより視覚的でインタラクティブになります。"
           ]
         },
         {
@@ -454,11 +569,11 @@
           "excerpt": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a...",
           "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
           "translationStatus": "translated",
-          "titleJa": "TechCrunch Disrupt 2026、同伴者パスが50%割引に",
+          "titleJa": "TechCrunch Disrupt 2026、2枚目のパスが半額になるキャンペーン",
           "summaryJa": [
-            "TechCrunch Disrupt 2026のパスを1枚購入すると、同種の2枚目のパスが50%割引になる。",
-            "共同創業者、パートナー、同僚との参加を促すプロモーション。",
-            "イベントは10月13日午前8時に開始されるため、それまでに登録が必要となる。"
+            "TechCrunch Disrupt 2026のパスを1枚購入すると、同種の2枚目のパスが50%割引になります。",
+            "共同創業者、パートナー、同僚との参加を促すキャンペーンです。",
+            "イベントは10月13日午前8時に開始されるため、それまでの登録が必要です。"
           ]
         },
         {
@@ -468,81 +583,11 @@
           "excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
           "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
           "translationStatus": "translated",
-          "titleJa": "PrismML、小型LLMをQualcomm搭載スマートグラスに導入",
+          "titleJa": "PrismML、小型LLMをQualcomm搭載スマートグラスに提供",
           "summaryJa": [
-            "PrismMLは、小型のLLM（大規模言語モデル）をQualcomm搭載スマートグラスに提供する。",
-            "Prismのより大きな目標は、デバイス上で動作するオープンウェイトAIの実現である。",
-            "これにより、既存のコンピューティング能力をより有効活用することを目指している。"
-          ]
-        },
-        {
-          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-24T18:11:44Z",
-          "excerpt": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-          "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-          "translationStatus": "translated",
-          "titleJa": "Oracle、ニューメキシコ州のデータセンターで不可抗力通知",
-          "summaryJa": [
-            "Oracleは、ニューメキシコ州のStargateデータセンターに関して不可抗力通知を送付した。",
-            "この通知により、施設が2028年の稼働開始目標を達成できなかった場合、Oracleは支払いを遅延できる。",
-            "これは、プロジェクトの遅延リスクに対する措置とみられる。"
-          ]
-        },
-        {
-          "title": "Jensen Huang talks about AI and climate change like a supervillain",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-24T18:04:44Z",
-          "excerpt": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The N...",
-          "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-          "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏、AIと気候変動について語る",
-          "summaryJa": [
-            "ジェンスン・フアン氏によると、AIは気候変動との戦いに貢献できる。",
-            "しかし、そのためにはまず「途方もない苦痛と苦しみ」をもたらす必要があると述べた。",
-            "この発言は、AIがもたらす変化の厳しさを示唆している。"
-          ]
-        },
-        {
-          "title": "Meta is going to let you build games with AI right on your phone",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-24T17:52:29Z",
-          "excerpt": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that...",
-          "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-          "translationStatus": "translated",
-          "titleJa": "Meta、AIを活用したゲーム開発をスマートフォンで可能に",
-          "summaryJa": [
-            "Metaは、Horizonソーシャルプラットフォーム向けにゲームを開発する新たな計画を発表した。",
-            "ユーザーはスマートフォン上でAIを使ってゲームを構築できるようになる。",
-            "同社は本日、そのための2つの新しい開発ツールを公開した。"
-          ]
-        },
-        {
-          "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-24T17:39:24Z",
-          "excerpt": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro...",
-          "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-          "translationStatus": "translated",
-          "titleJa": "MetaのAIガジェット「Muse Charm」、たまごっち風デザインでZ世代トレンドに合致",
-          "summaryJa": [
-            "Metaの新しいAIガジェット「Muse Charm」は、たまごっちのような外見を持つ。",
-            "しかし、そのぶら下げる形状は、バッグチャームやレトロアイテムを好むZ世代のトレンドを取り入れている。",
-            "これは、AIデバイスの新たなデザインアプローチを示唆している。"
-          ]
-        },
-        {
-          "title": "Muse sure looks a lot like OpenClaw",
-          "source": "The Verge AI",
-          "publishedAt": "2026-09-24T17:31:50Z",
-          "excerpt": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its...",
-          "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-          "translationStatus": "translated",
-          "titleJa": "MetaのAIエージェント「Muse」、OpenClawとの類似性が指摘される",
-          "summaryJa": [
-            "AIエージェントのルネサンス期に入っていると見られる。",
-            "Metaの新しい消費者向けAIエージェント「Muse」は、リリース後すぐにApp Storeのチャートで上位になった。",
-            "そのデザインや機能が、既存の「OpenClaw」と多くの点で類似していると指摘されている。"
+            "PrismMLは、小型のLLM（大規模言語モデル）をQualcomm搭載のスマートグラスに導入します。",
+            "同社のより大きな目標は、デバイス上で動作するオープンウェイトAIの実現です。",
+            "既存のコンピューティング能力をより有効活用することを目指しています。"
           ]
         }
       ]
@@ -552,84 +597,144 @@
       "name": "教育ニュース",
       "items": [
         {
-          "title": "AI and the shrinking college payoff, NHJ’s school in context, Sal Khan’s origin story: A Chalkbeat Ideas roundup",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T22:28:48Z",
-          "excerpt": "Welcome to Chalkbeat Ideas . This is our semi-monthly roundup of interesting takes, tidbits, and links. Feel free to send along links and i...",
-          "link": "https://www.chalkbeat.org/2026/09/24/chalkbeat-ideas-roundup-ai-college-nyc-schools/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Detroiters to vote on two-year, four-year terms for DPSCD school board",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T21:44:57Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/detroit/2026/09/24/dpscd-school-board-race-candidates-running-for-four-year-and-two-year-terms/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Mamdani names Alan Ong new chair of NYC school board",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T19:35:32Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/newyork/2026/09/24/alan-ong-named-chair-nyc-panel-for-educational-policy/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Chicago Public Schools enrollment drops by 11,500 students",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T19:31:29Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools. Enrollment at Chicago Publ...",
-          "link": "https://www.chalkbeat.org/chicago/2026/09/24/chicago-public-schools-loses-another-11500-students/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Philadelphia school board delays sharing details about charter school evaluation overhaul",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T19:03:03Z",
-          "excerpt": "Sign up for Chalkbeat Philadelphia’s free newsletter to keep up with the city’s public school system. The Philadelphia Board of Education i...",
-          "link": "https://www.chalkbeat.org/philadelphia/2026/09/24/school-board-delays-sharing-details-about-charter-school-evaluation-overhaul/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Meet the Philadelphia high school student who won Chalkbeat’s rap contest",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T18:21:48Z",
-          "excerpt": "Sign up for Chalkbeat Philadelphia’s free newsletter to keep up with the city’s public school system. Precious Eshiet is tired of what she...",
-          "link": "https://www.chalkbeat.org/philadelphia/2026/09/24/rap-contest-winner-is-germantown-friends-high-school-student-presh-so-fres/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot",
+          "title": "Violent Victimization at School Rose Among Students in 2024, Federal Data Show",
           "source": "The 74",
-          "publishedAt": "2026-09-24T16:30:00Z",
-          "excerpt": "The gap between workforce policy ambition and the infrastructure that’s needed to make it a reality is a defining story in American workfor...",
-          "link": "https://www.the74million.org/article/so-many-credentials-so-little-value-what-states-can-learn-from-ohios-reboot/",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T14:30:00Z",
+          "excerpt": "Students ages 12 to 18 experienced higher rates of reported crime at school than away from school in 2024, according to a new federal analy...",
+          "link": "https://www.the74million.org/article/violent-victimization-at-school-rose-among-students-in-2024-federal-data-show/",
+          "translationStatus": "translated",
+          "titleJa": "2024年、学校内での生徒の暴力被害が増加 米連邦データが示す",
+          "summaryJa": [
+            "2024年、12歳から18歳の生徒を対象とした連邦データによると、学校内での暴力被害報告率が学校外よりも高くなりました。",
+            "これは、学校における生徒の安全に関する新たな分析結果です。",
+            "報告された犯罪の発生率が増加していることが示されています。"
+          ]
         },
         {
-          "title": "Drop in Federal Oversight Hurts Efforts to Improve Absenteeism, Watchdog Says",
+          "title": "You’ll Do Anything for Your Baby. The Algorithm Knows How to Exploit That.",
           "source": "The 74",
-          "publishedAt": "2026-09-24T15:51:35Z",
-          "excerpt": "Education Secretary Linda McMahon visited the Cleveland Browns’ training facility earlier this month to join the NFL team in recognizing st...",
-          "link": "https://www.the74million.org/article/drop-in-federal-oversight-hurts-efforts-to-improve-absenteeism-watchdog-says/",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T12:30:00Z",
+          "excerpt": "This piece was published in coordination with The Washington Post. The madness unfolded in a familiar pattern: Ellen FitzGerald would wake...",
+          "link": "https://www.the74million.org/zero2eight/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/",
+          "translationStatus": "translated",
+          "titleJa": "赤ちゃんのためなら何でもする親心、アルゴリズムがその心理を悪用",
+          "summaryJa": [
+            "この記事はワシントン・ポストと連携して公開されました。",
+            "親が赤ちゃんのためにあらゆることをするという心理を、アルゴリズムが悪用する仕組みについて述べています。",
+            "エレン・フィッツジェラルド氏の事例が、その典型的なパターンとして紹介されています。"
+          ]
         },
         {
-          "title": "Illinois Answers Project: Track who’s donating to whom in the 2026 Chicago School Board elections",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-09-24T15:45:42Z",
-          "excerpt": "Sign up for Chalkbeat Chicago’s free daily newsletter to keep up with the latest news on Chicago Public Schools.",
-          "link": "https://www.chalkbeat.org/chicago/2026/09/24/illinois-answers-project-track-whos-donating-to-whom-in-the-2026-chicago-school-board-elections/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "School Is Back in Session, and Recess Is Having a Moment",
+          "title": "Inside Alpha School’s ‘Bootcamp’: Heart Monitors, Unpaid Labor & Many, Many Tweets",
           "source": "The 74",
-          "publishedAt": "2026-09-24T14:30:00Z",
-          "excerpt": "As another school year gets underway, several states are considering whether to give students more time for recess, and some have already e...",
-          "link": "https://www.the74million.org/zero2eight/school-is-back-in-session-and-recess-is-having-a-moment/",
-          "translationStatus": "failed"
+          "publishedAt": "2026-09-25T10:30:00Z",
+          "excerpt": "This fall, as students at the private, AI-focused Alpha School begin their academic year, many are being tested in an unusual way: they’re...",
+          "link": "https://www.the74million.org/article/inside-alpha-schools-bootcamp-heart-monitors-unpaid-labor-many-many-tweets/",
+          "translationStatus": "translated",
+          "titleJa": "アルファスクールの「ブートキャンプ」実態：心拍モニター、無給労働、大量のツイート",
+          "summaryJa": [
+            "AIに特化した私立アルファスクールでは、この秋から生徒たちが異例の形で試されています。",
+            "同校の「ブートキャンプ」では、心拍モニターの使用、無給労働、そして大量のツイートが特徴です。",
+            "これらの活動が生徒の学業の一環として行われています。"
+          ]
+        },
+        {
+          "title": "UT Austin Cuts Women’s and Gender Studies Courses From Core Curriculum",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "UT Austin Cuts Women’s and Gender Studies Courses From Core Curriculum Susan H. Greenberg Fri, 09/25/2026 - 03:00 AM Byline(s) Susan H. Gre...",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/09/25/ut-austin-cuts-womens-and-gender-studies-courses-core",
+          "translationStatus": "translated",
+          "titleJa": "テキサス大学オースティン校、中核カリキュラムから女性・ジェンダー研究科目を削除",
+          "summaryJa": [
+            "テキサス大学オースティン校は、中核カリキュラムから女性・ジェンダー研究の科目を削除しました。",
+            "この決定は、大学の教育方針における重要な変更となります。",
+            "今後、学生が履修できる科目の選択肢に影響が出ると考えられます。"
+          ]
+        },
+        {
+          "title": "Cal State San Marcos Boosts Security After Four Reported Rapes",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "Cal State San Marcos Boosts Security After Four Reported Rapes Katherine Knott Fri, 09/25/2026 - 03:00 AM Byline(s) Katherine Knott",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/09/25/cal-state-san-marcos-boosts-security-after-four-reported-rapes",
+          "translationStatus": "translated",
+          "titleJa": "カリフォルニア州立大学サンマルコス校、4件のレイプ報告を受け警備を強化",
+          "summaryJa": [
+            "カリフォルニア州立大学サンマルコス校は、4件のレイプ報告を受けてキャンパスの警備を強化しました。",
+            "この措置は、学生の安全確保と再発防止を目的としています。",
+            "大学は、報告された事件に対応するため、対策を講じています。"
+          ]
+        },
+        {
+          "title": "Colleges Are Losing Young Men. What Brings Them Back?",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "Colleges Are Losing Young Men. What Brings Them Back? Joshua.Bay Fri, 09/25/2026 - 03:00 AM Speakers at the Symposium on Young American Men...",
+          "link": "https://www.insidehighered.com/news/student-success/health-wellness/2026/09/25/colleges-are-losing-young-men-what-brings-them-back",
+          "translationStatus": "translated",
+          "titleJa": "大学が若年男性を失う現状、彼らを呼び戻すには？",
+          "summaryJa": [
+            "大学において若年男性の学生数が減少しているという問題が提起されています。",
+            "「若年アメリカ人男性に関するシンポジウム」では、この現状について講演者たちが議論しました。",
+            "彼らを大学に呼び戻すための要因や方策が検討されています。"
+          ]
+        },
+        {
+          "title": "ED Accreditation Committee Recommends Suspending APA",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "ED Accreditation Committee Recommends Suspending APA Josh Moody Fri, 09/25/2026 - 03:00 AM But, the panel also didn't make a decision about...",
+          "link": "https://www.insidehighered.com/news/governance/accreditation/2026/09/25/accreditation-panel-recommends-suspending-apa-punts-aba",
+          "translationStatus": "translated",
+          "titleJa": "教育省認定委員会、APAの認定停止を勧告",
+          "summaryJa": [
+            "教育省の認定委員会は、APA（アメリカ心理学会）の認定停止を勧告しました。",
+            "しかし、同委員会はこれに関する最終的な決定を下していません。",
+            "今後の動向が注目されます。"
+          ]
+        },
+        {
+          "title": "Higher Ed Groups Bash ED Proposal to Allow More Grant Terminations",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "Higher Ed Groups Bash ED Proposal to Allow More Grant Terminations Ryan Quinn Fri, 09/25/2026 - 03:00 AM The Education Department received...",
+          "link": "https://www.insidehighered.com/news/business/financial-health/2026/09/25/higher-ed-groups-bash-ed-proposal-allow-more-grant",
+          "translationStatus": "translated",
+          "titleJa": "高等教育団体、教育省の助成金打ち切り容認案に反発",
+          "summaryJa": [
+            "高等教育団体は、教育省が提案した助成金打ち切りをより多く容認する案に強く反対しています。",
+            "教育省はこの提案について意見を募集していました。",
+            "団体側は、この提案が高等教育機関に与える影響を懸念しています。"
+          ]
+        },
+        {
+          "title": "Rural Challenges",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "Rural Challenges sara.custer@in… Fri, 09/25/2026 - 03:00 AM Sometimes the best part of a conference is realizing that you’re not alone. Byl...",
+          "link": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/09/25/rural-challenges",
+          "translationStatus": "translated",
+          "titleJa": "地方が抱える課題",
+          "summaryJa": [
+            "地方が抱える様々な課題に焦点を当てた記事です。",
+            "ある会議では、参加者が「自分だけではない」と気づくことが最良の部分だと述べられました。",
+            "これは、地方の課題が多くの人々に共通していることを示しています。"
+          ]
+        },
+        {
+          "title": "UNC Chapel Hill Trustee Blames Law Professor for Infrastructure Budget Woes",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "excerpt": "UNC Chapel Hill Trustee Blames Law Professor for Infrastructure Budget Woes kathryn.palmer… Fri, 09/25/2026 - 03:00 AM Byline(s) Kathryn Pa...",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/09/25/unc-chapel-hill-trustee-blames-law-prof-some-budget-woes",
+          "translationStatus": "translated",
+          "titleJa": "UNCチャペルヒル校理事、インフラ予算問題で法学教授を非難",
+          "summaryJa": [
+            "ノースカロライナ大学チャペルヒル校の理事が、インフラ予算の苦境を巡り、ある法学教授を非難しました。",
+            "この問題は、大学のインフラ整備に関する予算不足が背景にあります。",
+            "理事と教授の間で、責任の所在について意見の相違があることを示唆しています。"
+          ]
         }
       ]
     }
@@ -648,14 +753,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 32,
-    "failedBatches": [
-      {
-        "category": "教育ニュース",
-        "start": 0,
-        "count": 10,
-        "error": "HTTP Error 503: Service Unavailable"
-      }
-    ]
+    "translatedItems": 50,
+    "failedBatches": []
   }
 }
