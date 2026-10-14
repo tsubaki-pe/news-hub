@@ -1,89 +1,149 @@
 {
-  "generatedAt": "2026-10-14T00:19:46.172200Z",
+  "generatedAt": "2026-10-14T14:33:12.269097Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "source": "BBC News",
-          "publishedAt": "2026-10-14T00:17:00Z",
-          "excerpt": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T14:08:45Z",
+          "excerpt": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel.",
+          "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "コロンビア、エルサレムにイスラエル大使館を開設",
+          "summaryJa": [
+            "コロンビアの新右派政権が、エルサレムにイスラエル大使館を開設しました。",
+            "この動きは、前ペトロ大統領がイスラエルとの関係を断絶した後、両国関係における大きな方針転換となります。",
+            "新政権の外交政策における重要な変化として注目されています。"
+          ]
         },
         {
-          "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+          "title": "Two scenarios for the Yemen war",
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-14T00:00:00Z",
-          "excerpt": "A Saudi Aramco building has been hit in Dhahran, following Saudi coalition strikes on Houthi \"vital assets\" in Yemen.",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "OpenAI engineer charged after listening device found in meeting room",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-13T23:55:33Z",
-          "excerpt": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
-          "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-13T23:42:57Z",
-          "excerpt": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
-          "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-14T13:50:28Z",
+          "excerpt": "What comes next is either a retreat for the Houthis or a war of attrition.",
+          "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イエメン紛争の二つのシナリオ",
+          "summaryJa": [
+            "イエメン紛争の今後の展開には、二つのシナリオが提示されています。",
+            "一つはフーシ派の撤退、もう一つは消耗戦です。",
+            "いずれかのシナリオが、今後の紛争の行方となるとされています。"
+          ]
         },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "source": "BBC News",
-          "publishedAt": "2026-10-13T23:42:22Z",
-          "excerpt": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+          "publishedAt": "2026-10-14T13:41:51Z",
+          "excerpt": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ドイツ、ノルドストリーム爆破容疑でウクライナ人を起訴",
+          "summaryJa": [
+            "ドイツで、ノルドストリームパイプライン爆破容疑のウクライナ人男性が裁判にかけられています。",
+            "攻撃から4年後、セルヒイ・クズネツォフ氏が法廷に姿を現しました。",
+            "彼は、ロシアからドイツへのガスパイプラインを破壊する陰謀に関与した疑いが持たれています。"
+          ]
         },
         {
-          "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+          "title": "US inflation rises more than expected ahead of midterm elections",
           "source": "BBC News",
-          "publishedAt": "2026-10-13T23:42:15Z",
-          "excerpt": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
-          "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-14T13:40:36Z",
+          "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国のインフレ率、中間選挙前に予想以上に上昇",
+          "summaryJa": [
+            "米国のインフレ率は、中間選挙を前に予想以上に上昇しました。",
+            "9月までの1年間で物価上昇率は3.7%に達しました。",
+            "これは主に自動車燃料費の高騰によるものです。"
+          ]
         },
         {
-          "title": "Zimbabwean author denies using AI to write award-winning story",
+          "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T13:28:21Z",
+          "excerpt": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ガザ破壊を呼びかける動画投稿後、英国のレストラン経営者が損失を主張",
+          "summaryJa": [
+            "英国のレストラン経営者が、ガザの建物の破壊をイスラエルに促すような動画を投稿しました。",
+            "その数週間後、この経営者は事業上の損失を主張しています。",
+            "動画投稿が損失の原因であるとされています。"
+          ]
+        },
+        {
+          "title": "How AI apps are offering free substitutes for Big Tech software",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T13:25:35Z",
+          "excerpt": "AI-developed ArtCraft is challenging Adobe after disrupting legacy software's economic model.",
+          "link": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "AIアプリが大手テック企業のソフトウェアに無料代替品を提供",
+          "summaryJa": [
+            "AIが開発した「ArtCraft」は、従来のソフトウェアの経済モデルを破壊しています。",
+            "これにより、Adobeなどの大手テック企業のソフトウェアに挑戦状を叩きつけています。",
+            "AIアプリが、既存のソフトウェアに無料の代替品を提供している状況です。"
+          ]
+        },
+        {
+          "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T13:22:46Z",
+          "excerpt": "A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ロシア、日本人ジャーナリストをスパイ容疑で逮捕",
+          "summaryJa": [
+            "ロシアで日本人ジャーナリストが拘束されました。",
+            "彼は、日本の情報機関のためにスパイ行為を行った疑いが持たれています。",
+            "ロシア当局は、このジャーナリストを「スパイ容疑」で逮捕しました。"
+          ]
+        },
+        {
+          "title": "What we know about OpenAI engineer arrested over office spying",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T13:18:02Z",
+          "excerpt": "Saudi OpenAI employee was arrested over allegations he planted a hidden device to record sensitive company conversations",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "OpenAI社員、社内スパイ容疑で逮捕",
+          "summaryJa": [
+            "OpenAIのサウジアラビア人従業員が逮捕されました。",
+            "彼は、会社の機密会話を録音するために隠しデバイスを設置した疑いが持たれています。",
+            "この従業員は、社内スパイ行為の容疑で拘束されました。"
+          ]
+        },
+        {
+          "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-14T13:17:34Z",
+          "excerpt": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
+          "link": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イラン、スターリンクを「戦争の道具」とみなしインターネット規制強化を示唆",
+          "summaryJa": [
+            "イランはスターリンクを「戦争の道具」と見なしています。",
+            "ある当局者は、米国やイスラエルとの紛争の中で、衛星インターネットがイランのオンライン統治を侵食する可能性があると主張しています。",
+            "これにより、イラン政府はさらなるインターネット規制を示唆しています。"
+          ]
+        },
+        {
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
           "source": "BBC News",
-          "publishedAt": "2026-10-13T23:31:10Z",
-          "excerpt": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Manchester United’s Martinez blasts board’s lack of investment",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-13T22:57:56Z",
-          "excerpt": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.",
-          "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-13T22:56:24Z",
-          "excerpt": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
-          "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Mauritius imposes curfew after night of unrest over police shooting",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-13T22:41:59Z",
-          "excerpt": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
-          "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-14T13:11:17Z",
+          "excerpt": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ウクライナ紛争におけるスターリンク制限は政治状況と関連、ゼレンスキー補佐官が発言",
+          "summaryJa": [
+            "ゼレンスキー大統領の補佐官は、ウクライナ紛争におけるスターリンクの制限が政治状況と関連していると述べました。",
+            "イーロン・マスク氏のシステムは、ウクライナが空域を守る上で重要です。",
+            "また、ドローンをロシアの標的に効果的に誘導することも可能にしています。"
+          ]
         }
       ]
     },
@@ -92,89 +152,125 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "東京・小金井市で大型トラックなど2台が横転 男性2人がけが 電柱も折れる(テレビ朝日系（ANN）)",
+          "title": "【台風情報】「台風30号」発生へ…「熱帯低気圧a」24時間以内に台風に発達見込み 中心気圧950hPa・最大瞬間風速60m/s予想 本州に接近するシミュレーションも 今後の進路予想・25日（日）にかけての雨風シミュレーション【気象庁14日22時05分発表】(BSS山陰放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-14T00:17:40Z",
-          "excerpt": "東京・小金井市で大型トラックと軽ワンボックスカーが絡む事故がありました。車は2台とも横転して、運転手2人が病院に搬送されています。フロント部分が大破した大型トラック。道路に設置された案内標識は大きく傾",
-          "link": "https://news.yahoo.co.jp/articles/f2c2f048a85a2d15dc4803501003c9b7f156b81b?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "【社説】水俣病認定判決 運用改め漏れなき救済を(西日本新聞me)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-14T00:01:00Z",
-          "excerpt": "多くの被害者を切り捨ててきたと批判される水俣病の患者認定基準に、またも司法が疑義を突きつけた。 熊本県天草市出身で大阪府在住の男性（74）が認定申請を棄却され、処分取り消しなどを求めて提訴していた。大",
-          "link": "https://news.yahoo.co.jp/articles/7c1cdaf8af9f0ec7440ba197f02a0f46618bfe67?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "【予算カット発言問題】「矜持を」と喝！農林部会での一幕の背景にある自民党内の事情とは？(選挙ドットコム)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-14T00:00:52Z",
-          "excerpt": "2026年10月9日公開の「選挙ドットコムちゃんねる」では、話題となっている簗和生農水大臣による「予算カット発言」をめぐる自民党部会での一幕を取り上げ。重鎮議員の叱責の背景にある自民党内のジレンマとは",
-          "link": "https://news.yahoo.co.jp/articles/401acf81f057192235d51b0c57e9532a69d23ba3?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "住宅で火事 焼け跡から2遺体(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:57:16Z",
-          "excerpt": "横浜市港北区の住宅で火事があり、身元不明の2人の遺体が見つかりました。 消防によりますと、13日午後10時半ごろ、港北区大豆戸町の住宅で「火と黒い煙が上がっているのが見える」などと近隣住民から119番",
-          "link": "https://news.yahoo.co.jp/articles/ca660c00f3ed3e5f4f8a0d4aa470c1b393c590e0?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "内房線運休区間でシェアサイクル 台風25号影響、災害時は全国初(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:56:01Z",
-          "excerpt": "千葉県は14日、台風25号による土砂崩れの影響で運休が続くJR内房線の姉ケ崎（市原市）―長浦（袖ケ浦市）間で、自転車の無償貸し出しを始めた。災害時のシェアサイクル導入は全国で初めて。通勤客らは「運動不",
-          "link": "https://news.yahoo.co.jp/articles/2018ac844ffd47b711b27f0cee0b2862dfd8aab6?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "社長でも党首でもないのに、なぜ権力を握る？政界から裏社会まで“ドン”が君臨する理由(SPA!)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:54:02Z",
-          "excerpt": "社長でも党首でもないのに組織も世論も動かす存在。それが“ドン”だ。彼らはいかにして頂点に君臨するのか。政界から裏社会、カルチャーまであらゆる場所に潜む“ドン”の正体に追るニュースを賑わせる“彼ら”の正",
-          "link": "https://news.yahoo.co.jp/articles/24583b09cc387149d40ae80df063e0db4ca062d2?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "愛子さま 初訪問の青森から帰京(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:51:18Z",
-          "excerpt": "青森県を初めて訪問していた天皇皇后両陛下の長女・愛子さまが、すべての日程を終えて帰京されました。【映像】青森県を訪問していた愛子さまの様子 青森県を訪問していた愛子さまは、きのう午前、むつ市で沿道に集",
-          "link": "https://news.yahoo.co.jp/articles/3c55970fde203299ae185c9b00c687b3bc8a6e80?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "簗大臣 バス無料送迎問題 高市総理「報告をまず受けたい」(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:51:18Z",
-          "excerpt": "簗農林水産大臣が衆議院選挙の際に支援者をシャトルバスで無料送迎した問題で、高市総理大臣は、本人から報告を受ける考えを示しました。【映像】簗大臣から報告を受ける考えを示した高市総理高市総理大臣「きょう新",
-          "link": "https://news.yahoo.co.jp/articles/86b09605597cdc67d5cac7629a309a5a476fae1e?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "横浜で住宅火災、2遺体見つかる 高齢夫婦と連絡取れず(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:50:02Z",
-          "excerpt": "13日午後10時半ごろ、横浜市港北区大豆戸町の住宅で「火と黒煙が見える」と近隣住民から119番があった。横浜市消防局などによると、火災で木造平屋建てが全焼し、性別、年齢不明の2遺体が見つかった。住人の",
-          "link": "https://news.yahoo.co.jp/articles/644e28a1517fb3a5cf10b04416fa69bfa81ffcc0?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "横浜で住宅火災、高齢夫婦と連絡取れず(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-13T23:25:35Z",
-          "excerpt": "神奈川県警や地元消防によると、13日午後10時半ごろ、横浜市港北区の住宅で火災があり、現場で2遺体が見つかった。この家に住む高齢夫婦と連絡が取れておらず、県警などが調べている。",
-          "link": "https://news.yahoo.co.jp/articles/e8d5af49b41f162477dfb4498a1cc297ba998bc9?source=rss",
+          "publishedAt": "2026-10-14T14:30:35Z",
+          "excerpt": "気象庁によりますと、熱帯低気圧aは、24時間以内に台風へ発達する見込みです。マーシャル諸島を時速15kmの速さで北へ進んでいます。【画僧を見る】進路予想図・10月25日（日）にかけての降水シミュレーシ",
+          "link": "https://news.yahoo.co.jp/articles/d9b268223cea58d68bb7a8a99755ff1017db618b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市港北区の住宅火災、高齢夫婦と連絡取れず2遺体発見",
+          "titleJa": "気象庁、熱帯低気圧aが24時間以内に台風30号に発達見込み 本州接近の可能性も",
           "summaryJa": [
-            "13日午後10時半ごろ、横浜市港北区の住宅で火災があり、現場から2遺体が見つかりました。",
-            "神奈川県警や地元消防によると、この家に住む高齢夫婦と連絡が取れていません。",
-            "県警などが火災の原因究明と遺体の身元確認を進めています。"
+            "気象庁は、マーシャル諸島付近の熱帯低気圧aが24時間以内に台風へ発達する見込みだと発表しました。",
+            "この熱帯低気圧は時速15kmで北へ進んでおり、中心気圧950hPa、最大瞬間風速60m/sが予想されています。",
+            "10月25日（日）にかけての進路予想では、本州に接近するシミュレーションも示されています。"
+          ]
+        },
+        {
+          "title": "公園で5歳男児にわいせつ行為 容疑で50歳男を再逮捕 兵庫県警飾磨署(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T14:01:12Z",
+          "excerpt": "5歳の男児にわいせつな行為をしたとして、兵庫県警飾磨署は13日、不同意わいせつの疑いで、兵庫県姫路市飾磨区の設備業、白濵孝雄容疑者（50）を再逮捕した。同署によると「酒を飲んでおり、よく覚えていない」",
+          "link": "https://news.yahoo.co.jp/articles/fb7d02d1bd40b05a050c5d6ec7f9aef041b7fbbb?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "公園で5歳男児にわいせつ行為容疑、50歳男を再逮捕 兵庫県警",
+          "summaryJa": [
+            "兵庫県警飾磨署は13日、5歳の男児にわいせつな行為をしたとして、不同意わいせつの疑いで白濵孝雄容疑者（50）を再逮捕しました。",
+            "容疑者は兵庫県姫路市飾磨区の設備業です。",
+            "同署によると、容疑者は「酒を飲んでおり、よく覚えていない」と供述しています。"
+          ]
+        },
+        {
+          "title": "13年ぶりに台風「30号」発生か 24時間以内に新たな台風発生へ 北海道には暴風警報発表中で15日まで警戒を(FNNプライムオンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:56:20Z",
+          "excerpt": "南の海上では新たな台風が発生する見通しだ。もし台風となれば台風30号となり、「30号」まで達すれば13年ぶりのことになる。■【動画で見る】新たな台風発生へ関西テレビ「旬感LIVE とれたてっ!」で片平",
+          "link": "https://news.yahoo.co.jp/articles/53926e465cc0d23cf9dff69a7f695739d0f517de?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "13年ぶり「台風30号」発生か、24時間以内に新たな台風に発達へ",
+          "summaryJa": [
+            "南の海上では、24時間以内に新たな台風が発生する見通しです。",
+            "もし台風となれば、今年30番目の台風となり、13年ぶりに「30号」に達することになります。",
+            "北海道には暴風警報が発表されており、15日まで警戒が必要です。"
+          ]
+        },
+        {
+          "title": "共産・田村氏、高市政権に「腐っている」 簗農水相辞任で「かばい続けた責任問われる」(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:36:19Z",
+          "excerpt": "共産党の田村智子委員長は14日、党本部で記者会見し、簗和生農林水産相の辞表提出について、「辞任するのは当然だ。なぜ更迭しなかったのか」と述べ、「かばい続けた高市首相は、やはり責任を問われるのではないか",
+          "link": "https://news.yahoo.co.jp/articles/2a295105c0344f4e4a7454466d70b25a5d8279f6?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "共産・田村委員長、簗農水相辞任で高市政権の責任を追及",
+          "summaryJa": [
+            "共産党の田村智子委員長は14日、簗和生農林水産相の辞表提出について記者会見で言及しました。",
+            "田村氏は「辞任は当然だ。なぜ更迭しなかったのか」と述べました。",
+            "また、「かばい続けた高市首相は、やはり責任を問われるのではないか」と指摘しました。"
+          ]
+        },
+        {
+          "title": "初の閣僚更迭…高市・岸田政権は発足12カ月 石破政権7カ月、第2次安倍政権22カ月で(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:35:40Z",
+          "excerpt": "簗和生農林水産相が高市早苗首相により事実上更迭され、政権発足1年を1週間後に控えて初の不祥事による閣僚辞任となった。近年の政権を振り返ると、最初の閣僚辞任は石破茂政権で発足約7カ月後、岸田文雄政権で約",
+          "link": "https://news.yahoo.co.jp/articles/7c4f5b527f1e58908b5f60d77d28b9705baaf08a?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "消防車両が横転、現場に向かう途中の交差点で 「すごい音がした」 東京都大田区(産経新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:26:03Z",
+          "excerpt": "14日午後5時ごろ、東京都大田区矢口の国道1号線の交差点で、東京消防庁の消防車両が横転する事故があった。【写真】クレーンでつり上げられる消防車両東京消防庁によると、車両は現場に向かう途中で、隊員4人が",
+          "link": "https://news.yahoo.co.jp/articles/2d5c17b164d315fe7c57c9323a89194f3a5ccee4?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "現場へ向かう消防車両が交差点で横転、東京・大田区",
+          "summaryJa": [
+            "14日午後5時ごろ、東京都大田区矢口の国道1号線の交差点で、東京消防庁の消防車両が横転する事故が発生しました。",
+            "東京消防庁によると、車両は現場に向かう途中でした。",
+            "隊員4人が乗車していましたが、負傷者の有無は不明です。"
+          ]
+        },
+        {
+          "title": "動画投稿で名誉毀損疑い ユーチューバーの男逮捕(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:23:10Z",
+          "excerpt": "京都府警左京署は14日、動画共有サイトに京都市左京区の不動産会社元代表取締役の男性＝当時（36）＝の画像と「僕の職業は、詐欺師です」とのテロップを掲載した動画を投稿したとして、名誉毀損の疑いで、東京都",
+          "link": "https://news.yahoo.co.jp/articles/d8812638dc8bf1ecd3a23e10b811d7d46829c030?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "【解説】辞任の簗農水大臣 “道路予算カット”発言の背景に「保守分裂」とジャーナリスト鈴木哲夫氏 し烈な争いで「選挙区での言動や秘書とややこしい問題とか話があった。高市総理は把握できていたのか」(関西テレビ)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:13:01Z",
+          "excerpt": "さまざまな疑惑が指摘されていた簗和生農林水産大臣は、きょう＝14日午後6時半ごろに、大臣の辞表を提出しました。■【動画で見る】辞任を表明した簗大臣ジャーナリストの鈴木哲夫氏は簗大臣が最初に指摘された「",
+          "link": "https://news.yahoo.co.jp/articles/635fe35e2909187d7fc80e4bd03de0453f59a3ea?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "簗農水相が辞表提出、ジャーナリストが「保守分裂」を指摘",
+          "summaryJa": [
+            "さまざまな疑惑が指摘されていた簗和生農林水産大臣は、14日午後6時半ごろに辞表を提出しました。",
+            "ジャーナリストの鈴木哲夫氏は、簗大臣の「道路予算カット」発言の背景に「保守分裂」があったと解説しています。",
+            "また、選挙区での言動や秘書との問題について、高市総理が把握できていたのかと疑問を呈しました。"
+          ]
+        },
+        {
+          "title": "Kobe sees off Jeonbuk to claim second Asian Champions League win",
+          "source": "The Japan Times",
+          "publishedAt": "2026-10-14T13:09:00Z",
+          "excerpt": "The win moved Kobe level with compatriots Kashima Antlers and Gamba Osaka as well as China's Beijing Guoan on six points.",
+          "link": "https://www.japantimes.co.jp/sports/2026/10/14/soccer/kobe-jeonbuk-asian-champions-league/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "【台風情報】13年ぶり「台風30号」発生か 南の海上で発達中の熱帯低気圧が15日にも台風に発達へ 今後北上する見込みで来週後半に本州直撃の可能性も(FNNプライムオンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-14T13:02:21Z",
+          "excerpt": "日本の南の海上、マーシャル諸島で発達中の熱帯低気圧について、気象庁は24時間以内に台風に発達する見込みとしています。【画像を見る】日本の南の海上にある熱帯低気圧 15日には台風30号に発達か【進路予想",
+          "link": "https://news.yahoo.co.jp/articles/0cf38a24afb39aae14c091380730fc02f12f826f?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "13年ぶり「台風30号」発生か、熱帯低気圧が15日にも台風に発達へ",
+          "summaryJa": [
+            "気象庁は、日本の南の海上、マーシャル諸島で発達中の熱帯低気圧が24時間以内に台風に発達する見込みだと発表しました。",
+            "15日にも台風30号となる可能性があり、そうなれば13年ぶりの30号発生となります。",
+            "今後北上する見込みで、来週後半には本州に直撃する可能性も示唆されています。"
           ]
         }
       ]
@@ -184,143 +280,144 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+          "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
           "source": "CNBC Markets",
-          "publishedAt": "2026-10-14T00:13:45Z",
-          "excerpt": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
-          "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+          "publishedAt": "2026-10-14T14:31:23Z",
+          "excerpt": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasu...",
+          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
           "translationStatus": "translated",
-          "titleJa": "FBI、OpenAIサウジ人従業員を逮捕 会議室に録音装置設置の疑い",
+          "titleJa": "バンク・オブ・アメリカ株が8%下落、第3四半期収益未達と制裁金で",
           "summaryJa": [
-            "FBIは、OpenAIのサウジ人従業員を逮捕しました。",
-            "この従業員は、会議室に録音装置を設置した疑いが持たれています。",
-            "この事件は、ChatGPT開発元であるOpenAIが、競合他社とともに安全対策への監視を強められている中で発生しました。"
+            "バンク・オブ・アメリカの株価が水曜日に下落しました。",
+            "これは、同社の第3四半期取引収益が予想を下回ったためです。",
+            "さらに、12億ドルの制裁金の影響も株価に響きました。",
+            "結果として、株価は8%下落しました。"
           ]
         },
         {
-          "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+          "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
           "source": "CNBC Markets",
-          "publishedAt": "2026-10-14T00:12:23Z",
-          "excerpt": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
-          "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+          "publishedAt": "2026-10-14T14:29:12Z",
+          "excerpt": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
+          "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
           "translationStatus": "translated",
-          "titleJa": "シンガポール第3四半期GDP成長率、4年ぶり高水準から鈍化も予想上回る",
+          "titleJa": "社会保障庁、2027年の生活費調整を3.6%に発表",
           "summaryJa": [
-            "シンガポールの第3四半期GDP成長率は、4年ぶりの高水準から鈍化しました。",
-            "しかし、ロイターが調査したエコノミストの5%成長という予想を上回りました。",
-            "この結果は、経済の堅調さを示唆しています。"
+            "社会保障庁は、2027年の生活費調整（COLA）を3.6%にすると発表しました。",
+            "これにより、社会保障退職給付金は平均で月額75ドル増加する見込みです。",
+            "この調整は、受給者がインフレに対応できるよう支援することを目的としています。"
           ]
         },
         {
-          "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+          "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
           "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T23:05:12Z",
-          "excerpt": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-          "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+          "publishedAt": "2026-10-14T14:25:40Z",
+          "excerpt": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. But in the 2026 midterm election, Democrats are pushing to get th...",
+          "link": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
           "translationStatus": "translated",
-          "titleJa": "ゴールドマン、投資家は中国企業の海外での「収益性ある」成長を注視と指摘",
+          "titleJa": "2024年にトランプ氏支持に転じた南テキサスのラテン系有権者、2026年中間選挙で争点に",
           "summaryJa": [
-            "ゴールドマン・サックスによると、投資家は中国企業の海外での収益性のある成長に注目しています。",
-            "中国国内の消費需要の低迷により、電気自動車ブランドなど多くの企業が海外進出計画を加速させています。",
-            "これは、新たな成長機会を求める動きと見られます。"
+            "2024年の選挙で、ヒスパニック系およびラテン系有権者はドナルド・トランプ大統領を強く支持しました。",
+            "しかし、2026年の中間選挙では、民主党がこれらの有権者の支持を取り戻そうと動いています。",
+            "南テキサス地域のラテン系有権者の動向が注目されています。"
           ]
         },
         {
-          "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T22:54:21Z",
-          "excerpt": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the compan...",
-          "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-          "translationStatus": "translated",
-          "titleJa": "Anthropic、国防総省のブラックリスト掲載巡る控訴審の再審理を要請",
-          "summaryJa": [
-            "AI企業Anthropicは、ワシントンD.C.の連邦裁判所に対し、国防総省による同社のブラックリスト掲載に関する控訴審の再審理を求めています。",
-            "これは、同社が国防総省のリストから除外されることを目指す動きです。",
-            "裁判所の判断が注目されます。"
-          ]
-        },
-        {
-          "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T22:47:07Z",
-          "excerpt": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
-          "link": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-          "translationStatus": "translated",
-          "titleJa": "ジム・クレイマー氏、新規上場のAIインフラ株について見解示す",
-          "summaryJa": [
-            "CNBCのジム・クレイマー氏は、新規上場したAIインフラ企業Accelevation Holdingsの株式購入を投資家は控えるべきだと述べました。",
-            "同氏は、投資家に対して慎重な姿勢を促しています。",
-            "この発言は、市場に影響を与える可能性があります。"
-          ]
-        },
-        {
-          "title": "Six Flags shares decline following deadly roller coaster incident",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T21:18:03Z",
-          "excerpt": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to...",
-          "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-          "translationStatus": "translated",
-          "titleJa": "シックス・フラッグス株、死亡事故発生で下落",
-          "summaryJa": [
-            "シックス・フラッグス・オーバー・ジョージアのジェットコースター「ゴライアス」で事故が発生しました。",
-            "この事故により1人が死亡し、数人が負傷しました。",
-            "報道を受け、シックス・フラッグスの株価は下落しました。"
-          ]
-        },
-        {
-          "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T21:15:32Z",
-          "excerpt": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal...",
-          "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-          "translationStatus": "translated",
-          "titleJa": "裁判官、マスク氏の元FEMA幹部への威嚇を認定し名誉回復を宣言",
-          "summaryJa": [
-            "連邦裁判官は、イーロン・マスク氏らが元FEMA最高財務責任者メアリー・コマンズ氏を不当に犯罪者と告発したと認定しました。",
-            "裁判官は、マスク氏がコマンズ氏を威嚇したと述べ、彼女の名誉を回復しました。",
-            "この判決により、コマンズ氏の潔白が証明されました。"
-          ]
-        },
-        {
-          "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-13T21:02:52Z",
-          "excerpt": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar wit...",
-          "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-          "translationStatus": "translated",
-          "titleJa": "Anthropic、新たな収益数値を公開へ AIラボの財務状況がテック業界の焦点に",
-          "summaryJa": [
-            "AIラボの財務状況がテック業界の取引の中心となる中、Anthropicは新たな収益数値を公開する予定です。",
-            "同社は今週、本社に集まる投資家グループに対し、最新の財務情報を開示します。",
-            "これは、AI企業の透明性と評価に影響を与える可能性があります。"
-          ]
-        },
-        {
-          "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+          "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
           "source": "MarketWatch",
-          "publishedAt": "2026-10-13T21:02:00Z",
-          "excerpt": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-          "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+          "publishedAt": "2026-10-14T14:17:00Z",
+          "excerpt": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up?...",
+          "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "半導体株、AI疲れで16カ月ぶりの低迷 Anthropicの投資家デーに注目",
+          "titleJa": "チャールズ・シュワブとドアダッシュ、市場を牽引しうる割安株にランクイン",
           "summaryJa": [
-            "AIへの過剰な支出に対するウォール街の忍耐が薄れる中、半導体株は16カ月ぶりの低迷を記録しました。",
-            "市場では「AI疲れ」が広がっていると見られています。",
-            "Anthropicの投資家デーが近づいており、その内容に注目が集まっています。"
+            "チャールズ・シュワブとドアダッシュが、市場を上昇させる可能性のある割安株として挙げられました。",
+            "第3四半期の収益成長は、エネルギーおよび半導体企業が牽引すると予想されています。",
+            "しかし、それ以外の市場も好調を示した場合、これらの割安株が注目される可能性があります。"
           ]
         },
         {
-          "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+          "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
           "source": "MarketWatch",
-          "publishedAt": "2026-10-13T21:01:00Z",
-          "excerpt": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-          "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+          "publishedAt": "2026-10-14T14:17:00Z",
+          "excerpt": "The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.",
+          "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "「私はかなり慎重な人間だ」：UAEのデータセンターに35万ドル投資、リスクは？",
+          "titleJa": "イランの2兆ドル脅威がAI株に与えるリスク",
           "summaryJa": [
-            "ある投資家は、金融アドバイザーからUAEのデータセンターに35万ドルを投資するよう勧められています。",
-            "投資家は慎重な性格であると述べつつも、長年の401(k)投資後に大きなリターンを得るという考えに魅力を感じています。",
-            "この投資がどの程度のリスクを伴うのか、懸念を示しています。"
+            "米連邦準備制度理事会（FRB）は、大手テクノロジー企業の支出抑制が困難であることを認めています。",
+            "一方、イランはそれが可能だと主張し、標的を名指ししました。",
+            "このイランの動きが、AI関連株にリスクをもたらす可能性が指摘されています。"
+          ]
+        },
+        {
+          "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-14T14:08:16Z",
+          "excerpt": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+          "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+          "translationStatus": "translated",
+          "titleJa": "石油価格上昇、IEAが市場制約を警告、サウジはアラムコ施設攻撃を報告",
+          "summaryJa": [
+            "国際エネルギー機関（IEA）が市場の制約について警告を発しました。",
+            "サウジアラビア当局は、アラムコ施設が攻撃されたと発表しました。",
+            "中東情勢の緊迫化による供給途絶への懸念が、石油価格を押し上げる要因となりました。"
+          ]
+        },
+        {
+          "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+          "source": "MarketWatch",
+          "publishedAt": "2026-10-14T14:08:00Z",
+          "excerpt": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+          "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "バンク・オブ・アメリカ、12億ドルの政府罰金に加え利益未達で株価下落",
+          "summaryJa": [
+            "バンク・オブ・アメリカの株価が下落しました。",
+            "これは、同行の期待外れの決算報告に加え、12億ドルの政府罰金に対する投資家の失望が重なったためです。",
+            "利益未達と巨額の罰金が、株価に悪影響を与えました。"
+          ]
+        },
+        {
+          "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+          "source": "MarketWatch",
+          "publishedAt": "2026-10-14T14:07:00Z",
+          "excerpt": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+          "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "社会保障の生活費調整、2027年は3.6%に、インフレ継続に対応",
+          "summaryJa": [
+            "2027年の社会保障生活費調整（COLA）は3.6%となる予定です。",
+            "これは、インフレが継続している状況に対応するための措置です。",
+            "約6800万人の受給者がインフレに追いつけるよう支援することを目的としています。"
+          ]
+        },
+        {
+          "title": "Netflix is laying off roughly 6% of its workforce",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-14T14:06:57Z",
+          "excerpt": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+          "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+          "translationStatus": "translated",
+          "titleJa": "ネットフリックス、従業員の約6%を削減へ",
+          "summaryJa": [
+            "ネットフリックスが従業員の約6%を解雇する予定です。",
+            "これはCNBCが入手したメモによって明らかになりました。",
+            "大規模な人員削減が実施されることになります。"
+          ]
+        },
+        {
+          "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-14T13:53:28Z",
+          "excerpt": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones...",
+          "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+          "translationStatus": "translated",
+          "titleJa": "9月の消費者物価、ガソリン価格高騰で前年比3.7%上昇",
+          "summaryJa": [
+            "9月の消費者物価指数は、前年同月比で3.7%上昇しました。",
+            "これは、ガソリン価格の急騰が主な要因です。",
+            "ダウ・ジョーンズの予想では、月間0.6%、前年比3.6%の増加が見込まれていました。"
           ]
         }
       ]
@@ -330,17 +427,31 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-14T11:00:00Z",
+          "excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "translationStatus": "translated",
+          "titleJa": "AI活用で重要素材分野の中国支配に対抗、Scimplifyが2500万ドル調達",
+          "summaryJa": [
+            "Scimplify社はAIを活用し、重要素材分野における中国の支配に対抗するため、2500万ドルを調達しました。",
+            "同社の年間収益は2億ドルに達し、3倍に増加しています。",
+            "現在、米国市場への事業拡大を目指しています。"
+          ]
+        },
+        {
           "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
           "source": "TechCrunch AI",
           "publishedAt": "2026-10-13T23:13:31Z",
-          "excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is p...",
+          "excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is pa...",
           "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
           "translationStatus": "translated",
-          "titleJa": "Science社、スターガルト病患者に視力回復チップを初移植",
+          "titleJa": "Science Corporation、スターガルト病患者に視力回復チップを初移植",
           "summaryJa": [
-            "元ニューラリンク共同創設者のマックス・ホダック氏が設立したScience社が、",
-            "スターガルト病患者に対し、視力回復を目的としたチップの移植手術を初めて実施しました。",
-            "同社はPRIMAとの連携を通じて、この技術の開発を進めています。"
+            "Science Corporationが、スターガルト病患者に対し、視力回復を目的としたチップの移植手術を初めて実施しました。",
+            "Neuralinkの元共同創設者であるマックス・ホダック氏が、TechCrunch Disruptで詳細を説明しました。",
+            "同社のPRIMAとの連携による取り組みが注目されています。"
           ]
         },
         {
@@ -349,13 +460,7 @@
           "publishedAt": "2026-10-13T23:05:34Z",
           "excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on...",
           "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-          "translationStatus": "translated",
-          "titleJa": "Cerebras CEO、家庭用AIアシスタント普及の未来を予測",
-          "summaryJa": [
-            "CerebrasのCEO、アンドリュー・フェルドマン氏は、",
-            "将来的に個人用AIアシスタントが家電製品のように普及すると予測しています。",
-            "これらのAIは、一部が家庭内で動作するようになると述べています。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
@@ -363,13 +468,7 @@
           "publishedAt": "2026-10-13T23:00:00Z",
           "excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
           "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "translationStatus": "translated",
-          "titleJa": "Industrial Next、工場ロボットのタスク切り替えを数分で実現へ",
-          "summaryJa": [
-            "Industrial Next社は、工場ロボットのタスク切り替えを数週間から数分に短縮することを目指しています。",
-            "同社は、これまで人間の労働力が必要だった複雑で繊細な作業の自動化を支援しています。",
-            "これにより、製造業における生産性の向上が期待されます。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Cerebras CEO pushes back on AI doomsday warnings",
@@ -377,13 +476,7 @@
           "publishedAt": "2026-10-13T22:36:59Z",
           "excerpt": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued...",
           "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-          "translationStatus": "translated",
-          "titleJa": "Cerebras CEO、AI終末論に異議を唱える",
-          "summaryJa": [
-            "CerebrasのCEO、アンドリュー・フェルドマン氏は、",
-            "AIに関する終末論を唱えるAIリーダーたちに対し、発言を控えるよう促しました。",
-            "TechCrunch Disruptで、彼はそのような警告に反論する見解を示しました。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
@@ -394,9 +487,9 @@
           "translationStatus": "translated",
           "titleJa": "ミア・ゴス氏のAI画像拡散、インスタグラムの対応に代理人が「理解不能」",
           "summaryJa": [
-            "女優ミア・ゴス氏の代理人は、インスタグラム上で同氏のAI画像が拡散されたことに対し、",
-            "プラットフォームがこれを許容したことは「理解不能」であると表明しました。",
-            "この問題は、ゴス氏が俳優シャイア・ラブーフ氏との離婚を申請したニュースが報じられた後に発生しました。"
+            "女優ミア・ゴス氏の代理人は、AIによって生成された同氏の画像がインスタグラムで拡散されたことに対し、インスタグラムの対応が「理解不能」であると表明しました。",
+            "今月初め、ゴス氏が俳優シャイア・ラブーフ氏との離婚を申請したというニュースが報じられました。",
+            "その後、インスタグラムの投稿からAI画像が拡散したとされています。"
           ]
         },
         {
@@ -405,13 +498,7 @@
           "publishedAt": "2026-10-13T21:36:13Z",
           "excerpt": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The e...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-          "translationStatus": "translated",
-          "titleJa": "OpenAI従業員、会議室に盗聴器設置容疑で逮捕",
-          "summaryJa": [
-            "OpenAI社は、オフィス内から「高度な録音装置」が発見されたと発表しました。",
-            "これを受け、同社のエンジニアが盗聴器を設置した容疑で逮捕されました。",
-            "会社は、この件について調査を進めているとのことです。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -420,11 +507,11 @@
           "excerpt": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and...",
           "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
           "translationStatus": "translated",
-          "titleJa": "裁判官、Appleの営業秘密訴訟でOpenAIに採用記録提出を命令",
+          "titleJa": "Appleの営業秘密訴訟、裁判官がOpenAIに採用記録提出を命令",
           "summaryJa": [
-            "連邦裁判官は、AppleがOpenAIに対し、元Apple従業員に関する面接資料やプライベートメッセージへのアクセスを許可するよう命じました。",
-            "これはAppleが提起した営業秘密訴訟に関連するものです。",
-            "OpenAIは、これらの採用記録を提出する必要があります。"
+            "連邦裁判官は、AppleがOpenAIに対し、元Apple従業員に関する面接資料の提出を命じました。",
+            "また、プライベートメッセージなどの情報もAppleがアクセスできると判断しました。",
+            "これはAppleがOpenAIを相手取った営業秘密訴訟の一環です。"
           ]
         },
         {
@@ -433,13 +520,7 @@
           "publishedAt": "2026-10-13T20:23:23Z",
           "excerpt": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambit...",
           "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-          "translationStatus": "translated",
-          "titleJa": "Shopify、AIエージェントによる商品閲覧・購入を拡大",
-          "summaryJa": [
-            "Shopifyは、より多くのAIエージェントが同社の出品商品を閲覧し、購入できるようになると発表しました。",
-            "これは、同社が推進するエージェント型コマースの取り組みを拡大するものです。",
-            "AIエージェントの活用により、新たな購買体験が提供されると見られます。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Xbox is officially embracing the chaos of AI-powered game ports",
@@ -447,27 +528,7 @@
           "publishedAt": "2026-10-13T19:10:43Z",
           "excerpt": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic t...",
           "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-          "translationStatus": "translated",
-          "titleJa": "Xbox、AI活用ゲーム移植の波を受け入れる方針",
-          "summaryJa": [
-            "Xboxは、AIを活用したゲームの移植がもたらす変化を公式に受け入れる方針を示しました。",
-            "レトロゲーム業界では現在、デコンパイルやリコンパイルにより、",
-            "クラシックゲームを現代のプラットフォームに移植する動きが活発化しています。"
-          ]
-        },
-        {
-          "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-          "source": "The Verge AI",
-          "publishedAt": "2026-10-13T19:01:42Z",
-          "excerpt": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a...",
-          "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-          "translationStatus": "translated",
-          "titleJa": "Ray-Ban Metaオーディオグラス、カメラ機能の不在は気にならず",
-          "summaryJa": [
-            "筆者は、Ray-Ban Metaオーディオグラスを使用しており、",
-            "そのカメラ機能がないことについて特に不便を感じていないと述べています。",
-            "公園でのランニング中に音楽を聴くなど、日常での使用体験について触れています。"
-          ]
+          "translationStatus": "failed"
         }
       ]
     },
@@ -476,17 +537,59 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Hochul Opts NY Into Federal School Choice Tax Credit Despite Union Opposition",
+          "source": "The 74",
+          "publishedAt": "2026-10-14T12:30:00Z",
+          "excerpt": "New York will participate in the new federal scholarship tax credit in hopes of generating millions in new dollars for public school studen...",
+          "link": "https://www.the74million.org/article/hochul-opts-ny-into-federal-school-choice-tax-credit-despite-union-opposition/",
+          "translationStatus": "translated",
+          "titleJa": "ホーチュル知事、組合反対にもかかわらずNY州を連邦学費控除制度に加入",
+          "summaryJa": [
+            "ニューヨーク州は、連邦政府の新たな奨学金税額控除制度に参加することを決定しました。",
+            "これは、公立学校の生徒のために数百万ドルの新たな資金を生み出すことを期待してのものです。",
+            "労働組合はこれに反対しています。"
+          ]
+        },
+        {
+          "title": "The Latest Wave of Trump’s Immigration Crackdown Is Again Being Felt in Schools",
+          "source": "The 74",
+          "publishedAt": "2026-10-14T10:30:00Z",
+          "excerpt": "The mother who arrived at an East Tennessee school the week of Sept. 21 to withdraw her son, a freshman, told staff they weren’t leaving ri...",
+          "link": "https://www.the74million.org/article/the-latest-wave-of-trumps-immigration-crackdown-is-again-being-felt-in-schools/",
+          "translationStatus": "translated",
+          "titleJa": "トランプ政権の移民取り締まり強化、学校にも影響",
+          "summaryJa": [
+            "トランプ政権による移民取り締まりの最新の波が、再び学校に影響を及ぼしています。",
+            "9月21日の週、東テネシー州の学校に息子を退学させに来た母親は、職員に「すぐに立ち去るわけではない」と伝えました。",
+            "この状況は、移民政策が教育現場に与える影響を示しています。"
+          ]
+        },
+        {
+          "title": "A university-branded boot camp promised tech jobs. It delivered only debt",
+          "source": "The Hechinger Report",
+          "publishedAt": "2026-10-14T04:01:00Z",
+          "excerpt": "Looking back, there were a lot of warning signs. Christopher Collins fielded several calls a day from recruiters with IronCircle, a cyberse...",
+          "link": "https://hechingerreport.org/a-university-branded-boot-camp-promised-tech-jobs-it-delivered-only-debt/",
+          "translationStatus": "translated",
+          "titleJa": "大学ブランドの技術研修、就職を約束も残ったのは借金",
+          "summaryJa": [
+            "大学ブランドを冠した技術研修プログラムが、テクノロジー分野での就職を約束していました。",
+            "しかし、参加者には多額の借金だけが残されたと報じられています。",
+            "振り返ると、多くの警告サインがあったとされています。"
+          ]
+        },
+        {
           "title": "Pressure builds on Pritzker over whether to opt Illinois into federal education tax credits",
           "source": "Chalkbeat",
           "publishedAt": "2026-10-13T21:46:43Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/chicago/2026/10/13/illinois-advocates-split-on-pritzker-federal-education-tax-credit-decision/",
           "translationStatus": "translated",
-          "titleJa": "イリノイ州、連邦教育税額控除導入巡り知事に圧力",
+          "titleJa": "イリノイ州、連邦教育税額控除制度への参加巡り知事に圧力",
           "summaryJa": [
-            "イリノイ州のプリツカー知事に対し、連邦教育税額控除制度を州に導入するかどうかの判断を巡り、圧力が強まっています。",
-            "この制度の導入は、州の教育政策に大きな影響を与える可能性があります。",
-            "知事の決定が注目されています。"
+            "イリノイ州が連邦教育税額控除制度に参加するかどうかについて、プリツカー知事への圧力が高まっています。",
+            "この制度への参加は、州の教育資金に影響を与える可能性があります。",
+            "決定が注目されています。"
           ]
         },
         {
@@ -496,11 +599,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/detroit/2026/10/13/michigan-weighs-federal-scholarship-tax-credit-program-schools/",
           "translationStatus": "translated",
-          "titleJa": "ミシガン州、連邦奨学金税額控除が公私立学校の資金調達で議論に",
+          "titleJa": "連邦奨学金税額控除、ミシガン州の公私立学校資金巡り議論",
           "summaryJa": [
-            "ミシガン州では、連邦奨学金税額控除制度が公立および私立学校の資金調達を巡る議論を引き起こしています。",
-            "この制度は、学校への資金の流れに影響を与える可能性があり、関係者の間で意見が分かれています。",
-            "資金配分に関する今後の動向が注目されます。"
+            "連邦奨学金税額控除制度が、ミシガン州の公立および私立学校への資金提供を巡る議論を引き起こしています。",
+            "この制度は、教育資金の配分に影響を与える可能性があります。",
+            "州内で活発な議論が展開されています。"
           ]
         },
         {
@@ -510,11 +613,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/tennessee/2026/10/13/memphis-state-takeover-board-is-ready-to-begin-chair-says/",
           "translationStatus": "translated",
-          "titleJa": "メンフィス州の管理委員会、学区の統制準備が完了と発表",
+          "titleJa": "メンフィス州の管理委員会、学区の支配準備が完了と発表",
           "summaryJa": [
-            "メンフィス州の管理委員会は、学区の統制を引き継ぐ準備が整ったと発表しました。",
+            "メンフィス州の管理委員会が、学区の支配を引き継ぐ準備が整ったと発表しました。",
             "これは、学区の運営体制に大きな変更をもたらす可能性があります。",
-            "今後の学区の運営方針が注目されます。"
+            "今後の動向が注目されます。"
           ]
         },
         {
@@ -526,9 +629,9 @@
           "translationStatus": "translated",
           "titleJa": "オクラホマ州チャータースクール委員会、ユダヤ系学校の申請を再び却下",
           "summaryJa": [
-            "オクラホマ州のチャータースクール委員会は、ユダヤ系チャータースクールの設立申請を二度却下しました。",
-            "これは、最近の連邦裁判所の決定が申請に有利な道を開いたにもかかわらずの判断です。",
-            "州当局は月曜日にこの申請を却下しました。"
+            "オクラホマ州の当局は月曜日、ユダヤ系チャータースクールの申請を再び却下しました。",
+            "これは、最近の連邦裁判所の決定が申請を後押しする可能性があったにもかかわらずです。",
+            "委員会は、以前にも同様の申請を却下していました。"
           ]
         },
         {
@@ -540,9 +643,9 @@
           "translationStatus": "translated",
           "titleJa": "オハイオ州の慢性欠席率、減少傾向もパンデミック前を上回る",
           "summaryJa": [
-            "オハイオ州の慢性的な欠席率は近年減少傾向にあります。",
-            "しかし、その水準はパンデミック以前の率を依然として上回っています。",
-            "州全体の状況が改善しつつも、課題が残っていることが示されています。"
+            "オハイオ州の慢性的な欠席率は、近年減少傾向にあります。",
+            "しかし、その割合は依然としてパンデミック前の水準を上回っています。",
+            "州全体でこの問題への対応が続けられています。"
           ]
         },
         {
@@ -552,11 +655,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/philadelphia/2026/10/13/virtual-panel-to-explore-roadblocks-for-formerly-incarcerated-youth/",
           "translationStatus": "translated",
-          "titleJa": "元受刑者の学生が学校復帰を支援する方策とは？",
+          "titleJa": "元受刑者の学生の復学支援策、Chalkbeatがオンラインイベント開催",
           "summaryJa": [
-            "元受刑者の学生が学校に戻るのを助けるために何ができるか、という問いが提起されています。",
-            "Chalkbeatは、このテーマに関するバーチャルイベントを開催します。",
-            "イベントでは、彼らの教育復帰を支援する具体的な方法が議論される予定です。"
+            "元受刑者の学生が学校に戻るのを助けるための支援策について、Chalkbeatがオンラインイベントを開催します。",
+            "このイベントでは、復学を促進するための様々な方法が議論される予定です。",
+            "関心のある人々が参加を呼びかけられています。"
           ]
         },
         {
@@ -566,53 +669,11 @@
           "excerpt": "Our nation’s patchwork system of early care and education arose, in large part, in response to mothers entering the workforce. That shift r...",
           "link": "https://www.the74million.org/zero2eight/why-america-undervalues-mothers-and-care-work/",
           "translationStatus": "translated",
-          "titleJa": "アメリカにおける母親とケア労働の過小評価の背景",
+          "titleJa": "アメリカが母親とケア労働を過小評価する理由",
           "summaryJa": [
-            "アメリカの幼児ケア・教育システムは、母親の労働力参入に対応して発展しました。",
-            "この変化は、母親とケア労働が社会で過小評価されている現状と関連しています。",
-            "記事は、その背景にある構造的な問題を考察しています。"
-          ]
-        },
-        {
-          "title": "Opinion: AI-Powered Instruction Needs Precision. Right Now, It’s Not Even Close",
-          "source": "The 74",
-          "publishedAt": "2026-10-13T12:30:00Z",
-          "excerpt": "Over the past few weeks, the nation saw something that doesn’t happen very often: Rival tech leaders agreed that artificial intelligence de...",
-          "link": "https://www.the74million.org/article/ai-powered-instruction-needs-precision-right-now-its-not-even-close/",
-          "translationStatus": "translated",
-          "titleJa": "論説：AIを活用した教育には精度が必要、現状は程遠い",
-          "summaryJa": [
-            "AIを活用した教育には高い精度が求められるが、現状ではそのレベルに達していないという論説です。",
-            "過去数週間で、競合するテクノロジー企業のリーダーたちがAI開発について合意する珍しい出来事がありました。",
-            "しかし、教育分野でのAIの活用には、さらなる精密な開発が必要であると指摘されています。"
-          ]
-        },
-        {
-          "title": "Hear directly from IPS school board candidates at a forum cohosted by Chalkbeat",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-10-13T11:00:00Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/indiana/2026/10/12/2026-ips-school-board-candidate-forum-rsvp/",
-          "translationStatus": "translated",
-          "titleJa": "IPS教育委員会候補者フォーラム、Chalkbeat共催で直接意見を聞く",
-          "summaryJa": [
-            "Chalkbeatが共催するフォーラムで、IPS教育委員会の候補者から直接話を聞く機会が提供されます。",
-            "このイベントは、有権者が候補者の教育政策に関する見解を理解するのに役立ちます。",
-            "候補者たちの教育に対するビジョンや公約が提示される予定です。"
-          ]
-        },
-        {
-          "title": "As teacher turnover climbs in Memphis, lower-performing schools face a deepening staffing crisis",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-10-13T11:00:00Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/tennessee/2026/10/13/memphis-teacher-retention-suffers-in-lowest-performing-schools/",
-          "translationStatus": "translated",
-          "titleJa": "メンフィスで教員離職率上昇、成績下位校で人員不足が深刻化",
-          "summaryJa": [
-            "メンフィスでは教員の離職率が上昇しており、特に成績の低い学校で人員不足が深刻化しています。",
-            "この状況は、教育の質や生徒の学習環境に悪影響を及ぼす可能性があります。",
-            "教員確保と定着に向けた対策が急務となっています。"
+            "アメリカの幼児ケアと教育の不完全なシステムは、主に母親が労働力として参加したことに対応して発展しました。",
+            "この変化は、母親とケア労働の価値が十分に認識されていない現状につながっています。",
+            "記事では、その背景にある理由を考察しています。"
           ]
         }
       ]
@@ -630,6 +691,12 @@
       "source": "VentureBeat AI",
       "url": "https://venturebeat.com/category/ai/feed/",
       "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "category": "教育ニュース",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/rss.xml",
+      "error": "undefined entity: line 101, column 16"
     }
   ],
   "translation": {
@@ -638,14 +705,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 31,
-    "failedBatches": [
-      {
-        "category": "世界ニュース",
-        "start": 0,
-        "count": 10,
-        "error": "Expecting ',' delimiter: line 20 column 6 (char 464)"
-      }
-    ]
+    "translatedItems": 41,
+    "failedBatches": []
   }
 }
