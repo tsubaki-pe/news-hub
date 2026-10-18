@@ -1,95 +1,150 @@
 {
-  "generatedAt": "2026-10-18T13:21:45.139448Z",
+  "generatedAt": "2026-10-18T23:17:46.121643Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Paris left reeling as student-led protests turn chaotic",
+          "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T13:08:06Z",
-          "excerpt": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
-          "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+          "publishedAt": "2026-10-18T23:06:16Z",
+          "excerpt": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "パリ、学生主導の抗議デモが混乱、社会に動揺広がる",
+          "titleJa": "ベン・グヴィル国家安全保障相、抗議活動により演壇を降ろされる",
           "summaryJa": [
-            "学生が主導した抗議デモが全国規模で展開され、混乱に陥りました。",
-            "数十万人が参加したデモでは、約1,800人が逮捕され、数百人が負傷しました。",
-            "この事態により、パリ社会に大きな動揺が広がっています。"
+            "イスラエルの極右国家安全保障相イタマル・ベン・グヴィル氏が、",
+            "テルアビブ大学でのイベントに出席中、",
+            "抗議活動により演壇を降ろされる事態となりました。",
+            "参加者らがイベントを妨害したためです。"
           ]
         },
         {
-          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-18T22:41:49Z",
+          "excerpt": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
+          "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ベネズエラ野党、マチャド氏への支持を再確認",
+          "summaryJa": [
+            "ベネズエラの野党は、指導者としてマリア・コリーナ・マチャド氏への支持を改めて表明しました。",
+            "一方、亡命中のノーベル賞受賞者は、",
+            "ベネズエラでの新選挙実施と、自身の帰国許可を求めています。"
+          ]
+        },
+        {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "source": "BBC News",
+          "publishedAt": "2026-10-18T22:10:45Z",
+          "excerpt": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ大統領、ロシア制裁停止は和平交渉継続のためと説明",
+          "summaryJa": [
+            "トランプ米大統領は、ロシアに対する制裁措置の停止を発表しました。",
+            "大統領は、この措置が和平交渉を継続させるためだと説明しています。",
+            "多数の制裁は、発効予定日の2日前に阻止されていました。"
+          ]
+        },
+        {
+          "title": "Alberta independence referendum: Will separatists survive a loss?",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-18T21:53:13Z",
+          "excerpt": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+          "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アルバータ州独立住民投票、敗北でも運動は継続か",
+          "summaryJa": [
+            "カナダのアルバータ州独立運動は、住民投票での敗北が濃厚とされています。",
+            "しかし、過去の事例から、住民投票で敗れても独立運動が終結しない可能性が指摘されています。",
+            "運動の今後が注目されます。"
+          ]
+        },
+        {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "source": "BBC News",
+          "publishedAt": "2026-10-18T21:37:56Z",
+          "excerpt": "At least four people are confirmed to have died after a huge fire swept through the base.",
+          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "カナダ軍基地火災、少なくとも4人死亡",
+          "summaryJa": [
+            "カナダの軍基地で発生した大規模火災に関する情報が明らかになっています。",
+            "この火災により、少なくとも4人の死亡が確認されました。",
+            "火災は基地全体に広がり、甚大な被害をもたらしました。"
+          ]
+        },
+        {
+          "title": "Macron condemns violence after riots lead to looting and mass arrests",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-18T21:10:47Z",
+          "excerpt": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "マクロン仏大統領、暴動後の暴力行為を非難",
+          "summaryJa": [
+            "フランスのエマニュエル・マクロン大統領は、暴動後の暴力行為を非難しました。",
+            "暴動は略奪や多数の逮捕者につながっています。",
+            "大統領は、政府庁舎を襲撃した抗議者たちはその罪を償う必要があると述べました。"
+          ]
+        },
+        {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "source": "BBC News",
+          "publishedAt": "2026-10-18T21:00:22Z",
+          "excerpt": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "シカゴ、米国を席巻する合成薬物との闘い",
+          "summaryJa": [
+            "米国シカゴでは、新たな合成薬物の波がコミュニティを襲っています。",
+            "BBCの特派員が現地から報告しています。",
+            "シカゴは、米国に流入する合成薬物との戦いの最前線となっています。"
+          ]
+        },
+        {
+          "title": "Political rivals implicated under Pakistan's anti-terror law",
           "source": "NPR World",
-          "publishedAt": "2026-10-18T12:55:01Z",
-          "excerpt": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans t...",
-          "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-18T21:00:11Z",
+          "excerpt": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+          "translationStatus": "translated",
+          "titleJa": "パキスタン、反テロ法で政敵が訴追される",
+          "summaryJa": [
+            "パキスタンでは政治的対立が続いています。",
+            "反テロ法に基づき、さらに多くの野党関係者が訴追されています。",
+            "この動きは、パキスタンの政治情勢に影響を与えています。"
+          ]
         },
         {
-          "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T12:49:57Z",
-          "excerpt": "FIFA committee to assess the merits of the award after several members demand its discontinuation.",
-          "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
-          "translationStatus": "failed"
+          "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+          "source": "NPR World",
+          "publishedAt": "2026-10-18T21:00:08Z",
+          "excerpt": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks...",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+          "translationStatus": "translated",
+          "titleJa": "ガザ地区の生活は「極めて過酷」、WFP事務局長が指摘",
+          "summaryJa": [
+            "国連世界食糧計画（WFP）事務局長は、ガザ地区の生活状況を「極めて過酷」と表現しました。",
+            "WFPによると、ガザでは140万人が深刻な食料不足に苦しんでいます。",
+            "資金不足により、支援の削減を余儀なくされている状況です。"
+          ]
         },
         {
-          "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T12:44:26Z",
-          "excerpt": "Paris residents tell Al Jazeera they’re dismayed by the level of damage caused when Saturday’s protests turned violent.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Several dead or injured in major fire at Canada military base",
+          "title": "Macron calls for 'calm and order' after riots across France",
           "source": "BBC News",
-          "publishedAt": "2026-10-18T12:41:59Z",
-          "excerpt": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T12:35:56Z",
-          "excerpt": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
-          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T12:30:00Z",
-          "excerpt": "Follow updates from the Premier League clash, including build-up, analysis and live text commentary of the game.",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "source": "BBC News",
-          "publishedAt": "2026-10-18T12:16:14Z",
-          "excerpt": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-18T12:07:34Z",
-          "excerpt": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
-          "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "source": "BBC News",
-          "publishedAt": "2026-10-18T12:07:31Z",
-          "excerpt": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-18T20:33:21Z",
+          "excerpt": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "マクロン仏大統領、全国的な暴動を受け「平穏と秩序」を呼びかけ",
+          "summaryJa": [
+            "フランスのエマニュエル・マクロン大統領は、全国的な暴動を受けて国民向け演説を行いました。",
+            "大統領は「平穏と秩序」の回復を呼びかけました。",
+            "パリでは一部で略奪行為が続いていました。"
+          ]
         }
       ]
     },
@@ -98,125 +153,137 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "バイク事故、男性2人死亡 佐賀・唐津の国道(共同通信)",
+          "title": "神奈川・西湘バイパスで死亡ひき逃げ 乗用車と大型バイクが衝突 バイクの男性死亡(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T13:05:57Z",
-          "excerpt": "18日10時35分ごろ、佐賀県唐津市七山滝川の国道323号で「バイクの正面衝突があった」と119番があった。唐津署によると、会社員安武誠さん（38）＝福岡県春日市上白水2丁目＝のバイクと男性のバイクが",
-          "link": "https://news.yahoo.co.jp/articles/6ade6f8b9ed30171d4300c469453734e87d746c8?source=rss",
+          "publishedAt": "2026-10-18T23:03:46Z",
+          "excerpt": "神奈川県の西湘バイパスで普通乗用車とバイクが衝突する事故があり、バイクを運転していた男性が死亡しました。乗用車は現場から逃走していて、警察が行方を追っています。 18日午後7時すぎ、神奈川県大磯町の西",
+          "link": "https://news.yahoo.co.jp/articles/2bede15b546a3ef12cc6029aab505e2f2e94a249?source=rss",
           "translationStatus": "translated",
-          "titleJa": "佐賀・唐津の国道でバイク正面衝突、男性2人死亡",
+          "titleJa": "神奈川・西湘バイパスで死亡ひき逃げ、乗用車が逃走",
           "summaryJa": [
-            "18日午前10時35分ごろ、佐賀県唐津市七山滝川の国道323号でバイクの正面衝突事故が発生しました。",
-            "119番通報があり、唐津署によると、会社員の安武誠さん（38）のバイクと別の男性のバイクが衝突。",
-            "この事故により、男性2人の死亡が確認されました。"
+            "18日午後7時すぎ、神奈川県大磯町の西湘バイパスで、普通乗用車とバイクが衝突する事故が発生しました。",
+            "この事故で、バイクを運転していた男性が死亡しました。",
+            "乗用車は事故現場から逃走しており、警察はひき逃げ事件として行方を追っています。"
           ]
         },
         {
-          "title": "佐賀の国道でバイク2台事故、2人死亡(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:46:03Z",
-          "excerpt": "18日午前10時35分ごろ、佐賀県唐津市の国道で「バイクの正面衝突があった」と119番があった。県警によると、バイク2台が衝突し、2人が死亡した。",
-          "link": "https://news.yahoo.co.jp/articles/cefd4ead597b406a8296f91733b022144d3d4f11?source=rss",
+          "title": "Zelenskyy says Trump is pushing Ukraine to capitulate to Russia",
+          "source": "The Japan Times",
+          "publishedAt": "2026-10-18T23:02:00Z",
+          "excerpt": "The Ukrainian leader also offered to accede to Trump's request to stop targeting Russian refineries in exchange for Patriot missile deliver...",
+          "link": "https://www.japantimes.co.jp/news/2026/10/19/world/politics/zelenskyy-trump-ukraine-russia-war/",
           "translationStatus": "failed"
         },
         {
-          "title": "横浜市長選、投票率は45.56％(共同通信)",
+          "title": "【違法ヤード】自動車窃盗・薬物製造…跡継ぎがいない農地を転用「夜遅くまで騒音が」「農機具が盗まれた」近隣住民も困惑(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:45:30Z",
-          "excerpt": "横浜市選挙管理委員会によると、18日投開票の市長選の投票率は45.56％で、前回選を3.92ポイント上回った。",
-          "link": "https://news.yahoo.co.jp/articles/a6b09e1e58eaca4edc77ae32ee18c6a113877990?source=rss",
+          "publishedAt": "2026-10-18T23:00:35Z",
+          "excerpt": "千葉県警は10月4日、茨城県・古河市のヤードで普通乗用車を盗品と知りながら保管していたとしてパキスタン国籍で会社役員の男（44）を逮捕した。犯罪の温床と化している違法ヤード。高い柵の奥では一体何が行わ",
+          "link": "https://news.yahoo.co.jp/articles/684b43103a0a6e4718c61b208de51736b71b87d4?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選、投票率は45.56％ 前回を上回る",
+          "titleJa": "茨城の違法ヤードで盗品保管容疑、パキスタン国籍の男を逮捕",
           "summaryJa": [
-            "18日に投開票が行われた横浜市長選挙の投票率が発表されました。",
-            "横浜市選挙管理委員会によると、投票率は45.56％でした。",
-            "これは前回の市長選挙と比較して3.92ポイントの上昇となります。"
+            "千葉県警は10月4日、茨城県古河市のヤードで盗品の普通乗用車を保管していたとして、パキスタン国籍の会社役員の男（44）を逮捕しました。",
+            "違法ヤードは犯罪の温床となっており、近隣住民からは「夜遅くまで騒音がする」「農機具が盗まれた」といった困惑の声が上がっています。",
+            "跡継ぎがいない農地が転用され、高い柵の奥で不審な活動が行われていると報じられています。"
           ]
         },
         {
-          "title": "原沢氏「未来つくる」 山中氏は重苦しく敗戦の弁(共同通信)",
+          "title": "障害者20人とブドウ栽培、ワイン造り 札幌の事業所「力発揮できる機会を」(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:37:19Z",
-          "excerpt": "前職のパワハラ問題に端を発した18日の横浜市長選は弁護士原沢敦美氏（59）が初当選を決め「横浜の未来を頑張ってつくる」と決意表明した。出直しに挑んだ山中竹春氏（54）は得票を伸ばせず、重苦しい雰囲気で",
-          "link": "https://news.yahoo.co.jp/articles/91c3661e16778a24f8185d81d48e73c2b83c75fe?source=rss",
+          "publishedAt": "2026-10-18T23:00:07Z",
+          "excerpt": "札幌市の就労継続支援B型事業所「リベラ」では、精神障害や知的障害がある20～70代の男女20人がブドウの栽培やワインの醸造に取り組む。「一緒にものを作る仲間として、力を発揮できる機会を」。創業者の平沢",
+          "link": "https://news.yahoo.co.jp/articles/826d0202ae5fff042efcb171d1d7e4a47481f8cf?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選、原沢敦美氏が初当選 山中氏は敗戦の弁",
+          "titleJa": "札幌の事業所、障害者20人とブドウ栽培・ワイン醸造に取り組む",
           "summaryJa": [
-            "前職のパワハラ問題に端を発した18日の横浜市長選で、弁護士の原沢敦美氏（59）が初当選を決めました。",
-            "原沢氏は「横浜の未来を頑張ってつくる」と決意を表明しました。",
-            "一方、出直しに挑んだ山中竹春氏（54）は得票を伸ばせず、重苦しい雰囲気の中で敗戦の弁を述べました。"
+            "札幌市の就労継続支援B型事業所「リベラ」では、精神障害や知的障害を持つ20～70代の男女20人が活動しています。",
+            "彼らはブドウの栽培からワインの醸造までを一貫して行っています。",
+            "創業者の平沢氏は、「一緒にものを作る仲間として、力を発揮できる機会を提供したい」と語っています。"
           ]
         },
         {
-          "title": "東京・福生の男性死亡、殺人容疑で男逮捕(共同通信)",
+          "title": "【ニュースto】「どの界隈にもカラオケマン」音楽ライブで観客が全曲大熱唱…アリ？ナシ？「個人の自由」か「マナー違反」か(読売テレビ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:35:08Z",
-          "excerpt": "東京都福生市の路上で男性が刺され死亡した事件で、警視庁は18日、殺人容疑で住所、職業不詳の男（50）を逮捕した。隣接する昭島市で身柄を確保し、事情を聴いていた。",
-          "link": "https://news.yahoo.co.jp/articles/73906726d615f7e35ce5bfdb34dd285b04859064?source=rss",
+          "publishedAt": "2026-10-18T23:00:00Z",
+          "excerpt": "アーティストとファンが一体となる空間を生み出すライブ。かけがえのない思い出の場をめぐって、今、大論争が巻き起こっています。きっかけは、人気バンドのファンが『最初から最後まで、ずっと大声で全曲歌ってて、",
+          "link": "https://news.yahoo.co.jp/articles/4698c0fadd0f12c85975ab7a0ffb4936ff6482d7?source=rss",
           "translationStatus": "translated",
-          "titleJa": "東京・福生市の男性死亡事件、殺人容疑で男を逮捕",
+          "titleJa": "音楽ライブでの観客による全曲熱唱、マナー巡り賛否両論",
           "summaryJa": [
-            "東京都福生市の路上で男性が刺され死亡した事件で、警視庁は18日、殺人容疑で男（50）を逮捕しました。",
-            "男は住所、職業不詳とされています。",
-            "警視庁は隣接する昭島市で男の身柄を確保し、事情を聴いていました。"
+            "音楽ライブにおいて、観客が最初から最後まで全曲を大声で歌う行為について、現在大きな議論が巻き起こっています。",
+            "この行為が「個人の自由」として許容されるべきか、「マナー違反」にあたるのか、賛否が分かれています。",
+            "アーティストとファンが一体となるライブ空間での、かけがえのない思い出の場を巡る問題として注目されています。"
           ]
         },
         {
-          "title": "「市民の厳しい受け止め反映」と山中氏(共同通信)",
+          "title": "神奈川・西湘バイパスで死亡ひき逃げ 乗用車と大型バイクが衝突 バイクの男性死亡(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:20:29Z",
-          "excerpt": "横浜市長選で敗北した山中竹春前市長は18日、支援者に謝罪した上で「市民の厳しい受け止めが反映された結果だ」と述べた。",
-          "link": "https://news.yahoo.co.jp/articles/1081669d8182243cbadda207e4f93b9c6099bace?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "無党派層、原沢氏に最多35％ 20代以下は福山氏が迫る(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T12:08:22Z",
-          "excerpt": "18日投開票の横浜市長選で共同通信社が実施した出口調査によると、与野党4党の地方組織などが支援し初当選した原沢敦美氏は、自民党支持層などを手堅く固めた他、「支持政党なし」と回答した無党派層からも全候補",
-          "link": "https://news.yahoo.co.jp/articles/afeb3365787ae5f50b8df70464adc548e4dcefc9?source=rss",
+          "publishedAt": "2026-10-18T22:55:55Z",
+          "excerpt": "神奈川県の西湘バイパスで普通乗用車とバイクが衝突する事故があり、バイクを運転していた男性が死亡しました。乗用車は現場から逃走していて、警察が行方を追っています。18日午後7時すぎ、神奈川県大磯町の西湘",
+          "link": "https://news.yahoo.co.jp/articles/774be5f9d4fed9fa749ced17753d830dc4274793?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選出口調査、原沢氏が無党派層で最多支持",
+          "titleJa": "神奈川・西湘バイパスで死亡ひき逃げ、乗用車が逃走",
           "summaryJa": [
-            "18日投開票の横浜市長選で共同通信社が実施した出口調査結果が発表されました。",
-            "初当選した原沢敦美氏は、与野党4党の地方組織などが支援しました。",
-            "調査によると、原沢氏は自民党支持層を固めたほか、「支持政党なし」と回答した無党派層からも全候補中最多の支持を得ました。"
+            "18日午後7時すぎ、神奈川県大磯町の西湘バイパスで、普通乗用車とバイクが衝突する事故が発生しました。",
+            "この事故で、バイクを運転していた男性が死亡しました。",
+            "乗用車は事故現場から逃走しており、警察はひき逃げ事件として行方を追っています。"
           ]
         },
         {
-          "title": "「市民の厳しい受け止めが反映された」横浜市長選で落選確実の山中竹春氏 今後は「未定」(産経新聞)",
+          "title": "【台風情報】最大瞬間風速65m/s・中心気圧960hPa予想「台風30号（チャンパー）」大型で非常に強い勢力に発達...今後の進路は?雨と風シミュレーション【気象庁19日06時45分発表】(RSK山陽放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T11:59:19Z",
-          "excerpt": "パワハラ問題で前市長が辞職したことに伴う横浜市長選は18日、投票が行われ、出直し出馬した無所属前職の山中竹春氏（54）の落選が確実となった。【写真】山中竹春氏の応援演説に駆け付けた実業家の堀江貴文氏午",
-          "link": "https://news.yahoo.co.jp/articles/397052bf8e34bbf020305d7119381b341caccb34?source=rss",
+          "publishedAt": "2026-10-18T22:49:13Z",
+          "excerpt": "■大型で非常に強い「台風30号（チャンパー）」気象庁によりますと、大型で非常に強い台風30号は、フィリピンの東を時速15kmの速さで西北西へ進んでいます。【画像でみる】29日（木）にかけての雨風シミュ",
+          "link": "https://news.yahoo.co.jp/articles/0de20465bbb8ec662ab6a1a0e5d21a766e37aae0?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選、山中竹春氏が落選確実 「市民の厳しい受け止め反映」",
+          "titleJa": "台風30号（チャンパー）が大型で非常に強い勢力に発達、フィリピン東を西北西へ",
           "summaryJa": [
-            "パワハラ問題で前市長が辞職したことに伴う横浜市長選は18日投票が行われ、出直し出馬した無所属前職の山中竹春氏（54）の落選が確実となりました。",
-            "山中氏は、結果について「市民の厳しい受け止めが反映された」と述べました。",
-            "今後の進路は「未定」としています。"
+            "気象庁によると、大型で非常に強い台風30号（チャンパー）がフィリピンの東を時速15kmで西北西に進んでいます。",
+            "最大瞬間風速は65m/s、中心気圧は960hPaに達すると予想されています。",
+            "今後の進路や雨風のシミュレーションについて、気象庁が19日06時45分に発表しました。"
           ]
         },
         {
-          "title": "埼玉・秩父市の山中で猟師の男性（59）がツキノワグマに襲われけが(テレビ朝日系（ANN）)",
+          "title": "首相、靖国神社に玉串料を私費で奉納(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T11:56:40Z",
-          "excerpt": "埼玉県秩父市の山中で猟師の男性がツキノワグマに襲われけがをしました。 埼玉県によりますと、18日午前10時ごろ、秩父市大滝の山中で59歳の猟師の男性がツキノワグマに襲われました。 男性はクマともみ合い",
-          "link": "https://news.yahoo.co.jp/articles/1770861f2a4afee9591a2955c19aa79e557e6353?source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-10-18T22:48:10Z",
+          "excerpt": "高市早苗首相は19日、東京・九段北の靖国神社の秋季例大祭に合わせ、自民党の梶山弘志総務会長を通じて玉串料を私費で奉納した。梶山氏が記者団に明らかにした。",
+          "link": "https://news.yahoo.co.jp/articles/ece4790a64b94c1b3e1b7a07f4bb13d4c1ded82d?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "高市早苗首相、靖国神社秋季例大祭に私費で玉串料を奉納",
+          "summaryJa": [
+            "高市早苗首相は19日、東京・九段北の靖国神社で開催された秋季例大祭に合わせ、玉串料を私費で奉納しました。",
+            "玉串料は、自民党の梶山弘志総務会長を通じて奉納されたものです。",
+            "この事実は、梶山氏が記者団に対して明らかにしました。"
+          ]
         },
         {
-          "title": "市民目線で考えると原沢氏(共同通信)",
+          "title": "【動画】19日の天気 - 広く傘の出番 所々で激しい雷雨も 南風で気温は高め 蒸し暑さ戻る（19日7時更新）(ウェザーマップ)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-10-18T11:55:46Z",
-          "excerpt": "横浜市長選で初当選を確実にした新人原沢敦美氏は18日、今後の姿勢について「誰かの意見にとらわれることなく、市民目線で考えたい」と述べた。原沢氏は与野党4党の地方組織などが支援した。",
-          "link": "https://news.yahoo.co.jp/articles/38823a8ee0bdfc3072fb621454f7cbdd3d460f7a?source=rss",
+          "publishedAt": "2026-10-18T22:43:15Z",
+          "excerpt": "17日(土)と18日(日)は広く秋晴れとなりました。週明け19日(月)は天気の崩れる所が多くなるでしょう。激しい雷雨や突風にも注意が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/fb6b484398f8f10f2cb9d4ae3058a4777252022b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "横浜市長選当選の原沢氏、「市民目線で考える」と表明",
+          "titleJa": "19日は広範囲で傘が必要、激しい雷雨や突風に注意",
           "summaryJa": [
-            "横浜市長選挙で初当選を確実にした新人、原沢敦美氏が18日、今後の市政運営について言及しました。",
-            "原沢氏は「誰かの意見にとらわれることなく、市民目線で考えたい」と述べました。",
-            "原沢氏は与野党4党の地方組織などの支援を受けていました。"
+            "17日と18日は広範囲で秋晴れでしたが、週明けの19日（月）は天気が崩れる地域が多くなる見込みです。",
+            "所々で激しい雷雨や突風が発生する可能性があり、注意が必要です。",
+            "南風の影響で気温は高めに推移し、蒸し暑さが戻ると予想されています。"
+          ]
+        },
+        {
+          "title": "インフルエンザ流行 鶏卵がワクチンになるまで 専門家に聞いた(日本農業新聞)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-10-18T22:30:54Z",
+          "excerpt": "日本各地で、人のインフルエンザの流行が本格化している。ワクチン接種を検討している人も多いだろう。そのワクチンを作るのには、実は鶏卵が使われている。どのように使われているのか、専門家や養鶏業者に詳しく聞",
+          "link": "https://news.yahoo.co.jp/articles/970f4383948269093d2f175390e4d6a0b12bf60c?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "インフルエンザ流行本格化、ワクチン製造に鶏卵が使用される仕組みを解説",
+          "summaryJa": [
+            "日本各地で人のインフルエンザの流行が本格化しており、ワクチン接種を検討する人が増えています。",
+            "インフルエンザワクチンは、実は鶏卵を使って製造されています。",
+            "記事では、ワクチンがどのように鶏卵から作られるのか、専門家や養鶏業者への取材を通じて詳しく解説しています。"
           ]
         }
       ]
@@ -226,143 +293,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+          "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
           "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T13:10:33Z",
-          "excerpt": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be...",
-          "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+          "publishedAt": "2026-10-18T23:10:45Z",
+          "excerpt": "Fires broke out at an oil terminal and depot in St. Petersburg after Ukraine launched a massive wave of drone strikes on Sunday.",
+          "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
           "translationStatus": "translated",
-          "titleJa": "ベビーブーマー世代、オプションETFの月次収入に注目も税制上の注意点",
+          "titleJa": "ウクライナのエネルギー施設攻撃再開でブレント原油が109ドル近辺に上昇",
           "summaryJa": [
-            "ベビーブーマー世代が月次収入を得るため、カバードコールETFを広く利用しています。",
-            "これらのETFは、毎月の収入ニーズを満たすことを目的としています。",
-            "しかし、一般的なETFとは異なり、税制上の影響が複雑になる可能性があります。"
+            "ウクライナが日曜日に大規模なドローン攻撃を開始したことを受け、サンクトペテルブルクの石油ターミナルと貯蔵施設で火災が発生しました。",
+            "これにより、ブレント原油価格は1バレルあたり109ドル近辺で推移しています。",
+            "ウクライナによるエネルギー施設への攻撃再開が背景にあります。"
           ]
         },
         {
-          "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-18T23:00:01Z",
+          "excerpt": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+          "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+          "translationStatus": "translated",
+          "titleJa": "インド財務相、株式市場の低迷は容易な資金流出と過剰流動性が原因と指摘",
+          "summaryJa": [
+            "インドの財務大臣は、株式市場の低迷について、容易な資金流出と過剰な流動性が原因であると述べました。",
+            "同大臣は、継続的な資本流出が2027年のインドにとって最大の経済リスクの一つであると指摘しています。",
+            "これらの要因が市場のパフォーマンスに悪影響を与えているとの見解を示しました。"
+          ]
+        },
+        {
+          "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-18T22:55:48Z",
+          "excerpt": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+          "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic、AIによる雇用混乱対策のため株式の5%を公益基金に拠出",
+          "summaryJa": [
+            "AIチャットボット「Claude」の開発元であるAnthropicは、株式の5%を新たな公益基金に拠出することを発表しました。",
+            "この基金は、AIによる雇用への影響に対処することを目的としています。",
+            "同社は、基金をLLCとして設立することで、資金の使途に高い柔軟性を持たせると説明しています。"
+          ]
+        },
+        {
+          "title": "Why I am taking the other side of the trade that crushed the market Friday",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-18T22:23:08Z",
+          "excerpt": "How did this happen so quickly? Where were the buyers? I have some answers.",
+          "link": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+          "translationStatus": "translated",
+          "titleJa": "金曜日の市場を押し潰した取引の逆張りをする理由",
+          "summaryJa": [
+            "筆者は、金曜日に市場を大きく下落させた取引に対し、逆の立場を取る理由を説明しています。",
+            "なぜこれほど急速に事態が進展したのか、買い手はどこにいたのか、といった疑問に対する考察を提示。",
+            "市場の動きの背景にある要因について、自身の見解を述べています。"
+          ]
+        },
+        {
+          "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-10-18T19:37:28Z",
+          "excerpt": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+          "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+          "translationStatus": "translated",
+          "titleJa": "ベッセント氏、ゼレンスキー大統領にスターリンク制限に関する米国の主張に「非常に注意を」と警告",
+          "summaryJa": [
+            "ベッセント氏は、ゼレンスキー大統領に対し、米国がスターリンクのサービスを制限しているという主張について「非常に注意する」よう警告しました。",
+            "イーロン・マスク氏のSpaceXが提供する高速衛星インターネット「スターリンク」は、ウクライナの防衛にとって極めて重要です。",
+            "この警告は、スターリンクの利用を巡るデリケートな状況を示唆しています。"
+          ]
+        },
+        {
+          "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
           "source": "MarketWatch",
-          "publishedAt": "2026-10-18T13:00:00Z",
-          "excerpt": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-          "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+          "publishedAt": "2026-10-18T17:00:00Z",
+          "excerpt": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "株式市場、好決算と借り入れコスト上昇で正念場に",
+          "titleJa": "60代夫婦、資産400万ドルで妻は引退不可と主張、夫はイタリア旅行を拒否",
           "summaryJa": [
-            "株式市場は現在、好調な企業業績と上昇する借り入れコストの衝突に直面しています。",
-            "あるストラテジストは、AI関連株が債券利回り上昇の影響をほとんど受けていないという見方は正確ではないと指摘しています。",
-            "今後、市場は重要な局面を迎える可能性があります。"
+            "60代の夫婦で400万ドルの資産があるにもかかわらず、妻は引退する余裕がないと主張しています。",
+            "夫は妻の8,000ドルのイタリア旅行を拒否し、自身が働き続けるべきか悩んでいます。",
+            "夫は、医療費、長期介護費、インフレ、長期的な弱気市場、そして95歳まで生きることへの不安を抱えています。"
           ]
         },
         {
-          "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T12:50:33Z",
-          "excerpt": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-          "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、対ロシア制裁を免除 ゼレンスキー大統領は「間違い」と非難",
-          "summaryJa": [
-            "トランプ氏は、ウクライナ侵攻を理由とした対ロシア制裁法案（グラハム法案）を9月に署名し成立させました。",
-            "しかし、今回その広範な新規制裁を免除する措置を取りました。",
-            "これに対し、ゼレンスキー大統領は「間違い」であると非難しています。"
-          ]
-        },
-        {
-          "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T12:34:51Z",
-          "excerpt": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term gro...",
-          "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-          "translationStatus": "translated",
-          "titleJa": "ウォール街アナリストが強気視する成長株3銘柄",
-          "summaryJa": [
-            "利上げや原油価格への懸念がある中、投資家は市場の変動を超えて注目すべきです。",
-            "ウォール街のトップアナリストは、長期的な成長が見込まれる3つの銘柄に強気な見方を示しています。",
-            "これらの銘柄は、アナリストの推奨銘柄として挙げられています。"
-          ]
-        },
-        {
-          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T12:00:01Z",
-          "excerpt": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns abou...",
-          "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-          "translationStatus": "translated",
-          "titleJa": "常時稼働・常時聴取のAIデバイス、法的限界に挑み利用者危険に",
-          "summaryJa": [
-            "Apple、Amazon、Metaなどの企業や新興企業が開発する常時聴取型AIウェアラブルデバイスが注目されています。",
-            "これらのデバイスはプライバシー規則に対し、新たな解釈や対応を試みています。",
-            "しかし、その機能は法的限界を押し広げ、利用者を危険にさらす可能性が懸念されています。"
-          ]
-        },
-        {
-          "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+          "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
           "source": "MarketWatch",
-          "publishedAt": "2026-10-18T12:00:00Z",
-          "excerpt": "A “triple-top” reversal chart pattern is pointing to a period of underperformance for the S&P 500 — perhaps a long one.",
-          "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+          "publishedAt": "2026-10-18T16:15:00Z",
+          "excerpt": "”I earn $110,000 a year.”",
+          "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "S&P 500内部で静かな市場ローテーション、今後の弱気相場を示唆",
+          "titleJa": "「すべて正しくやったのに」大不況で家を失い、50代で賃貸暮らしは失敗なのか？",
           "summaryJa": [
-            "S&P 500指数内部で、静かな市場ローテーションが進行している兆候が見られます。",
-            "「トリプルトップ」と呼ばれる反転チャートパターンが出現しています。",
-            "これは、S&P 500が今後、長期にわたるパフォーマンス低下期間に入る可能性を示唆しています。"
+            "筆者は大不況で家を失い、50代で賃貸住宅に住んでいる現状を語っています。",
+            "年収11万ドルを稼いでいるにもかかわらず、この状況が「失敗」と見なされることへの疑問を呈しています。",
+            "「すべてを正しくやった人もいる」と述べ、社会の評価基準に異議を唱えています。"
           ]
         },
         {
-          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T11:10:44Z",
-          "excerpt": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-...",
-          "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-          "translationStatus": "translated",
-          "titleJa": "半導体市場、少なくとも来年まで堅調維持へ＝韓国財務相",
-          "summaryJa": [
-            "韓国の財務相は、半導体市場の成長が少なくとも来年まで続くと述べました。",
-            "世界的な半導体売却にもかかわらず、供給は依然として逼迫している状況です。",
-            "この成長は2027年まで続く可能性があるとの見方を示しています。"
-          ]
-        },
-        {
-          "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T07:22:07Z",
-          "excerpt": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's...",
-          "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏のロシア向けディーゼル取引、プーチン氏に金銭以上の利益か",
-          "summaryJa": [
-            "トランプ氏によるロシアへのディーゼル燃料取引は、ロシアの財政に大きな影響を与えないかもしれません。",
-            "しかし、この取引はウクライナの交渉力や米国の支援、そしてプーチン氏の戦略に関するより大きな疑問を提起しています。",
-            "結果として、ウクライナにとって困難な状況を招く可能性があります。"
-          ]
-        },
-        {
-          "title": "Why hedge funds could be making a bond market shock more likely",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-10-18T06:13:05Z",
-          "excerpt": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock.",
-          "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-          "translationStatus": "translated",
-          "titleJa": "ヘッジファンドの活動が債券市場ショックのリスクを高める可能性",
-          "summaryJa": [
-            "イングランド銀行の副総裁は、ヘッジファンドの活動について警告を発しました。",
-            "ヘッジファンドの取引が、世界の債券市場にショックを引き起こすリスクを高める可能性があると指摘しています。",
-            "この警告は、金融市場の安定性に対する懸念を示しています。"
-          ]
-        },
-        {
-          "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+          "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
           "source": "MarketWatch",
-          "publishedAt": "2026-10-17T20:53:00Z",
-          "excerpt": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-          "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+          "publishedAt": "2026-10-18T16:00:00Z",
+          "excerpt": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+          "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "5万5千ドルのロボットは食洗機を動かせるか？ヒューマノイド家政婦との午後",
+          "titleJa": "78歳の母と同居する姉、92.5万ドルの実家を相続する権利があると主張",
           "summaryJa": [
-            "5万5千ドルのロボットが食洗機を動かせるかという疑問が提起されています。",
-            "筆者はTau Robotics社のヒューマノイド型ロボット2体と午後を過ごしました。",
-            "ロボットは床の掃除やカウンター拭きを行ったものの、その裏には人間のサポートがあったと報告されています。"
+            "78歳の母親と同居している姉が、92.5万ドル相当の実家を自分が相続する権利があると主張しています。",
+            "母親は家を完全に所有しており、さらに48万ドルの投資資産も保有しています。",
+            "筆者は、姉の主張が正当であるかどうかの判断を求めています。"
+          ]
+        },
+        {
+          "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-10-18T15:15:00Z",
+          "excerpt": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+          "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "64歳、家業を継ぐ長男に会社の70%を遺すのは倫理的か？",
+          "summaryJa": [
+            "64歳の筆者は2人の息子がいますが、家業で働いているのは1人だけです。",
+            "家業で働く息子に会社の70%を遺すことが倫理的に適切か悩んでいます。",
+            "筆者は、もう一人の息子の結婚の長期的な安定性について懸念を抱いています。"
+          ]
+        },
+        {
+          "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-10-18T15:00:00Z",
+          "excerpt": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+          "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "63歳でリンパ腫と診断、来年ソーシャル・セキュリティを受給すべきか？",
+          "summaryJa": [
+            "63歳でリンパ腫と診断された筆者は、来年ソーシャル・セキュリティ（社会保障給付）を受給すべきか検討しています。",
+            "筆者の計画は、可能な限り働き続け、給与を得ている間に社会保障給付を投資することです。",
+            "健康状態と経済状況を考慮し、受給開始時期について助言を求めています。"
           ]
         }
       ]
@@ -372,12 +439,60 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-18T20:37:40Z",
+          "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic、株式の5%を「公共利益基金」に拠出へ",
+          "summaryJa": [
+            "AI企業Anthropicは、自社の株式の5%を公共利益基金に拠出すると発表しました。",
+            "この基金は、社会貢献を目的とした活動に利用される見込みです。",
+            "企業が株式の一部を公共の利益のために充てる動きとして注目されます。"
+          ]
+        },
+        {
+          "title": "A woman was arrested in Philly for blocking a delivery robot",
+          "source": "The Verge AI",
+          "publishedAt": "2026-10-18T18:28:10Z",
+          "excerpt": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out o...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+          "translationStatus": "translated",
+          "titleJa": "配達ロボットを妨害した女性、フィラデルフィアで逮捕",
+          "summaryJa": [
+            "フィラデルフィアで、Uberの配達ロボットの進路を妨害した女性が逮捕されました。",
+            "キャロリン・マービン容疑者は、ロボットの道を塞ぎ、立ち退きを拒否したため、秩序を乱した罪で起訴されました。",
+            "AIを活用した配達サービスが普及する中、ロボットとの関わり方が課題となる事例です。"
+          ]
+        },
+        {
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-18T16:30:00Z",
+          "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a s...",
+          "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "translationStatus": "translated",
+          "titleJa": "ディズニー、Character.AI従業員の大半を雇用へ",
+          "summaryJa": [
+            "ディズニーが、AI企業Character.AIの従業員の「大多数」を雇用することに合意しました。",
+            "ディズニーから職務を提示されたCharacter.AIの従業員のほとんどが、そのオファーを受け入れたと報じられています。",
+            "これは、AI技術を持つ人材の獲得競争が激化している現状を示唆しています。"
+          ]
+        },
+        {
           "title": "Meta removes language that raised scraping and AI training concerns",
           "source": "TechCrunch AI",
           "publishedAt": "2026-10-17T21:31:32Z",
           "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
           "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "Meta、AI学習目的のデータ収集に関する懸念条項を削除",
+          "summaryJa": [
+            "Metaは、ウェブサイトからのデータスクレイピングやAI学習への利用に関する懸念を引き起こした規約の文言を削除しました。",
+            "同社の広報担当者は、規約の更新はMetaのウェブクローリング方法の変更を反映したものではないと強調しています。",
+            "この変更は、ユーザーやコンテンツ提供者からの反発に対応したものと見られます。"
+          ]
         },
         {
           "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
@@ -386,11 +501,11 @@
           "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
           "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
           "translationStatus": "translated",
-          "titleJa": "アンソロピック、従業員の構成変化と会議時間の増加を報告",
+          "titleJa": "Anthropic、従業員の構成変化と会議時間の増加を報告",
           "summaryJa": [
-            "AI企業アンソロピックは、過去1年間で従業員の構成が大きく変化したと発表しました。",
+            "AI企業Anthropicは、過去1年間で従業員の構成と業務内容が大きく変化したと発表しました。",
             "若手社員の割合が減少し、会議に費やす時間が増加しているとのことです。",
-            "これは、同社で実施される業務の種類が変化したことを示唆しています。"
+            "これは、企業の成長段階やプロジェクトの複雑化に伴う組織の変化を示唆しています。"
           ]
         },
         {
@@ -402,9 +517,9 @@
           "translationStatus": "translated",
           "titleJa": "Replit、デフォルトのAIモデルをOpenAIに変更へ",
           "summaryJa": [
-            "ReplitのCEOは、デフォルトのAIモデルプロバイダーをアンソロピックからOpenAIに切り替えると発表しました。",
-            "これにより、OpenAIのモデルがReplitの主要なAIとして使用されることになります。",
-            "ただし、アンソロピックの「Claude」モデルは引き続き顧客が利用可能です。"
+            "プログラミングプラットフォームReplitは、デフォルトのAIモデルプロバイダーをAnthropicからOpenAIに変更すると発表しました。",
+            "CEOのマサド氏が週末にこの変更を明確にしました。",
+            "ただし、AnthropicのAIモデル「Claude」は引き続き顧客が利用可能とのことです。"
           ]
         },
         {
@@ -413,7 +528,13 @@
           "publishedAt": "2026-10-17T15:08:35Z",
           "excerpt": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - includ...",
           "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "Metaの新規約、ニュースサイトからのAI学習データ収集を可能に",
+          "summaryJa": [
+            "Metaの新しい利用規約は、同社がプラットフォームを利用する企業に関連するウェブサイトをクロールし、スクレイピングする許可を与える可能性があると報じられています。",
+            "これにより、Metaはニュースサイトを含む様々なウェブサイトからAI学習用のデータを無料で収集できるようになる可能性があります。",
+            "コンテンツ提供者からは、著作権やデータ利用に関する懸念が上がっています。"
+          ]
         },
         {
           "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -421,7 +542,13 @@
           "publishedAt": "2026-10-17T15:04:36Z",
           "excerpt": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites...",
           "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "Meta、ニュースサイトからのデータ収集を示唆する規約文言を削除",
+          "summaryJa": [
+            "Metaは、ニュースサイトを含むウェブサイトからコンテンツをスクレイピングできる可能性を示唆していた規約の文言を、反発を受けて再度更新し削除しました。",
+            "この変更は、コンテンツ提供者やユーザーからの懸念に対応するものです。",
+            "AI学習におけるデータ利用の透明性と倫理が問われる中での対応となります。"
+          ]
         },
         {
           "title": "Websites are closing their doors to AI agents",
@@ -429,7 +556,13 @@
           "publishedAt": "2026-10-16T22:31:39Z",
           "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on yo...",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "ウェブサイト、AIエージェントへのアクセスを制限する動き",
+          "summaryJa": [
+            "AI分野で注目される自律型エージェントに対し、多くのウェブサイトがアクセスを制限する動きを見せています。",
+            "OpenAI、Meta、Googleなどが開発するAIエージェントは、インターネット上の情報を収集する能力を謳っています。",
+            "しかし、ウェブサイト側は、データ利用や著作権、サーバー負荷などの懸念から対策を講じ始めています。"
+          ]
         },
         {
           "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -437,31 +570,13 @@
           "publishedAt": "2026-10-16T18:00:00Z",
           "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a prel...",
           "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T17:52:24Z",
-          "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly perm...",
-          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T16:30:00Z",
-          "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego...",
-          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T16:30:00Z",
-          "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego...",
-          "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "AIが設計したウイルス開発者との対話",
+          "summaryJa": [
+            "AIが新たな生命体を設計できるかについて、スタンフォード大学の博士課程学生サミュエル・キング氏が議論しました。",
+            "キング氏は2025年にAIが設計したウイルスの予備的な研究結果を発表しています。",
+            "AIの進化が生物学や倫理に与える影響について、専門家の間で活発な議論が交わされています。"
+          ]
         }
       ]
     },
@@ -470,18 +585,62 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Chicago School Board Election 2026: The race in District 2b, North Lakefront",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-10-18T19:22:04Z",
+          "excerpt": "Read in Spanish. Read in Chinese. This story was reported and published in collaboration with WBEZ, the Chicago Sun-Times, and Block Club C...",
+          "link": "https://www.chalkbeat.org/chicago/2026/09/24/school-board-election-2026-district-2b-candidates-voter-guide/",
+          "translationStatus": "translated",
+          "titleJa": "シカゴ教育委員会選挙2026：ノースレイクフロント2b地区の動向",
+          "summaryJa": [
+            "2026年に実施されるシカゴ教育委員会選挙に関するニュースです。",
+            "特にノースレイクフロントの2b地区における選挙戦に焦点を当てています。",
+            "この報道はWBEZ、シカゴ・サンタイムズ、ブロッククラブCとの共同で行われました。"
+          ]
+        },
+        {
+          "title": "15 West: Chicago voters will weigh in on taxing millionaires for schools. How the money is divided matters, too.",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-10-18T18:47:56Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/chicago/2026/10/18/15-west-taxing-millionaires-redirect/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "15 West: Brown or Williams? What to Know About the District 5A School Board Race",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-10-18T18:43:07Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/chicago/2026/10/18/15-west-district-5a-school-board-race-redirect/",
+          "translationStatus": "translated",
+          "titleJa": "地区5A教育委員会選挙：ブラウン氏かウィリアムズ氏か、候補者の情報",
+          "summaryJa": [
+            "地区5Aの教育委員会選挙に関する情報が報じられています。",
+            "主要な候補者はブラウン氏とウィリアムズ氏の二人です。",
+            "有権者は両候補について知る必要があります。"
+          ]
+        },
+        {
+          "title": "Colorado Officials Weighing Stricter Rules for Homeschool Enrichment Programs",
+          "source": "The 74",
+          "publishedAt": "2026-10-18T16:30:00Z",
+          "excerpt": "Over the summer, state officials said yes to only 14 of 54 homeschool enrichment programs that applied for approval. It was the first step...",
+          "link": "https://www.the74million.org/article/co-rejected-38-homeschool-enrichment-programs-officials-to-weigh-stricter-rules/",
+          "translationStatus": "translated",
+          "titleJa": "コロラド州、ホームスクール補習プログラムの規制強化を検討",
+          "summaryJa": [
+            "コロラド州当局は、ホームスクール補習プログラムに対するより厳格な規則を検討しています。",
+            "この夏、承認申請された54のプログラムのうち、承認されたのはわずか14件でした。",
+            "これは規制強化に向けた最初の一歩と見られています。"
+          ]
+        },
+        {
           "title": "Virginia Sees Gains in Kindergarten Readiness, but Gaps Persist for Underserved Students",
           "source": "The 74",
           "publishedAt": "2026-10-18T10:30:00Z",
           "excerpt": "A new report shows Virginia students’ kindergarten readiness rose six percentage points to 57% over the past year, with underserved student...",
           "link": "https://www.the74million.org/zero2eight/virginia-sees-gains-in-kindergarten-readiness-but-gaps-persist-for-underserved-students/",
-          "translationStatus": "translated",
-          "titleJa": "バージニア州、幼稚園準備度が向上も、恵まれない生徒との格差は残る",
-          "summaryJa": [
-            "新しい報告書によると、バージニア州の生徒の幼稚園準備度が過去1年間で6ポイント上昇し、57%に達しました。",
-            "しかし、恵まれない生徒の間では、依然として準備度の格差が解消されていないことが示されています。",
-            "全体的な改善が見られる一方で、特定の層への支援強化が課題として残っています。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Teacher Recruitment and Retention a Continuing Problem, Report Suggests",
@@ -490,11 +649,11 @@
           "excerpt": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs. The median salary for K-12 teachers in...",
           "link": "https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/",
           "translationStatus": "translated",
-          "titleJa": "教員の採用と定着、依然として課題との報告",
+          "titleJa": "教員の採用と定着、依然として課題と報告書が指摘",
           "summaryJa": [
-            "ニューハンプシャー州では、教職を選択することが経済的な妥協を伴うと報告されています。",
-            "K-12教員の平均給与が低いことが、採用と定着の継続的な問題の一因と指摘されています。",
-            "報告書は、教員不足が深刻化する中、待遇改善の必要性を示唆しています。"
+            "教員の採用と定着が継続的な問題であると報告書が示唆しています。",
+            "ニューハンプシャー州で教職を選ぶことは、一連の経済的トレードオフを伴います。",
+            "K-12教員の平均給与がその一因とされています。"
           ]
         },
         {
@@ -504,11 +663,11 @@
           "excerpt": "Career-connected learning is moving quickly into the mainstream. States and districts are expanding internships, apprenticeships, work-base...",
           "link": "https://www.the74million.org/article/two-nonprofits-bring-career-education-to-students-with-an-eye-toward-the-future/",
           "translationStatus": "translated",
-          "titleJa": "意見：2つのNPOが未来を見据えキャリア教育を提供",
+          "titleJa": "論説：二つのNPOが未来を見据えキャリア教育を提供",
           "summaryJa": [
-            "キャリアと連携した学習が急速に主流になりつつあります。",
-            "州や学区は、インターンシップや徒弟制度、職場体験型学習を拡大しています。",
-            "2つの非営利団体が、将来を見据えたキャリア教育を生徒に提供していると報じられています。"
+            "二つの非営利団体が、未来を見据えたキャリア教育を生徒に提供しています。",
+            "キャリアと結びついた学習は急速に主流になりつつあります。",
+            "各州や学区では、インターンシップや徒弟制度などを拡大しています。"
           ]
         },
         {
@@ -517,13 +676,7 @@
           "publishedAt": "2026-10-17T00:53:05Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/colorado/2026/10/17/robert-f-smith-steam-academy-to-close-due-to-low-enrollment-of-24-students/",
-          "translationStatus": "translated",
-          "titleJa": "デンバー、HBCU型高校「ロバート・F・スミスSTEAMアカデミー」を6年で閉鎖へ",
-          "summaryJa": [
-            "デンバー市は、HBCU（歴史的黒人大学）スタイルの高校「ロバート・F・スミスSTEAMアカデミー」を閉鎖すると発表しました。",
-            "開校から6年での閉鎖となります。",
-            "この学校は小規模な教育機関でした。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "Denver superintendent says he is not recommending any school boundary changes this year",
@@ -531,13 +684,7 @@
           "publishedAt": "2026-10-16T21:00:18Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/colorado/2026/10/16/no-school-boundary-changes-recommended-by-denver-superintendent/",
-          "translationStatus": "translated",
-          "titleJa": "デンバー教育長、今年度の学区境界変更は推奨せず",
-          "summaryJa": [
-            "デンバーの教育長は、今年度の学校の学区境界変更を推奨しないと述べました。",
-            "これは、学区の再編に関する議論に影響を与える決定です。",
-            "現状維持の方針が示されました。"
-          ]
+          "translationStatus": "failed"
         },
         {
           "title": "WATCH: A video walkthrough of our guide on how to vet NYC schools like an education reporter",
@@ -545,69 +692,7 @@
           "publishedAt": "2026-10-16T20:33:01Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/newyork/2026/10/16/how-to-vet-nyc-publicschools-like-education-reporters-video/",
-          "translationStatus": "translated",
-          "titleJa": "【動画】教育記者のようにNYCの学校を評価する方法ガイド",
-          "summaryJa": [
-            "ニューヨーク市の学校を教育記者の視点で評価する方法を解説する動画ガイドが公開されました。",
-            "このガイドは、学校選びの際に役立つ情報を提供します。",
-            "専門的な視点から学校を分析する手法を学ぶことができます。"
-          ]
-        },
-        {
-          "title": "Voter guide 2026: Michigan education board candidates on literacy, funding, and accountability",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-10-16T19:51:16Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/detroit/2026/10/16/michigan-state-board-education-voter-guide-2026/",
-          "translationStatus": "translated",
-          "titleJa": "2026年有権者ガイド：ミシガン州教育委員会候補者の識字能力、資金、説明責任に関する見解",
-          "summaryJa": [
-            "2026年のミシガン州教育委員会選挙に向けた有権者ガイドが発表されました。",
-            "候補者たちの識字能力向上、教育資金、説明責任に関する見解がまとめられています。",
-            "有権者はこのガイドを通じて、各候補者の教育政策への姿勢を比較検討できます。"
-          ]
-        },
-        {
-          "title": "About 80,000 Kentuckians Have Lost Access to Food Aid Under Federal Rule Changes",
-          "source": "The 74",
-          "publishedAt": "2026-10-16T18:30:00Z",
-          "excerpt": "Some 80,000 Kentuckians have lost access to the food benefits known as SNAP because of federal changes to the program, Gov. Andy Beshear sa...",
-          "link": "https://www.the74million.org/article/about-80000-kentuckians-have-lost-access-to-food-aid-under-federal-rule-changes/",
-          "translationStatus": "translated",
-          "titleJa": "連邦規則変更によりケンタッキー州約8万人が食料支援を喪失",
-          "summaryJa": [
-            "連邦政府のプログラム変更により、ケンタッキー州の約8万人がSNAP（食料支援プログラム）の利用資格を失いました。",
-            "アンディ・ベシア州知事がこの状況を明らかにしました。",
-            "この変更は、多くの住民の食料確保に影響を与えています。"
-          ]
-        },
-        {
-          "title": "Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here",
-          "source": "The 74",
-          "publishedAt": "2026-10-16T16:30:00Z",
-          "excerpt": "While most Hawaiʻi students were relaxing on fall break, it was crunch time for teens at Nalukai Academy in Hilo. The high schoolers had sp...",
-          "link": "https://www.the74million.org/article/hawai%ca%bbis-youth-are-leaving-meet-the-people-keeping-talent-here/",
-          "translationStatus": "translated",
-          "titleJa": "ハワイの若者流出問題：才能を地元に留める取り組み",
-          "summaryJa": [
-            "ハワイでは若者の流出が問題となっており、才能を地元に留めるための取り組みが注目されています。",
-            "多くの学生が秋休みを楽しむ中、ヒロのナルカイ・アカデミーの高校生たちは多忙な時期を過ごしていました。",
-            "このアカデミーは、若者がハワイで活躍できるよう支援する活動を行っています。"
-          ]
-        },
-        {
-          "title": "Opinion: Mamdani Wants to Empower Educators. Preparing Great Principals Is How It Happens",
-          "source": "The 74",
-          "publishedAt": "2026-10-16T14:30:00Z",
-          "excerpt": "New York City is entering a new phase in its approach to public education. Under Mayor Zohran Mamdani, early signals point to a shift towar...",
-          "link": "https://www.the74million.org/article/mamdani-wants-to-empower-educators-preparing-great-principals-is-how-it-happens/",
-          "translationStatus": "translated",
-          "titleJa": "意見：マムダニ市長、教育者への権限付与を重視、優れた校長育成が鍵",
-          "summaryJa": [
-            "ニューヨーク市は、公教育へのアプローチにおいて新たな段階に入っています。",
-            "ゾーラン・マムダニ市長の下、教育者への権限付与に重点を置く方向性が示されています。",
-            "優れた校長を育成することが、この目標達成の鍵となると考えられています。"
-          ]
+          "translationStatus": "failed"
         }
       ]
     }
@@ -638,7 +723,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 30,
+    "translatedItems": 44,
     "failedBatches": []
   }
 }
