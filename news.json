@@ -1,148 +1,142 @@
 {
-  "generatedAt": "2026-11-06T16:49:26.135289Z",
+  "generatedAt": "2026-11-07T00:57:19.761823Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "AI stocks climb after trillions wiped from market values",
+          "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T00:55:51Z",
+          "excerpt": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "レオ14世教皇、癌手術後に南米歴訪を開始",
+          "summaryJa": [
+            "レオ14世教皇がウルグアイに到着し、12日間の南米歴訪を開始しました。",
+            "教皇は先月、肺の手術を受けていました。",
+            "今回の訪問は、手術後初の外遊となります。"
+          ]
+        },
+        {
+          "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T00:31:41Z",
+          "excerpt": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+          "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "パラグアイ、ペーニャ大統領逮捕 新大統領が就任",
+          "summaryJa": [
+            "パラグアイでサンティアゴ・ペーニャ大統領が逮捕され、ペドロ・アリアナ氏が新大統領に就任しました。",
+            "この突然の指導者交代は、人気銀行ウエノ銀行の破綻により、",
+            "同国が混乱している中で発生しました。"
+          ]
+        },
+        {
+          "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T00:21:49Z",
+          "excerpt": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "グリーン議員、トランプ氏の人事刷新は2028年共和党の勝機を潰すと警告",
+          "summaryJa": [
+            "マージョリー・テイラー・グリーン議員は、トランプ氏によるホワイトハウスの人事刷新について警告を発しました。",
+            "彼女は、この人事異動が共和党の次期大統領選挙キャンペーンに悪影響を与え、",
+            "2028年の勝機を潰すことになると指摘しています。"
+          ]
+        },
+        {
+          "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T00:00:00Z",
+          "excerpt": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カタール首相、米イランに「完璧な時」を待たず和平合意を要請",
+          "summaryJa": [
+            "カタールの首相は、米国とイランに対し、和平合意の締結について促しました。",
+            "同首相は、戦争を終わらせるための合意に達する上で、",
+            "「完璧な時」を待つべきではないと強く求めています。"
+          ]
+        },
+        {
+          "title": "New Zealanders head to polls on final day of voting",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T23:48:01Z",
+          "excerpt": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+          "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ニュージーランド、最終投票日に国民が投票所へ",
+          "summaryJa": [
+            "ニュージーランドでは、最終投票日を迎え、国民が投票所に向かっています。",
+            "今回の選挙は接戦が予想されており、",
+            "すでに有権者の半数以上が期日前投票を済ませています。"
+          ]
+        },
+        {
+          "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T23:33:28Z",
+          "excerpt": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+          "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "EU、TikTokに「有害」なおすすめフィード改善を要求 罰金も示唆",
+          "summaryJa": [
+            "EUはTikTokに対し、「有害な」おすすめフィードの改善を要求しました。",
+            "改善が見られない場合、罰金を科す可能性も示唆しています。",
+            "欧州委員会は、TikTokのアルゴリズムがユーザーを「容易に抜け出せないラビットホール」に導いていると指摘しています。"
+          ]
+        },
+        {
+          "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T23:07:22Z",
+          "excerpt": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "US urges China to honour Busan trade deal commitments",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T23:00:37Z",
+          "excerpt": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
+          "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米国、中国に釜山貿易協定の公約履行を要求",
+          "summaryJa": [
+            "米国は中国に対し、釜山貿易協定の公約を順守するよう強く求めています。",
+            "この協定はトランプ氏と習近平氏の間で結ばれ、関税や技術規制の緩和を目的としていました。",
+            "貿易関係の進展は、中国が公約を果たすかどうかにかかっています。"
+          ]
+        },
+        {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
           "source": "BBC News",
-          "publishedAt": "2026-11-06T16:23:16Z",
-          "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-06T21:49:50Z",
+          "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "AI関連株が上昇、市場価値から数兆ドルが消失後",
+          "titleJa": "イーロン・マスク氏、サイバートラック生産終了を示唆か",
           "summaryJa": [
-            "民主党の選挙勝利がAI開発の減速につながるとの懸念から、投資家はテクノロジー株を売却していました。",
-            "しかし、市場価値から数兆ドルが消失した後、AI関連株が上昇に転じました。",
-            "これは、AI分野への投資家の見方に変化があったことを示唆しています。"
+            "イーロン・マスク氏は、サイバートラックの生産終了を示唆したと見られています。",
+            "同氏は、その理由として、自動運転タクシー「サイバーキャブ」の生産スペースを確保するためだと説明しました。",
+            "サイバーキャブは運転手のいないタクシーとして開発が進められています。"
           ]
         },
         {
-          "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
+          "title": "Palestinian couples tie the knot in mass wedding in Gaza",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T16:21:57Z",
-          "excerpt": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
+          "publishedAt": "2026-11-06T21:37:30Z",
+          "excerpt": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "イスラエル：アラブ系政党がネタニヤフ氏の対抗馬アイゼンコット氏を支持",
+          "titleJa": "ガザでパレスチナ人カップル250組が合同結婚式",
           "summaryJa": [
-            "イスラエルのアラブ系多数派政党である共同リストとラアムが、ガディ・アイゼンコット氏を支持しました。",
-            "アイゼンコット氏はネタニヤフ首相のライバルであり、新政権樹立を目指しています。",
-            "この動きは、イスラエル政治におけるアラブ系政党の影響力を示しています。"
-          ]
-        },
-        {
-          "title": "What did the Republicans lose in the US midterms?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T16:11:34Z",
-          "excerpt": "Democrats took the Senate and the House of Representatives from the Republicans. AJLabs maps the wave in US midterms.",
-          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "米中間選挙で共和党が失ったもの：民主党が上下両院を奪取",
-          "summaryJa": [
-            "米国中間選挙において、民主党が共和党から上院と下院の両方を奪取しました。",
-            "これにより、共和党は議会の多数派としての地位を失いました。",
-            "AJLabsは、この中間選挙における勢力図の変化を分析しています。"
-          ]
-        },
-        {
-          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T16:10:51Z",
-          "excerpt": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-          "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "スーダン紛争避難民、資金不足で住居喪失の危機：国連が警告",
-          "summaryJa": [
-            "スーダンでは、紛争により避難している数百万人が資金不足のため住居を失う危険に直面しています。",
-            "緊急シェルターを必要とする1540万人のうち、支援を受けられたのは100万人未満にとどまっています。",
-            "国連は、この状況について深刻な懸念を表明し、国際社会に支援を呼びかけています。"
-          ]
-        },
-        {
-          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T16:04:19Z",
-          "excerpt": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "欧州軍、ウクライナ停戦後の展開に備え演習",
-          "summaryJa": [
-            "欧州諸国の軍隊が、ウクライナでの停戦後の展開に備えた準備を進めています。",
-            "ポーランドでは、フランスと英国主導の軍事演習が実施されています。",
-            "この演習は、停戦後のウクライナへの部隊展開を想定したものです。"
-          ]
-        },
-        {
-          "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T15:48:10Z",
-          "excerpt": "More than 100 activists broke into a Microsoft data centre construction site in Amsterdam.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "アムステルダムでマイクロソフトAIデータセンター建設現場に抗議者が侵入",
-          "summaryJa": [
-            "アムステルダムにあるマイクロソフトのAIデータセンター建設現場に、100人以上の活動家が侵入しました。",
-            "抗議の目的は明記されていませんが、AI技術やデータセンター建設に対する懸念が背景にあるとみられます。",
-            "この事件は、テクノロジー企業に対する社会的な監視の高まりを示しています。"
-          ]
-        },
-        {
-          "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T15:44:48Z",
-          "excerpt": "Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.",
-          "link": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "クリケット不正行為で選手に2年間の出場停止処分",
-          "summaryJa": [
-            "アマチュアクリケット選手が、不正行為により2年間の出場停止処分を受けました。",
-            "この選手は、守備中に指を鳴らすことで、審判に打者がボールに触れたと誤解させようとしました。",
-            "この行為はスポーツマンシップに反すると判断され、厳しく処分されました。"
-          ]
-        },
-        {
-          "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T15:42:43Z",
-          "excerpt": "Evicted families take Denmark’s controversial ‘ghetto law’ to the Supreme Court.",
-          "link": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "デンマーク、「西洋系」と「非西洋系」市民を区別する政策の背景",
-          "summaryJa": [
-            "デンマークでは、「ゲットー法」と呼ばれる物議を醸す法律が施行されています。",
-            "この法律により立ち退きを命じられた家族が、最高裁判所に提訴しました。",
-            "この政策は、「西洋系」と「非西洋系」市民を区別するものであり、その背景には社会統合の問題があります。"
-          ]
-        },
-        {
-          "title": "Republicans redrew this Texas district to win – it narrowly worked",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T15:42:17Z",
-          "excerpt": "Texas Republicans redrew Congressional District 32 to give themselves a winning edge in the midterms.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/republicans-redrew-this-texas-district-to-win-it-narrowly-worked?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "テキサス州共和党、選挙区再編で辛勝",
-          "summaryJa": [
-            "テキサス州の共和党は、中間選挙での勝利を確実にするため、第32下院選挙区の区割りを変更しました。",
-            "この区割り変更は、共和党に有利な結果をもたらすことを目的としていました。",
-            "結果として、共和党は僅差で勝利を収め、その戦略が奏功した形となりました。"
-          ]
-        },
-        {
-          "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T15:35:57Z",
-          "excerpt": "Released in 2023, the truck has become a symbol to some of opposition to Musk amid foray into US politics.",
-          "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "マスク氏、テスラ「サイバートラック」生産縮小へ：販売不振で",
-          "summaryJa": [
-            "イーロン・マスク氏は、テスラの「サイバートラック」の生産を縮小すると発表しました。",
-            "2023年に発売されたこのトラックは、販売が伸び悩んでいます。",
-            "マスク氏の米国政治への関与を巡り、一部の人々にとっては反対の象徴ともなっていました。"
+            "ガザ地区でパレスチナ人カップル250組が合同結婚式を挙げました。",
+            "このイベントは、イスラエルによるガザでの戦争が続く中、",
+            "愛と新たな始まりを祝うために開催されました。"
           ]
         }
       ]
@@ -152,146 +146,137 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "「火がついた人が入ってきた」発見遺体は“第三者” 三重で住宅全焼(テレビ朝日系（ANN）)",
+          "title": "冬の味覚「千枚漬」仕込み本格化 京都の老舗、作業公開(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:48:16Z",
-          "excerpt": "5日午前10時40分ごろ、三重県四日市市で、住宅1棟と車1台が全焼しました。木造2階建ての住宅は燃え尽き、骨組みしか残っていません。【画像】「火がついた人が入ってきた」発見遺体は“第三者” 三重で住宅",
-          "link": "https://news.yahoo.co.jp/articles/9be9f2c3764e823cf3fe4330114bcf4be589ab5f?source=rss",
+          "publishedAt": "2026-11-07T00:50:45Z",
+          "excerpt": "京都の冬の味覚「千枚漬」の漬け込みが本格化する中、京都市左京区の老舗漬物店「大安」は立冬の7日、職人による仕込み作業を報道陣に公開した。法被を着た職人がかんなを使い、かぶらをスライスする作業などを披露",
+          "link": "https://news.yahoo.co.jp/articles/8456127f93c9f1121f0a68cacfec3ff6fb7941da?source=rss",
           "translationStatus": "translated",
-          "titleJa": "三重・四日市で住宅全焼、発見遺体は“第三者”か",
+          "titleJa": "京都の老舗で「千枚漬」仕込み本格化、作業を公開",
           "summaryJa": [
-            "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事が発生しました。",
-            "燃え尽きた木造2階建ての住宅から遺体が発見されました。",
-            "この遺体は、住宅の関係者ではない“第三者”とみられています。",
-            "「火がついた人が入ってきた」という目撃情報もあり、警察が詳しい状況を調べています。"
+            "京都の冬の味覚「千枚漬」の漬け込み作業が本格化しています。",
+            "京都市左京区の老舗漬物店「大安」が、立冬の7日に職人による仕込み作業を報道陣に公開しました。",
+            "職人たちは法被を着用し、かんなを使ってかぶらをスライスする様子などを披露しました。"
           ]
         },
         {
-          "title": "【台風情報】最大瞬間風速50m/s・中心気圧975hPa予想...新たな台風のたまご「熱帯低気圧a」は今後12時間以内に台風へ発達見込み...今後の進路、日本への影響は?雨と風のシミュレーション【気象庁6日22時15分発表】(RSK山陽放送)",
+          "title": "消費減税採決 石破前総理ら棄権 高市総理「コメントは控える」(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:30:35Z",
-          "excerpt": "■新たな台風発生へ気象庁によりますと、熱帯低気圧aは、12時間以内に台風へ発達する見込みです。マリアナ諸島を時速25kmの速さで西へ進んでいます。【画像でみる】17日にかけての雨と風のシミュレーション",
-          "link": "https://news.yahoo.co.jp/articles/b4b3460a86ed5591fa68bc3c32252f60b646f7ab?source=rss",
+          "publishedAt": "2026-11-07T00:45:31Z",
+          "excerpt": "高市総理大臣は、消費税減税関連法案の採決で、石破前総理らが衆議院の本会議を途中退席して棄権したことについて、「コメントは控える」と繰り返しました。【映像】「コメントは控える」と繰り返す高市総理大臣高市",
+          "link": "https://news.yahoo.co.jp/articles/ccd0a5a9021d9093dbb3022229f9cbd690e582ce?source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "不正アクセスで約30万件顧客情報が流出 ドコモ陳謝(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-07T00:45:31Z",
+          "excerpt": "不正アクセスを受け、最大およそ30万件の顧客情報が流出したNTTドコモが会見し、陳謝しました。【映像】NTTドコモ 会見で陳謝する様子 NTTドコモは4日、契約情報の変更などをインターネット上でできる",
+          "link": "https://news.yahoo.co.jp/articles/68340dba658bbba72ab3ec768c45fd4ebabd0fa7?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熱帯低気圧a、12時間以内に台風へ発達見込み マリアナ諸島を西進",
+          "titleJa": "ドコモ、不正アクセスで顧客情報約30万件流出 陳謝",
           "summaryJa": [
-            "気象庁は、マリアナ諸島にある熱帯低気圧aが12時間以内に台風に発達する見込みだと発表しました。",
-            "この熱帯低気圧は時速25kmで西へ進んでおり、最大瞬間風速50m/s、中心気圧975hPaが予想されています。",
-            "今後の進路や日本への影響について、気象庁が注意を呼びかけています。"
+            "NTTドコモは不正アクセスにより、最大およそ30万件の顧客情報が流出したことを明らかにしました。",
+            "同社は会見を開き、この事態について陳謝しました。",
+            "流出したのは、インターネット上で契約情報変更などができるサービスに関する情報とみられます。"
           ]
         },
         {
-          "title": "酒酔い運転疑いで交通課警官逮捕 秋田、同僚と飲酒後事故(共同通信)",
+          "title": "信金システム障害は全面復旧 一部機器の故障が原因(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:30:05Z",
-          "excerpt": "秋田県警は6日、酒に酔って車を運転したとして、道交法違反（酒酔い運転）の疑いで、由利本荘署交通課巡査部長の菅尾泰斗容疑者（38）＝秋田市＝を逮捕した。容疑を認めている。県警によると、同僚と飲酒し、その",
-          "link": "https://news.yahoo.co.jp/articles/3836824411bdb5ac45f49f0e664784584b161260?source=rss",
+          "publishedAt": "2026-11-07T00:45:31Z",
+          "excerpt": "きのう、東海地区より西にある信用金庫でATMなどが使えなくなったトラブルは、システムの更新による機器の故障が原因でした。発生からおよそ5時間半後に復旧しました。【映像】信用金庫のシステム障害 全面復旧",
+          "link": "https://news.yahoo.co.jp/articles/92a2704ace48d3fe23f9d35e2771f3a1aaefb3c4?source=rss",
           "translationStatus": "translated",
-          "titleJa": "秋田県警の交通課巡査部長、酒酔い運転容疑で逮捕",
+          "titleJa": "信用金庫システム障害が全面復旧、機器故障が原因",
           "summaryJa": [
-            "秋田県警は6日、由利本荘署交通課の巡査部長、菅尾泰斗容疑者（38）を酒酔い運転の疑いで逮捕しました。",
-            "菅尾容疑者は酒に酔った状態で車を運転した疑いが持たれています。",
-            "県警によると、同僚と飲酒した後に事故を起こしたとされ、容疑を認めているということです。"
+            "東海地区より西の信用金庫で発生したATMなどが使えないシステム障害が全面復旧しました。",
+            "このトラブルは、システムの更新に伴う一部機器の故障が原因でした。",
+            "障害は発生からおよそ5時間半後に解消されました。"
           ]
         },
         {
-          "title": "石破前総理ら自民4人“棄権”審議に影響は？『消費税減税法案』衆院で可決(テレビ朝日系（ANN）)",
+          "title": "「立冬」前日なのに季節外れの暑さ 東京都心は観測史上5番目に遅い夏日 日傘が活躍(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:18:15Z",
-          "excerpt": "今国会で最大の焦点となっている食料品の消費税減税法案は6日、衆議院本会議で可決されました。しかし、中低所得者への支援策など、具体的な制度設計は不透明なまま。採決では、石破前総理ら自民党議員4人が棄権す",
-          "link": "https://news.yahoo.co.jp/articles/197c638db3514e494080b5f23d5a15e75469cc78?source=rss",
+          "publishedAt": "2026-11-07T00:38:55Z",
+          "excerpt": "7日は「立冬」です。暦の上では冬の始まりですが、6日は関東各地で季節外れの夏日が続出しました。■東京都心25℃超汗だくに 6日、朝にかけての冷え込みで霧に覆われていた東京ですが、日中は日傘が開くほどの",
+          "link": "https://news.yahoo.co.jp/articles/80405301e816eda9a405d97672e3fd083a5cd1a0?source=rss",
           "translationStatus": "translated",
-          "titleJa": "食料品消費税減税法案、衆院で可決 自民党議員4人が棄権",
+          "titleJa": "立冬前日に季節外れの夏日、東京都心は観測史上5番目の遅さ",
           "summaryJa": [
-            "今国会の焦点である食料品の消費税減税法案が6日、衆議院本会議で可決されました。",
-            "しかし、中低所得者への具体的な支援策など、制度設計は不透明な点が残っています。",
-            "採決では、石破茂前総理を含む自民党議員4人が棄権しました。"
+            "暦の上では冬の始まりである「立冬」を翌日に控えた6日、関東各地で季節外れの夏日となりました。",
+            "東京都心では最高気温が25℃を超え、観測史上5番目に遅い夏日を記録しました。",
+            "日中は日傘が活躍するほどの陽気となり、多くの人が汗ばむ一日となりました。"
           ]
         },
         {
-          "title": "「頭も身体も凍りついた」被害女性が法廷で初証言 元地検トップの性的暴行裁判(テレビ朝日系（ANN）)",
+          "title": "米国にワンピース公式グッズ店 ロサンゼルス、早くも人気(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:09:15Z",
-          "excerpt": "大阪地検の元検事正が、酒に酔って抵抗できない状態の部下に性的暴行を加えた罪に問われている裁判です。被害を訴えている元女性検事が6日、法廷で初めて証言しました。【画像】大阪地検元検事正が一転し無罪主張",
-          "link": "https://news.yahoo.co.jp/articles/4ae610e5c41a4ca1a1e93de4518649dd30fb2e5f?source=rss",
+          "publishedAt": "2026-11-07T00:36:24Z",
+          "excerpt": "【ロサンゼルス共同】日本の人気アニメ「ONE PIECE（ワンピース）」の公式グッズ店「ONE PIECE 麦わらストア」の米西部ロサンゼルス店が6日、オープンした。米国で公式の常設グッズ店が開店する",
+          "link": "https://news.yahoo.co.jp/articles/d29bdf59605f5437578d752a1dfc3ae4ebde3f4f?source=rss",
           "translationStatus": "translated",
-          "titleJa": "元大阪地検検事正の性的暴行裁判、被害女性が法廷で初証言",
+          "titleJa": "米国ロサンゼルスに「ワンピース」公式グッズ店がオープン",
           "summaryJa": [
-            "大阪地検の元検事正が、酒に酔って抵抗できない状態の部下に性的暴行を加えた罪に問われています。",
-            "6日、被害を訴えている元女性検事が法廷で初めて証言を行いました。",
-            "女性は当時の状況について「頭も身体も凍りついた」と述べました。",
-            "元検事正は一転して無罪を主張しています。"
+            "日本の人気アニメ「ONE PIECE（ワンピース）」の公式グッズ店「ONE PIECE 麦わらストア」が、米西部ロサンゼルスにオープンしました。",
+            "6日に開店したこの店舗は、米国で初の公式常設グッズ店となります。",
+            "早くも人気を集めているとのことです。"
           ]
         },
         {
-          "title": "飲酒運転疑いで秋田県警の巡査部長逮捕(共同通信)",
+          "title": "評点はなんと「☆☆☆☆☆」！小5店長が“超会員制カフェ”を開店 心温まる本格派ラテと手作りのメニュー表に癒やされる人多数(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T15:03:41Z",
-          "excerpt": "秋田県警は6日、酒に酔って車を運転したとして、道交法違反の疑いで由利本荘署交通課の30代巡査部長を逮捕した。同僚と飲酒し、車を運転中に事故を起こしたという。",
-          "link": "https://news.yahoo.co.jp/articles/33fbd73e495565c27da41cc0fcb3b201aec71893?source=rss",
+          "publishedAt": "2026-11-07T00:36:17Z",
+          "excerpt": "小学5年生の息子が店長を務める自宅の“超会員制”のカフェ。本格派ラテと心温まる手作りのメニュー表に「可愛すぎませんか??!」「あまりにも素敵」など称賛の声が上がっている。【映像】小5店長が淹れる本格派",
+          "link": "https://news.yahoo.co.jp/articles/9d993796ec99b79eaa2ad042ca75c2aa900f8455?source=rss",
           "translationStatus": "translated",
-          "titleJa": "秋田県警の巡査部長、飲酒運転容疑で逮捕 同僚と飲酒後に事故",
+          "titleJa": "小5店長が自宅で「超会員制カフェ」開店、本格ラテと手作りメニューが話題",
           "summaryJa": [
-            "秋田県警は6日、由利本荘署交通課に所属する30代の巡査部長を飲酒運転の疑いで逮捕しました。",
-            "巡査部長は酒に酔った状態で車を運転し、事故を起こしたとされています。",
-            "県警によると、同僚と飲酒した後の出来事だということです。"
+            "小学5年生の息子が店長を務める「超会員制カフェ」が自宅で開店し、話題を呼んでいます。",
+            "本格的なラテと心温まる手作りのメニュー表が特徴です。",
+            "利用者からは「可愛すぎる」「素敵」といった称賛の声が多数寄せられています。"
           ]
         },
         {
-          "title": "伊勢崎市飲酒死亡事故 控訴審でも懲役20年 遺族「戦ってきたの間違いでなかった」(テレビ朝日系（ANN）)",
+          "title": "「30歳で振り袖ですか？」…秋の園遊会「佳子さま」にまで言及するSNSの“着物警察” 専門家が語る「年齢制限」の真偽(AERA DIGITAL)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T14:59:01Z",
-          "excerpt": "トラックを飲酒運転して家族3人を死亡させた罪に問われた男の控訴審で、東京高裁は男側の控訴を棄却し、1審に続き懲役20年を言い渡しました。遺族は「戦ってきたことが間違いではなかったと証明された」としてい",
-          "link": "https://news.yahoo.co.jp/articles/cb35fc6ac625edd5a9924d811e64880ab4a1b119?source=rss",
+          "publishedAt": "2026-11-07T00:30:38Z",
+          "excerpt": "「秋の園遊会」で秋篠宮家の次女、佳子さま（31）は華やかな振り袖姿を披露された。SNSでは「とってもお似合い！」という声が上がる一方、一部からは「30歳で振り袖ですか？」という辛辣な声もあった。着物の",
+          "link": "https://news.yahoo.co.jp/articles/b2e6bed3464b4904365aea2363cf9e127383a05c?source=rss",
           "translationStatus": "translated",
-          "titleJa": "伊勢崎市飲酒死亡事故、控訴審も懲役20年 遺族「間違いでなかった」",
+          "titleJa": "佳子さまの振り袖姿にSNSで賛否、着物の年齢制限に専門家言及",
           "summaryJa": [
-            "群馬県伊勢崎市で飲酒運転のトラックにより家族3人が死亡した事故の控訴審判決が東京高裁で言い渡されました。",
-            "裁判所は被告側の控訴を棄却し、一審に続き懲役20年の判決を維持しました。",
-            "遺族は判決を受け、「戦ってきたことが間違いではなかったと証明された」とコメントしています。"
+            "秋の園遊会で、秋篠宮家の次女である佳子さま（31）が華やかな振り袖姿を披露されました。",
+            "SNSでは「お似合い」という肯定的な声がある一方で、「30歳で振り袖はどうか」という意見も一部で見られました。",
+            "これに対し、着物の専門家が振り袖の年齢制限について言及しています。"
           ]
         },
         {
-          "title": "千葉・勝浦では“80年ぶり” 11月に“夏日続出”都心は昼前に25度到達(テレビ朝日系（ANN）)",
+          "title": "冬本番、札幌にササラ電車 過去10年で2番目の早さ(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T14:57:15Z",
-          "excerpt": "11月なのに夏日が続出。6日の関東は強い日差しが照りつけ、季節外れの暑さとなりました。東京都心では、この時期に25度以上となるのは観測史上5番目の遅さです。【画像】千葉・勝浦では“80年ぶり” 11月",
-          "link": "https://news.yahoo.co.jp/articles/4b151d946b1b760992d66e09e712de39b0544e5c?source=rss",
+          "publishedAt": "2026-11-07T00:28:17Z",
+          "excerpt": "札幌市で7日未明、まとまった雪が降り、市中心部を走る路面電車の軌道に積もった雪を掃き飛ばす除雪車両「ササラ電車」が今季初めて出動した。運行する札幌市交通事業振興公社によると、直近の10年間で2番目に早",
+          "link": "https://news.yahoo.co.jp/articles/c252b090aa4a1c70b6518bc78129ed0ad9393a55?source=rss",
           "translationStatus": "translated",
-          "titleJa": "11月に関東で夏日続出、都心は25度到達 千葉・勝浦は80年ぶり",
+          "titleJa": "札幌でササラ電車が今季初出動、過去10年で2番目の早さ",
           "summaryJa": [
-            "6日の関東地方は強い日差しが照りつけ、11月としては季節外れの暑さとなりました。",
-            "東京都心では昼前に気温が25度を超え、この時期に25度以上となるのは観測史上5番目に遅い記録です。",
-            "千葉県勝浦市では80年ぶりに11月の夏日を記録しました。"
+            "札幌市で7日未明にまとまった雪が降り、路面電車の除雪車両「ササラ電車」が今季初めて出動しました。",
+            "札幌市交通事業振興公社によると、これは直近10年間で2番目に早い出動となります。",
+            "冬本番の到来を告げる出来事となりました。"
           ]
         },
         {
-          "title": "【新たな台風発生へ】7日までに台風が発生する予想 10日ごろは「強い」勢力に【雨・風シミュレーション17日（火）まで】気象庁の進路予想 台風のたまご=熱帯低気圧の情報(MBC南日本放送)",
+          "title": "愛子さま＆佳子さま、お二人で何かを確認？目を合わせてニッコリ、微笑み交わされる瞬間…天皇皇后両陛下主催の文化勲章「お茶会」 で同じテーブルに(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T14:45:28Z",
-          "excerpt": "マリアナ諸島の「台風のたまご=熱帯低気圧」は、7日（土）午前9時までに台風に発達する予想です。気象庁の最新の進路予報では、7日夜に小笠原近海へ進んだ後、日本の南で発達し、10日（火）から11日（水）は",
-          "link": "https://news.yahoo.co.jp/articles/a91c8398659d5cab849754ba09355698dec4b9eb?source=rss",
+          "publishedAt": "2026-11-07T00:27:16Z",
+          "excerpt": "11月4日、天皇皇后両陛下は文化勲章の受章者らを皇居に招き、「お茶会」を催された。【映像】愛子さまと佳子さまが、目を合わせ微笑み合う瞬間 皇居・宮殿で開かれた茶会には天皇ご一家をはじめ、秋篠宮ご夫妻と",
+          "link": "https://news.yahoo.co.jp/articles/d38764cb8194003467b98e91a47d6bc6c25a5163?source=rss",
           "translationStatus": "translated",
-          "titleJa": "熱帯低気圧、7日午前までに台風発生予想 10日ごろ「強い」勢力に",
+          "titleJa": "天皇ご一家主催のお茶会、愛子さまと佳子さまが微笑み交わす",
           "summaryJa": [
-            "マリアナ諸島にある熱帯低気圧は、7日午前9時までに台風に発達する予想です。",
-            "気象庁の進路予報によると、7日夜には小笠原近海へ進み、日本の南でさらに発達する見込みです。",
-            "10日から11日ごろには「強い」勢力になると予測されています。"
-          ]
-        },
-        {
-          "title": "【台風情報】“台風のたまご”熱帯低気圧の進路予想 12時間以内に「台風」に発達する見込み 7日午前9時は中心気圧1002hPa、最大瞬間風速25m/sの予想 台風32号が発生すれば、1994年以来32年ぶり(FNNプライムオンライン)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-06T14:01:20Z",
-          "excerpt": "気象庁によりますと、熱帯低気圧は6日午後9時現在、マリアナ諸島にあって、1時間におよそ25キロの速さで西へ進んでいます。中心気圧は1004hPa、中心付近の最大風速は15m/s、最大瞬間風速は23m/",
-          "link": "https://news.yahoo.co.jp/articles/f2bd510deec39a53951f478fcf11e25b08745487?source=rss",
-          "translationStatus": "translated",
-          "titleJa": "熱帯低気圧、12時間以内に台風へ発達見込み 7日午前9時には中心気圧1002hPa予想",
-          "summaryJa": [
-            "気象庁によると、マリアナ諸島にある熱帯低気圧は、今後12時間以内に台風に発達する見込みです。",
-            "6日午後9時現在、時速約25キロで西へ進んでおり、中心気圧1004hPa、最大瞬間風速23m/sです。",
-            "7日午前9時には中心気圧1002hPa、最大瞬間風速25m/sが予想されています。",
-            "もし台風32号が発生すれば、1994年以来32年ぶりとなります。"
+            "11月4日、天皇皇后両陛下が文化勲章の受章者らを招き、皇居で「お茶会」を催されました。",
+            "茶会には天皇ご一家や秋篠宮ご夫妻らが出席しました。",
+            "愛子さまと佳子さまが同じテーブルに着き、目を合わせて微笑み交わされる場面が見られました。"
           ]
         }
       ]
@@ -301,143 +286,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:47:50Z",
-          "excerpt": "Montana voters approved a novel strategy to restrict corporate political spending, setting up a constitutional fight that could reach the S...",
-          "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
-          "translationStatus": "translated",
-          "titleJa": "モンタナ州、企業献金禁止を承認 最高裁で憲法闘争の可能性",
-          "summaryJa": [
-            "モンタナ州の有権者は、企業による政治献金を制限する新たな戦略を承認しました。",
-            "これは、連邦最高裁判所にまで及ぶ可能性のある憲法上の争いを引き起こすものです。",
-            "企業献金規制を巡る動きとして注目されています。"
-          ]
-        },
-        {
           "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:43:35Z",
-          "excerpt": "",
+          "publishedAt": "2026-11-06T22:25:58Z",
+          "excerpt": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
           "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、選挙結果に関わらずAIデータセンターへの投資を継続へ",
+          "titleJa": "OpenAI、選挙結果にも関わらずAIデータセンターへの投資継続を表明",
           "summaryJa": [
-            "OpenAIのCFOはCNBCに対し、選挙結果にかかわらずAIデータセンターへの投資を継続すると述べました。",
-            "これは、AIインフラへの長期的なコミットメントを示すものです。",
-            "同社のAI技術開発における姿勢が明確になりました。"
+            "OpenAIのCFOはCNBCに対し、AIデータセンターへの投資を継続すると述べた。",
+            "これは、データセンター開発に制限を設けることを公約した候補者を国民が支持した選挙結果にも関わらず、という。",
+            "火曜日の選挙では、全国の有権者がそのような候補者への支持を表明していた。"
           ]
         },
         {
-          "title": "Watch live: Jim Cramer says an Anthropic IPO would be a cue to start buying again",
+          "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:38:58Z",
-          "excerpt": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and membe...",
-          "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+          "publishedAt": "2026-11-06T22:22:53Z",
+          "excerpt": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House a...",
+          "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
           "translationStatus": "translated",
-          "titleJa": "ジム・クレイマー氏、AnthropicのIPOは買い再開の合図と発言",
+          "titleJa": "トランプ氏、ホワイトハウス首席補佐官にスティーブン・ミラー氏を指名",
           "summaryJa": [
-            "ジム・クレイマー氏は、Anthropicの新規株式公開（IPO）があれば、再び買い始める合図になると述べました。",
-            "投資クラブの第4回年次総会で、同氏は2027年の見通しも明らかにしました。",
-            "参加者からの質問にも回答し、市場への見解を示しました。"
+            "トランプ氏は、スティーブン・ミラー氏がスーシー・ワイルズ氏の後任としてホワイトハウス首席補佐官に就任すると発表した。",
+            "この人事は、民主党が中間選挙で地滑り的勝利を収め、下院の過半数を獲得した3日後に明らかにされた。",
+            "民主党の勝利は、政権交代の動きに影響を与えている。"
           ]
         },
         {
-          "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:34:01Z",
-          "excerpt": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite...",
-          "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-          "translationStatus": "translated",
-          "titleJa": "データセンター増強：ハセット氏、AI構築は政治的変化で止まらないと指摘",
-          "summaryJa": [
-            "ドナルド・トランプ大統領は、世界のAI競争に勝つための重要な要素としてデータセンターの構築を推進しています。",
-            "ハセット氏は、政治的な変化があってもAIインフラの構築は止まらないと述べています。",
-            "これは、AI開発におけるデータセンターの重要性を強調するものです。"
-          ]
-        },
-        {
-          "title": "Wall Street's fear gauge may be flashing a buy sign",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:29:01Z",
-          "excerpt": "History shows that similar spikes in the VIX have been good entry points for stocks",
-          "link": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-          "translationStatus": "translated",
-          "titleJa": "ウォール街の恐怖指数、買いシグナル点灯の可能性",
-          "summaryJa": [
-            "ウォール街の恐怖指数が、株式市場の買いシグナルを示している可能性があります。",
-            "過去のデータによると、VIX指数の同様の急上昇は株式の良好なエントリーポイントとなってきました。",
-            "市場の変動性が高まる中で、投資家は買いの機会を探るかもしれません。"
-          ]
-        },
-        {
-          "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+          "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-06T16:29:00Z",
-          "excerpt": "As part of the agreement, Hims said it won’t compound GLP-1 medications like Zepbound in the future.",
-          "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-06T21:45:00Z",
+          "excerpt": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+          "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "Hims & Hers、イーライリリーとGLP-1薬で提携 株価上昇",
+          "titleJa": "「貯蓄500ドル、年金頼みの66歳に希望はあるか」",
           "summaryJa": [
-            "Hims & Hersは、イーライリリーとGLP-1薬に関する契約を締結しました。",
-            "この合意の一環として、Himsは今後ZepboundのようなGLP-1薬の調合を行わないと発表しました。",
-            "このニュースを受け、同社の株価は上昇しています。"
+            "66歳で貯蓄がわずか500ドル、社会保障に頼って生活している人物が、自身の経済的将来への不安を語った。",
+            "経済的なセーフティネットがない現状に直面し、希望を見出せないでいる。",
+            "富裕層と立場を入れ替えるべきかと疑問を呈している。"
           ]
         },
         {
-          "title": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+          "title": "Elon Musk opens the door for a big SpaceX acquisition",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-06T16:27:00Z",
-          "excerpt": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
-          "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-06T21:45:00Z",
+          "excerpt": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+          "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "尊厳あるレイオフ？一部テック企業が提供する手厚い退職パッケージ",
+          "titleJa": "イーロン・マスク氏、SpaceXによる大型買収の可能性を示唆",
           "summaryJa": [
-            "一部のテック企業は、従業員に対し、無料のノートパソコンやLinkedIn Premiumなどの手厚い退職パッケージを提供しています。",
-            "これは、より寛大な退職金制度の一環として行われています。",
-            "企業が従業員の再就職支援に力を入れている背景が伺えます。"
+            "イーロン・マスク氏が、SpaceXによる大規模な買収の可能性に言及した。",
+            "ロケットおよび衛星インターネット事業を展開する同社は、通信大手への挑戦を目指している。",
+            "この動きは、SpaceXの事業拡大戦略の一環と見られる。"
           ]
         },
         {
-          "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+          "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-06T21:40:09Z",
+          "excerpt": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
+          "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+          "translationStatus": "translated",
+          "titleJa": "クリス・マーフィー上院議員、脳卒中から退院も数週間は投票欠席へ",
+          "summaryJa": [
+            "コネチカット州選出の民主党クリス・マーフィー上院議員が、脳卒中の治療を終え病院を退院した。",
+            "リハビリのため、今後数週間にわたって議会での投票を欠席する見込み。",
+            "マーフィー議員は、2028年の大統領選挙の有力候補として名前が挙がっていた。"
+          ]
+        },
+        {
+          "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-06T16:17:00Z",
-          "excerpt": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-          "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-06T21:37:00Z",
+          "excerpt": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get...",
+          "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "サイバートラックの生産終了、マスク氏が高価なプロジェクトを中止",
+          "titleJa": "データセンターの債務問題、今年債券市場に影響、悪化の懸念",
           "summaryJa": [
-            "サイバートラックは、高価格といくつかのリコールにより、自動車購入者の間で普及しませんでした。",
-            "これを受け、イーロン・マスク氏はこの高価なプロジェクトを中止しました。",
-            "サイバートラックの生産は終了し、その歴史に幕を閉じました。"
+            "データセンター事業は債務に依存しており、今年はこの債務が債券市場に問題を引き起こした。",
+            "特にAI関連の債務発行が投資家ポートフォリオを圧迫し、パフォーマンス面で期待外れだった。",
+            "この資金調達の必要性は今後も続き、状況はさらに悪化する可能性があると指摘されている。"
           ]
         },
         {
-          "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:07:23Z",
-          "excerpt": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomati...",
-          "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+          "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-06T21:24:00Z",
+          "excerpt": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "原油価格、中間選挙後に大幅下落 イラン紛争リスクを投資家が警戒",
+          "titleJa": "エヌビディア、AMDなど半導体株が反発、急落からの回復は一時的か",
           "summaryJa": [
-            "中間選挙後、投資家がイラン紛争再燃のリスクを考慮したため、原油価格は金曜日に下落しました。",
-            "外交的解決の見込みと並行して、イラン情勢の悪化が懸念されています。",
-            "原油価格は週間の大幅な下落となる見込みです。"
+            "エヌビディアやAMDなどの半導体関連株が反発を見せた。",
+            "しかし、アナリストは今後のさらなる変動性に警鐘を鳴らしている。",
+            "AI関連取引に有利な新たな要因がいくつかあるものの、急激な売りからの回復が一時的なものに終わる可能性も指摘されている。"
           ]
         },
         {
-          "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+          "title": "OpenAI bugging suspect Alfozan pleads not guilty",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-06T16:06:59Z",
-          "excerpt": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-          "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+          "publishedAt": "2026-11-06T21:15:47Z",
+          "excerpt": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+          "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
           "translationStatus": "translated",
-          "titleJa": "米経済、10月に予想を大幅に上回る16.5万人の雇用増 失業率は4.1%に低下",
+          "titleJa": "OpenAI盗聴疑惑のアルフォザン容疑者、無罪を主張",
           "summaryJa": [
-            "10月の米国の非農業部門雇用者数は16万5000人増加し、予想の5万9000人を大幅に上回りました。",
-            "失業率は4.1%に低下し、予想されていた4.2%の横ばいを下回りました。",
-            "これは、米国の労働市場が引き続き堅調であることを示しています。"
+            "人工知能大手OpenAIの会議室に録音装置を設置した疑いで起訴されたサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者が、無罪を主張した。",
+            "同容疑者は、OpenAIの施設内での盗聴行為に関与したとして告発されている。",
+            "この事件は、AI企業のセキュリティと情報管理に関する懸念を浮上させている。"
+          ]
+        },
+        {
+          "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-06T21:15:00Z",
+          "excerpt": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+          "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "80代夫婦、95万ドルのIRA保有もアドバイザーがロス転換を推奨する理由",
+          "summaryJa": [
+            "80代の夫婦が、95万ドルの伝統的IRAを保有しているにもかかわらず、金融アドバイザーからロスIRAへの転換を強く勧められていることに疑問を呈している。",
+            "夫婦は年間11万ドルの年金と社会保障で基本的な生活費を賄っている。",
+            "このアドバイスが「奇妙に思える」と述べており、その真意を測りかねている状況だ。"
+          ]
+        },
+        {
+          "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-06T21:15:00Z",
+          "excerpt": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+          "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "夫が50万ドルを相続も自宅改修を拒否、「別の生活を築いているよう」",
+          "summaryJa": [
+            "夫が50万ドルを相続したにもかかわらず、自宅の改修費用に充てることを拒否していると妻が訴えている。",
+            "妻は、夫が「密かに別の生活を築いているように感じる」と不信感を抱いている。",
+            "自宅のキッチンは1999年製で、オーブンも特定の叩き方をしないと動かない状態だという。"
           ]
         }
       ]
@@ -447,144 +432,84 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-06T23:00:44Z",
+          "excerpt": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. T...",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-06T22:53:46Z",
+          "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming w...",
+          "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "AI is the new dating dealbreaker",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-06T21:51:59Z",
+          "excerpt": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and conne...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "All the latest updates on AI data centers",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-06T20:03:32Z",
+          "excerpt": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-06T20:00:43Z",
+          "excerpt": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to...",
+          "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-06T18:44:38Z",
+          "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access t...",
+          "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-06T18:44:20Z",
+          "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+          "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "How a Blue Wave midterm might reshape the AI industry",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-06T18:00:00Z",
+          "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data cen...",
+          "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "After the midterms, is the AI industry in for a rough two years?",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-06T17:23:52Z",
+          "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data cen...",
+          "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+          "translationStatus": "failed"
+        },
+        {
           "title": "Big Tech lost big in the 2026 election",
           "source": "The Verge AI",
-          "publishedAt": "2026-11-06T16:38:02Z",
+          "publishedAt": "2026-11-06T17:09:01Z",
           "excerpt": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech...",
           "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-          "translationStatus": "translated",
-          "titleJa": "2026年選挙で大手テクノロジー企業が敗北、AIへの反対票が多数",
-          "summaryJa": [
-            "火曜日の選挙で、多くのアメリカ人有権者が投票所に赴いた。",
-            "彼らは民主党に圧倒的に投票し、AIに反対する姿勢を示した。",
-            "この結果は、大手テクノロジー企業に対する戦いの一環と見られている。"
-          ]
-        },
-        {
-          "title": "How Akai and Moog are embracing vibe-coded mods",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-06T16:34:39Z",
-          "excerpt": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with...",
-          "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-          "translationStatus": "translated",
-          "titleJa": "AkaiとMoogの親会社inMusic、改造コミュニティを歓迎",
-          "summaryJa": [
-            "Akai、Moog、Native Instrumentsなどを傘下に持つinMusicが、改造コミュニティを受け入れる方針を決定した。",
-            "同社は、ユーザーによる製品の改造を積極的に支援する姿勢を示している。",
-            "これは、ユーザー主導のイノベーションを促進する動きと見られる。"
-          ]
-        },
-        {
-          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-06T15:54:47Z",
-          "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor...",
-          "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-          "translationStatus": "translated",
-          "titleJa": "AI支出が停滞、AnthropicのIPOを前に投資家の懸念高まる",
-          "summaryJa": [
-            "AIの利用は増加しているものの、関連支出は停滞していることがRampのデータで示された。",
-            "大手企業による価格引き下げやコスト管理の強化が背景にある。",
-            "これは、Anthropicの新規株式公開（IPO）を控える中で、投資家の懸念材料となる可能性がある。"
-          ]
-        },
-        {
-          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-06T14:10:00Z",
-          "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-          "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-          "translationStatus": "translated",
-          "titleJa": "Amazon、Alexaでテキストメッセージによる買い物支援機能を提供開始",
-          "summaryJa": [
-            "Amazonは、ユーザーがAlexaにテキストメッセージを送ることで買い物を支援する新機能を発表した。",
-            "この機能は、今後数週間で数百万人のユーザーに展開される予定だ。",
-            "以前ブロックされたMuseの件とは異なり、今回はユーザーの利便性向上を目指す。"
-          ]
-        },
-        {
-          "title": "Amazon will let you text Alexa your shopping list",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-06T13:56:32Z",
-          "excerpt": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users ca...",
-          "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-          "translationStatus": "translated",
-          "titleJa": "Amazon、Alexaにテキストで買い物リストを送る新機能を追加",
-          "summaryJa": [
-            "Amazonは、AIショッピングアシスタント「Alexa for Shopping」に新機能を追加する。",
-            "顧客はテキストメッセージで買い物リストを送信し、商品の購入が可能になる。",
-            "この機能により、より手軽にAlexaを通じて買い物を完了できるようになる。"
-          ]
-        },
-        {
-          "title": "Underdog shows off a 32MB speech model in new demo",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-06T13:02:16Z",
-          "excerpt": "Despite its small size, Underdog's new model can generate both speech and music.",
-          "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-          "translationStatus": "translated",
-          "titleJa": "Underdog、32MBの小型音声モデルで音声と音楽生成をデモ",
-          "summaryJa": [
-            "Underdogが、わずか32MBという小型サイズの新しい音声モデルを公開した。",
-            "このモデルは、その小さなサイズにもかかわらず、音声と音楽の両方を生成できる。",
-            "新しいデモでその能力が披露され、小型AIモデルの可能性を示した。"
-          ]
-        },
-        {
-          "title": "Physicl raises $10M to make the digital world real enough for robots",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-06T13:00:00Z",
-          "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-          "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-          "translationStatus": "translated",
-          "titleJa": "Physiclが1000万ドル調達、ロボット向けデジタル世界を現実的に",
-          "summaryJa": [
-            "Physiclは、ロボットが現実世界で機能するためのデジタル環境を構築するため、1000万ドルを調達した。",
-            "同社は、オンラインでの商品販売のために開発されたパイプラインを活用している。",
-            "これにより、シミュレーションと現実世界のギャップを埋めることを目指す。"
-          ]
-        },
-        {
-          "title": "Protesters break into Microsoft data center site in Amsterdam",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-06T12:01:25Z",
-          "excerpt": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas grou...",
-          "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-          "translationStatus": "translated",
-          "titleJa": "アムステルダムのMicrosoftデータセンター建設現場に抗議者が侵入",
-          "summaryJa": [
-            "今朝、アムステルダムにあるMicrosoftの新しいデータセンター建設現場に抗議者が侵入した。",
-            "抗議活動を行ったのは「Geef Tegengas」グループのメンバーと報じられている。",
-            "この事件は、データセンター建設に対する地元住民の懸念を浮き彫りにしている。"
-          ]
-        },
-        {
-          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-          "source": "MIT Technology Review AI",
-          "publishedAt": "2026-11-06T10:00:00Z",
-          "excerpt": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to to...",
-          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "translationStatus": "translated",
-          "titleJa": "人型ロボットによるアパート清掃、未来の体験を実感",
-          "summaryJa": [
-            "筆者は、人型ロボットが自身のアパートを清掃する様子を体験した。",
-            "通常は家事代行サービスを利用しない筆者だが、その光景は未来を感じさせるものだったという。",
-            "ロボットによる家事支援が、将来の生活にどのような影響を与えるかを示唆している。"
-          ]
-        },
-        {
-          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-06T06:28:32Z",
-          "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-          "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-          "translationStatus": "translated",
-          "titleJa": "Palo Alto Networks、AIエージェントセキュリティ企業Clutchを5億ドルで買収交渉中",
-          "summaryJa": [
-            "Palo Alto Networksが、AIエージェントセキュリティのスタートアップ企業Clutchを5億ドルで買収する交渉を進めている。",
-            "ClutchはLightspeedとSignalFireの支援を受けており、情報筋によると前回の評価額は8500万ドルだった。",
-            "この買収が実現すれば、AIセキュリティ分野におけるPalo Alto Networksの地位が強化される見込みだ。"
-          ]
+          "translationStatus": "failed"
         }
       ]
     },
@@ -593,143 +518,113 @@
       "name": "教育ニュース",
       "items": [
         {
-          "title": "Former Indiana Virtual School director found guilty of fraud in enrollment inflation scheme",
+          "title": "Child care and pre-K measures won big in midterms",
+          "source": "The Hechinger Report",
+          "publishedAt": "2026-11-07T00:16:42Z",
+          "excerpt": "The “blue wave” that swept Democrats into office across the country was accompanied by notable wins on measures that would provide addition...",
+          "link": "https://hechingerreport.org/child-care-and-pre-k-measures-won-big-in-midterms/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Election results: Colorado’s Prop 134 passes",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-06T16:08:09Z",
+          "publishedAt": "2026-11-07T00:03:36Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/indiana/2026/11/06/former-virtual-school-director-guilty-of-fraud-enrollment-scheme/",
-          "translationStatus": "translated",
-          "titleJa": "インディアナ州バーチャルスクール元校長、生徒数水増し詐欺で有罪",
-          "summaryJa": [
-            "インディアナ州のバーチャルスクールの元校長が、生徒数水増し詐欺の罪で有罪判決を受けました。",
-            "この事件は、学校の登録者数を不正に増やし、資金を詐取したとされるものです。",
-            "教育機関における不正行為が明らかになりました。"
-          ]
-        },
-        {
-          "title": "Ballot Measures Banning Trans Student-Athletes Pass in Nebraska and Arizona",
-          "source": "The 74",
-          "publishedAt": "2026-11-06T15:30:00Z",
-          "excerpt": "Nebraska and Arizona have passed ballot measures to ban transgender student-athletes from playing on girls’ sports teams, marking a signifi...",
-          "link": "https://www.the74million.org/article/ballot-measures-banning-trans-student-athletes-pass-in-nebraska-and-arizona/",
-          "translationStatus": "translated",
-          "titleJa": "ネブラスカ州とアリゾナ州、トランスジェンダー学生アスリートの女子チーム参加禁止法案が可決",
-          "summaryJa": [
-            "ネブラスカ州とアリゾナ州で、トランスジェンダーの学生アスリートが女子スポーツチームで競技することを禁止する住民投票法案が可決されました。",
-            "これは、スポーツにおける性別の区分に関する重要な動きを示しています。",
-            "両州で、この問題に対する新たな規制が導入されることになります。"
-          ]
-        },
-        {
-          "title": "Opinion: In American Classrooms, Food Is the Missing Ingredient",
-          "source": "The 74",
-          "publishedAt": "2026-11-06T13:30:00Z",
-          "excerpt": "They may wake up grumpy, but every day millions of American kids find their way to school. Parents see them off with a backpack and lunch,...",
-          "link": "https://www.the74million.org/article/in-american-classrooms-food-is-the-missing-ingredient/",
-          "translationStatus": "translated",
-          "titleJa": "【論説】アメリカの教室に「食」が欠けている",
-          "summaryJa": [
-            "アメリカの教室において、食事が重要な要素として欠けているという意見が述べられています。",
-            "多くの子どもたちが毎日学校に通っていますが、食事の提供や質が課題とされています。",
-            "教育現場における食の役割について、再考を促す内容です。"
-          ]
-        },
-        {
-          "title": "Did the Tennessee midterms complicate Marsha Blackburn’s voucher expansion plans?",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-11-06T12:00:01Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/tennessee/2026/11/06/tennessee-election-could-affect-voucher-expansion/",
-          "translationStatus": "translated",
-          "titleJa": "テネシー州中間選挙、マーシャ・ブラックバーン氏のバウチャー拡大計画に影響か",
-          "summaryJa": [
-            "テネシー州の中間選挙の結果が、マーシャ・ブラックバーン氏の教育バウチャー拡大計画に複雑な影響を与えている可能性があります。",
-            "選挙結果が、今後の教育政策の方向性に変化をもたらすか注目されています。",
-            "バウチャー制度の推進に対する政治的な課題が浮上しています。"
-          ]
+          "link": "https://www.chalkbeat.org/colorado/2026/11/03/colorado-prop-134-voting-results-elections-2026/",
+          "translationStatus": "failed"
         },
         {
           "title": "Jeffco Public Schools Ballot Issue 5A failing by just 3 votes, preliminary election results show",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-06T05:25:36Z",
+          "publishedAt": "2026-11-06T23:50:15Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/colorado/2026/11/03/election-results-jeffco-schools-ballot-issue-5a-5b-mill-levy-override/",
-          "translationStatus": "translated",
-          "titleJa": "ジェフコ公立学校の住民投票案5A、わずか3票差で否決の見込み",
-          "summaryJa": [
-            "ジェフコ公立学校の住民投票案5Aが、暫定的な選挙結果によるとわずか3票差で否決される見込みです。",
-            "この住民投票案は、学校運営に関する重要な財政措置を含んでいました。",
-            "最終結果が待たれますが、僅差での否決は地域の教育財政に影響を与える可能性があります。"
-          ]
+          "translationStatus": "failed"
         },
         {
-          "title": "12 applicants for Denver school board vacancy talk about school closures, rebuilding trust",
+          "title": "Remembering Mónica Rhor: storyteller, mentor, mother, friend",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-06T04:12:54Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/colorado/2026/11/06/12-applicants-for-district-3-denver-school-board-vacancy-forum/",
-          "translationStatus": "translated",
-          "titleJa": "デンバー教育委員会欠員に12名が応募、学校閉鎖と信頼回復を議論",
-          "summaryJa": [
-            "デンバー教育委員会の欠員ポストに12名の候補者が応募しました。",
-            "候補者たちは、学校閉鎖の問題や地域社会との信頼回復について議論しています。",
-            "今後の教育政策の方向性を左右する重要な人事となる見込みです。"
-          ]
+          "publishedAt": "2026-11-06T22:35:19Z",
+          "excerpt": "On a hot June day in 2010, a fresh-out-of-college Jason Gonzales worked up the nerve to approach the person seated alone at a desk in a hot...",
+          "link": "https://www.chalkbeat.org/2026/11/06/remembering-monica-rhor-for-her-storytelling-kindness-and-mentoring/",
+          "translationStatus": "failed"
         },
         {
-          "title": "Texas Dems vowed seismic education change. Here’s how schools could change for millions of students.",
+          "title": "Election results: Colorado voters approve Amendment 87, strike down Proposition 136",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-06T01:55:58Z",
+          "publishedAt": "2026-11-06T21:02:32Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/2026/11/06/texas-dems-vowed-seismic-education-change-heres-how-schools-could-change-for-millions-of-students/",
+          "link": "https://www.chalkbeat.org/colorado/2026/11/03/colorado-amendment-87-tax-rate-change-2026-election-results/",
           "translationStatus": "translated",
-          "titleJa": "テキサス州民主党、教育の大変革を公約 — 数百万人の生徒に影響か",
+          "titleJa": "コロラド州、修正案87を承認し提案136を否決",
           "summaryJa": [
-            "テキサス州の民主党は、教育制度の大幅な変更を公約しています。",
-            "この変更が実現すれば、数百万人の生徒の学校生活に影響を与える可能性があります。",
-            "教育政策の大きな転換点となるか注目されています。"
+            "コロラド州の有権者は、住民投票により修正案87を承認しました。",
+            "一方で、提案136は否決される結果となりました。",
+            "これらの結果は、コロラド州の政策に影響を与える見込みです。"
           ]
         },
         {
-          "title": "Philadelphia state test scores are months late. Now state officials want to change the cut scores.",
+          "title": "A new coalition of student creators hopes content can stem violence among their peers",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-05T23:36:23Z",
+          "publishedAt": "2026-11-06T20:42:57Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/philadelphia/2026/11/05/pennsylvania-proposes-changing-math-and-reading-cut-scores/",
+          "link": "https://www.chalkbeat.org/philadelphia/2026/11/06/content-creators-seek-gun-violence-narrative-change/",
           "translationStatus": "translated",
-          "titleJa": "フィラデルフィア州のテスト結果が数ヶ月遅延、州当局は合格基準点の変更を検討",
+          "titleJa": "学生クリエイターの新連合、コンテンツで同輩間の暴力を抑制へ",
           "summaryJa": [
-            "フィラデルフィア州の学力テスト結果の発表が数ヶ月遅れています。",
-            "これを受け、州当局は合格基準点の変更を検討しているとのことです。",
-            "テスト結果の遅延と基準点変更の動きは、教育評価の透明性や公平性に関する議論を呼んでいます。"
+            "学生クリエイターによる新たな連合が結成されました。",
+            "彼らは、制作するコンテンツを通じて、学生間の暴力を抑制することを目指しています。",
+            "この取り組みは、若者による社会問題解決への貢献が期待されます。"
           ]
         },
         {
-          "title": "Here’s how school district tax measures fared in Colorado this year",
+          "title": "Detroit needs more special education teachers. MSU partnership aims to help.",
           "source": "Chalkbeat",
-          "publishedAt": "2026-11-05T22:25:34Z",
+          "publishedAt": "2026-11-06T20:39:59Z",
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/colorado/2026/11/05/school-district-tax-measures-bond-mlo-approvals-and-rejections/",
+          "link": "https://www.chalkbeat.org/detroit/2026/11/06/dpscd-michigan-state-university-partner-for-teachers-special-education-certification/",
           "translationStatus": "translated",
-          "titleJa": "コロラド州の学区税制措置、今年の動向",
+          "titleJa": "デトロイト、特別支援教育教員の不足解消へMSUが協力",
           "summaryJa": [
-            "コロラド州における今年の学区税制措置の状況が報告されています。",
-            "各学区で提案された税制案が、住民投票などでどのような結果になったかが示されます。",
-            "これは、地域の教育財政に直接影響を与える重要な情報です。"
+            "デトロイト市では特別支援教育教員が不足しており、その解消が課題となっています。",
+            "ミシガン州立大学（MSU）との提携により、この問題の解決が図られる予定です。",
+            "この協力関係は、デトロイトの特別支援教育の質向上に貢献すると期待されます。"
           ]
         },
         {
-          "title": "Indianapolis Voters Overwhelmingly Pass Tax for Charter and District Schools",
+          "title": "After Midterm Wave, Democrats Inherit a School Choice Dilemma",
           "source": "The 74",
-          "publishedAt": "2026-11-05T18:48:29Z",
-          "excerpt": "Indianapolis voters on Election Day overwhelmingly backed the first-ever tax to be split between city and charter schools, a major step in...",
-          "link": "https://www.the74million.org/article/indianapolis-voters-overwhelmingly-pass-tax-for-charter-and-district-schools/",
+          "publishedAt": "2026-11-06T20:05:22Z",
+          "excerpt": "Democrats made political history this week, winning the support of voters who hadn’t chosen them in decades. Texans elected their first Dem...",
+          "link": "https://www.the74million.org/article/after-midterm-wave-democrats-inherit-a-school-choice-dilemma/",
           "translationStatus": "translated",
-          "titleJa": "インディアナポリス有権者、チャータースクールと公立学校への税金案を圧倒的多数で可決",
+          "titleJa": "中間選挙の波の後、民主党は学校選択制のジレンマを抱える",
           "summaryJa": [
-            "インディアナポリスの有権者は、選挙日にチャータースクールと公立学校に分配される初の税金案を圧倒的多数で支持し、可決しました。",
-            "これは、両タイプの学校への資金提供における重要な一歩となります。",
-            "地域の教育財政に新たな枠組みが導入されることになります。"
+            "今週の中間選挙で民主党は数十年間支持を得られなかった有権者からの支持を獲得し、歴史的な勝利を収めました。",
+            "テキサス州では初の民主党員が選出されるなど、各地で躍進が見られました。",
+            "しかし、この勝利は同時に、学校選択制に関する複雑な課題を民主党が引き継ぐことを意味しています。"
+          ]
+        },
+        {
+          "title": "Michigan voters return Democrat incumbents to the State Board of Education",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-06T19:29:51Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/detroit/2026/11/06/michigan-state-board-education-election-results/",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "School districts that lost Indiana tax referendums confront a tough question: What should we cut?",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-06T19:15:22Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/indiana/2026/11/06/most-school-district-tax-measures-pass-on-election-day/",
+          "translationStatus": "translated",
+          "titleJa": "インディアナ州の税制住民投票で敗れた学区、財源削減の課題に直面",
+          "summaryJa": [
+            "インディアナ州で実施された税制に関する住民投票で敗れた学区が、厳しい財源削減の課題に直面しています。",
+            "財源確保が困難になったことで、どの教育プログラムやサービスを削減すべきかという難しい判断が迫られています。",
+            "この状況は、学区の運営と生徒への影響について懸念を引き起こしています。"
           ]
         }
       ]
@@ -752,7 +647,7 @@
       "category": "教育ニュース",
       "source": "Inside Higher Ed",
       "url": "https://www.insidehighered.com/rss.xml",
-      "error": "undefined entity: line 179, column 148"
+      "error": "undefined entity: line 205, column 148"
     }
   ],
   "translation": {
@@ -761,7 +656,14 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 50,
-    "failedBatches": []
+    "translatedItems": 33,
+    "failedBatches": [
+      {
+        "category": "AIニュース",
+        "start": 0,
+        "count": 10,
+        "error": "HTTP Error 503: Service Unavailable"
+      }
+    ]
   }
 }
