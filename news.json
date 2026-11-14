@@ -1,113 +1,143 @@
 {
-  "generatedAt": "2026-11-13T17:15:56.255128Z",
+  "generatedAt": "2026-11-14T01:28:15.331756Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "title": "UK police open sex offence probe into comedian and author David Walliams",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T00:22:07Z",
+          "excerpt": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+          "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Microsoft services begin recovering after global outage",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T00:17:59Z",
+          "excerpt": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "マイクロソフト、世界的障害からサービス復旧開始",
+          "summaryJa": [
+            "金曜日、マイクロソフトのサービスが世界的な障害から復旧を開始しました。",
+            "この障害により、OutlookやTeamsなどのサービスが利用できなくなっていました。",
+            "現在、徐々に正常な状態に戻りつつあります。"
+          ]
+        },
+        {
+          "title": "Afghanistan’s new road to China ends at a closed border",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T00:06:43Z",
+          "excerpt": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+          "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アフガニスタンから中国への新道路、国境閉鎖で行き止まり",
+          "summaryJa": [
+            "アフガニスタンのタリバン暫定政権は、ワハン回廊を通る新道路が中国との新たな貿易ルートを開き、パキスタンへの依存を減らすことを期待しています。",
+            "しかし、この道路は現在、閉鎖された国境で行き止まりとなっています。",
+            "貿易路開拓にはまだ課題が残されています。"
+          ]
+        },
+        {
+          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T17:12:46Z",
-          "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T00:03:56Z",
+          "excerpt": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "マイクロソフト、世界規模のサービス障害が継続",
+          "titleJa": "孤独なゴリラ「ジョジョ」、ついに仲間を見つけられるか",
           "summaryJa": [
-            "マイクロソフトは、世界規模のサービス障害が発生していると発表しました。",
-            "OutlookやTeamsなどのサービスが影響を受けており、同社は現在、復旧作業を続けています。",
-            "障害が長期化する理由やメールが失われる可能性について懸念が示されています。"
+            "幼い頃に密猟され、飼育下で育ったゴリラのジョジョは、これまでずっと孤独に過ごしてきました。",
+            "飼育員たちは彼に仲間を見つけてあげたいと願っていますが、その道のりは容易ではありません。",
+            "ジョジョが新たな仲間と出会えるか注目されます。"
           ]
         },
         {
-          "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T16:44:56Z",
-          "excerpt": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ロシアで自動車爆弾事件、軍将校死亡・元ウクライナ首相顧問負傷",
-          "summaryJa": [
-            "ロシア国内で、ウクライナとの戦争に関連する人物を標的とした自動車爆弾事件が相次いで発生しました。",
-            "この事件により、軍将校が死亡し、元ウクライナ首相顧問が負傷しました。",
-            "ロシア政府は、一連の事件についてウクライナ政府を非難しています。"
-          ]
-        },
-        {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T16:40:31Z",
-          "excerpt": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg...",
-          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T00:03:52Z",
+          "excerpt": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+          "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "プーチン大統領、ウクライナとの和平交渉で要求を強化",
+          "titleJa": "ウガンダ大統領の息子、挑発的言動で後継者問題に拍車",
           "summaryJa": [
-            "プーチン大統領は、ウクライナとの和平交渉において要求を強めています。",
-            "欧州の安全保障問題が議論に含まれるようになったことを、ロシア政府は勝利と見なしています。",
-            "BBCロシア編集者スティーブ・ローゼンバーグ氏が報じました。"
+            "ウガンダでは、大統領の息子である52歳の将軍の挑発的な投稿や軍事的脅威が、世襲の噂を加速させています。",
+            "これにより、将軍の逮捕や副大統領への脅迫といった事態も発生しています。",
+            "国内では後継者問題への関心が高まっています。"
           ]
         },
         {
-          "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T16:34:24Z",
-          "excerpt": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T16:31:50Z",
-          "excerpt": "Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.",
-          "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T16:22:33Z",
-          "excerpt": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
-          "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T16:01:45Z",
-          "excerpt": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
-          "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "インド・アッサム州でトラックとバス衝突、少なくとも24人死亡",
-          "summaryJa": [
-            "インドのアッサム州で、トラックとバスが衝突する事故が発生しました。",
-            "当局によると、この事故で少なくとも24人が死亡し、死者には複数の子供とバスの運転手が含まれています。",
-            "死者数はさらに増加する見込みです。"
-          ]
-        },
-        {
-          "title": "Turkiye and Qatar sign mutual defence agreement",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T15:49:51Z",
-          "excerpt": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
-          "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Democratic Senate leader Schumer set to face leadership challenge",
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T15:48:07Z",
-          "excerpt": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-14T00:01:01Z",
+          "excerpt": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "スペースXスターシップ、ブースターの「二重キャッチ」試験で後退",
+          "summaryJa": [
+            "イーロン・マスク氏率いるスペースX社は、スターシップロケットのブースターを回収する試験を中止しました。",
+            "ブースターは回収されず、代わりに海に着水しました。",
+            "この結果は、同社の「二重キャッチ」試験にとって後退となりました。"
+          ]
         },
         {
-          "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+          "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T15:43:39Z",
-          "excerpt": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
-          "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-14T00:00:25Z",
+          "excerpt": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "イエメンで戦闘激化、カタールとトルコが防衛協定締結",
+          "summaryJa": [
+            "イエメンでは戦闘が激化し、多くの民間人が避難を余儀なくされています。",
+            "そのような中、カタールのドーハとトルコのアンカラは防衛協定に署名しました。",
+            "この協定は、外部からの攻撃に対する共同行動を誓うものです。"
+          ]
+        },
+        {
+          "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-13T23:45:22Z",
+          "excerpt": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米連邦航空局、通信障害で全米の出発便を一時停止",
+          "summaryJa": [
+            "米連邦航空局（FAA）は、通信障害により航空交通が混乱したため、米国内の出発便に対し運航停止命令を出しました。",
+            "この措置により、全米のフライトが一時的に停止しました。",
+            "通信システムの復旧が待たれます。"
+          ]
+        },
+        {
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "source": "BBC News",
+          "publishedAt": "2026-11-13T23:40:45Z",
+          "excerpt": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ミシシッピ川でクルーズ船衝突、乗客全員救助「ミシシッピの奇跡」",
+          "summaryJa": [
+            "ニューオーリンズ沖のミシシッピ川でクルーズ船が衝突する事故が発生しました。",
+            "32人が軽傷で病院に搬送されましたが、行方不明者は一人もいません。",
+            "乗客全員が無事に救助され、「ミシシッピの奇跡」と呼ばれています。"
+          ]
+        },
+        {
+          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+          "source": "BBC News",
+          "publishedAt": "2026-11-13T23:11:51Z",
+          "excerpt": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+          "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "インドのZ世代抗議者、夏の勝利後も冬の不確実性に直面",
+          "summaryJa": [
+            "この夏、インドでは不満とオンラインでの風刺に煽られ、若者による新たな抗議活動の波が広がりました。",
+            "彼らは夏の活動で一定の成果を収めましたが、冬には不確実な状況に直面しています。",
+            "今後の動向が注目されます。"
+          ]
         }
       ]
     },
@@ -116,102 +146,154 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "総武線(快速)で人身事故 運転再開(レスキューナウニュース)",
+          "title": "日本で“約8万円”の虫垂炎手術がハワイで“約315万円” 年末年始の海外旅行前に知っておきたい“クレカ付帯保険”の落とし穴…どう備えるか(弁護士JPニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T16:50:00Z",
-          "excerpt": "稲毛駅で発生した人身事故の影響で、総武線(快速)は津田沼～千葉駅間の運転を見合わせていましたが、01:45頃、運転を再開しました。なお、ダイヤが乱れています。",
-          "link": "https://news.yahoo.co.jp/articles/5418c3710a045bd1a9eec49795334ea343b4c5a3?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "高市総理「働く人の5割以上に」支援金“対象拡大”を明言 公明党に“譲歩”か(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T16:36:18Z",
-          "excerpt": "政府が消費減税と共に検討する新たな支援金制度をめぐり、高市総理は13日、支援の対象を働く人の“3割”から“5割以上”に大きく拡大する考えを示しました。総理の狙いは、どこにあるのでしょうか。【画像】高市",
-          "link": "https://news.yahoo.co.jp/articles/e9fec08c60d3198d37f4534e485291b8e6ab8cfe?source=rss",
+          "publishedAt": "2026-11-14T01:20:02Z",
+          "excerpt": "海外での日本人が関わる事故や事件の報道が続くなか、年末年始の長期休暇を控え、海外旅行を計画しているという人も多いだろう。環境の違う海外では、予期せぬ病気やケガ、盗難などのトラブルに遭遇する可能性も否定",
+          "link": "https://news.yahoo.co.jp/articles/9ef66838d78c97a08c669eea4fe2dd91e9e8b045?source=rss",
           "translationStatus": "translated",
-          "titleJa": "高市総理、支援金対象を「働く人の5割以上」に拡大表明",
+          "titleJa": "海外旅行中の高額医療費に注意、クレカ付帯保険の落とし穴とは",
           "summaryJa": [
-            "政府が消費減税と並行して検討している新たな支援金制度について、高市総理は13日、支援対象を拡大する考えを示しました。",
-            "これまで働く人の「3割」とされていた対象を、「5割以上」に大きく広げる方針です。",
-            "この動きは、公明党への譲歩と見られています。"
+            "年末年始の海外旅行を計画する人が多い中、海外での予期せぬ病気やケガ、盗難などのトラブルに遭遇する可能性が指摘されています。",
+            "日本では約8万円の虫垂炎手術がハワイでは約315万円になるなど、海外での医療費は高額になるケースがあります。",
+            "クレジットカード付帯の海外旅行保険には補償額や条件に落とし穴がある場合があり、事前の確認が重要です。",
+            "海外旅行を安全に楽しむため、十分な備えと保険内容の確認が呼びかけられています。"
           ]
         },
         {
-          "title": "総武線(快速)で人身事故 一部運転見合わせ(レスキューナウニュース)",
+          "title": "東京税関 不正薬物などの密輸入取り締まり強化で対策協議会(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T15:30:00Z",
-          "excerpt": "稲毛駅で発生した人身事故の影響で、総武線(快速)は津田沼～千葉駅間の運転を見合わせています。",
-          "link": "https://news.yahoo.co.jp/articles/8c0d136f241535db60c68944911d00fffb16ae53?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "野党 高市総理 財源は「心配ご無用」追及(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T15:27:17Z",
-          "excerpt": "消費税減税法案の国会質疑で高市総理大臣は、財源の確保を「心配ご無用」とした発言を追及され、税収の増加や基金の見直しなどで対応する考えを示しました。【映像】財源の確保「心配ご無用」発言 野党が追求 参議",
-          "link": "https://news.yahoo.co.jp/articles/2339f3c229e6d1f9a31d68f951ad98cc12333e93?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "女性はねられ2人死亡 “逃走トラック”発見 海老名市(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T15:27:17Z",
-          "excerpt": "神奈川県海老名市で、女性2人がトラックにひかれて死亡したひき逃げ事件で、警察は現場から逃走したとみられるトラックを発見し、関係者から話を聴いています。【映像】2人死亡のひき逃げ事件 逃走したとみられる",
-          "link": "https://news.yahoo.co.jp/articles/84702326a24df57a4bd494c793d4c67dd175ef7c?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "柵の中で死亡の3歳女児に「歩行訓練」 うまくできずに立腹か、殺人容疑で逮捕の父親(産経新聞)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T15:26:16Z",
-          "excerpt": "大阪府枚方市の自宅マンションで女児（3）を暴行して殺害したとして、大阪府警捜査1課は13日、殺人の疑いで父親の会社員、金尾健太郎容疑者（33）＝枚方市岡山手町＝を逮捕。保護責任者遺棄致死の疑いで母親の",
-          "link": "https://news.yahoo.co.jp/articles/8ca0b6cc17cfb1b727a006aad1e44e6c2fc118e3?source=rss",
+          "publishedAt": "2026-11-14T01:17:07Z",
+          "excerpt": "不正薬物などの密輸事犯について取り締まりの強化を図るため、東京税関が関係機関と対策協議会を開きました。 13日、東京・江東区で開かれた「東京税関中央地区密輸出入取締対策協議会」では、東京税関や警視庁な",
+          "link": "https://news.yahoo.co.jp/articles/a3de872bc17273637c3b741afb1bb808a5f2b1dc?source=rss",
           "translationStatus": "translated",
-          "titleJa": "枚方市3歳女児殺害、父親を殺人容疑で逮捕",
+          "titleJa": "東京税関、不正薬物密輸対策を強化 関係機関と協議会開催",
           "summaryJa": [
-            "大阪府枚方市の自宅マンションで3歳の女児が暴行され殺害された事件で、大阪府警は13日、父親の金尾健太郎容疑者（33）を殺人の疑いで逮捕しました。",
-            "容疑者は女児に「歩行訓練」と称して暴行し、うまくできないことに立腹したとみられています。",
-            "母親も保護責任者遺棄致死の疑いで捜査されています。"
+            "東京税関は、不正薬物などの密輸事犯の取り締まり強化を図るため、関係機関との対策協議会を開催しました。",
+            "13日に東京・江東区で開かれた「東京税関中央地区密輸出入取締対策協議会」には、東京税関や警視庁などが参加。",
+            "協議会では、密輸対策の連携強化や情報共有について話し合われました。",
+            "不正薬物の流入阻止に向けた取り組みが強化される見込みです。"
           ]
         },
         {
-          "title": "「止まる気配なく立ち去った」海老名・ひき逃げ2人死亡 トラックの関係者聴取(テレビ朝日系（ANN）)",
+          "title": "退職自衛隊員や家族支援の充実を 超党派議連が小泉防衛大臣に提言手交(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T15:00:39Z",
-          "excerpt": "神奈川県海老名市で13日午後、横断歩道を渡っていた高齢女性2人がトラックにはねられて死亡しました。警察は、現場から走り去ったトラックを、相模原市の会社のものと特定し、関係者から事情を聴いています。【画",
-          "link": "https://news.yahoo.co.jp/articles/25e832cfc6168178f6871f3089765693ce808f99?source=rss",
+          "publishedAt": "2026-11-14T01:14:08Z",
+          "excerpt": "安保3文書の年内改定に向けて、超党派の議員連盟は退職自衛隊員や家族への支援策強化を求める提言を取りまとめ、小泉防衛大臣に手渡しました。中谷元議連会長「隊員こそ防衛力の中核であって、いかにこういう少子化",
+          "link": "https://news.yahoo.co.jp/articles/781773deccef39721ca752c76634b995ebc570db?source=rss",
           "translationStatus": "translated",
-          "titleJa": "海老名ひき逃げ2人死亡、トラック関係者を聴取",
+          "titleJa": "超党派議連、退職自衛隊員と家族への支援強化を提言 防衛大臣に手交",
           "summaryJa": [
-            "13日午後、神奈川県海老名市で横断歩道を渡っていた高齢女性2人がトラックにはねられ死亡しました。",
-            "トラックは止まる気配なく現場から走り去ったとみられています。",
-            "警察は、このトラックを相模原市の会社のものと特定し、関係者から事情を聴いています。"
+            "超党派の議員連盟が、退職自衛隊員とその家族への支援策強化を求める提言をまとめました。",
+            "この提言は、安保3文書の年内改定に向けた動きの中で、小泉防衛大臣に手渡されました。",
+            "議連会長は、隊員が防衛力の中核であり、少子化の状況下での支援の重要性を強調しました。",
+            "提言は、自衛隊員の生活基盤の安定と、その家族へのサポート充実を目指すものです。"
           ]
         },
         {
-          "title": "「性的ディープフェイク」中高生の被害増 友人間で被害 SNS投稿も 埼玉県警が注意喚起(テレビ朝日系（ANN）)",
+          "title": "「31万いいね！」を集めた“ただの風景写真”→実は…脳がバグる“究極の壁紙”!?「違和感無さすぎて一瞬分からなかった…」「傑作だね！」世界中で驚きと絶賛の嵐(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T14:59:48Z",
-          "excerpt": "中高生の間で「性的ディープフェイク」の被害が増えていることを受け、埼玉県警などは中学校を訪れて被害の防止を呼び掛けました。 生成AIなどを利用して実在する人の画像を性的なものに加工する「性的ディープフ",
-          "link": "https://news.yahoo.co.jp/articles/153c5c265bac905be4d5070841d47a043662eb0e?source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-14T01:12:16Z",
+          "excerpt": "デスクの上にあるはずのモニターが、まるで“透過“したかのように背景と完全に同化。そんな目を疑う光景を収めた写真に、SNSでは「違和感無さすぎて一瞬分からなかった…」「傑作だね！」など驚きと絶賛の声が相",
+          "link": "https://news.yahoo.co.jp/articles/92261afc8de35e29476e2ce1184d94e9e1225fe1?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "脳が錯覚する「究極の壁紙」が話題、モニターが背景と同化",
+          "summaryJa": [
+            "デスク上のモニターが背景と完全に同化しているように見える写真がSNSで話題を集めています。",
+            "この写真は「究極の壁紙」として31万以上の「いいね！」を獲得。",
+            "ユーザーからは「違和感無さすぎて一瞬分からなかった」「傑作だね」といった驚きと絶賛の声が寄せられています。",
+            "視覚的な錯覚を利用したユニークな表現が世界中で注目されています。"
+          ]
         },
         {
-          "title": "海老名市で高齢女性2人死亡ひき逃げ事件 逃走したとみられるトラック発見(テレビ朝日系（ANN）)",
+          "title": "大手損保 タマホームでの新規販売停止の方向(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T14:55:37Z",
-          "excerpt": "神奈川県海老名市で女性2人がトラックにひかれて死亡したひき逃げ事件で、警察は現場から逃走したとみられるトラックを発見し、関係者から話を聴いています。 13日午後3時すぎ、海老名市下今泉の交差点で、「ト",
-          "link": "https://news.yahoo.co.jp/articles/22092a885be45616ca2b29e769c44df833576c6f?source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-14T01:03:15Z",
+          "excerpt": "タマホームの社員による火災保険金の不正請求問題をうけ、大手損害保険3社は、タマホームによる火災保険の新規販売を停止させる方向で検討に入ったことがわかりました。【映像】大手損保3社 火災保険の新規販売停",
+          "link": "https://news.yahoo.co.jp/articles/651626a3f452126cf322677fb17fabdca7816a0b?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "大手損保3社、タマホームでの火災保険新規販売停止を検討",
+          "summaryJa": [
+            "タマホームの社員による火災保険金の不正請求問題を受け、大手損害保険3社が対応を検討しています。",
+            "各社は、タマホームを通じた火災保険の新規販売を停止する方向で検討に入ったことが明らかになりました。",
+            "この問題は、保険業界における信頼性に関わる重大な事態として受け止められています。",
+            "今後のタマホームの火災保険販売体制に大きな影響を与える可能性があります。"
+          ]
         },
         {
-          "title": "50歳で出産・野田聖子議員（66）、障害のある15歳長男の成長した姿を公開「お兄ちゃんになったなー」(ABEMA TIMES)",
+          "title": "「KUMON」で異臭騒ぎ 4人搬送「鼻をつくようなにおいがする」(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-13T14:27:17Z",
-          "excerpt": "自民党の野田聖子衆議院議員が、障害のある15歳の長男・真輝さんの成長した姿を公開した。【映像】野田聖子と障害のある15歳息子の2ショット（複数カット） 2011年1月、50歳の時に長男・真輝さんを出産",
-          "link": "https://news.yahoo.co.jp/articles/81fee2dd748afe5ff74751ca85ca5d77e4c111bf?source=rss",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-14T01:03:15Z",
+          "excerpt": "東京・国分寺市の学習塾で、異臭がするとの通報があり、4人が病院に搬送されました。【映像】国分寺市の学習塾で異臭 4人搬送 きのう午後5時前に、国分寺市東恋ヶ窪の学習塾「KUMON」の教室で、「鼻をつく",
+          "link": "https://news.yahoo.co.jp/articles/cbec9ca814fcacc317d29f556dddeb3f3d0671e4?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "国分寺市の学習塾「KUMON」で異臭騒ぎ、4人が病院搬送",
+          "summaryJa": [
+            "東京・国分寺市にある学習塾「KUMON」の教室で、鼻をつくような異臭がするとの通報がありました。",
+            "通報を受け、消防や警察が出動し、現場の状況を確認。",
+            "この異臭により、体調不良を訴えた4人が病院に搬送されました。",
+            "異臭の原因については現在調査が進められています。"
+          ]
+        },
+        {
+          "title": "戦死した日本兵「100人の墓」うち30基が放置…戦後80年で“無縁化” 「勝手に撤去できない」寺が直面する“法的手続き”の壁(弁護士JPニュース)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-14T01:00:52Z",
+          "excerpt": "全国で相続や墓じまいの問題が語られるなか、福井県越前市にある寺の住職は、戦後80年以上が経過した今も「戦没者の墓」のゆくえに頭を悩ませている。【地図】福井県越前市・創建約700年の龍泉寺戦時中に建てら",
+          "link": "https://news.yahoo.co.jp/articles/905c0cadb2cdd50a71376892ee4aa02d5aa41a5a?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "戦没者墓30基が無縁化、撤去困難に 福井の寺が直面する課題",
+          "summaryJa": [
+            "福井県越前市にある寺で、戦死した日本兵100人の墓のうち約30基が戦後80年を経て無縁化しています。",
+            "寺の住職は、これらの戦没者墓のゆくえについて頭を悩ませています。",
+            "法的手続きの壁があり、寺が勝手に墓を撤去することができない状況です。",
+            "全国で墓じまいが問題となる中、戦没者墓の管理も新たな課題となっています。"
+          ]
+        },
+        {
+          "title": "【SDGs】 卵殻膜から生まれた繊維が導く未利用資源の可能性(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-14T01:00:23Z",
+          "excerpt": "廃棄される卵の殻に新たな価値を見いだした古賀啓太さん。卵の殻は、日本国内だけでも膨大な量が廃棄されています。そこで古賀さんたちは、卵の殻の内側にある薄い皮「卵殻膜」に着目し、独自の技術で繊維素材へと生",
+          "link": "https://news.yahoo.co.jp/articles/1f1ef1e67e9a0280f098838ff613b81ac9115497?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "廃棄卵殻膜から新繊維素材開発、未利用資源に新たな価値",
+          "summaryJa": [
+            "廃棄される卵の殻の内側にある「卵殻膜」から、新たな繊維素材が開発されました。",
+            "古賀啓太さんらが独自の技術で卵殻膜を繊維化し、未利用資源に価値を見出しています。",
+            "日本国内では膨大な量の卵の殻が廃棄されており、その有効活用が期待されます。",
+            "この取り組みはSDGsにも貢献し、持続可能な社会の実現に向けた可能性を示しています。"
+          ]
+        },
+        {
+          "title": "養護、軽費老人ホームの運営費基準額改定を検討〈厚労省〉(福祉新聞WEB)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-14T01:00:11Z",
+          "excerpt": "厚生労働省は年度末に向けて、養護老人ホームと軽費老人ホーム（ケアハウス）の運営費基準額の改定を検討している。基準額は自治体が両ホームの運営費を決める際のベースとなっているもので、改定されると養護老人ホ",
+          "link": "https://news.yahoo.co.jp/articles/417fb1fd92053ad62ebcf3ac6306acddb99ffedb?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "厚労省、養護・軽費老人ホーム運営費基準額の改定を検討",
+          "summaryJa": [
+            "厚生労働省は、年度末に向けて養護老人ホームと軽費老人ホーム（ケアハウス）の運営費基準額の改定を検討しています。",
+            "この基準額は、自治体が両施設の運営費を決定する際の基礎となるものです。",
+            "改定が実現すれば、各施設の運営に影響を与える可能性があります。",
+            "高齢者福祉施設の安定的な運営とサービス向上を目指す動きと見られます。"
+          ]
+        },
+        {
+          "title": "「死ね」「うざい」と言われ、約2年不登校…江戸川区の調査委「原因はいじめ」、学校の対応に問題(弁護士ドットコムニュース)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-14T01:00:00Z",
+          "excerpt": "「死ねと言われたから学校に行きたくない」東京都江戸川区の中学1年生だった女子生徒は、そう両親に打ち明けた。何があったのかを口でうまく説明できず、同級生から言われた言葉を携帯電話に打ち込んだ。その後、約",
+          "link": "https://news.yahoo.co.jp/articles/bc7b05fd749c5ab91d15f6233ba57c6e6eecdda1?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "江戸川区の中学生、いじめで2年不登校 調査委が学校対応に問題指摘",
+          "summaryJa": [
+            "東京都江戸川区の中学1年生だった女子生徒が、同級生から「死ね」「うざい」などの言葉を言われ、約2年間不登校となりました。",
+            "江戸川区の調査委員会は、不登校の原因をいじめと認定しました。",
+            "また、学校の対応にも問題があったと指摘しています。",
+            "いじめ問題への学校の適切な対応と再発防止が求められています。"
+          ]
         }
       ]
     },
@@ -220,144 +302,131 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-13T17:07:00Z",
-          "excerpt": "Also in Weekend Reads: Other AI stocks, tips for open-enrollment season and advice from the Moneyist.",
-          "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "Nvidia株はどこまで下がれば「お買い得」となるか？",
-          "summaryJa": [
-            "Nvidia株の今後の動向について、どこまで下落すれば非常に魅力的な投資対象となるかを探る記事です。",
-            "週末の読み物として、他のAI関連株の分析も含まれています。",
-            "また、オープン登録期間に向けたヒントや、金融専門家からのアドバイスも提供されます。"
-          ]
-        },
-        {
-          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+          "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-13T17:06:57Z",
-          "excerpt": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed...",
-          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+          "publishedAt": "2026-11-14T01:21:50Z",
+          "excerpt": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+          "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
           "translationStatus": "translated",
-          "titleJa": "ベッセント氏、Nvidia製チップの中国への「流出」をルトニック商務長官の責任と非難",
+          "titleJa": "米FAA、全米の離陸停止を解除 週末まで欠航影響続く",
           "summaryJa": [
-            "ベッセント氏は、Nvidia製チップが中国へ流出している問題について、ルトニック商務長官の責任を追及しています。",
-            "この問題は、Nvidiaの技術が意図せず中国に渡っている可能性を示唆しています。",
-            "一方、Nvidiaのジェンスン・フアンCEOは、女性との関係が精査された後、不倫を認めた数日後に辞任しました。",
-            "これらの出来事が、同社を取り巻く状況に影響を与えています。"
+            "米連邦航空局（FAA）は金曜午後、全米で離陸停止措置を発令し、数千便の出発便に混乱をもたらしました。",
+            "停止措置は4時間後に解除されました。",
+            "しかし、フライトの欠航は週末まで続く見込みです。"
           ]
         },
         {
-          "title": "If you could change one thing about caregiving, what would it be?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-13T17:01:00Z",
-          "excerpt": "‘Take Me Home’ offers a view of how one family faces caregiving issues and finds solutions.",
-          "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "介護について一つだけ変えられるなら、あなたは何を変えますか？",
-          "summaryJa": [
-            "介護に関する課題と解決策について考える記事です。",
-            "「Take Me Home」という作品を通して、ある家族が介護問題にどう向き合い、解決策を見つけるかを紹介します。",
-            "介護の現状と、改善の可能性について読者に問いかけます。"
-          ]
-        },
-        {
-          "title": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+          "title": "SpaceX launches Starship in key test flight of massive rocket",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-13T16:54:40Z",
-          "excerpt": "Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.",
-          "link": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
-          "translationStatus": "translated",
-          "titleJa": "データセンター減速懸念は過剰反応か、不安の中で買うべき2銘柄",
-          "summaryJa": [
-            "データセンターの成長減速に対する懸念は、過剰に評価されている可能性があると指摘されています。",
-            "EEI会議で話を聞いた電力会社のCEOは誰も、電力需要の成長予測の減速を予想していません。",
-            "この状況下で、購入を推奨される2つの銘柄が紹介されます。"
-          ]
+          "publishedAt": "2026-11-14T01:18:51Z",
+          "excerpt": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch sit...",
+          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+          "translationStatus": "failed"
         },
         {
-          "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-13T16:54:00Z",
-          "excerpt": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
-          "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "SpaceX、ロケット工学の「聖杯」に挑む",
-          "summaryJa": [
-            "SpaceXが、ロケット工学における「聖杯」とも称される偉業に挑戦しようとしています。",
-            "アナリストは、金曜日に予定されているスターシップの打ち上げの重要性を強調しています。",
-            "この打ち上げは、宇宙開発の歴史において極めて重要な意味を持つとされています。"
-          ]
-        },
-        {
-          "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+          "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-13T16:49:13Z",
-          "excerpt": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-          "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "publishedAt": "2026-11-14T01:04:32Z",
+          "excerpt": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+          "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-14T00:40:00Z",
+          "excerpt": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fue...",
+          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "Microsoft、メール配信とサービス可用性が「改善中」と発表",
+          "titleJa": "米FAA、全米で異例の離陸停止措置 1万便超に遅延",
           "summaryJa": [
-            "Microsoftは、メール配信とサービス可用性がより多くのインフラで改善していると発表しました。",
-            "木曜日と金曜日に発生したシステム障害は、Outlook、Teams、365などのサービス利用者に影響を与えました。",
-            "同社は、影響を受けたサービスの復旧作業を進めていることを示唆しています。"
+            "米連邦航空局（FAA）は、全米で異例の離陸停止措置を発令しました。",
+            "これまでに1万便以上が遅延しています。",
+            "同局は「異例の状況」を理由に挙げていますが、国土安全保障省のマリン長官は攻撃の兆候はないと述べています。"
+          ]
+        },
+        {
+          "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-13T23:54:36Z",
+          "excerpt": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia、ジェンスン・フアン氏との関係に終止符 ワシントンでの波紋広がる",
+          "summaryJa": [
+            "Nvidiaはジェンスン・フアン氏との関係を終了しました。",
+            "共和党主導の議会は、民主党が1月に主導権を握る前に、フアン氏をワシントンに招致したいと考えています。",
+            "この件に関するワシントンでの影響は始まったばかりです。"
+          ]
+        },
+        {
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-13T23:42:18Z",
+          "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties...",
+          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+          "translationStatus": "translated",
+          "titleJa": "Nvidiaスパイ疑惑、ルトニック商務長官に新たな焦点 家族企業とNvidiaの密接な関係",
+          "summaryJa": [
+            "Nvidiaのジェンスン・フアンCEOの辞任により、ハワード・ルトニック商務長官とその家族の財政的つながりに新たな精査が向けられています。",
+            "ルトニック氏の息子たちの企業は、このチップメーカーと深いつながりを持っています。",
+            "長官はNvidiaのスパイ疑惑に関して質問に直面しています。"
           ]
         },
         {
           "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-13T16:30:00Z",
+          "publishedAt": "2026-11-13T23:12:00Z",
           "excerpt": "There is already a demographic ‘run’ on Social Security.",
           "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "「100歳まで生きるなんて恐ろしい」：社会保障制度は巨大なポンジ・スキームなのか？",
+          "titleJa": "「100歳まで生きると思うと恐ろしい」：社会保障制度はポンジースキームか",
           "summaryJa": [
-            "100歳まで生きることへの不安と、社会保障制度の持続可能性について問いかける記事です。",
-            "社会保障制度には、すでに人口動態上の「取り付け騒ぎ」が発生していると指摘されています。",
-            "この問題は、制度の将来に対する懸念を浮き彫りにしています。"
+            "「100歳まで生きるという考えは私を恐れさせる」という声が上がっています。",
+            "社会保障制度が巨大なポンジースキームではないかという疑問が提起されています。",
+            "すでに社会保障制度に対して人口動態上の「取り付け騒ぎ」が発生しています。"
+          ]
+        },
+        {
+          "title": "4 expert tips for signing up for Medicare",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-13T22:45:00Z",
+          "excerpt": "A day in the life of a Medicare counselor",
+          "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "メディケア加入のための専門家による4つのヒント",
+          "summaryJa": [
+            "メディケアへの加入について、専門家からのヒントが提供されています。",
+            "具体的には、4つの重要なアドバイスが紹介されています。",
+            "これらの情報は、メディケアカウンセラーの日常業務から得られたものです。"
           ]
         },
         {
           "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-13T16:26:00Z",
-          "excerpt": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+          "publishedAt": "2026-11-13T22:21:00Z",
+          "excerpt": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
           "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "Nvidia株、14年ぶりの連敗記録：次に来るものは何か？",
+          "titleJa": "Nvidia株、14年ぶりの連続下落を記録 今後の展開に注目",
           "summaryJa": [
-            "Nvidia株が14年ぶりの連敗記録を更新し、市場に動揺が広がっています。",
-            "今週だけで時価総額から6570億ドルが失われ、株価は6週連続で下落しています。",
-            "この急激な下落が、今後のNvidia株にどのような影響を与えるか注目されています。"
+            "Nvidiaの株価は、この14年間で前例のない連続下落を記録しています。",
+            "今週、同社は時価総額から5730億ドルを失いました。",
+            "これは6週連続の株価下落となります。"
           ]
         },
         {
-          "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-13T16:10:00Z",
-          "excerpt": "Many service members face an often invisible financial trap when they step out of uniform.",
-          "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+          "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-13T22:18:43Z",
+          "excerpt": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
           "translationStatus": "translated",
-          "titleJa": "車上生活から信用スコア756点へ：ある退役軍人の財政再建術",
+          "titleJa": "Nvidia株、時価総額1.7兆ドル減少 2012年以来最長の週次下落",
           "summaryJa": [
-            "車上生活を送っていた一人の退役軍人が、信用スコアを756点まで回復させた道のりを紹介します。",
-            "多くの軍人が退役後、目に見えない財政的困難に直面することがあります。",
-            "この記事は、困難な状況から財政を立て直すためのヒントを提供します。"
-          ]
-        },
-        {
-          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-13T16:01:00Z",
-          "excerpt": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "「もう飛行機はうんざり」：優先搭乗したのに頭上の荷物入れが満杯、騙されたのか？",
-          "summaryJa": [
-            "優先搭乗券を購入したにもかかわらず、機内の頭上荷物入れが満杯で荷物を置けなかった体験談です。",
-            "筆者は、優先搭乗のメリットが感じられず、騙されたのではないかと疑問を呈しています。",
-            "次回は、好きな時に搭乗し、空いている場所に荷物を置くという別の方法を試すことを検討しています。"
+            "Nvidiaの株価は、時価総額が1.7兆ドル減少する中、2012年以来最長の週次下落を記録しました。",
+            "ジェンスン・フアン氏の辞任が、Nvidiaの市場での苦境に拍車をかけました。",
+            "同社の株価は10月初旬からすでに下落傾向にありました。"
           ]
         }
       ]
@@ -367,17 +436,115 @@
       "name": "AIニュース",
       "items": [
         {
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-13T23:49:11Z",
+          "excerpt": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the i...",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "translationStatus": "translated",
+          "titleJa": "アマゾン、世界のオンライン商品データ索引化を計画",
+          "summaryJa": [
+            "アマゾンは、インターネット上で販売されるあらゆる商品のデータを収集する計画を進めています。",
+            "これには、アマゾン自身が販売していない商品も含まれます。",
+            "このデータは、世界中のオンラインショッピング情報を網羅する巨大なデータベースとして構築される予定です。"
+          ]
+        },
+        {
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-13T22:43:00Z",
+          "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and l...",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "translationStatus": "translated",
+          "titleJa": "ジェンスン・フアン氏退任でAIスタートアップ資金調達に大きな影響",
+          "summaryJa": [
+            "Nvidiaはジェンスン・フアン氏の指揮下で、AIスタートアップに数百億ドルを投資してきました。",
+            "しかし、同氏の退任により、AIスタートアップへの資金供給に大きな穴が開くと見られています。",
+            "ベンチャーキャピタルや創業者たちは、今後の投資額が減少する可能性に備えています。"
+          ]
+        },
+        {
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-13T20:45:10Z",
+          "excerpt": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out s...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "translationStatus": "translated",
+          "titleJa": "ChatGPTウォレット、OpenAIのAIエージェントによる購入を可能に",
+          "summaryJa": [
+            "OpenAIは今年初めにAIエージェントプラットフォーム「Dots」を立ち上げました。",
+            "今回、そのエージェントが利用できる「ChatGPTウォレット」を発表しました。",
+            "このウォレットにより、AIエージェントがユーザーに代わって商品を購入できるようになります。"
+          ]
+        },
+        {
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-13T19:37:57Z",
+          "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+          "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "translationStatus": "translated",
+          "titleJa": "AIエージェントスタートアップLangChain、評価額30億ドルに到達",
+          "summaryJa": [
+            "AIエージェントのスタートアップであるLangChainが、評価額30億ドルに達しました。",
+            "同社は、モデルやプラットフォームに依存しないエージェント管理ツール「LangSmith」を提供しています。",
+            "現在、LangSmithの顧客数は7,000社に上ると報告されています。"
+          ]
+        },
+        {
+          "title": "What’s really at stake in the Jensen Huang saga",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-13T19:17:15Z",
+          "excerpt": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most i...",
+          "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "translationStatus": "translated",
+          "titleJa": "ジェンスン・フアン氏辞任、AI業界への影響に注目",
+          "summaryJa": [
+            "NvidiaのCEOであるジェンスン・フアン氏を巡る騒動の一部が終結しました。",
+            "同氏は木曜日に、AI業界で最も影響力のある地位から辞任しました。",
+            "この辞任がAI業界全体にどのような影響を与えるか、注目が集まっています。"
+          ]
+        },
+        {
+          "title": "Let’s talk about Jensen Huang’s many affairs!",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-13T19:07:12Z",
+          "excerpt": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is...",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "translationStatus": "translated",
+          "titleJa": "ジェンスン・フアン氏の複数の関係について",
+          "summaryJa": [
+            "ジェンスン・フアン氏に関する複数の関係について、現在詳細な情報が不足しています。",
+            "通常、ニュースイベントに関する質問にお答えしていますが、本件については不明な点が多い状況です。",
+            "現時点では、具体的な内容についてお答えできる情報がありません。"
+          ]
+        },
+        {
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-13T18:40:30Z",
+          "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+          "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "translationStatus": "translated",
+          "titleJa": "中国の最先端AIモデル、輸出禁止のNvidia製チップで訓練か",
+          "summaryJa": [
+            "新たな調査により、中国の最も強力なAIモデルが、輸出が禁止されているNvidia製チップで訓練されたことが示されました。",
+            "これは、中国のAI開発における特定のチップの使用実態を明らかにするものです。",
+            "輸出規制対象のNvidia製チップが、中国の最先端AIモデルの基盤となっていることが判明しました。"
+          ]
+        },
+        {
           "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
           "source": "TechCrunch AI",
           "publishedAt": "2026-11-13T16:00:12Z",
           "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
           "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "translationStatus": "translated",
-          "titleJa": "ChatGPTに新ウォレット機能、AIがユーザーに代わり買い物代行",
+          "titleJa": "ChatGPTの新ウォレット、AIエージェントが代理で買い物・決済",
           "summaryJa": [
-            "ChatGPTに「ウォレット」機能が追加されました。",
-            "この機能により、AIエージェントがユーザーに代わって商品の購入や決済を行うことが可能になります。",
-            "まずは米国のPro版購読者向けに限定的に展開が開始されます。"
+            "ChatGPTの新しいウォレット機能により、AIエージェントがユーザーに代わって買い物をし、決済できるようになります。",
+            "この機能はまず、米国のProサブスクライバー向けに限定的に展開されます。",
+            "AIエージェントが、オンラインショッピングのプロセスを自動化する新たな一歩となります。"
           ]
         },
         {
@@ -387,25 +554,11 @@
           "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race...",
           "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏スキャンダル：辞任までの経緯",
+          "titleJa": "ジェンスン・フアン氏スキャンダル：辞任と国家安全保障への影響",
           "summaryJa": [
-            "Nvidiaのジェンスン・フアン氏が不倫問題を受けて同社を辞任しました。",
+            "ジェンスン・フアン氏が不倫問題を受けてNvidiaを辞任しました。",
             "この辞任は、米国と中国の競争が激化する中で、国家安全保障に影響を及ぼす可能性があります。",
-            "フアン氏の辞任に至るまでの経緯が報じられています。"
-          ]
-        },
-        {
-          "title": "What’s really at stake in the Jensen Huang saga",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-13T14:56:10Z",
-          "excerpt": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most i...",
-          "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-          "translationStatus": "translated",
-          "titleJa": "Nvidia CEOジェンスン・フアン氏辞任、騒動の背景と影響",
-          "summaryJa": [
-            "NvidiaのCEO、ジェンスン・フアン氏が木曜日に辞任しました。",
-            "これは、AI分野で最も影響力のある企業の一つであるNvidiaを巡る騒動の一端が終結したことを示します。",
-            "フアン氏の辞任がもたらす影響について関心が集まっています。"
+            "スキャンダルの詳細と経緯が、タイムライン形式で報じられています。"
           ]
         },
         {
@@ -415,96 +568,11 @@
           "excerpt": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
           "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
           "translationStatus": "translated",
-          "titleJa": "ElevenLabsが新アプリ「ElevenAI」発表、会議の議事録作成と音声入力に対応",
+          "titleJa": "ElevenLabs、会議の議事録作成と音声入力機能を統合した新アプリを発表",
           "summaryJa": [
-            "ElevenLabsが、新アプリ「ElevenAI」を発表しました。",
-            "このアプリは、会議の議事録作成と音声入力機能を統合しています。",
-            "チームや企業での利用を目的として開発されました。"
-          ]
-        },
-        {
-          "title": "Let’s talk about Jensen Huang’s many affairs!",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-13T14:02:40Z",
-          "excerpt": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-          "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏の複数の不倫問題について",
-          "summaryJa": [
-            "Nvidiaのジェンスン・フアン氏を巡る複数の不倫問題が報じられています。",
-            "この件に関して、現時点では多くの疑問が残されており、明確な情報が不足しています。",
-            "騒動の全体像はまだ明らかになっていません。"
-          ]
-        },
-        {
-          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-13T12:52:19Z",
-          "excerpt": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his d...",
-          "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-          "translationStatus": "translated",
-          "titleJa": "Nvidiaの混乱、イスラエルVCは新たな機会と捉える",
-          "summaryJa": [
-            "NvidiaがAI分野で強い影響力を持つこと、そしてイスラエルにおけるその重要性から、同国のスタートアップ界ではNvidiaの混乱の影響が懸念されています。",
-            "しかし、イスラエルのベンチャーキャピタル（VC）は、この状況を新たな挑戦者にとっての機会と捉えています。",
-            "AI市場における勢力図の変化に注目が集まっています。"
-          ]
-        },
-        {
-          "title": "Jensen Huang didn’t show confidence in his successor, report says",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-13T12:28:23Z",
-          "excerpt": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-          "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-          "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏、後継者に不信感か",
-          "summaryJa": [
-            "報道によると、ジェンスン・フアン氏は自身の後継者に対して信頼を示していません。",
-            "夏の会議中、フアン氏は後継者であるクレス氏を「ヘッドライトに照らされた鹿」と表現したと報じられています。",
-            "この発言は、後継者への懸念を示唆するものと見られています。"
-          ]
-        },
-        {
-          "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-13T00:23:32Z",
-          "excerpt": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI age...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-          "translationStatus": "translated",
-          "titleJa": "ClaudeのAIエージェント「Duet」は神経質ながらも有用",
-          "summaryJa": [
-            "Anthropic社のAIエージェント「Claude Duet」が注目されています。",
-            "通常の製品とは異なり、Duetは自身の使用体験の記述を助ける機能を提供します。",
-            "神経質な側面を持ちつつも、その有用性が評価されています。"
-          ]
-        },
-        {
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T22:42:51Z",
-          "excerpt": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged...",
-          "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-          "translationStatus": "translated",
-          "titleJa": "民主党、Nvidiaの中国販売とトランプ氏との関係で調査開始",
-          "summaryJa": [
-            "民主党がNvidiaに対する議会調査を開始しました。",
-            "調査はNvidiaの中国での販売活動と、トランプ氏との取引に関するものです。",
-            "フアン氏とトランプ氏の「策略」について厳しい書簡が送付されました。",
-            "これは、疑惑の報道以来、2度目の議会調査となります。"
-          ]
-        },
-        {
-          "title": "Muse can now place calls to US businesses — if you pay",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T22:22:28Z",
-          "excerpt": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-          "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-          "translationStatus": "translated",
-          "titleJa": "MuseのAI、米国企業への発信が可能に（有料）",
-          "summaryJa": [
-            "MuseのAIが、米国企業への発信（アウトバウンドコール）機能を提供開始しました。",
-            "この新機能は有料サービスとして提供されます。",
-            "AIがビジネスコールを代行する新たな選択肢となります。"
+            "ElevenLabsは、チームおよび企業向けの新しいアプリ「ElevenAI」を発表しました。",
+            "このアプリは、会議の議事録作成機能と音声入力機能を統合しています。",
+            "チームの生産性向上を目的としており、効率的な情報共有を支援します。"
           ]
         }
       ]
@@ -514,143 +582,143 @@
       "name": "教育ニュース",
       "items": [
         {
-          "title": "Washington Schools to Sue the State for Failing to Fund Public Education",
+          "title": "Jeffco Public Schools Ballot Issue 5A passing by 327 votes and headed for a recount",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-13T23:33:45Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/colorado/2026/11/13/jeffco-public-schools-ballot-issue-5a-headed-for-recount-election-results/",
+          "translationStatus": "translated",
+          "titleJa": "ジェフコ公立学校の住民投票案5A、327票差で可決も再集計へ",
+          "summaryJa": [
+            "ジェフコ公立学校の住民投票案5Aが、327票差という僅差で可決されました。",
+            "この結果を受け、再集計が行われる予定です。",
+            "地域の教育財政に影響を与える可能性のある重要な決定として注目されています。"
+          ]
+        },
+        {
+          "title": "Proposition NN and Amendment 87 reverse years of K-12 funding failure at the ballot box",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-13T23:08:30Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/colorado/2026/11/13/why-proposition-nn-and-amendment-87-succeeded/",
+          "translationStatus": "translated",
+          "titleJa": "住民投票案NNと修正案87、K-12教育資金不足を是正",
+          "summaryJa": [
+            "住民投票案NNと修正案87が可決され、K-12教育への資金提供における長年の失敗が是正されることになりました。",
+            "これにより、初等・中等教育への資金不足が改善される見込みです。",
+            "投票箱での決定が、教育財政に大きな転換をもたらしました。"
+          ]
+        },
+        {
+          "title": "Louisiana System Head Resigns Amid Tax Issue",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-11-13T22:40:00Z",
+          "excerpt": "Louisiana System Head Resigns Amid Tax Issue Josh Moody Fri, 11/13/2026 - 05:40 PM Byline(s) Josh Moody",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/11/13/louisiana-system-head-resigns-amid-tax-issue",
+          "translationStatus": "translated",
+          "titleJa": "ルイジアナ州教育システム長、税務問題で辞任",
+          "summaryJa": [
+            "ルイジアナ州の教育システム責任者が、税務問題を巡り辞任しました。",
+            "この辞任は、同州の教育行政に影響を与える可能性があります。",
+            "詳細は明らかにされていませんが、税金に関する問題が背景にあると報じられています。"
+          ]
+        },
+        {
+          "title": "Florida University System Punts on Restoring Admission for Some Noncitizens",
+          "source": "Inside Higher Ed",
+          "publishedAt": "2026-11-13T22:40:00Z",
+          "excerpt": "Florida University System Punts on Restoring Admission for Some Noncitizens Olivia.sanchez Fri, 11/13/2026 - 05:40 PM The board governing F...",
+          "link": "https://www.insidehighered.com/news/governance/trustees-regents/2026/11/13/florida-university-system-punts-admission-noncitizens",
+          "translationStatus": "translated",
+          "titleJa": "フロリダ州大学システム、一部非市民の入学再開を棚上げ",
+          "summaryJa": [
+            "フロリダ州の大学システムが、一部の非市民に対する入学許可の再開について決定を棚上げしました。",
+            "この問題は、同州の高等教育における入学政策に影響を及ぼします。",
+            "統括委員会がこの件に関する判断を先送りした形です。"
+          ]
+        },
+        {
+          "title": "U.S. Likely to Lose Measles Elimination Status Amid Multiple, Fatal Outbreaks",
           "source": "The 74",
-          "publishedAt": "2026-11-13T15:30:00Z",
-          "excerpt": "Three large Washington school districts are preparing to sue the state, alleging it is once again failing to fully fund basic education. Sc...",
-          "link": "https://www.the74million.org/article/washington-schools-prepare-to-sue-the-state-for-failing-to-fund-public-education/",
+          "publishedAt": "2026-11-13T22:20:27Z",
+          "excerpt": "The United States is poised to lose its measles elimination status for the first time in 26 years, when the country first eradicated the hi...",
+          "link": "https://www.the74million.org/article/u-s-likely-to-lose-measles-elimination-status-amid-multiple-fatal-outbreaks/",
           "translationStatus": "translated",
-          "titleJa": "ワシントン州の学校、公教育資金不足で州を提訴へ",
+          "titleJa": "米国、複数のはしか流行で「排除国」の地位喪失の危機",
           "summaryJa": [
-            "ワシントン州の3つの大規模学区が、州を提訴する準備を進めている。",
-            "州が基本的な教育への資金提供を再び怠っていると主張している。",
-            "公教育の資金不足が問題視されている。"
+            "米国が、複数のはしかの致命的な流行を受け、「はしか排除国」の地位を失う可能性が高まっています。",
+            "これは、同国が26年前に排除を達成して以来、初めての事態となります。",
+            "公衆衛生当局は、感染拡大への警戒を強めています。"
           ]
         },
         {
-          "title": "With free-tuition promises, some colleges try to untangle confusion over what they cost",
-          "source": "The Hechinger Report",
-          "publishedAt": "2026-11-13T14:33:00Z",
-          "excerpt": "MIDDLEBURY, Vt. — Stately buildings of Vermont limestone surround meticulously tended lawns at the edge of a New England village that looks...",
-          "link": "https://hechingerreport.org/with-free-tuition-promises-some-colleges-try-to-untangle-confusion-over-what-they-cost/",
+          "title": "Here’s how the Denver school board will narrow applicants for a vacant seat from 12 to 3 to 1",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-13T22:10:07Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/colorado/2026/11/13/how-denver-school-board-will-narrow-applicants-district-3-seat-vacancy/",
           "translationStatus": "translated",
-          "titleJa": "学費無料化を約束する大学、費用に関する混乱解消に努める",
+          "titleJa": "デンバー教育委員会、空席候補者を12名から1名に絞り込むプロセスを公表",
           "summaryJa": [
-            "一部の大学が学費無料化を約束しているが、その費用について混乱が生じている。",
-            "大学側は、学生や保護者が抱く費用に関する疑問や誤解を解消しようとしている。",
-            "実際の費用体系を明確にすることで、透明性を高める狙いがある。"
+            "デンバー教育委員会は、空席となっている委員の選出プロセスを明らかにしました。",
+            "当初12名いた候補者を3名に絞り込み、最終的に1名を選出する予定です。",
+            "この選考は、委員会の構成に重要な影響を与えます。"
           ]
         },
         {
-          "title": "Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools",
+          "title": "Feds Launch Investigations Into Albuquerque, Santa Fe Schools’ Gender Identity Policies",
           "source": "The 74",
-          "publishedAt": "2026-11-13T13:30:00Z",
-          "excerpt": "Consider the weekly parent-teacher group meeting in the library. The booster club that funds the band trip. The scholarship fund named afte...",
-          "link": "https://www.the74million.org/article/parent-civic-groups-raise-student-achievement-but-mostly-in-wealthier-schools/",
+          "publishedAt": "2026-11-13T19:30:00Z",
+          "excerpt": "The U.S. Department of Education announced Monday that it launched investigations into the Albuquerque and Santa Fe Public School districts...",
+          "link": "https://www.the74million.org/article/feds-launch-investigations-into-albuquerque-santa-fe-schools-gender-identity-policies/",
           "translationStatus": "translated",
-          "titleJa": "保護者・市民団体、生徒の学力向上に貢献も富裕層の学校に集中",
+          "titleJa": "米連邦政府、アルバカーキとサンタフェの学校の性自認政策を調査開始",
           "summaryJa": [
-            "保護者や市民団体が、生徒の学力向上に貢献しているという意見が示された。",
-            "しかし、その活動は主に裕福な地域の学校に集中している傾向がある。",
-            "図書館でのPTA会議やバンド旅行の資金提供、奨学金基金などが例として挙げられている。"
+            "米国教育省は、アルバカーキとサンタフェの公立学区における性自認政策について調査を開始しました。",
+            "この調査は、両学区の政策が連邦法に準拠しているかを確認するものです。",
+            "月曜日に発表され、教育現場における性自認の取り扱いが注目されています。"
           ]
         },
         {
-          "title": "A Virginia ‘School-Wide Read’ Has Sparked Engagement in Classes and Literacy",
+          "title": "NYC meets class size target, but only after state lowers the bar and city changes its math",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-13T19:13:17Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/newyork/2026/11/13/mamdani-class-size-law-compliance-2026/",
+          "translationStatus": "translated",
+          "titleJa": "ニューヨーク市、州の基準緩和と計算変更で学級規模目標を達成",
+          "summaryJa": [
+            "ニューヨーク市は学級規模の目標を達成しましたが、これは州が基準を緩和し、市が計算方法を変更した後のことです。",
+            "実質的な改善ではなく、基準の調整による達成と見られます。",
+            "この結果は、教育現場の状況を巡る議論を呼ぶ可能性があります。"
+          ]
+        },
+        {
+          "title": "AI tools might help teachers. Students? Not so much, research review finds",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-13T17:55:07Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/2026/11/13/ai-research-review-shows-tools-help-teachers-more-than-students/",
+          "translationStatus": "translated",
+          "titleJa": "AIツールは教師を助けるが、生徒への効果は限定的との研究結果",
+          "summaryJa": [
+            "ある研究レビューによると、AIツールは教師の業務を支援する可能性があります。",
+            "しかし、生徒に対する学習効果はそれほど大きくないことが判明しました。",
+            "教育現場でのAI導入において、その活用方法が課題となりそうです。"
+          ]
+        },
+        {
+          "title": "Miami-Dade District Seeks Microschools to Lease Empty Classroom Space",
           "source": "The 74",
-          "publishedAt": "2026-11-13T11:30:00Z",
-          "excerpt": "At one Virginia middle school, an annual school-wide book club has sparked student engagement, connection and increased interest in reading...",
-          "link": "https://www.the74million.org/article/a-virginia-school-wide-read-has-sparked-engagement-in-classes-and-literacy/",
+          "publishedAt": "2026-11-13T17:30:00Z",
+          "excerpt": "The Miami-Dade school district, one of the nation’s largest, is inviting independent microschools to lease empty classroom space — providin...",
+          "link": "https://www.the74million.org/article/miami-dade-district-seeks-microschools-to-lease-empty-classroom-space/",
           "translationStatus": "translated",
-          "titleJa": "バージニア州の中学校、全校読書活動で生徒の学習意欲と読書関心を向上",
+          "titleJa": "マイアミ・デイド学区、空き教室スペースをマイクロスクールに賃貸へ",
           "summaryJa": [
-            "バージニア州のある中学校で、毎年恒例の全校読書クラブが実施されている。",
-            "この活動が生徒の学習意欲や仲間とのつながりを促進している。",
-            "また、読書への関心を高める効果も報告されている。"
-          ]
-        },
-        {
-          "title": "One City’s Game Plan to Retain International Students",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "One City’s Game Plan to Retain International Students Johanna Alonso Fri, 11/13/2026 - 03:00 AM As the Trump administration narrows pathway...",
-          "link": "https://www.insidehighered.com/news/global/international-students-us/2026/11/13/one-citys-game-plan-retain-international-students",
-          "translationStatus": "translated",
-          "titleJa": "ある都市、留学生引き留め策を計画",
-          "summaryJa": [
-            "ある都市が、留学生を自国に留めるための戦略を策定している。",
-            "トランプ政権が留学生の経路を狭めている状況に対応する動きと見られる。",
-            "留学生の定着を促進し、都市の国際化や経済への貢献を維持する狙いがある。"
-          ]
-        },
-        {
-          "title": "Athletes Who Transfer More Than Once Less Likely to Graduate on Time",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "Athletes Who Transfer More Than Once Less Likely to Graduate on Time Susan H. Greenberg Fri, 11/13/2026 - 03:00 AM Byline(s) Susan H. Green...",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/11/13/athletes-multiple-transfers-have-lower-graduation-rates",
-          "translationStatus": "translated",
-          "titleJa": "複数回転校したアスリート、期限内卒業の可能性が低い傾向",
-          "summaryJa": [
-            "複数回大学を転校したアスリートは、期限内に卒業する可能性が低いことが示された。",
-            "これは、学業と競技生活の両立における課題を示唆している。",
-            "転校が学業成績や卒業時期に与える影響について、さらなる検討が必要とされる。"
-          ]
-        },
-        {
-          "title": "For Ousted Professors, Texas’s Blue Wave Could Help Their Cases",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "For Ousted Professors, Texas’s Blue Wave Could Help Their Cases Emma Whitford Fri, 11/13/2026 - 03:00 AM Starting in January, Democrats wil...",
-          "link": "https://www.insidehighered.com/news/faculty/academic-freedom/2026/11/13/texass-blue-wave-could-help-ousted-professors-win-cases",
-          "translationStatus": "translated",
-          "titleJa": "テキサス州の「ブルーウェーブ」、解雇された教授らの訴訟に有利か",
-          "summaryJa": [
-            "テキサス州で民主党が勢力を増す「ブルーウェーブ」が、解雇された教授たちの訴訟に有利に働く可能性がある。",
-            "来年1月以降、民主党が州内で影響力を強めることで、状況が変化すると見られている。",
-            "教授らの解雇に関する問題が、政治的な変化によって新たな展開を迎えるかもしれない。"
-          ]
-        },
-        {
-          "title": "After Last Pick Declined, Iowa Board Hires Local Professor to Lead Civics Center",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "After Last Pick Declined, Iowa Board Hires Local Professor to Lead Civics Center Ryan Quinn Fri, 11/13/2026 - 03:00 AM Byline(s) Ryan Quinn",
-          "link": "https://www.insidehighered.com/news/government/state-policy/2026/11/13/iowa-board-hires-local-professor-lead-civics-center",
-          "translationStatus": "translated",
-          "titleJa": "アイオワ州委員会、辞退者後任に地元教授を公民教育センター長に任命",
-          "summaryJa": [
-            "アイオワ州の委員会は、公民教育センター長の候補者が辞退した後、新たな人選を行った。",
-            "その結果、地元の教授がセンター長として採用されることになった。",
-            "この任命により、公民教育の推進体制が確立される見込みである。"
-          ]
-        },
-        {
-          "title": "Trustees Grapple With Changing World of College Athletics",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "Trustees Grapple With Changing World of College Athletics Josh Moody Fri, 11/13/2026 - 03:00 AM They are facing a complex and costly colleg...",
-          "link": "https://www.insidehighered.com/news/governance/trustees-regents/2026/11/13/trustees-grapple-changing-world-college-athletics",
-          "translationStatus": "translated",
-          "titleJa": "大学理事会、変化する大学スポーツ界の課題に直面",
-          "summaryJa": [
-            "大学の理事会は、変化し続ける大学スポーツ界の課題に取り組んでいる。",
-            "彼らは複雑で費用のかかる大学スポーツの運営に直面している。",
-            "財政面や運営体制など、多岐にわたる問題への対応が求められている。"
-          ]
-        },
-        {
-          "title": "York College to Buy Penn State York Campus, Pending Board Approval",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-13T08:00:00Z",
-          "excerpt": "York College to Buy Penn State York Campus, Pending Board Approval Olivia.sanchez Fri, 11/13/2026 - 03:00 AM Byline(s) Olivia Sanchez",
-          "link": "https://www.insidehighered.com/news/quick-takes/2026/11/13/york-college-buy-penn-state-york-campus-pending-approval",
-          "translationStatus": "translated",
-          "titleJa": "ヨーク大学、ペンシルベニア州立ヨーク校キャンパス買収へ（理事会承認待ち）",
-          "summaryJa": [
-            "ヨーク大学が、ペンシルベニア州立大学ヨーク校のキャンパスを買収する計画を進めている。",
-            "この買収は、大学理事会の承認を条件としている。",
-            "承認されれば、ヨーク大学の教育資源や施設が拡充される可能性がある。"
+            "全米有数の規模を誇るマイアミ・デイド学区が、空き教室スペースの活用策を打ち出しました。",
+            "独立したマイクロスクールに対し、これらのスペースの賃貸を呼びかけています。",
+            "これにより、学区は資産の有効活用を図り、新たな教育機会を提供することを目指します。"
           ]
         }
       ]
@@ -676,7 +744,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 37,
+    "translatedItems": 47,
     "failedBatches": []
   }
 }
