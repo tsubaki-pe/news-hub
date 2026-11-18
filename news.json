@@ -1,130 +1,148 @@
 {
-  "generatedAt": "2026-11-17T18:38:42.567448Z",
+  "generatedAt": "2026-11-18T02:55:47.092870Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-          "source": "NPR World",
-          "publishedAt": "2026-11-17T18:34:31Z",
-          "excerpt": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf...",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "title": "ICE agents shove and pepper-spray pregnant woman",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T02:17:12Z",
+          "excerpt": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "イラン、バーレーンの米軍施設に3度目の攻撃 ドローン使用",
+          "titleJa": "妊娠中の女性にICE捜査官が暴行、催涙スプレー使用",
           "summaryJa": [
-            "イランは火曜日、バーレーンにある米国のレーダー施設に対しドローンを発射しました。",
-            "これは湾岸地域にある米軍標的への攻撃としては、最近数日間で3度目となります。",
-            "バーレーンは米海軍第5艦隊の拠点です。"
+            "アメリカで、妊娠中の女性がICE（移民税関執行局）の捜査官に暴行を受け、催涙スプレーをかけられました。",
+            "女性は捜査官に対し、自身が妊娠中であることを伝えていたと報じられています。",
+            "それにもかかわらず、女性は地面に押し倒されたとのことです。"
           ]
         },
         {
-          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "title": "What is Trump hoping to achieve at APEC meeting in China?",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T01:33:05Z",
+          "excerpt": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "トランプ米大統領、APECで中国首脳と会談へ プーチン氏との三者会談も",
+          "summaryJa": [
+            "トランプ米大統領は、中国で開催されるAPEC会議に出席する予定です。",
+            "会議では、今年3度目となる中国の習近平国家主席との会談が期待されています。",
+            "また、ロシアのプーチン大統領との三者首脳会談も予定されているとのことです。"
+          ]
+        },
+        {
+          "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T01:32:52Z",
+          "excerpt": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "アイルランドで米軍機を破壊した疑い、男を起訴",
+          "summaryJa": [
+            "アイルランドの空港で、米軍のC-130輸送機が破壊された事件で、48歳の男が起訴されました。",
+            "男は、夜間駐機中の米軍機に損害を与えた疑いが持たれています。",
+            "検察は、男が航空機を「破壊した」と主張しています。"
+          ]
+        },
+        {
+          "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T01:31:53Z",
+          "excerpt": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "米ミネソタ州でソマリア系米国人襲撃、男を起訴",
+          "summaryJa": [
+            "米ミネソタ州で、ソマリア系アメリカ人のライドシェア運転手が乗客に襲撃され、重体となっています。",
+            "運転手のモハメド・ユスフ氏は、暴行を受けたとされています。",
+            "この「残忍な攻撃」に関与したとして、男が起訴されました。"
+          ]
+        },
+        {
+          "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T01:28:53Z",
+          "excerpt": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "オックスフォード大学で抗議活動、盗用告発者が講演",
+          "summaryJa": [
+            "オックスフォード大学で、ジェイソン・アーデイ氏を盗用で告発したネイサン・コフナス氏がイベントで講演しました。",
+            "これに対し、数百人の人々が大学の外で抗議活動を行いました。",
+            "講演と抗議活動が同時に行われた形です。"
+          ]
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
           "source": "BBC News",
-          "publishedAt": "2026-11-17T18:27:27Z",
-          "excerpt": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-          "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T18:24:21Z",
-          "excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-18T01:18:18Z",
+          "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "Nvidia、元CEO復帰の圧力拒否 フアン氏に復帰要請殺到",
+          "titleJa": "Nvidia、好決算発表もファン氏の復帰は否定",
           "summaryJa": [
-            "Nvidiaの取締役会は、元最高経営責任者（CEO）の復帰を求める圧力を拒否しました。",
-            "しかし、ジェンスン・フアン氏は、投資家などから自身が復帰することを求める電話が殺到していると述べています。",
-            "フアン氏は、Nvidiaの「カムバック」を推進していると報じられています。"
+            "AIチップ大手Nvidiaは火曜日、好調な四半期決算を発表しました。",
+            "これは、ジェンスン・ファン氏が劇的に退任した後の発表となります。",
+            "同社は、ファン氏を復職させる意向はないと表明しました。"
           ]
         },
         {
-          "title": "Jensen Huang to testify before US House committees next month",
+          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T18:14:06Z",
-          "excerpt": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
-          "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Israeli forces invade Syrian village leaving homes damaged",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T17:57:20Z",
-          "excerpt": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Has empire shaped today’s world?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T17:45:00Z",
-          "excerpt": "How much of today’s world is a legacy of empire?",
-          "link": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
+          "publishedAt": "2026-11-18T01:07:01Z",
+          "excerpt": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "現代世界は帝国によって形作られたか？その影響を問う",
+          "titleJa": "ガザ停戦、行動なければ崩壊の危機 平和委員会が警告",
           "summaryJa": [
-            "現代の世界が、かつての帝国の遺産によってどれほど形作られているのかという問いが提起されています。",
-            "この問いは、過去の帝国が現在の国際関係や社会構造に与えた影響を考察するものです。",
-            "現代社会における帝国の遺産について、その影響の大きさが問われています。"
+            "米国主導の平和委員会は、ガザ地区での戦闘継続と2025年停戦合意の履行遅延を非難しました。",
+            "同委員会は、行動がなければ停戦が差し迫った崩壊に直面すると警告しています。",
+            "停戦合意の条件が守られず、状況が悪化していることが懸念されています。"
           ]
         },
         {
-          "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T17:37:04Z",
-          "excerpt": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-          "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、イランの米首都攻撃計画を「深刻視」 テヘランは否定",
-          "summaryJa": [
-            "トランプ氏は、イランによるワシントンに対するいかなる陰謀も、米国が「非常に深刻に」受け止めていると表明しました。",
-            "これは、イランが米首都へのいわゆる「ダーティボム」攻撃を計画しているとの示唆に関連するものです。",
-            "しかし、テヘラン側は、この示唆を「根拠のないもの」として全面的に否定しています。"
-          ]
-        },
-        {
-          "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+          "title": "Ecuadorian fishermen sue Trump administration over drone strike",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T17:34:27Z",
-          "excerpt": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-          "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+          "publishedAt": "2026-11-18T01:04:43Z",
+          "excerpt": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "イラク首相、レバノン訪問 ホルムズ海峡外の石油ルート模索",
+          "titleJa": "エクアドル漁師、トランプ政権を提訴 ドローン攻撃巡り",
           "summaryJa": [
-            "イラクの首相がレバノンを訪問しました。",
-            "訪問の目的は、ホルムズ海峡を越える新たな石油ルートを模索する動きの一環です。",
-            "首相の協議では、レバノンのトリポリとキルクーク・バニヤス間のパイプラインを結ぶ提案プロジェクトが議題となる見込みです。"
+            "エクアドルの漁師たちが、ドローン攻撃を巡りトランプ政権を提訴しました。",
+            "漁師たちは、自分たちの漁船が米国の船舶から発射されたドローンに攻撃されたと主張しています。",
+            "この攻撃は「明らかに違法な」作戦の一部であったとされています。"
           ]
         },
         {
-          "title": "Religious ruling revives memories in Israel of Rabin assassination",
+          "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T17:33:18Z",
-          "excerpt": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
-          "link": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+          "publishedAt": "2026-11-18T00:57:56Z",
+          "excerpt": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+          "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "イスラエル、宗教判決がラビン暗殺の記憶を再燃 極右暴力への懸念高まる",
+          "titleJa": "コンゴ東部、和平努力も暴力止まらず 市民が犠牲に",
           "summaryJa": [
-            "イスラエルで出された宗教判決が、ラビン元首相暗殺の記憶を呼び起こしています。",
-            "イスラエル政府におけるパレスチナ人の参加に対する敵意が存在します。",
-            "この敵意が、極右による政治的暴力への懸念を煽る要因となっています。"
+            "コンゴ民主共和国東部では、複数の和平努力が行われているものの、暴力行為を止めることができていません。",
+            "外交的な取り組みが紛争終結に苦慮する中、市民が引き続き犠牲となっています。",
+            "地域住民は、紛争の代償を払い続けている状況です。"
           ]
         },
         {
-          "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T17:19:57Z",
-          "excerpt": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-          "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T00:47:02Z",
+          "excerpt": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "ロシア、キーウの橋を攻撃 母親が避難時の恐怖語る",
+          "titleJa": "イスラエル国会、アラブ系政党の支持で新議長を選出",
           "summaryJa": [
-            "ロシア軍がキーウの橋を標的に攻撃を行いました。",
-            "攻撃を受けた際、ある母親は避難中の「本当に怖かった」経験を語っています。",
-            "一方、ウクライナ軍もロシアと占領下のクリミアを結ぶ重要な橋に深刻な損害を与えています。"
+            "イスラエル議会は、マタン・カハナ氏を新議長に選出しました。",
+            "カハナ氏は、アラブ系政党からの支持を得て選ばれました。",
+            "これは、アイゼンコット氏の同盟者とされています。"
           ]
         }
       ]
@@ -134,131 +152,153 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "高市総理 トランプ大統領と短時間の懇談 米中ロ首脳会談を前に連携を確認(テレビ朝日系（ANN）)",
+          "title": "19日頃から西日本まで強い寒気で雪も 東北や北海道は冬の嵐 2週間天気予報(日本気象協会tenki.jp)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T17:52:02Z",
-          "excerpt": "高市総理はアメリカのトランプ大統領と短時間の懇談を行い、中国などを念頭に今後も緊密に連携していくことを確認しました。 トランプ大統領は19日、APEC（アジア太平洋経済協力会議）が行われる中国の深セン",
-          "link": "https://news.yahoo.co.jp/articles/6f273ea2e051d870e70d21349a59d054e4ee5a42?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "千葉・いすみ市に「レベル4」土砂災害危険警報(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T17:18:58Z",
-          "excerpt": "気象庁は千葉県のいすみ市に「レベル4土砂災害危険警報」を発表しました。 命に危険を及ぼす土砂災害の恐れが高まっています。厳重な警戒が必要です。 レベル4の危険警報は自治体が避難指示を発令する目安となる",
-          "link": "https://news.yahoo.co.jp/articles/df2fb96bb3863d57eb5b2580212fcffb14c6e1ba?source=rss",
+          "publishedAt": "2026-11-18T02:46:58Z",
+          "excerpt": "19日(木)にかけて、日本海と太平洋沿岸を進む2つの低気圧が、急速に発達しながら北東に進み、20日(金)から21日(土)頃は日本付近は冬型の気圧配置が強まるでしょう。西日本まで強い寒気が流れ込みそうで",
+          "link": "https://news.yahoo.co.jp/articles/61c878b67051f927d88f8e77157f128cffe1570b?source=rss",
           "translationStatus": "translated",
-          "titleJa": "千葉・いすみ市に「レベル4」土砂災害危険警報発表",
+          "titleJa": "19日頃から西日本に強い寒気、東北・北海道は冬の嵐に",
           "summaryJa": [
-            "気象庁は千葉県いすみ市に「レベル4土砂災害危険警報」を発表しました。",
-            "命に危険を及ぼす土砂災害の恐れが高まっており、厳重な警戒が必要です。",
-            "レベル4は、自治体が避難指示を発令する目安となる情報です。"
+            "19日(木)にかけて、日本海と太平洋沿岸の低気圧が急速に発達し北東へ進みます。",
+            "20日(金)から21日(土)頃は日本付近が冬型の気圧配置となり、強まる見込みです。",
+            "西日本まで強い寒気が流れ込み、雪が降る可能性があります。",
+            "東北や北海道では冬の嵐となる恐れがあります。"
           ]
         },
         {
-          "title": "小田急小田原線で人身事故 運転再開(レスキューナウニュース)",
+          "title": "【強い寒気】日本海側中心に強風・大雪注意…発達する低気圧と強い寒気流入へ...大雪による交通障害に注意・警戒を...23日にかけて雪と雨のシミュレーション【18日気象情報】(RSK山陽放送)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T17:15:00Z",
-          "excerpt": "栢山駅で発生した人身事故の影響で、小田急小田原線は新松田～小田原駅間の運転を見合わせていましたが、02:10頃、運転を再開しました。なお、ダイヤが乱れています。",
-          "link": "https://news.yahoo.co.jp/articles/fc2b0bb7048ddd90499cdc2a7614e9ebad304a6c?source=rss",
+          "publishedAt": "2026-11-18T02:42:18Z",
+          "excerpt": "■発達する低気圧と強い寒気が流入気象庁によりますと、北陸地方では、19日から20日にかけて高波に警戒してください。北日本から東日本の日本海側を中心に19日から21日頃にかけて、強風や高波に注意・警戒し",
+          "link": "https://news.yahoo.co.jp/articles/fdbf71f21955a6689b7393258e1faf8dcbbb3ce1?source=rss",
           "translationStatus": "translated",
-          "titleJa": "小田急小田原線、人身事故で運転見合わせも再開 ダイヤに乱れ",
+          "titleJa": "日本海側中心に強風・大雪に警戒、発達する低気圧と強い寒気流入",
           "summaryJa": [
-            "小田急小田原線は、栢山駅での人身事故の影響で運転を見合わせていました。",
-            "新松田～小田原駅間で運転を停止していましたが、午前2時10分頃に運転を再開。",
-            "現在もダイヤに乱れが生じています。"
+            "発達する低気圧と強い寒気が日本付近に流入する見込みです。",
+            "気象庁は、北陸地方で19日から20日にかけて高波への警戒を呼びかけています。",
+            "北日本から東日本の日本海側を中心に、19日から21日頃にかけて強風や高波に注意が必要です。",
+            "大雪による交通障害にも注意・警戒するよう呼びかけられています。"
           ]
         },
         {
-          "title": "高市首相とトランプ大統領が懇談(共同通信)",
+          "title": "【最新トレンド】暖房に頼らない防寒グッズ 一番人気は“滑り止め付きルームソックス” お風呂上がり・寝る前に「塗る」バームタイプの商品も話題(FNNプライムオンライン)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T16:20:50Z",
-          "excerpt": "【マニラ共同】高市早苗首相は17日、トランプ米大統領と訪問先のフィリピンで懇談した。日本政府が18日発表した。米国、中国、ロシアの3カ国首脳会談を前に、対中ロ政策に関する認識を擦り合わせたとみられる。",
-          "link": "https://news.yahoo.co.jp/articles/031470b4260bd596fbb3a7b96233307d76148309?source=rss",
+          "publishedAt": "2026-11-18T02:40:32Z",
+          "excerpt": "今週は後半から厳しい寒さが予想されている。いま話題なのは、お風呂上がりや寝る前に塗って体を温める「塗るタイプ」の商品だ。定番のソックスから充電式の最新アイテムまで、鹿児島市のハンズ鹿児島店で防寒対策の",
+          "link": "https://news.yahoo.co.jp/articles/b247f61c024aa77f2f55bb63083f9968dea21b71?source=rss",
           "translationStatus": "translated",
-          "titleJa": "高市首相、トランプ大統領とフィリピンで懇談",
+          "titleJa": "暖房に頼らない防寒グッズが人気、塗るバームやルームソックスが話題",
           "summaryJa": [
-            "高市早苗首相は17日、訪問先のフィリピンでトランプ米大統領と懇談しました。",
-            "日本政府が18日に発表したものです。",
-            "米中ロ3カ国首脳会談を前に、対中ロ政策に関する認識を擦り合わせたものとみられます。"
+            "今週後半から厳しい寒さが予想される中、暖房に頼らない防寒グッズが注目されています。",
+            "一番人気は滑り止め付きルームソックスで、定番商品として支持されています。",
+            "お風呂上がりや寝る前に体を温める「塗るタイプ」のバーム商品も話題です。",
+            "鹿児島市の店舗では、充電式の最新アイテムなども含め防寒対策グッズが展開されています。"
           ]
         },
         {
-          "title": "小田急小田原線で人身事故 一部運転見合わせ(レスキューナウニュース)",
+          "title": "「私があんな男を紹介しなければ…」 元「egg」人気モデル殺害2カ月前の凄絶DVを22年来の親友が激白 血まみれになった彼女がテレビ電話をかけてきた夜(デイリー新潮)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:30:00Z",
-          "excerpt": "00:10頃、栢山駅で発生した人身事故の影響で、小田急小田原線は新松田～小田原駅間の運転を見合わせています。",
-          "link": "https://news.yahoo.co.jp/articles/cccb4543318d3d5ba76a41f3ff889a8068ffc19b?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "いぶりがっこ作り最盛期で急ぐ収穫・タイヤ交換相次ぐ 週末にかけ今季初寒波襲来へ(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:15:34Z",
-          "excerpt": "今シーズン初めての寒波を前に、東北では“備え”が始まっています。【画像】いぶりがっこ作り最盛期で急ぐ収穫・タイヤ交換相次ぐ 週末にかけ今季初寒波襲来へ",
-          "link": "https://news.yahoo.co.jp/articles/6ff6c545a11ebe564349fb570f6f7b1051d577c0?source=rss",
+          "publishedAt": "2026-11-18T02:40:09Z",
+          "excerpt": "ギャル雑誌「egg」の人気モデルだった川端かな子さん（36＝当時）が、東京・池袋のマンションで死亡しているのが見つかったのは7月13日未明のことだった。警視庁は11月16日、殴るなどの暴行を加えて川端",
+          "link": "https://news.yahoo.co.jp/articles/91898088f80ba2f3fc002f6cb198e51a0a3f414d?source=rss",
           "translationStatus": "translated",
-          "titleJa": "東北で今季初の寒波襲来へ いぶりがっこ収穫やタイヤ交換急ぐ",
+          "titleJa": "元「egg」モデル殺害、親友が2カ月前の凄絶DVを激白",
           "summaryJa": [
-            "今シーズン初めての寒波が週末にかけて東北地方に襲来する見込みです。",
-            "これを前に、東北では冬への備えが始まっています。",
-            "いぶりがっこの収穫作業が急ピッチで進められ、タイヤ交換も相次いでいます。"
+            "ギャル雑誌「egg」の人気モデルだった川端かな子さん（当時36）が、7月13日未明に東京・池袋のマンションで死亡しているのが見つかりました。",
+            "警視庁は11月16日、川端さんに暴行を加えたとして容疑者を逮捕しました。",
+            "22年来の親友が、殺害される2カ月前に川端さんが受けた凄絶なDVについて証言しています。",
+            "親友は、血まみれになった川端さんからテレビ電話がかかってきた夜があったと明かしました。"
           ]
         },
         {
-          "title": "栄養士がアレルギー確認怠り生徒が体調不良 書類の改ざんも 東京・板橋区(テレビ朝日系（ANN）)",
+          "title": "「首相に弓を引いた」 小渕優子元経産相は「反高市」の旗頭になるか 石破前首相は「総理になる資質は十分ある」と評価(デイリー新潮)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:14:41Z",
-          "excerpt": "東京・板橋区の中学校で栄養士が食物アレルギーに関する記載の確認を怠り、生徒が体調不良を起こしていたことが分かりました。さらに、栄養士は資料を改ざんし、保護者に嘘の説明をしていたということです。 板橋区",
-          "link": "https://news.yahoo.co.jp/articles/ebc873c925b0646e636addf3f0758a08b2cd19a8?source=rss",
+          "publishedAt": "2026-11-18T02:40:08Z",
+          "excerpt": "かつて、「永田町のマドンナ」とうたわれた小渕優子元経産相（52）も当選10回を数えるベテラン議員になった。そんな彼女にここ最近、注目が集まっている。きっかけは、高市早苗首相肝いりの消費減税法案の採決を",
+          "link": "https://news.yahoo.co.jp/articles/268d34bbec4788c50ddfc23f98d11b4742df8119?source=rss",
           "translationStatus": "translated",
-          "titleJa": "板橋区の中学校で栄養士がアレルギー確認怠り生徒体調不良、書類改ざんも",
+          "titleJa": "小渕優子元経産相に注目、高市首相の消費減税法案採決がきっかけ",
           "summaryJa": [
-            "東京・板橋区の中学校で、栄養士が食物アレルギーに関する記載の確認を怠る事案が発生しました。",
-            "これにより、生徒が体調不良を起こしていたことが判明。",
-            "栄養士は資料を改ざんし、保護者には虚偽の説明をしていたとのことです。"
+            "当選10回を数えるベテラン議員となった小渕優子元経産相（52）に注目が集まっています。",
+            "注目されるきっかけは、高市早苗首相肝いりの消費減税法案の採決でした。",
+            "一部では「首相に弓を引いた」とされ、「反高市」の旗頭になる可能性が指摘されています。",
+            "石破茂前首相は、小渕氏について「総理になる資質は十分ある」と評価しています。"
           ]
         },
         {
-          "title": "親グマどこへ？“一斉休校”に…白昼の住宅街にクマ2頭出没 男性1人けが(テレビ朝日系（ANN）)",
+          "title": "【速報】新橋のビルで火事 1階店舗から出火 消火活動中(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:12:17Z",
-          "excerpt": "群馬県前橋市の住宅街で、親子とみられるクマ2頭が出没しました。目撃者によりますと、体長60センチほどの小グマと親グマとみられる2頭で、親グマは体長140センチほどあったといいます。【画像】親グマどこへ",
-          "link": "https://news.yahoo.co.jp/articles/fd7c7e23bc06b90ae203cc6dda51ffea0a219272?source=rss",
+          "publishedAt": "2026-11-18T02:39:39Z",
+          "excerpt": "東京・新橋のビルで火事があり、現在も消火活動が行われています。 18日午前10時50分ごろ、港区新橋のビルの1階にある店舗から出火しました。 現在、東京消防庁による消火活動が行われていて、けが人や逃げ",
+          "link": "https://news.yahoo.co.jp/articles/7e214776d182d81ff5eaa5a47e9f8d89dd900cef?source=rss",
           "translationStatus": "translated",
-          "titleJa": "群馬・前橋の住宅街にクマ2頭出没、男性1人けが 一斉休校措置",
+          "titleJa": "新橋のビルで火事、1階店舗から出火し消火活動中",
           "summaryJa": [
-            "群馬県前橋市の住宅街で、親子とみられるクマ2頭が出没しました。",
-            "目撃情報によると、体長60センチほどの小グマと、体長140センチほどの親グマとみられています。",
-            "この出没により男性1人がけがを負い、周辺では一斉休校の措置が取られました。"
+            "18日午前10時50分ごろ、東京・港区新橋のビルで火事が発生しました。",
+            "ビルの1階にある店舗から出火したとみられています。",
+            "東京消防庁が現在も消火活動を行っています。",
+            "現時点では、けが人や逃げ遅れた人の情報は確認されていません。"
           ]
         },
         {
-          "title": "開園から60年以上…大高緑地リニューアル構想 愛知県 ３エリアで自然を感じられる場所やにぎわい創出(メ〜テレ（名古屋テレビ）)",
+          "title": "関東 今日18日は20℃超えの暖かさ 三連休にかけて朝晩の冷え込み強まる(日本気象協会tenki.jp)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:07:01Z",
-          "excerpt": "愛知県はきのう、名古屋市の大高緑地をリニューアルする構想を発表しました。 名古屋市緑区の大高緑地は1963年に開園し、野球場やテニスコートなどが整備され多くの人に親しまれています。 一方で、開園から6",
-          "link": "https://news.yahoo.co.jp/articles/932acfe22712a3e954691f26e5c090ac4ac22725?source=rss",
+          "publishedAt": "2026-11-18T02:38:25Z",
+          "excerpt": "今日18日(水)の関東地方は、日差しとともに気温が上昇し、最高気温が20℃を超える所が多いでしょう。ただ、この暖かさは長続きせず、明日19日(木)からは次第に気温が下がり、三連休にかけて朝晩の冷え込み",
+          "link": "https://news.yahoo.co.jp/articles/465c163da990d091a833e085d99cfa50ee2e2f71?source=rss",
           "translationStatus": "translated",
-          "titleJa": "愛知県、開園60年超の大高緑地リニューアル構想発表",
+          "titleJa": "関東、18日は20℃超えの暖かさも三連休にかけ冷え込み強まる",
           "summaryJa": [
-            "愛知県は、名古屋市の大高緑地をリニューアルする構想を発表しました。",
-            "大高緑地は1963年に開園し、野球場やテニスコートなどが整備され親しまれています。",
-            "構想では、3つのエリアで自然を感じられる場所や賑わいを創出する計画です。"
+            "18日(水)の関東地方は、日差しにより気温が上昇し、最高気温が20℃を超える地点が多くなりました。",
+            "しかし、この暖かさは長続きしない見込みです。",
+            "19日(木)からは次第に気温が下がり始めます。",
+            "三連休にかけて、朝晩の冷え込みが強まる予報です。"
           ]
         },
         {
-          "title": "愛子さま シンガポールに到着(ABEMA TIMES)",
+          "title": "【速報】東京・新橋のビルで火災 延焼中 1階の店舗から出火か(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-17T15:03:15Z",
-          "excerpt": "天皇皇后両陛下の長女・愛子さまが公式訪問先のシンガポールに到着し、滞在先のホテルで出迎えを受けられました。【映像】愛子さまが公式訪問先のシンガポールに到着 愛子さまはきょう夕方、シンガポールのチャンギ",
-          "link": "https://news.yahoo.co.jp/articles/9b5b20a53ab699211e6f6f66ea0268ce27a534fa?source=rss",
+          "publishedAt": "2026-11-18T02:34:44Z",
+          "excerpt": "東京・新橋のビルで火事があり、現在も消火活動が行われています。午前10時50分ごろ、港区新橋のビルの1階にある店舗から出火しました。【動画】現場の様子は現在、東京消防庁による消火活動が行われていて、け",
+          "link": "https://news.yahoo.co.jp/articles/506dabcc123196df031ba13fb90ae032b76ab4a3?source=rss",
           "translationStatus": "translated",
-          "titleJa": "愛子さま、公式訪問先のシンガポールに到着",
+          "titleJa": "東京・新橋のビルで火災発生、1階店舗から出火し延焼中",
           "summaryJa": [
-            "天皇皇后両陛下の長女・愛子さまが、公式訪問先のシンガポールに到着されました。",
-            "滞在先のホテルでは出迎えを受けられました。",
-            "愛子さまは本日夕方、シンガポールのチャンギ空港に到着されたとのことです。"
+            "18日午前10時50分ごろ、東京・港区新橋のビルで火災が発生しました。",
+            "ビルの1階にある店舗から出火したとみられ、現在も延焼中です。",
+            "東京消防庁が消火活動にあたっています。",
+            "現時点では、けが人や逃げ遅れた人の情報は確認されていません。"
+          ]
+        },
+        {
+          "title": "“スポ根”指導は必要？「多少厳しくしないと子どもにナメられる」視聴者の声に弁護士が反論「子どもだってバカじゃない」「罵声を浴びせる指導者は尊敬されないだけ」(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-18T02:30:35Z",
+          "excerpt": "ニュース番組『わたしとニュース』に弁護士の三輪記子氏が出演。スポーツ指導における「スポ根」の必要性をめぐって視聴者から寄せられたコメントに反論する場面があった。【映像】スポ根世代、衝撃エピソードの数々",
+          "link": "https://news.yahoo.co.jp/articles/cee44c1c4c927c1b1bb941649551dcde6dc2516a?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "スポーツ指導の「スポ根」必要性巡り議論、弁護士が視聴者コメントに反論",
+          "summaryJa": [
+            "ニュース番組で、スポーツ指導における「スポ根」の必要性が議論されました。",
+            "弁護士の三輪記子氏が出演し、視聴者から寄せられたコメントに反論しました。",
+            "「多少厳しくしないと子どもにナメられる」という意見に対し、「子どもだってバカじゃない」と述べました。",
+            "また、「罵声を浴びせる指導者は尊敬されないだけ」とも指摘しました。"
+          ]
+        },
+        {
+          "title": "SNS紛糾「女を侮るにも程が…」“夫婦漫才”政府PRターゲットは40代以上の女性？「政治とかわからないと思われてる」「家父長制以外の何物でもない」コラムニストがバッサリ(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-18T02:30:35Z",
+          "excerpt": "10月26日に政府広報オンラインで特設ページ「くにおとたみよの政府広報」が公開された。吉本興業の制作協力のもと、夫の「くにお」と妻の「たみよ」がレトロなマイクの前で関西弁の掛け合いを繰り広げる「夫婦漫",
+          "link": "https://news.yahoo.co.jp/articles/73ec69b4e112a6af13ea95d5b44d2ffc1d3a5ffc?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "政府PR「くにおとたみよ」にSNS紛糾、「女性を侮辱」と批判の声",
+          "summaryJa": [
+            "10月26日に公開された政府広報オンラインの特設ページ「くにおとたみよの政府広報」がSNSで物議を醸しています。",
+            "吉本興業制作協力の「夫婦漫才」形式で、夫の「くにお」と妻の「たみよ」が関西弁で掛け合いをします。",
+            "視聴者からは「女を侮るにも程が…」「政治がわからないと思われている」といった批判が寄せられています。",
+            "あるコラムニストは「家父長制以外の何物でもない」と厳しく指摘しています。"
           ]
         }
       ]
@@ -268,131 +308,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T02:52:51Z",
+          "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "translationStatus": "translated",
+          "titleJa": "JPモルガン、AIエージェントによる無人取引を開発中",
+          "summaryJa": [
+            "JPモルガンと現代カードは、金融取引におけるAIエージェントの利用拡大を目指しています。",
+            "これは人間を介さない取引の実現に向けた取り組みです。",
+            "AI技術を活用し、金融サービスの効率化と自動化を進める方針です。"
+          ]
+        },
+        {
+          "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T02:50:16Z",
+          "excerpt": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+          "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+          "translationStatus": "translated",
+          "titleJa": "ゼレンスキー大統領、ウクライナ占領地でのスターシールド速度制限継続を表明",
+          "summaryJa": [
+            "ゼレンスキー大統領は、ウクライナの「占領地」において、スターシールドの速度制限が依然として実施されていると述べました。",
+            "在米ウクライナ代理大使デニス・シエニク氏によると、この速度制限はすでに7日間続いています。",
+            "これはウクライナ国内の特定の地域における通信状況に関する情報です。"
+          ]
+        },
+        {
+          "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T02:23:20Z",
+          "excerpt": "",
+          "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+          "translationStatus": "translated",
+          "titleJa": "習近平主席、トランプ・プーチン会談前に貿易・投資障壁撤廃を要求",
+          "summaryJa": [
+            "中国の習近平国家主席は、トランプ米大統領およびプーチン露大統領との会談を前に、貿易および投資障壁の撤廃を求めました。",
+            "これは国際的な経済協力の促進を目指すものです。",
+            "自由な貿易環境の構築が主要な議題となる見込みです。"
+          ]
+        },
+        {
+          "title": "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T02:02:02Z",
+          "excerpt": "LeBron James sued an AI-powered sports betting startup over alleged unauthorized use of his likeness.",
+          "link": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
+          "translationStatus": "translated",
+          "titleJa": "レブロン・ジェームズ選手、AI広告による肖像権侵害で新興企業を提訴",
+          "summaryJa": [
+            "バスケットボール選手のレブロン・ジェームズ氏が、AIを活用したスポーツ賭博の新興企業を提訴しました。",
+            "同社が氏の肖像を無断で使用したAI広告を拡散したと主張しています。",
+            "肖像権の侵害が訴訟の主な争点となっています。"
+          ]
+        },
+        {
+          "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-17T18:35:00Z",
-          "excerpt": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-18T01:59:00Z",
+          "excerpt": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the c...",
+          "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "40代の年金受給、受取人指定で減額は妥当か",
+          "titleJa": "コアウィーブ株が急騰、Nvidiaは「規律ある」資金調達を強調",
           "summaryJa": [
-            "40代の個人が、年金受給額を減らす代わりに配偶者や子供を受取人に指定すべきか検討しています。",
-            "もし本人が夫より先に亡くなった場合、夫は本人の月額給付金の50%から66%に相当する終身年金を受け取ることになります。",
-            "これは、将来の家族の経済的安定と自身の年金受給額のバランスを考慮する重要な選択です。"
+            "コアウィーブ社の株価が急騰しました。",
+            "一方、Nvidiaの暫定CEOコレット・クレス氏は、ネオクラウドの重要性を指摘しつつも、資金調達には「非常に厳格な」アプローチを取ると述べました。",
+            "これはクラウドインフラ市場における投資戦略の違いを示唆しています。"
           ]
         },
         {
-          "title": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T18:34:06Z",
-          "excerpt": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking e...",
-          "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
-          "translationStatus": "translated",
-          "titleJa": "AIスタートアップへの巨額投資、AnthropicのIPOが試金石に",
-          "summaryJa": [
-            "AIスタートアップには数千億ドル規模の資金が流入しており、ベンチャー投資家は大きな利益を上げています。",
-            "AI開発の進展により、Anthropicの新規株式公開（IPO）は、多くの小規模AIスタートアップが資金調達を目指す上での重要な指標となる可能性があります。",
-            "このIPOは、AI分野への投資熱と市場の期待を測る試金石として注目されています。"
-          ]
-        },
-        {
-          "title": "How much more money could you earn if you had a financial adviser? Here’s what research shows",
+          "title": "Medicare Part B premiums rise due higher healthcare spending",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-17T18:30:00Z",
-          "excerpt": "There can be a financial advantage to an adviser in some circumstances, but it often depends on what type of investor you are.",
-          "link": "https://www.marketwatch.com/story/how-much-more-money-could-you-earn-if-you-had-a-financial-adviser-heres-what-research-shows-d0c0119d?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-18T01:45:00Z",
+          "excerpt": "The premiums will increase by $6.50, to $209.40 a month.",
+          "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "ファイナンシャルアドバイザー利用で収益は増えるか？調査結果が示すもの",
+          "titleJa": "メディケア・パートB保険料、医療費増加で値上げ",
           "summaryJa": [
-            "ファイナンシャルアドバイザーを利用することで、経済的なメリットが得られる場合があります。",
-            "しかし、その効果は投資家のタイプによって大きく左右されることが研究で示されています。",
-            "アドバイザーの活用は、個々の投資戦略や目標に応じて慎重に検討すべきです。"
+            "メディケア・パートBの保険料が、医療費の増加を理由に引き上げられます。",
+            "月額保険料は6.50ドル増の209.40ドルとなります。",
+            "この値上げは、医療費全体の支出増が背景にあります。"
           ]
         },
         {
-          "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+          "title": "OpenAI bugging case defendant Alfozan set for trial in January",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T18:27:03Z",
-          "excerpt": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
-          "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+          "publishedAt": "2026-11-18T01:31:37Z",
+          "excerpt": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an Open...",
+          "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
           "translationStatus": "translated",
-          "titleJa": "Kalshi、トランプ氏関連の予測市場を閉鎖 CFTCの要請受け",
+          "titleJa": "OpenAI盗聴事件、アルフォザン被告の裁判が1月に開始へ",
           "summaryJa": [
-            "予測市場プラットフォームのKalshiは、トランプ氏関連の「言及」契約の一部を閉鎖しました。",
-            "これは、米商品先物取引委員会（CFTC）からの要請によるものです。",
-            "CFTCは、この種の契約が市場操作のリスクを高める可能性があると警告しています。"
+            "OpenAIの施設に盗聴器を仕掛けたとして逮捕されたアブドゥルラフマン・アルフォザン被告の裁判が1月に開始される予定です。",
+            "検察は、被告がOpenAIの施設に盗聴器を設置したと主張しています。",
+            "被告は10月の逮捕以来、保釈なしで拘留されています。"
           ]
         },
         {
-          "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T18:21:03Z",
-          "excerpt": "He said he had seen support from investors and employees and was willing to come back as CEO.",
-          "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-          "translationStatus": "translated",
-          "titleJa": "前Nvidia CEOジェンスン・フアン氏、復帰に意欲示す",
-          "summaryJa": [
-            "Nvidiaの前CEOであるジェンスン・フアン氏が、辞任後初めてCEO復帰に前向きな姿勢を示しました。",
-            "同氏は、投資家や従業員からの支持があったことを理由に挙げています。",
-            "この発言は、Nvidiaの将来の経営体制に影響を与える可能性があります。"
-          ]
-        },
-        {
-          "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T18:10:16Z",
-          "excerpt": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transm...",
-          "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T18:06:18Z",
-          "excerpt": "Sean Grzebin, the CEO of Chase Home Lending, the nation's largest bank mortgage lender, said he's hiring and bent on increasing market shar...",
-          "link": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
-          "translationStatus": "translated",
-          "titleJa": "チェース住宅ローンCEO、非銀行系貸し手に対し攻勢を計画",
-          "summaryJa": [
-            "米国最大の銀行系住宅ローン貸し手であるチェース住宅ローンのショーン・グゼビンCEOが、非銀行系貸し手に対する攻勢を計画していると述べました。",
-            "同氏は、市場シェア拡大のため人員を増強し、積極的な戦略を展開する意向を示しています。",
-            "この動きは、住宅ローン市場における競争激化を示唆しています。"
-          ]
-        },
-        {
-          "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-17T17:49:45Z",
-          "excerpt": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
-          "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
+          "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-17T17:40:00Z",
-          "excerpt": "For the first time since March, bonds are actually helping to offset some of the losses investors have been feeling in their stock portfoli...",
-          "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-18T01:28:00Z",
+          "excerpt": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "株式市場低迷の中、債券が投資家の防衛策に再び寄与",
+          "titleJa": "Nvidia株が上昇、好調な業績がCEO交代への懸念を緩和",
           "summaryJa": [
-            "株式市場が低迷する中、債券が投資家のポートフォリオにおける損失を相殺する役割を果たし始めています。",
-            "これは3月以来初めてのことで、債券が再び「守りの資産」として機能していることを示しています。",
-            "しかし、記事は「ただ一つの問題」があると指摘しており、その詳細が注目されます。"
+            "Nvidiaの株価が上昇しました。",
+            "同社の売上高成長と1300億ドルの四半期予測は、チップ需要が依然として非常に高いことを示しています。",
+            "この好調な業績は、CEO交代に伴う市場の懸念を和らげる要因となりました。"
           ]
         },
         {
-          "title": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-17T17:36:00Z",
-          "excerpt": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analy...",
-          "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+          "title": "Three things to watch as Trump, Xi and Putin meet in China",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T01:23:29Z",
+          "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APE...",
+          "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
           "translationStatus": "translated",
-          "titleJa": "Salesforce株がS&P500下落を主導、テクノロジー不安が背景",
+          "titleJa": "トランプ、習近平、プーチン会談で注目すべき3つの点",
           "summaryJa": [
-            "Salesforceの株価がS&P500指数の中で下落を主導しており、テクノロジー業界への不安が広がっています。",
-            "一連の技術障害により、投資家はソフトウェア企業がAIの誤用に対して特に脆弱である可能性を懸念しています。",
-            "アナリストは、これが株価下落の要因の一つであると指摘しています。"
+            "ドナルド・トランプ米大統領、習近平中国国家主席、ウラジーミル・プーチン露大統領が中国・深圳で会談する予定です。",
+            "この会談では、国際関係や経済協力など複数の議題が議論されると見られます。",
+            "会談の結果は、今後の世界情勢に大きな影響を与える可能性があります。"
+          ]
+        },
+        {
+          "title": "Nvidia takes positive step forward with stronger sales outlook. Here’s our thoughts on the stock",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-18T01:18:41Z",
+          "excerpt": "",
+          "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia、好調な売上見通しで前進",
+          "summaryJa": [
+            "Nvidiaは、より強力な売上見通しを示し、前向きな一歩を踏み出しました。",
+            "これは同社の今後の業績に対する期待を高めるものです。",
+            "投資家は、この見通しを基に同社株の動向を注視しています。"
           ]
         }
       ]
@@ -402,143 +454,143 @@
       "name": "AIニュース",
       "items": [
         {
-          "title": "As decision model use skyrockets, is customization is the next frontier?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T18:10:00Z",
-          "excerpt": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-          "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-          "translationStatus": "translated",
-          "titleJa": "意思決定モデルの利用拡大、Sqwish Labsがデータ活用でカスタマイズを提案",
-          "summaryJa": [
-            "意思決定モデルの利用が急速に拡大しています。",
-            "Sqwish Labsは、ユーザー自身のデータでモデルを訓練することで、その能力を最大限に引き出す新たな活用法を提案。",
-            "これは、意思決定モデルのカスタマイズが次のフロンティアとなる可能性を示唆しています。"
-          ]
-        },
-        {
-          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T18:04:16Z",
-          "excerpt": "The company uses agentic AI to make supply chains faster and more reliable.",
-          "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-          "translationStatus": "translated",
-          "titleJa": "Pedestal AIが470万ドル調達、エージェントAIでサプライチェーンを効率化",
-          "summaryJa": [
-            "Pedestal AIが470万ドルの資金調達を実施しました。",
-            "同社はエージェントAI技術を活用し、サプライチェーンの効率化を目指しています。",
-            "これにより、サプライチェーンをより迅速かつ信頼性の高いものにすることが期待されます。"
-          ]
-        },
-        {
-          "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T17:32:25Z",
-          "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls...",
-          "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-          "translationStatus": "translated",
-          "titleJa": "Proton、プライバシー重視のAIアシスタント「Lumo」デスクトップ版をリリース",
-          "summaryJa": [
-            "Protonは、プライバシーに特化したAIアシスタント「Lumo」のデスクトップアプリをリリースしました。",
-            "Windows、Mac、Linuxに対応し、ChatGPTやClaudeの代替となることを目指します。",
-            "ユーザーはファイルや接続されたアプリ間でタスクを自動化でき、詳細な制御が可能です。"
-          ]
-        },
-        {
-          "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T17:20:41Z",
-          "excerpt": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous w...",
-          "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-          "translationStatus": "translated",
-          "titleJa": "AIモデル、ゲームと偽ると民間人を軍事標的と誤認識する可能性",
-          "summaryJa": [
-            "サンフランシスコのAI評価スタートアップValsが、AIモデルの操作可能性を検証しました。",
-            "実験により、AIモデルに「ゲームである」と伝えることで、民間人を軍事標的として識別するよう欺くことができると判明。",
-            "これは、AIの悪用リスクに関する懸念を高めるものです。"
-          ]
-        },
-        {
-          "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+          "title": "Satya Nadella says he’s AGI-pilled now",
           "source": "The Verge AI",
-          "publishedAt": "2026-11-17T17:04:40Z",
-          "excerpt": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he s...",
-          "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+          "publishedAt": "2026-11-18T01:48:18Z",
+          "excerpt": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the eco...",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
           "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏、Nvidia CEO復帰に意欲",
+          "titleJa": "サティア・ナデラ氏、AGIが経済構造を大きく変えると発言",
           "summaryJa": [
-            "先週NvidiaのCEOを辞任したジェンスン・フアン氏が、CEO復帰に意欲を示しました。",
-            "同氏は、取締役会が望むのであればCEOに戻る用意があると述べています。",
-            "これは、同氏がNvidiaの経営に再び関わる可能性を示唆するものです。"
+            "マイクロソフトのサティア・ナデラCEOは、汎用人工知能（AGI）が経済構造に驚くべき変化をもたらす可能性について言及しました。",
+            "同氏はAGIの潜在的な影響力について強い確信を示しています。",
+            "AIがエコシステムに与える変革の可能性に注目が集まっています。"
           ]
         },
         {
-          "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T16:44:15Z",
-          "excerpt": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-          "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+          "publishedAt": "2026-11-18T01:44:21Z",
+          "excerpt": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and...",
+          "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
           "translationStatus": "translated",
-          "titleJa": "Nvidia創業者ジェンスン・フアン氏、CEO復帰に「光栄」と表明",
+          "titleJa": "Nvidiaのスタートアップ投資が650億ドルに急増、ファン氏退任で今後の取引に不透明感",
           "summaryJa": [
-            "Nvidia創業者ジェンスン・フアン氏が、辞任後初の公式声明を発表しました。",
-            "同氏は、NvidiaのCEOとして復帰を許されるのであれば「光栄に思う」と述べました。",
-            "これにより、CEO職への復帰に前向きな姿勢を示しています。"
+            "Nvidiaの非公開企業への投資額が過去9ヶ月で約3倍に増加し、650億ドルに達しました。",
+            "これはジェンスン・ファン氏の積極的な取引戦略によるものです。",
+            "しかし、ファン氏の退任により、今後の投資案件に不確実性が生じています。"
           ]
         },
         {
-          "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+          "title": "Nvidia promises that revenue will keep soaring — for now",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T16:32:55Z",
-          "excerpt": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and com...",
-          "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "publishedAt": "2026-11-18T00:16:50Z",
+          "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak o...",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
           "translationStatus": "translated",
-          "titleJa": "Daydream、AIパーソナルスタイリスト兼ショッピングエージェントを発表",
+          "titleJa": "Nvidia、ファン氏退任後も収益増加の継続を予測",
           "summaryJa": [
-            "Daydreamが新たなAIショッピングエージェントを発表しました。",
-            "このAIは、ユーザーのスタイルを記憶し、バーチャル試着やコーディネート提案が可能です。",
-            "セール情報を追跡し、ユーザーに代わって購入することもできるパーソナルスタイリスト機能を提供します。"
+            "Nvidiaは、創業者兼CEOのジェンスン・ファン氏の退任による混乱にもかかわらず、収益の増加傾向が続くと予測しました。",
+            "同社は、当面の間、好調な業績が維持されるとの見通しを示しています。",
+            "CEOの交代が発表された後も、事業の勢いは衰えないと強調しています。"
           ]
         },
         {
-          "title": "The DOJ says it’s investigating Megaspeed",
+          "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
           "source": "The Verge AI",
-          "publishedAt": "2026-11-17T16:19:03Z",
-          "excerpt": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with t...",
-          "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+          "publishedAt": "2026-11-17T23:52:34Z",
+          "excerpt": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in...",
+          "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
           "translationStatus": "translated",
-          "titleJa": "米司法省と商務省、シンガポール拠点データセンター企業Megaspeedを調査",
+          "titleJa": "サム・アルトマン氏もInstagramのAIディープフェイクの標的に",
           "summaryJa": [
-            "米国の司法省と商務省が、シンガポールに拠点を置くデータセンター企業Megaspeedに対する調査を開始しました。",
-            "Megaspeedは、ある企業と密接な関係にあるとされています。",
-            "調査の詳細は明らかにされていませんが、その動向が注目されます。"
+            "Instagramでは、AIによるディープフェイクコンテンツの投稿が横行しています。",
+            "最近では、Metaの著名な幹部の一人であるサム・アルトマン氏のディープフェイクも確認されました。",
+            "AI技術の悪用による偽情報拡散が深刻な問題となっています。"
           ]
         },
         {
-          "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+          "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T15:00:00Z",
-          "excerpt": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private bet...",
-          "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+          "publishedAt": "2026-11-17T23:37:48Z",
+          "excerpt": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
           "translationStatus": "translated",
-          "titleJa": "Voyage Labs、AI旅行アシスタント開発で1200万ドル調達",
+          "titleJa": "Nvidia、ファン氏解任後中国市場から撤退へ",
           "summaryJa": [
-            "Voyage Labsが、専門的なAI旅行アシスタント開発のため1200万ドルを調達しました。",
-            "同社の主要製品「Atlas」は、旅行計画のためのパーソナルアシスタントとして機能します。",
-            "現在、プライベートベータ版で利用可能です。"
+            "Nvidiaの暫定CEOは、中国への半導体販売を停止すると発表しました。",
+            "これはジェンスン・ファン氏の解任後に決定されたものです。",
+            "中国市場からの撤退が同社に与える経済的影響が注目されています。"
           ]
         },
         {
-          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-17T14:50:58Z",
-          "excerpt": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding...",
-          "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "publishedAt": "2026-11-17T23:04:35Z",
+          "excerpt": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
           "translationStatus": "translated",
-          "titleJa": "Isomorphic Labs、AI創薬で50億ドル調達、臨床試験へ",
+          "titleJa": "Nvidia、ファン氏退任後もオープンソースAI戦略を維持",
           "summaryJa": [
-            "GoogleのDeepMindからスピンアウトしたAI創薬プラットフォーム、Isomorphic Labsが50億ドルのシリーズC資金調達を実施しました。",
-            "同社は、この資金を活用して創薬候補を臨床試験に進めることを目指しています。",
-            "AI技術を用いた新薬開発の加速が期待されます。"
+            "Nvidiaの暫定CEOは、ジェンスン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略を堅持すると再確認しました。",
+            "同社は、Hugging Faceの買収計画も継続する方針を示しています。",
+            "経営体制の変更がAI事業戦略に影響を与えないことを強調しました。"
+          ]
+        },
+        {
+          "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-17T22:50:29Z",
+          "excerpt": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or th...",
+          "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia、第3四半期決算を発表 ファン氏に関する言及なし",
+          "summaryJa": [
+            "Nvidiaのコレット・クレス暫定CEOは火曜日に第3四半期決算を発表しました。",
+            "発表当初、前CEOのジェンスン・ファン氏やその退任については言及されませんでした。",
+            "同社の業績は市場の予想通りであったと報じられています。"
+          ]
+        },
+        {
+          "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-17T22:42:27Z",
+          "excerpt": "The former CEO offered to return to his top role at the company after his resignation last week.",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia、ジェンスン・ファン氏のCEO再任を否定",
+          "summaryJa": [
+            "Nvidiaは、前CEOのジェンスン・ファン氏をCEOに再任する計画はないと発表しました。",
+            "ファン氏は先週の辞任後、CEO職への復帰を申し出ていました。",
+            "同社は、現在の経営体制を維持する方針を示しています。"
+          ]
+        },
+        {
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-17T22:29:05Z",
+          "excerpt": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nea...",
+          "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "translationStatus": "translated",
+          "titleJa": "Anthropic上場後、AmazonとGoogleが株式の約30%を保有へ",
+          "summaryJa": [
+            "AI企業AnthropicのIPO後、Amazonが株式の15%弱を保有し、さらに増やす選択肢も持ちます。",
+            "Googleもそれに次ぐ規模で株式を保有し、両社合わせて約30%を所有することになります。",
+            "大手テクノロジー企業によるAIスタートアップへの大規模な投資が明らかになりました。"
+          ]
+        },
+        {
+          "title": "SEC reportedly investigating Nvidia amid Huang exit",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-17T21:48:07Z",
+          "excerpt": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy,...",
+          "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+          "translationStatus": "translated",
+          "titleJa": "SEC、ファン氏退任を受けNvidiaを調査か",
+          "summaryJa": [
+            "米証券取引委員会（SEC）が、Nvidiaに対する調査を開始したと報じられています。",
+            "これは、CEOのジェンスン・ファン氏が退任したことを受けての動きです。",
+            "ファン氏は、中国のスパイとされる人物との不倫を認めていました。"
           ]
         }
       ]
@@ -548,17 +600,138 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "Memphis state takeover board talks priorities while blocked from action in court",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-18T00:49:09Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/tennessee/2026/11/18/memphis-schools-state-takeover-board-talks-priorities-while-blocked-in-court/",
+          "translationStatus": "translated",
+          "titleJa": "メンフィス州立学校の管理委員会、裁判所による活動停止中に優先事項を議論",
+          "summaryJa": [
+            "メンフィス州立学校の管理委員会が、裁判所による活動停止命令を受けているにもかかわらず、今後の優先事項について議論を進めています。",
+            "この委員会は、州による学校運営の引き継ぎに関連するもので、その権限が法的に制限されています。",
+            "裁判所の決定により具体的な行動は取れない状況ですが、将来に向けた方針策定が行われている模様です。",
+            "教育現場における州の介入と司法の判断が交錯する状況が続いています。"
+          ]
+        },
+        {
+          "title": "U.S. Just Lost Measles Elimination Status. What to Know Now",
+          "source": "The 74",
+          "publishedAt": "2026-11-17T23:11:24Z",
+          "excerpt": "",
+          "link": "https://www.the74million.org/article/u-s-just-lost-measles-elimination-status-what-to-know-now/",
+          "translationStatus": "translated",
+          "titleJa": "米国、麻疹排除国の地位を喪失：現状と今後の課題",
+          "summaryJa": [
+            "米国が、これまで維持してきた麻疹（はしか）の排除国の地位を喪失しました。",
+            "これは、国内での麻疹の感染拡大が一定の基準を超えたことを意味します。",
+            "公衆衛生当局は、この状況について国民に情報提供し、今後の対策を検討しています。",
+            "麻疹の再流行を防ぐための予防接種の重要性が改めて浮上しています。"
+          ]
+        },
+        {
+          "title": "Indianapolis Public Schools proposes closing 6 schools amid declining enrollment and budget shortfall",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-17T23:00:00Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/indiana/2026/11/17/indianapolis-public-schools-proposes-closing-six-schools/",
+          "translationStatus": "translated",
+          "titleJa": "インディアナポリス公立学校、生徒数減少と予算不足で6校閉鎖を提案",
+          "summaryJa": [
+            "インディアナポリス公立学校区は、生徒数の減少と予算不足を理由に、6つの学校の閉鎖を提案しました。",
+            "この提案は、学校運営の効率化と財政健全化を目指すものです。",
+            "地域社会や保護者からは、学校閉鎖が教育環境に与える影響について懸念の声が上がっています。",
+            "今後、この提案に対する議論が進められ、最終的な決定が下される見込みです。"
+          ]
+        },
+        {
+          "title": "Has American education been sold a story about how to teach? Join our conversation with Emily Hanford.",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-17T22:20:43Z",
+          "excerpt": "Join Emily Hanford and Chalkbeat's Matt Barnum on Dec. 8 for a virtual conversation about Direct Instruction, education research, and what...",
+          "link": "https://www.chalkbeat.org/2026/11/17/emily-hanford-sold-a-story-discuss-direct-instruction-at-chalkbeat-event/",
+          "translationStatus": "translated",
+          "titleJa": "米国の教育は「教え方」の物語に惑わされたのか？エミリー・ハンフォード氏と対談",
+          "summaryJa": [
+            "米国の教育界が、特定の「教え方」に関する物語に影響を受けてきたのかどうかについて議論が提起されています。",
+            "12月8日には、エミリー・ハンフォード氏とChalkbeatのマット・バーナム氏がオンライン対談を行います。",
+            "対談では、直接指導法や教育研究、そして教育の現状について話し合われる予定です。",
+            "教育実践の根拠や効果に関する深い考察が期待されています。"
+          ]
+        },
+        {
+          "title": "She didn’t like school as a kid. Now, she’s Colorado’s 2027 Teacher of the Year.",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-17T21:20:06Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/colorado/2026/11/17/2027-teacher-of-the-year-merci-ames-strasburg-high-school/",
+          "translationStatus": "translated",
+          "titleJa": "子どもの頃は学校嫌いだった女性、コロラド州2027年最優秀教師に選出",
+          "summaryJa": [
+            "子どもの頃は学校が好きではなかったという女性が、コロラド州の2027年最優秀教師に選ばれました。",
+            "彼女の教育への情熱と貢献が認められ、栄誉ある賞を受賞しました。",
+            "自身の経験を活かし、生徒たちに寄り添う教育を実践していると推測されます。",
+            "このニュースは、教育者の多様な背景と可能性を示しています。"
+          ]
+        },
+        {
+          "title": "What education issues will Indiana lawmakers consider in 2027?",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-17T20:37:20Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/indiana/2026/11/17/lawmakers-to-weigh-childcare-funding-and-k-12-budgets-for-2027/",
+          "translationStatus": "translated",
+          "titleJa": "インディアナ州議会、2027年にどのような教育課題を審議するか",
+          "summaryJa": [
+            "インディアナ州の議員たちが、2027年にどのような教育課題を審議するのかが注目されています。",
+            "今後の教育政策の方向性を決定する重要な議論が予想されます。",
+            "教育資金、カリキュラム、教員の待遇など、多岐にわたるテーマが議題となる可能性があります。",
+            "州の教育の未来を左右する議論の行方に注目が集まっています。"
+          ]
+        },
+        {
+          "title": "Chicago principals’ historic three-year contract deal would boost pay and protections against harassment",
+          "source": "Chalkbeat",
+          "publishedAt": "2026-11-17T20:19:16Z",
+          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
+          "link": "https://www.chalkbeat.org/chicago/2026/11/17/chicago-public-schools-reaches-contract-deal-with-principals/",
+          "translationStatus": "translated",
+          "titleJa": "シカゴの校長らが歴史的な3年契約に合意、給与増とハラスメント対策を強化",
+          "summaryJa": [
+            "シカゴの学校長らが、給与の引き上げとハラスメントからの保護を強化する歴史的な3年契約に合意しました。",
+            "この契約は、校長たちの労働条件を改善し、より安定した環境で職務に専念できるよう支援するものです。",
+            "教育現場におけるリーダーシップの重要性が認識され、その待遇改善が図られました。",
+            "これにより、学校運営の質の向上にも寄与することが期待されています。"
+          ]
+        },
+        {
+          "title": "An Educator May Finally Lead Texas Schools. Families Say It’s Overdue",
+          "source": "The 74",
+          "publishedAt": "2026-11-17T19:30:00Z",
+          "excerpt": "Gov.-elect Gina Hinojosa’s opposition to vouchers, excessive testing and state takeovers injected optimism into Texas communities longing f...",
+          "link": "https://www.the74million.org/article/texas-next-schools-chief-is-poised-to-be-an-educator-teachers-parents-say-its-past-due/",
+          "translationStatus": "translated",
+          "titleJa": "テキサス州の学校、ついに教育者が指導者に？家族からは「遅すぎた」の声",
+          "summaryJa": [
+            "テキサス州の学校で、ついに教育者が指導的立場に就く可能性が出てきました。",
+            "知事当選者のジーナ・ヒノホサ氏が、バウチャー制度や過剰なテスト、州による学校接収に反対の姿勢を示しています。",
+            "この姿勢は、長らく変化を望んでいたテキサス州のコミュニティに楽観的な見方をもたらしています。",
+            "教育現場の専門家がリーダーとなることで、より現場に即した教育改革が期待されています。"
+          ]
+        },
+        {
           "title": "Opinion: Are the Public Schools in Massachusetts Districts Truly Open to the Public?",
           "source": "The 74",
           "publishedAt": "2026-11-17T17:30:00Z",
           "excerpt": "The town of Milton, Massachusetts, has been roiled by recent reporting in the Boston Globe showing that its school district has been conduc...",
           "link": "https://www.the74million.org/article/are-the-public-schools-in-massachusetts-districts-truly-open-to-the-public/",
           "translationStatus": "translated",
-          "titleJa": "マサチューセッツ州の公立学校は本当に一般に開かれているのか？",
+          "titleJa": "マサチューセッツ州の公立学校は本当に「公」に開かれているのか？",
           "summaryJa": [
-            "マサチューセッツ州ミルトン町では、ボストン・グローブ紙の報道により、学区の運営方法が問題視されています。",
-            "この報道は、公立学校が本当に一般市民に開かれた存在であるかという疑問を提起しています。",
-            "町は学区の運営に関する議論で揺れています。"
+            "マサチューセッツ州ミルトン町では、ボストン・グローブ紙の報道により、公立学校の運営に関する議論が巻き起こっています。",
+            "報道によると、学校区が特定の活動を行っていたことが明らかになり、その「公共性」が問われています。",
+            "公立学校が地域住民全体に対して開かれた存在であるべきか、そのあり方が改めて問われています。",
+            "この問題は、公教育の透明性と説明責任の重要性を浮き彫りにしています。"
           ]
         },
         {
@@ -568,124 +741,12 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/detroit/2026/11/17/what-democratic-control-in-michigan-could-mean-for-education/",
           "translationStatus": "translated",
-          "titleJa": "民主党が主導する議会に教育推進派が求めるもの：資金、一貫性、リーダーシップ",
+          "titleJa": "民主党が主導する議会に教育擁護団体が求めるもの：資金、一貫性、リーダーシップ",
           "summaryJa": [
-            "教育推進派は、民主党が主導する議会に対し、教育分野における具体的な要求を提示しています。",
-            "彼らが重視するのは、教育への十分な資金提供です。",
-            "また、政策の一貫性と強力なリーダーシップも求めています。",
-            "これらは教育システムの改善に不可欠であると彼らは考えています。"
-          ]
-        },
-        {
-          "title": "Let’s Bake & Talk Native Foods in Schools",
-          "source": "The 74",
-          "publishedAt": "2026-11-17T15:31:54Z",
-          "excerpt": "",
-          "link": "https://www.the74million.org/article/lets-bake-talk-native-foods-in-schools/",
-          "translationStatus": "translated",
-          "titleJa": "学校で先住民の食文化を学び、語り合おう",
-          "summaryJa": [
-            "学校教育において、先住民の伝統的な食文化に焦点を当てる取り組みが提案されています。",
-            "料理を通じて、その歴史や背景について学ぶ機会を設けることが目的です。",
-            "生徒たちが多様な文化に触れ、理解を深めることを目指します。"
-          ]
-        },
-        {
-          "title": "Opinion: Google and Other Ed Tech Companies Ignore Pushback at Their Own Peril",
-          "source": "The 74",
-          "publishedAt": "2026-11-17T15:30:00Z",
-          "excerpt": "The signs of the blowback against technology — and its effects on kids — are all around. Pushback against artificial intelligence data cent...",
-          "link": "https://www.the74million.org/article/google-and-other-ed-tech-companies-ignore-pushback-at-their-own-peril/",
-          "translationStatus": "translated",
-          "titleJa": "論説：Googleなど教育テクノロジー企業は反発を無視すれば自らを危うくする",
-          "summaryJa": [
-            "テクノロジー、特に教育テクノロジーが子どもたちに与える影響に対する反発が高まっています。",
-            "人工知能データセンターへの反対など、その兆候は至る所に見られます。",
-            "Googleをはじめとする教育テクノロジー企業は、これらの反発を無視すると自らの立場を危うくする可能性があると指摘されています。"
-          ]
-        },
-        {
-          "title": "Preschool math blasts off in Mississippi",
-          "source": "The Hechinger Report",
-          "publishedAt": "2026-11-17T14:00:00Z",
-          "excerpt": "CORINTH, Miss. — Vaughn Dodd is using Magna-Tiles to make a rocketship, carefully selecting different shapes for the nose cone and the tail...",
-          "link": "https://hechingerreport.org/preschool-math-curriculum-mississippi/",
-          "translationStatus": "translated",
-          "titleJa": "ミシシッピ州で未就学児向け算数教育が活発化",
-          "summaryJa": [
-            "ミシシッピ州コリンスでは、未就学児向けの算数教育が注目を集めています。",
-            "Vaughn Dodd氏は、マグナタイルを使ってロケットを作るなど、実践的な方法で子どもたちに図形を教えています。",
-            "この取り組みは、幼い頃から算数への興味を育むことを目指しています。"
-          ]
-        },
-        {
-          "title": "Fewer Than Half of States Require K-12 Native American Education",
-          "source": "The 74",
-          "publishedAt": "2026-11-17T11:30:00Z",
-          "excerpt": "Cammie DuPuis-Pablo had reached her breaking point. For years, her two sons had been bullied at school because of their Native American her...",
-          "link": "https://www.the74million.org/article/fewer-than-half-of-states-require-k-12-native-american-education/",
-          "translationStatus": "translated",
-          "titleJa": "米国で先住民教育を義務付ける州は半数以下",
-          "summaryJa": [
-            "米国では、幼稚園から高校までの教育課程で先住民の歴史や文化を義務付けている州が半数以下にとどまっています。",
-            "Cammie DuPuis-Pablo氏の息子たちは、先住民の血を引くことで学校でいじめを受けていました。",
-            "この状況は、先住民教育の不足が子どもたちに与える負の影響を示唆しています。"
-          ]
-        },
-        {
-          "title": "Hopi Corn & Chokecherry Gravy: Feeding Students’ Taste for Native Foods, Culture",
-          "source": "The 74",
-          "publishedAt": "2026-11-17T11:30:00Z",
-          "excerpt": "The tall, dense stalks of blue Hopi corn were a burst of green among the dry grassland of southeastern Wyoming. As the small patch of crops...",
-          "link": "https://www.the74million.org/article/hopi-corn-chokecherry-gravy-feeding-students-taste-for-native-foods-culture/",
-          "translationStatus": "translated",
-          "titleJa": "ホピ族のトウモロコシとチョークチェリーグレービー：生徒に先住民の食と文化を",
-          "summaryJa": [
-            "ワイオミング州南東部では、ホピ族の青いトウモロコシが栽培されています。",
-            "この取り組みは、生徒たちに先住民の伝統的な食材や食文化に触れる機会を提供することを目的としています。",
-            "ホピ族のトウモロコシやチョークチェリーグレービーなどを通じて、食への関心と文化理解を深めます。"
-          ]
-        },
-        {
-          "title": "A Yondr pouch might be as effective as an extra week of learning, new cell phone ban study finds",
-          "source": "Chalkbeat",
-          "publishedAt": "2026-11-17T10:02:00Z",
-          "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
-          "link": "https://www.chalkbeat.org/2026/11/17/school-cell-phone-bans-could-yield-small-learning-gains-study-finds/",
-          "translationStatus": "translated",
-          "titleJa": "携帯電話禁止用ポーチ「Yondr」は1週間の学習効果に匹敵する可能性、新研究が示唆",
-          "summaryJa": [
-            "新しい研究によると、学校での携帯電話使用を制限するYondrポーチが学習効果を高めることが示されました。",
-            "その効果は、追加で1週間学習するのと同等である可能性が指摘されています。",
-            "この研究は、携帯電話の禁止が生徒の学業成績に与える影響を評価したものです。"
-          ]
-        },
-        {
-          "title": "Phone Bans Improve Learning, Study Finds — But So Far, Only Slightly",
-          "source": "The 74",
-          "publishedAt": "2026-11-17T10:01:00Z",
-          "excerpt": "Recently enacted prohibitions on phone use in schools have produced slight, though recognizable, improvements in learning, according to a n...",
-          "link": "https://www.the74million.org/article/phone-bans-improve-learning-study-finds-but-so-far-only-slightly/",
-          "translationStatus": "translated",
-          "titleJa": "携帯電話禁止は学習効果を向上させるが、その効果はわずかとの研究結果",
-          "summaryJa": [
-            "学校での携帯電話使用禁止が、生徒の学習にわずかながらも認識できる改善をもたらしていることが新たな研究で判明しました。",
-            "最近導入された携帯電話の禁止措置が、学業成績に与える影響が調査されました。",
-            "研究は、効果は限定的であるものの、ポジティブな影響があることを示唆しています。"
-          ]
-        },
-        {
-          "title": "Federal Health Care Cuts Could Have Devastating Effects on College Students",
-          "source": "Inside Higher Ed",
-          "publishedAt": "2026-11-17T08:00:00Z",
-          "excerpt": "Federal Health Care Cuts Could Have Devastating Effects on College Students Sara Brady Tue, 11/17/2026 - 03:00 AM Medicare and Medicaid cut...",
-          "link": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/11/17/federal-health-care-cuts-could-devastate-college",
-          "translationStatus": "translated",
-          "titleJa": "連邦医療費削減が大学生に壊滅的な影響を与える可能性",
-          "summaryJa": [
-            "連邦政府による医療費削減が、大学生に深刻な影響を及ぼす恐れがあると指摘されています。",
-            "特にメディケアやメディケイドの削減が、学生の健康維持に大きな負担となる可能性があります。",
-            "この削減は、大学生の健康と福祉に壊滅的な結果をもたらす可能性があると懸念されています。"
+            "教育擁護団体が、民主党が主導する議会に対し、教育分野における具体的な要望を提示しています。",
+            "主な要望は、教育資金の確保、政策の一貫性、そして強力なリーダーシップの発揮です。",
+            "これらの要素は、教育システムの安定と質の向上に不可欠であるとされています。",
+            "新政権下での教育政策の優先順位と方向性が注目されています。"
           ]
         }
       ]
@@ -711,7 +772,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 43,
+    "translatedItems": 50,
     "failedBatches": []
   }
 }
