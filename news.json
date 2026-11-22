@@ -1,149 +1,89 @@
 {
-  "generatedAt": "2026-11-21T16:50:28.946168Z",
+  "generatedAt": "2026-11-22T01:22:30.970045Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
+          "title": "Moviegoers head for the exits as quake strikes Peru",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T01:07:19Z",
+          "excerpt": "Moviegoers head for the exits as quake strikes Peru",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
+          "title": "Clashes erupt across France in another night of protest",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T00:37:32Z",
+          "excerpt": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+          "translationStatus": "failed"
+        },
+        {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "source": "BBC News",
-          "publishedAt": "2026-11-21T16:35:15Z",
+          "publishedAt": "2026-11-22T00:10:44Z",
           "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "FBIの犯罪データベースへのハッキング疑惑、捜査中か",
-          "summaryJa": [
-            "FBIが、同局の犯罪データベースへのハッキング疑惑について捜査していると報じられています。",
-            "このデータベースは、国家犯罪情報センターが運営し、連邦および地方の法執行機関が情報共有に利用しています。",
-            "重要な法執行情報が扱われているため、今回の事態は重大視されています。"
-          ]
+          "translationStatus": "failed"
         },
         {
-          "title": "India’s opposition stages protests against Meta over account removals",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T16:14:01Z",
-          "excerpt": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
-          "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "インド野党、Metaへの抗議デモ実施 アカウント制限解除を要求",
-          "summaryJa": [
-            "インドの野党が、Metaによるアカウント削除に抗議するデモを実施しました。",
-            "インド青年会議は、米国のテクノロジー大手Metaに対し、すべての制限を解除するよう7日間の「最後通告」を発しました。",
-            "これは、表現の自由や政治的発言の制限に対する懸念を示しています。"
-          ]
+          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "source": "BBC News",
+          "publishedAt": "2026-11-22T00:10:37Z",
+          "excerpt": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+          "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T16:03:16Z",
-          "excerpt": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-          "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "メキシコで逮捕された麻薬組織のボス「エル・チャポ・イシドロ」とは",
-          "summaryJa": [
-            "メキシコ軍がシナロア州で「チャポ・イシドロ」を逮捕しました。",
-            "彼はFBIの最重要指名手配リストに載っており、米国で麻薬関連の罪に問われています。",
-            "逮捕された人物は、麻薬カルテルのボスとされています。"
-          ]
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "source": "BBC News",
+          "publishedAt": "2026-11-22T00:09:58Z",
+          "excerpt": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "US midterms 2026: What happens before the new Congress takes office?",
+          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T15:49:32Z",
-          "excerpt": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-          "link": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "2026年米国中間選挙：新議会発足までの期間に何が起こるのか",
-          "summaryJa": [
-            "2026年の米国中間選挙後、民主党が議会の主導権を握る1月までの期間に何が起こるのかが焦点となっています。",
-            "この期間は、政権移行や新議会の準備期間として重要です。",
-            "選挙結果が確定してから新議員が就任するまでの政治的動きが注目されます。"
-          ]
+          "publishedAt": "2026-11-21T23:59:03Z",
+          "excerpt": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "French presidential candidate blames media for racist attack",
+          "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T15:46:18Z",
-          "excerpt": "French presidential candidate blames media for racist attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "フランス大統領候補、人種差別的攻撃をメディアの責任と非難",
-          "summaryJa": [
-            "フランスの大統領候補が、自身への人種差別的攻撃についてメディアの責任を非難しました。",
-            "候補者は、メディアの報道が攻撃を助長したと考えているようです。",
-            "この発言は、選挙戦におけるメディアと政治家の関係に波紋を広げています。"
-          ]
+          "publishedAt": "2026-11-21T23:44:00Z",
+          "excerpt": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+          "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T15:20:43Z",
-          "excerpt": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
-          "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "アフリカサッカー連盟、FIFAインファンティーノ会長の再選を支持",
-          "summaryJa": [
-            "アフリカサッカー連盟（CAF）のモツェペ会長が、FIFAのインファンティーノ会長への支持を改めて表明しました。",
-            "CAFは南米サッカー連盟（CONMEBOL）と共に、インファンティーノ会長の再選を全会一致で支持しています。",
-            "これは、FIFA会長の再選に向けた国際的な支持の動きを示しています。"
-          ]
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "source": "BBC News",
+          "publishedAt": "2026-11-21T23:31:17Z",
+          "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "failed"
         },
         {
-          "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+          "title": "Iran faces a ‘silent economic war’, says Iranian president",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T15:01:18Z",
-          "excerpt": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-          "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ホルムズ海峡でタンカー被弾、イランが海上輸送への締め付け強化",
-          "summaryJa": [
-            "ホルムズ海峡でタンカーが被弾する事件が発生し、イランが海上輸送への締め付けを強化しています。",
-            "英国の海事機関はオマーン付近で2件の事件を報告しました。",
-            "一方、イランはタンカーが機雷により炎上したと発表しています。"
-          ]
+          "publishedAt": "2026-11-21T23:18:14Z",
+          "excerpt": "Iran faces a ‘silent economic war’, says Iranian president",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+          "translationStatus": "failed"
         },
         {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "source": "BBC News",
-          "publishedAt": "2026-11-21T14:54:24Z",
+          "publishedAt": "2026-11-21T22:19:43Z",
           "excerpt": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "COP31気候変動会議、化石燃料巡る対立で膠着状態に",
-          "summaryJa": [
-            "COP31気候変動会議が、化石燃料を巡る対立により膠着状態に陥っています。",
-            "約200カ国の代表が新たな地球規模の気候協定を目指していますが、合意に至っていません。",
-            "化石燃料の将来的な使用に関する意見の相違が、交渉の大きな障害となっています。"
-          ]
-        },
-        {
-          "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T14:35:52Z",
-          "excerpt": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-          "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "マンチェスター・シティ、フルハムと1-1ドローで3連敗を阻止",
-          "summaryJa": [
-            "マンチェスター・シティがフルハムと1対1で引き分け、3連敗を阻止しました。",
-            "フルハムはロドリゴ・ムニスが先制点を挙げましたが、マンチェスター・シティのエリオット・アンダーソンがボレーシュートで同点に追いつきました。",
-            "この結果、マンチェスター・シティは貴重なプレミアリーグの勝ち点1を獲得しました。"
-          ]
-        },
-        {
-          "title": "Newcastle United vs Arsenal LIVE: Premier League",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T14:30:00Z",
-          "excerpt": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "プレミアリーグ：ニューカッスル対アーセナル戦 ライブ速報",
-          "summaryJa": [
-            "プレミアリーグのニューカッスル・ユナイテッド対アーセナル戦のライブ速報です。",
-            "試合の展開、分析、テキストによる実況解説が提供されます。",
-            "両チームのファンにとって見逃せない一戦の最新情報が随時更新されます。"
-          ]
+          "translationStatus": "failed"
         }
       ]
     },
@@ -152,119 +92,143 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "冷え込む日中関係…待遇に“格差”も 前駐中国大使に聞く 中国とどう向き合う？(テレビ朝日系（ANN）)",
+          "title": "生活保護受給の小説家が“断筆宣言”「全額取り上げられるのと同じ」 印税が入っても保護費から引かれ1円も残らず…「勤労控除」制度の課題(弁護士JPニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T16:48:16Z",
-          "excerpt": "世界の関心が「外交」に集まった1週間。訪中した高市総理を待ち受けたのは、「冷遇」とも受け取れる扱いでした。番組では前の駐中国大使を取材。中国とは今後、どう向き合うべきなのでしょうか。（サタデーステーシ",
-          "link": "https://news.yahoo.co.jp/articles/7aa97c2cce33ee2aef3a863c6daeb8eb0aacd4d8?source=rss",
+          "publishedAt": "2026-11-22T01:20:16Z",
+          "excerpt": "最近SNS上で、ある小説家の投稿が激しい物議を醸しました。自身の作品の印税（著作権使用料）が福祉事務所から「財産収入」として扱われ、一般的な給与収入のような「勤労控除」が適用されないというのです。その",
+          "link": "https://news.yahoo.co.jp/articles/aeb1c915414f0a4b27a1046a5e825908d35b0736?source=rss",
           "translationStatus": "translated",
-          "titleJa": "日中関係冷え込み、高市総理の訪中で「冷遇」か 前駐中国大使が語る今後の向き合い方",
+          "titleJa": "生活保護受給の小説家が「断筆宣言」、印税が全額保護費から控除される制度に課題",
           "summaryJa": [
-            "先週、高市総理が中国を訪問した際、「冷遇」とも受け取れる扱いを受け、日中関係の冷え込みが注目されました。",
-            "番組では、前駐中国大使に取材を行い、中国との今後の向き合い方について意見を聞きました。",
-            "世界の関心が外交に集まる中、両国間の待遇格差も指摘されています。"
+            "生活保護を受給している小説家が、印税収入が全額保護費から差し引かれるため「断筆宣言」をしたとSNSで投稿し、物議を醸している。",
+            "福祉事務所は印税を「財産収入」とみなし、一般的な給与収入に適用される「勤労控除」を適用しないという。",
+            "このため、印税が入っても手元に1円も残らず、働く意欲を削ぐ制度の課題が指摘されている。"
           ]
         },
         {
-          "title": "孤立や停電も…強烈寒波が3連休直撃 各地で大雪の影響広がる 都内は初の氷点下(テレビ朝日系（ANN）)",
+          "title": "「将来、結婚できなくなる可能性」18歳差の女性カップルが、それでも養子縁組で“家族”になる道を選んだ事情(弁護士JPニュース)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T16:24:16Z",
-          "excerpt": "今シーズン初めての強い寒波が3連休を直撃しています。21日は都内でも氷点下を観測し、全国的に厳しい寒さに。大雪による孤立や停電、交通障害など、各地で影響が広がりました。（サタデーステーション11月21",
-          "link": "https://news.yahoo.co.jp/articles/af157dba4a25bb8a55a4f7d638b343c06e847c2c?source=rss",
+          "publishedAt": "2026-11-22T01:01:15Z",
+          "excerpt": "「同性婚を法的に認めるか、否か？」この問いが日本でも議論されるようになって、かなりの時間が過ぎた。緒月さんとAさんのツーショット写真（緒月さん提供）現在、G7（先進7か国）のなかで、同性婚を認めていな",
+          "link": "https://news.yahoo.co.jp/articles/d02055788777dbfff705a55b5db8f3222c561ca8?source=rss",
           "translationStatus": "translated",
-          "titleJa": "強烈寒波が3連休を直撃、都内初の氷点下 各地で大雪、孤立や停電も",
+          "titleJa": "18歳差の女性カップル、同性婚が認められない日本で養子縁組を選択",
           "summaryJa": [
-            "今シーズン初の強い寒波が3連休を直撃し、全国的に厳しい寒さとなりました。",
-            "21日には都内でも初めて氷点下を観測しました。",
-            "各地で大雪による孤立や停電、交通障害などの影響が広がっています。"
+            "日本で同性婚の法制化が議論される中、18歳差の女性カップルが養子縁組で「家族」となる道を選んだ。",
+            "G7の中で同性婚を認めていないのは日本のみであり、法的な保障がない現状がある。",
+            "将来的に結婚ができない可能性を考慮し、養子縁組を通じて関係を法的に安定させることを決断したという。"
           ]
         },
         {
-          "title": "アジアパラ大会金メダルの小田凱人選手が地元に凱旋 大歓迎パレード 愛知・一宮市(CBCテレビ)",
+          "title": "〈論説〉大腸がん体験記 検便からダビンチへ(福祉新聞WEB)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T16:00:34Z",
-          "excerpt": "プロ車いすテニスプレイヤーの小田凱人選手が、21日地元・愛知県一宮市に凱旋しました。【写真を見る】アジアパラ大会金メダルの小田凱人選手が地元に凱旋 大歓迎パレード 愛知・一宮市史上最年少で生涯ゴールデ",
-          "link": "https://news.yahoo.co.jp/articles/a0ebf59347dc6d61a70dd8cf496afdb9706acafd?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "愛子さまシンガポールから帰国「友好親善の歩み受け継いでいく」(ABEMA TIMES)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:30:38Z",
-          "excerpt": "シンガポールを公式訪問していた天皇皇后両陛下の長女・愛子さまが帰国され「皇室が育んできた友好親善の歩みを受け継いでいきたい」との感想を寄せられました。【映像】愛子さま「皇室が育んできた友好親善の歩みを",
-          "link": "https://news.yahoo.co.jp/articles/e2bf8863782f84059b6c3c99cc6da90eea652e1e?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "世界遺産・白川郷の「合掌造り集落」の雪化粧 多くの観光客を魅了 11月3連休の初日にぎわう 岐阜・白川村(CBCテレビ)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:11:14Z",
-          "excerpt": "3連休初日のきょう21日（土）、岐阜県白川村の白川郷では、雪景色を楽しもうと多くの観光客でにぎわいました。【写真を見る】世界遺産・白川郷の「合掌造り集落」の雪化粧 多くの観光客を魅了 11月3連休の初",
-          "link": "https://news.yahoo.co.jp/articles/98e4158790572df18d501e26c8cdfd3d44bdaa8a?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "愛子さまがシンガポールから帰国 友好親善の歩み「私も受け継いでいく」と感想寄せる(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:09:52Z",
-          "excerpt": "シンガポールを公式訪問していた天皇皇后両陛下の長女・愛子さまが帰国され「皇室が育んできた友好親善の歩みを受け継いでいきたい」との感想を寄せられました。 愛子さまは21日夜、羽田空港に到着されました。",
-          "link": "https://news.yahoo.co.jp/articles/c857229123ff21640a5ac89f3fa3672ec0436aca?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "前橋で連日目撃のクマ発見に至らず 水路に赤外線カメラを設置して監視へ(テレビ朝日系（ANN）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:08:53Z",
-          "excerpt": "連日クマの目撃が相次いでいる群馬県前橋市で、市は21日、捕獲に向けた活動を行いましたが発見には至りませんでした。前橋市の担当者「市民の皆さんには大変ご心配ご不安をかけている状況。全体的に警戒をしていき",
-          "link": "https://news.yahoo.co.jp/articles/46646eccb7b2a6bf22f718f554daaa364236b4eb?source=rss",
+          "publishedAt": "2026-11-22T01:00:51Z",
+          "excerpt": "この夏も東京都杉並区の健康診断で検便をかかりつけ医に提出した。 「陽性反応あり」と呼び出され、大腸カメラ（内視鏡検査）実施の専門施設2カ所を紹介された。JR中央線阿佐ケ谷駅そばの河北総合病院を選び、大",
+          "link": "https://news.yahoo.co.jp/articles/f466a35f203b0d8acd8a02c9cc15f6e8a1bc30dc?source=rss",
           "translationStatus": "translated",
-          "titleJa": "前橋市で連日クマ目撃、発見に至らず 水路に赤外線カメラ設置し監視へ",
+          "titleJa": "大腸がん体験記：検便陽性からロボット手術「ダビンチ」まで",
           "summaryJa": [
-            "群馬県前橋市で連日クマの目撃が相次いでおり、市は21日に捕獲活動を行いましたが発見には至りませんでした。",
-            "市は市民の不安を解消するため、水路に赤外線カメラを設置し監視を強化する方針です。",
-            "市の担当者は、市民に警戒を呼びかけています。"
+            "筆者が東京都杉並区の健康診断で提出した検便が陽性反応を示し、大腸カメラ検査を受けることになった。",
+            "検査の結果、大腸がんが発見され、手術が必要と診断された。",
+            "最新のロボット支援手術システム「ダビンチ」を用いた治療に至るまでの体験が語られている。"
           ]
         },
         {
-          "title": "京成本線で人身事故 運転再開(レスキューナウニュース)",
+          "title": "「多くの老人ホームは“産廃処分場”」？ 現場を知るプロが教える「入ってはいけない老人ホーム」(FRIDAY)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:05:00Z",
-          "excerpt": "京成大久保～実籾駅間で発生した人身事故の影響で、京成本線は京成津田沼～八千代台駅間の下り線(八千代台方面行)の運転を見合わせていましたが、23:05現在、運転を再開しています。なお、ダイヤが乱れていま",
-          "link": "https://news.yahoo.co.jp/articles/70e37c5378988864ee050a89e00b15dfde77e033?source=rss",
+          "publishedAt": "2026-11-22T01:00:43Z",
+          "excerpt": "「私は、多くの老人ホームは産廃処分場と同じだと言っています。家族は在宅で持て余した要介護高齢者をなるべく安い費用で預ける。そして、その面倒をみる介護職員は、要介護者を介護保険報酬を獲得するための道具と",
+          "link": "https://news.yahoo.co.jp/articles/dd136d470da2a34467f52a2ddcedbe9cbf175550?source=rss",
           "translationStatus": "translated",
-          "titleJa": "京成本線、人身事故で運転見合わせも再開 ダイヤに乱れ",
+          "titleJa": "「入ってはいけない老人ホーム」現場のプロが警鐘、多くの施設は“産廃処分場”",
           "summaryJa": [
-            "京成大久保～実籾駅間で人身事故が発生し、京成本線の一部区間で運転を見合わせていました。",
-            "京成津田沼～八千代台駅間の下り線は、23時05分現在、運転を再開しています。",
-            "しかし、この事故の影響でダイヤに乱れが生じています。"
+            "現場を知るプロが「多くの老人ホームは産廃処分場と同じ」と警鐘を鳴らしている。",
+            "家族が在宅で持て余した要介護高齢者を安価で預け、介護職員は要介護者を介護保険報酬獲得の道具と見なす実態があるという。",
+            "記事では、入居を避けるべき老人ホームの特徴や問題点が指摘されている。"
           ]
         },
         {
-          "title": "「検証を」女児保育関係者 虐待疑い死亡、大阪枚方(共同通信)",
+          "title": "【今どき就活最前線】AIコピペは逆効果！タイパ重視で一次面接に“撃沈”する学生の痛い末路(FRIDAY)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T14:02:17Z",
-          "excerpt": "大阪府枚方市で8月、虐待された疑いがある金尾英怜奈ちゃん（3）が死亡した事件で、英怜奈ちゃんがかつて通っていた保育施設の関係者が21日、取材に応じ「心を痛めている。施設として保育や支援は最大限やってき",
-          "link": "https://news.yahoo.co.jp/articles/32eb37cfe924b969e46b3b4b0a5ad2477bc36c76?source=rss",
+          "publishedAt": "2026-11-22T01:00:43Z",
+          "excerpt": "最近の就職活動では、情報収集や自己PR作成にAI(人工知能)などの先端技術を使いこなす学生が増加している。コロナ禍を経てオンライン面接の活用が定着する中、本当に採用したい学生を見抜く力が企業側にも問わ",
+          "link": "https://news.yahoo.co.jp/articles/4b0189eb8fd7e8363adafa91aa8b77f57205aca0?source=rss",
           "translationStatus": "translated",
-          "titleJa": "大阪枚方女児死亡、虐待疑いで保育関係者「検証を」",
+          "titleJa": "就活最前線：AIコピペは逆効果、タイパ重視の学生が一次面接で“撃沈”する実態",
           "summaryJa": [
-            "大阪府枚方市で8月、虐待された疑いのある3歳の女児が死亡した事件がありました。",
-            "女児がかつて通っていた保育施設の関係者が21日に取材に応じ、心を痛めていると述べました。",
-            "施設として保育や支援は最大限行ってきたとし、事件の検証を求めています。"
+            "最近の就職活動では、AIなどの先端技術を情報収集や自己PR作成に活用する学生が増加している。",
+            "しかし、AIによるコピペやタイムパフォーマンス重視の姿勢が一次面接で逆効果となり、不採用につながるケースが指摘されている。",
+            "コロナ禍でオンライン面接が定着する中、企業側には本当に採用したい学生を見抜く力が求められている。"
           ]
         },
         {
-          "title": "京成本線で人身事故 一部運転見合わせ(レスキューナウニュース)",
+          "title": "洋菓子店のドアが破壊、レジも無くなり…付近で起きた公園トイレ連続破壊事件との関連性は 長野・駒ヶ根市(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-21T13:50:00Z",
-          "excerpt": "京成大久保～実籾駅間で発生した人身事故の影響で、京成本線は京成津田沼～八千代台駅間の下り線(八千代台方面行)の運転を見合わせています。振替輸送を行っています。",
-          "link": "https://news.yahoo.co.jp/articles/6d65318ecba80e66fe1171b84a3f33097440fb38?source=rss",
+          "publishedAt": "2026-11-22T01:00:37Z",
+          "excerpt": "長野・駒ヶ根市で、公園の公衆トイレが相次いで破壊される事件が発生。その2日後、現場近くの洋菓子店でもドアが壊され現金などが盗まれる事件が起きていた。同時期に発生した2つの「破壊」事件に関係はあるのか。",
+          "link": "https://news.yahoo.co.jp/articles/a0c5db6eefa1be35befabcd7e0c9c4e4bae61dda?source=rss",
           "translationStatus": "translated",
-          "titleJa": "京成本線で人身事故、一部区間で運転見合わせ",
+          "titleJa": "長野・駒ヶ根市で洋菓子店が破壊され現金盗難、公園トイレ連続破壊事件との関連捜査",
           "summaryJa": [
-            "京成大久保～実籾駅間で人身事故が発生しました。",
-            "この影響で、京成本線は京成津田沼～八千代台駅間の下り線で運転を見合わせています。",
-            "現在、振替輸送が実施されています。"
+            "長野県駒ヶ根市で、公園の公衆トイレが相次いで破壊される事件が発生した。",
+            "その2日後、現場近くの洋菓子店でもドアが壊され、レジから現金などが盗まれる事件が起きた。",
+            "警察は、同時期に発生したこれら二つの「破壊」事件の関連性について捜査を進めている。"
+          ]
+        },
+        {
+          "title": "「部屋の壁に大きな黒い染みが…」金庫に現金3400万円を遺して孤独死した“謎の女性”の不可解な生活…記者がアパートで目撃した“異様な光景”（2020年の事件）(文春オンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-22T01:00:37Z",
+          "excerpt": "2020年4月、兵庫県尼崎市のとあるアパートで、ある女性が室内の金庫に3400万円を残して孤独死した。身元不明の死者「行旅死亡人」として官報に掲載されていた彼女は、いったい何者なのか?【実際の写真】「",
+          "link": "https://news.yahoo.co.jp/articles/1bf59a1a43a887e884a42aed7c280d64561cce2c?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "2020年尼崎市で孤独死した“謎の女性”、金庫に3400万円と異様な生活の痕跡",
+          "summaryJa": [
+            "2020年4月、兵庫県尼崎市のアパートで、一人の女性が金庫に3400万円を残して孤独死した。",
+            "彼女は身元不明の「行旅死亡人」として官報に掲載され、その素性は謎に包まれている。",
+            "記者がアパートで目撃した部屋の壁の染みなど、不可解な生活の痕跡が報じられている。"
+          ]
+        },
+        {
+          "title": "〈いい夫婦の日〉既婚者マチアプのリアル「妻とは数年できていません」「一日中イチャイチャしたい」40代女性記者が登録して見えた“夫たち”の気持ち悪さ…運営は「不倫推奨していない」(集英社オンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-22T01:00:34Z",
+          "excerpt": "11月22日は「いい夫婦の日」。1988年に「夫婦ふたりの時間を大切にする日」として制定され、現在は経済産業省も後援する国民的な“記念日”として浸透しつつある。しかしながら、現実には夫婦仲が冷え切った",
+          "link": "https://news.yahoo.co.jp/articles/ee0d7b505329f99f745eb14410d21e864ba1893a?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "「いい夫婦の日」に既婚者マッチングアプリの実態、冷え切った夫婦関係の背景",
+          "summaryJa": [
+            "11月22日の「いい夫婦の日」を前に、既婚者向けマッチングアプリの利用実態が報じられた。",
+            "40代女性記者がアプリに登録したところ、「妻とは数年できていない」といった男性ユーザーの生々しい声が明らかになった。",
+            "運営側は不倫を推奨していないとしながらも、夫婦仲が冷え切った既婚者の利用が少なくない現状が浮き彫りになっている。"
+          ]
+        },
+        {
+          "title": "「もう都内では買えない」「2年探しても、買いたい家が一つもなかった」世帯年収1000万円超夫婦がマンション探しで突きつけられた厳しい現実…マイホームの夢を千葉・柏でかなえた理由(集英社オンライン)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-22T01:00:34Z",
+          "excerpt": "「東京で暮らし続けたい」。そんな思いを抱きながら、約2年にわたって住宅購入を検討してきた30代半ばの夫婦。しかし、最終的に選んだのは東京都内ではなく、千葉県柏市のマンションだった。高騰を続けた首都圏の",
+          "link": "https://news.yahoo.co.jp/articles/5a1826eaa6f0befc314a155c4f8c9b425be022a8?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "世帯年収1000万円超夫婦も都内マンション購入を断念、千葉・柏でマイホーム実現",
+          "summaryJa": [
+            "世帯年収1000万円を超える30代半ばの夫婦が、約2年間東京での住宅購入を検討したものの断念した。",
+            "首都圏のマンション価格高騰が続き、「都内では買いたい家が一つもなかった」という厳しい現実に直面。",
+            "結果として、マイホームの夢を千葉県柏市のマンションで実現することになった経緯が語られている。"
+          ]
+        },
+        {
+          "title": "【惜別】手放す品に宿るそれぞれの思い 人生の節目にある決断 買い取り店で見えた人間模様とは(読売テレビ)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-22T01:00:00Z",
+          "excerpt": "中古のルイヴィトンのカバンが18万円。高価なものから生活用品まで、思い出がつまった品物が持ち込まれます。尼崎市にあるエコリング塚口店。不用品を高く売りたい人もいれば、遺品整理を通じて気持ちの整理をする",
+          "link": "https://news.yahoo.co.jp/articles/109fa26f6613dc76929a9b82c962f9cdc5d94ccb?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "買い取り店で見る人間模様：人生の節目、手放す品々に宿るそれぞれの思い",
+          "summaryJa": [
+            "買い取り店には、高価なブランド品から生活用品まで、思い出が詰まった様々な品物が持ち込まれる。",
+            "尼崎市のエコリング塚口店では、不用品を高く売りたい人や、遺品整理を通じて気持ちの整理をする人など、多様な客層が見られる。",
+            "品物を手放す背景には、人生の節目における決断や、それぞれの思いが込められていることが示されている。"
           ]
         }
       ]
@@ -274,84 +238,144 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-21T16:40:05Z",
-          "excerpt": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-          "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+          "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:35:00Z",
-          "excerpt": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-          "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-22T01:15:00Z",
+          "excerpt": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+          "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "夫は64歳で引退、妻には仕事を続けるよう求めるのは公平か？",
+          "summaryJa": [
+            "夫が64歳で引退し、妻に仕事を続けるよう求めている状況が報じられています。",
+            "妻は毎朝6時に起床し、50分の通勤時間を費やしており、疲労困憊していると訴えています。",
+            "この状況が公平であるかどうかについて、妻が疑問を呈しているとのことです。"
+          ]
         },
         {
-          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+          "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:15:00Z",
-          "excerpt": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-22T00:03:00Z",
+          "excerpt": "“Hotel rooms can cost as much as $400 per night.”",
+          "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "妻が家族のNY旅行費用を負担、貯蓄が減少中。やめるよう求めるべきか？",
+          "summaryJa": [
+            "妻が自身の家族のニューヨーク旅行費用を負担しており、夫婦の貯蓄が減少している問題が浮上しています。",
+            "ホテル代は一泊最大400ドルにもなることが指摘されています。",
+            "夫は妻に費用負担をやめるよう求めるべきか悩んでおり、その是非が問われています。"
+          ]
         },
         {
-          "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+          "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:15:00Z",
-          "excerpt": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-          "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-21T23:05:00Z",
+          "excerpt": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "40代、年金受給額減と引き換えに配偶者・子を受益者にするべきか？",
+          "summaryJa": [
+            "40代の女性が、年金受給額を減らす代わりに、夫または子を受益者として指定することを検討しています。",
+            "もし彼女が夫より先に亡くなった場合、夫は彼女の月額給付の50%から66%に相当する終身年金を受け取ることになります。",
+            "この選択が適切であるかどうかが問われています。"
+          ]
         },
         {
-          "title": "Tech outages are fueling a new doomsday economy",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-21T15:04:56Z",
-          "excerpt": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as...",
-          "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+          "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:03:00Z",
-          "excerpt": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, accordin...",
-          "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-21T20:15:00Z",
+          "excerpt": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+          "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "兄弟が病気の母親と同居後、銀行口座を閉鎖。どう対処すべきか？",
+          "summaryJa": [
+            "兄弟が病気の母親と同居を始めた後、母親の銀行口座を閉鎖したという問題が報じられています。",
+            "信頼すべき人物が、自身を守るべき相手になることは非常に辛い状況であると述べられています。",
+            "この状況に対し、どう対処すべきかという問題が提起されています。"
+          ]
         },
         {
-          "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+          "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:01:00Z",
-          "excerpt": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-          "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-21T19:45:00Z",
+          "excerpt": "“Our financial and healthcare situation has become increasingly concerning.”",
+          "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "50歳専業主婦、夫が失職し慢性疾患。夫は401(k)を解約すべきか？",
+          "summaryJa": [
+            "50歳の専業主婦で慢性疾患を抱えている女性の夫が失職しました。",
+            "夫婦の経済状況と医療費の状況はますます懸念される事態となっています。",
+            "夫が401(k)（確定拠出年金）を解約して資金を引き出すべきかどうかが問われています。"
+          ]
         },
         {
-          "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
-          "source": "CNBC Markets",
-          "publishedAt": "2026-11-21T15:00:02Z",
-          "excerpt": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
-          "link": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
-          "translationStatus": "failed"
+          "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-21T19:45:00Z",
+          "excerpt": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents...",
+          "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "住宅販売が過去最低水準、買い手が主導権を握る市場に",
+          "summaryJa": [
+            "住宅販売が過去最低水準に落ち込んでいることが報じられています。",
+            "記録的な高値の住宅価格と7%の住宅ローン金利に耐える数少ない買い手が、市場で主導権を握り始めています。",
+            "不動産業者によると、買い手は非常に強気な姿勢を見せているとのことです。"
+          ]
+        },
+        {
+          "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-21T18:20:00Z",
+          "excerpt": "This one, simple, low-pain tax solves all the problems.",
+          "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "米国は社会保障とメディケアを改善する十分な財力がある：その方法とは",
+          "summaryJa": [
+            "米国には社会保障とメディケアの問題を解決する十分な財力があるという見解が示されています。",
+            "記事では、一つのシンプルで負担の少ない税制がこれらの問題を全て解決すると提案されています。",
+            "具体的な税制改革によって、財政健全化が可能であると示唆されています。"
+          ]
         },
         {
           "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T15:00:00Z",
+          "publishedAt": "2026-11-21T18:19:00Z",
           "excerpt": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
           "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "「始めるのに遅すぎることはない」金融界のトップ女性が語る実践的投資アドバイス",
+          "summaryJa": [
+            "金融界のトップを走る女性たちが、実践的な投資アドバイスを提供しています。",
+            "米国には多くの裕福で影響力のある女性が存在し、彼女たちの時代が到来しつつある可能性が示唆されています。",
+            "投資を始めるのに遅すぎることはないというメッセージが伝えられています。"
+          ]
         },
         {
-          "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+          "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-21T16:57:34Z",
+          "excerpt": "This would make the second recent intrusion into the FBI system.",
+          "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+          "translationStatus": "translated",
+          "titleJa": "トランプ氏、FBIデータベース最新ハッキングに「前向きな側面」の可能性を示唆",
+          "summaryJa": [
+            "トランプ氏が、FBIデータベースへの最新のハッキングについて「前向きな側面」がある可能性を示唆しました。",
+            "これは最近のFBIシステムへの侵入としては2度目となる事態です。",
+            "ハッキングがもたらす影響について、トランプ氏が独自の視点を示しているとのことです。"
+          ]
+        },
+        {
+          "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-21T14:42:00Z",
-          "excerpt": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-          "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-          "translationStatus": "failed"
+          "publishedAt": "2026-11-21T16:50:00Z",
+          "excerpt": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "社会保障はポンジースキームか？1930年代の破滅的予言に惑わされるな",
+          "summaryJa": [
+            "社会保障制度がポンジースキームであるかという疑問が提起されていますが、記事は1930年代の破滅的な予言に惑わされるべきではないと主張しています。",
+            "ウィスコンシン州選出の共和党ロン・ジョンソン上院議員は、社会保障を「詐欺」と呼び、制度の廃止を議員に促しました。",
+            "しかし、記事は社会保障制度がポンジースキームではないと結論付けています。"
+          ]
         }
       ]
     },
@@ -359,6 +383,62 @@
       "id": "ai",
       "name": "AIニュース",
       "items": [
+        {
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-21T21:37:10Z",
+          "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "translationStatus": "translated",
+          "titleJa": "Signal、AI監視の脅威に対抗しスクリーンショットを制限",
+          "summaryJa": [
+            "プライバシー保護を重視するメッセージアプリSignalが、AndroidおよびiOSアプリでスクリーンショット機能の制限を開始しました。",
+            "これは、AIによる監視が「存在を脅かす脅威」となっている状況に対処するためです。",
+            "ユーザーのプライバシーをさらに強化する措置として導入されます。"
+          ]
+        },
+        {
+          "title": "A tale of two Nvidias",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-21T21:07:42Z",
+          "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang...",
+          "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "translationStatus": "translated",
+          "titleJa": "Nvidiaの二つの顔：好調な決算とCEOへの期待",
+          "summaryJa": [
+            "Nvidiaに関して、最新の決算報告と、ジェンスン・フアンCEOへの期待を表明するテック業界幹部の声という、二つの異なる側面が浮上しています。",
+            "同社の業績は好調である一方、業界内ではそのリーダーシップに対する強い支持が見られます。",
+            "この状況は、Nvidiaが市場で果たす役割の多様性を示唆しています。"
+          ]
+        },
+        {
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-21T20:03:37Z",
+          "excerpt": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapo...",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "translationStatus": "translated",
+          "titleJa": "国連、自律型致死兵器（AI兵器）規制で合意に至らず",
+          "summaryJa": [
+            "今週ジュネーブで開催された国連外交官会議では、自律型致死兵器（いわゆる「キラーロボット」）の使用に関する規制策定が議題の一つでした。",
+            "しかし、参加国間での合意形成には至らず、規制導入は見送られました。",
+            "AI兵器の倫理的・法的課題に対する国際社会の対応が引き続き注目されます。"
+          ]
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-21T17:00:00Z",
+          "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for familie...",
+          "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "translationStatus": "translated",
+          "titleJa": "テキストメッセージで利用可能な主要AIエージェントを紹介",
+          "summaryJa": [
+            "テキストメッセージ内で利用できる、注目すべきAIエージェントのリストが作成されました。",
+            "これには、一般的なアシスタント機能を持つものから、家族向けに特化したエージェントまでが含まれます。",
+            "ユーザーはメッセージアプリを通じて、様々なAI機能を手軽に利用できるようになります。"
+          ]
+        },
         {
           "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
           "source": "TechCrunch AI",
@@ -368,9 +448,9 @@
           "translationStatus": "translated",
           "titleJa": "俳優が顔のAI版をマイクロドラマ企業にライセンス供与、ハリウッドの未来か",
           "summaryJa": [
-            "ある俳優が自身の顔のAIバージョンをマイクロドラマスタートアップにライセンス供与しました。",
-            "この傾向は中国ですでに人気を集めています。",
-            "専門家は、この動きが長期的にどのような影響をもたらすか疑問視しています。"
+            "ある俳優が自身の顔のAIバージョンをマイクロドラマ制作会社にライセンス供与しました。",
+            "この動きは中国で既に人気を集めているトレンドであり、専門家はその長期的な影響について疑問を呈しています。",
+            "AI技術がエンターテインメント業界にもたらす変化と、その倫理的・商業的側面が議論されています。"
           ]
         },
         {
@@ -380,11 +460,11 @@
           "excerpt": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series...",
           "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
           "translationStatus": "translated",
-          "titleJa": "Anthropicは安全性を最優先できるのか？",
+          "titleJa": "Anthropicは安全性を最優先できるのか？IPOを巡る議論",
           "summaryJa": [
-            "The VergeのAI担当記者が、AnthropicのIPOについて議論しています。",
-            "これはシリーズの最終回となります。",
-            "AnthropicがAIの安全性を最優先する姿勢を維持できるかどうかが焦点となっています。"
+            "AI企業Anthropicの新規株式公開（IPO）について、The VergeのシニアAI記者ヘイデン・フィールド氏との対談が行われました。",
+            "対談では、Anthropicが安全性を最優先する姿勢を維持できるかどうかが主要な論点となりました。",
+            "企業の成長とAIの安全性確保という二つの目標のバランスが問われています。"
           ]
         },
         {
@@ -393,7 +473,13 @@
           "publishedAt": "2026-11-20T19:53:41Z",
           "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
           "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-          "translationStatus": "failed"
+          "translationStatus": "translated",
+          "titleJa": "Spotify創業者ダニエル・エク氏、AI研究者の核融合スタートアップを支援",
+          "summaryJa": [
+            "Spotifyの創業者であるダニエル・エク氏が、AI研究者が設立した核融合発電スタートアップ「Europa Fusion」を支援しています。",
+            "このスタートアップは、クリーンエネルギーの未来を目指し、核融合技術の開発に取り組んでいます。",
+            "AI技術と融合した新たなエネルギーソリューションの可能性に注目が集まっています。"
+          ]
         },
         {
           "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
@@ -402,11 +488,11 @@
           "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
           "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
           "translationStatus": "translated",
-          "titleJa": "AIがリーマン予想の解法を主張、人間も同様の成果",
+          "titleJa": "AIがリーマン予想の解法を提示、人間による競合解法も登場",
           "summaryJa": [
-            "AIが167年間未解決だったリーマン予想の解法を提示したと主張しています。",
-            "同時に、人間による競合する解法も発表されました。",
-            "数学者たちは、このAIによる最新の成果に驚きを隠せないでいます。"
+            "167年間未解決だった数学の難問「リーマン予想」に対し、AIが解法を提示したと報じられました。",
+            "このAIによる成果は数学者たちを驚かせており、同時に人間による競合する解法も登場しています。",
+            "AIが高度な数学的問題解決に貢献する可能性と、人間の知性との協調が注目されています。"
           ]
         },
         {
@@ -418,9 +504,9 @@
           "translationStatus": "translated",
           "titleJa": "トランプ氏、AIデータセンターの海外移転に「巨額の税金」を警告",
           "summaryJa": [
-            "ドナルド・トランプ大統領は、AIデータセンターを米国外に建設する企業に対し、「巨額の税金」を課すと公約しました。",
-            "これは、各州や都市がデータセンター誘致に動く中で表明されました。",
-            "米国経済への影響が懸念されます。"
+            "ドナルド・トランプ前大統領は、AIデータセンターを米国以外に建設する企業に対し、「巨額の税金」を課すと公約しました。",
+            "これは、国内での雇用創出と技術インフラの維持を目的とした発言と見られます。",
+            "各州や都市がデータセンター誘致に動く中で、国際的なAIインフラ戦略に影響を与える可能性があります。"
           ]
         },
         {
@@ -430,67 +516,11 @@
           "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajector...",
           "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
           "translationStatus": "translated",
-          "titleJa": "AIの誤解されやすいグラフが大幅更新、一部能力は指数関数的に向上",
+          "titleJa": "AI能力の進化を示すグラフが更新、一部機能は指数関数的に向上",
           "summaryJa": [
-            "AI評価を行う非営利団体METRの新たな報告書が発表されました。",
-            "それによると、一部のAI能力は指数関数的な軌道に沿って改善を続けています。",
-            "AIの進化に関する理解を深める上で重要な更新となります。"
-          ]
-        },
-        {
-          "title": "Chips can survive the space environment — can their financing?",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-20T17:40:01Z",
-          "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-          "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-          "translationStatus": "translated",
-          "titleJa": "宇宙環境に耐えるチップ、その資金調達は可能か？",
-          "summaryJa": [
-            "チップは宇宙環境に耐えうることが示されています。",
-            "しかし、貸し手は担保をSpaceXが軌道に打ち上げることを望んでいません。",
-            "これは、宇宙データセンター全体の資金調達にどのような影響を与えるのかが問われています。"
-          ]
-        },
-        {
-          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-20T16:57:47Z",
-          "excerpt": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems...",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-          "translationStatus": "translated",
-          "titleJa": "Anthropicの数学者、AI「Claude」でリーマン予想を解決と主張",
-          "summaryJa": [
-            "Anthropicの数学者レベント・アルポゲ氏が、数学の難問であるリーマン予想を証明したと主張しています。",
-            "彼はAI「Claude」を用いてこの成果を達成したと述べています。",
-            "これはミレニアム懸賞問題の一つであり、その解決が注目されています。"
-          ]
-        },
-        {
-          "title": "Apple is hiring engineers to build its own AI agent",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-20T15:13:37Z",
-          "excerpt": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing co...",
-          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-          "translationStatus": "translated",
-          "titleJa": "Apple、独自のAIエージェント開発のため技術者採用を強化",
-          "summaryJa": [
-            "Appleは、独自のAIエージェントの開発を進めています。",
-            "このAIエージェントは、ウェブ閲覧やアプリ連携、コンテンツ作成など、様々なタスクを実行できるとされています。",
-            "同社は開発を加速するため、技術者の採用を強化しています。"
-          ]
-        },
-        {
-          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-20T14:55:44Z",
-          "excerpt": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with h...",
-          "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-          "translationStatus": "translated",
-          "titleJa": "Nvidia、ジェンスン・フアンCEO解任騒動の余波続く",
-          "summaryJa": [
-            "Nvidiaは、ジェンスン・フアンCEOの解任騒動の余波に対処しています。",
-            "同社は今週、最新の決算報告を発表しました。",
-            "この騒動が今後の業績にどう影響するかが注目されます。"
+            "AI評価を行う非営利団体METRの新たな報告書により、AIの能力進化を示すグラフが更新されました。",
+            "報告書では、一部のAI機能が指数関数的な軌道で改善を続けていることが指摘されています。",
+            "これは、AI技術の進歩が予測以上に加速している可能性を示唆しており、今後の発展に注目が集まります。"
           ]
         }
       ]
@@ -506,12 +536,11 @@
           "excerpt": "A majority of students are complying with Los Angeles Unified’s cellphone ban and paying more attention in class, at least according to sch...",
           "link": "https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/",
           "translationStatus": "translated",
-          "titleJa": "LA統一学区、携帯電話禁止に600万ドル超を支出。効果は賛否両論",
+          "titleJa": "LAUSD、携帯電話禁止に600万ドル超を費消 調査結果は賛否両論",
           "summaryJa": [
-            "ロサンゼルス統一学区は、携帯電話の授業中利用禁止に600万ドル以上を投じました。",
-            "学校の調査データによると、生徒の大多数がこの禁止令に従っています。",
-            "また、多くの生徒が授業により集中していると報告されています。",
-            "しかし、この政策の効果については、賛否両論の結果が示されています。"
+            "ロサンゼルス統一学区（LAUSD）は、携帯電話の学校内での使用禁止に600万ドル以上を投じました。",
+            "調査データによると、生徒の大多数がこの禁止措置に従い、授業への集中度が高まったとされています。",
+            "しかし、この措置の効果については、賛否両論の結果が出ています。"
           ]
         },
         {
@@ -521,11 +550,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/chicago/2026/11/21/mayoral-control-of-chicago-public-schools-ends/",
           "translationStatus": "translated",
-          "titleJa": "シカゴ、30年続いた市長による公立学校統制に終止符",
+          "titleJa": "シカゴ、市長による公立学校統制の30年に終止符",
           "summaryJa": [
-            "シカゴ市では、過去30年間にわたり市長が公立学校を統制する体制が続いていました。",
-            "この長きにわたる市長による学校運営の時代が、今回終わりを告げます。",
-            "新たな教育ガバナンスの時代が始まります。"
+            "シカゴ市は、30年間にわたる市長による公立学校の統制に終止符を打ちます。",
+            "これは、市の教育ガバナンスにおける大きな転換点となります。",
+            "今後、公立学校の運営体制に変化が生じる見込みです。"
           ]
         },
         {
@@ -535,11 +564,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/colorado/2026/11/20/denver-school-board-superintendent-disagree-on-goal-setting/",
           "translationStatus": "translated",
-          "titleJa": "デンバー学区、教育委員会と教育長が目標設定で意見対立",
+          "titleJa": "デンバー教育委員会と教育長、目標設定で意見対立",
           "summaryJa": [
-            "デンバー学区において、教育委員会と教育長の間で目標設定に関する意見の相違が表面化しています。",
-            "目標を「理想的なもの」とすべきか、「現実的なもの」とすべきかという点で対立しています。",
-            "この議論は、学区の教育方針に影響を与える可能性があります。"
+            "デンバーの教育委員会と教育長の間で、学校目標の設定方法について意見の対立が生じています。",
+            "目標を「理想的」なものにするか、「現実的」なものにするかで議論が分かれています。",
+            "この意見の相違が、今後の教育方針に影響を与える可能性があります。"
           ]
         },
         {
@@ -549,11 +578,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/newyork/2026/11/20/ny-education-department-reading-test-scores-investigation/",
           "translationStatus": "translated",
-          "titleJa": "ニューヨーク州、小学3～5年生読解力スコアの急変動にエラーなし",
+          "titleJa": "ニューヨーク州、小学3～5年生読解力スコアの急変動に誤りなしと結論",
           "summaryJa": [
-            "ニューヨーク州で、小学3年生から5年生の読解力テストのスコアが大幅に変動した件について調査が実施されました。",
-            "調査の結果、この急激なスコア変動の背後にシステム上のエラーや誤りは見つからなかったと報告されています。",
-            "これは、テスト結果の信頼性に関する懸念を払拭するものです。"
+            "ニューヨーク州の調査により、小学3年生から5年生の読解力スコアにおける大幅な変動について、システム上の誤りは見つかりませんでした。",
+            "この調査は、スコアの急激な変化の原因を究明するために実施されました。",
+            "結果として、スコアの変動は誤りによるものではないと判断されました。"
           ]
         },
         {
@@ -565,9 +594,9 @@
           "translationStatus": "translated",
           "titleJa": "ネバダ州の保護者、小学校での毎日45分休憩を議員に要求",
           "summaryJa": [
-            "ネバダ州の保護者たちが、小学校で毎日45分間の休憩時間を義務付けるよう州議会議員に働きかけています。",
-            "ある保護者の娘が「自習時間」のために休憩時間を逃したことが、この動きのきっかけとなりました。",
-            "保護者らは、子供たちの心身の健康と学習効果向上のため、十分な休憩時間が必要だと訴えています。"
+            "ネバダ州の保護者たちが、小学校で毎日45分間の休憩時間を設けるよう議員に働きかけています。",
+            "ある保護者は、娘が「自習時間」のために休憩を逃した経験が続き、問題意識を持ったと述べています。",
+            "この動きは、児童の健康と学習環境の改善を目指すものです。"
           ]
         },
         {
@@ -577,11 +606,11 @@
           "excerpt": "Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plag...",
           "link": "https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/",
           "translationStatus": "translated",
-          "titleJa": "インディアナポリス公立学区、生徒数減と予算不足で6校閉鎖を提案",
+          "titleJa": "インディアナポリス公立学校、生徒数減少と予算不足で6校閉鎖を提案",
           "summaryJa": [
-            "インディアナポリス公立学区は、今学年度終了後に6つの学校を閉鎖する計画を提案しました。",
-            "この提案は、生徒数の大幅な減少と深刻な予算不足に直面しているためです。",
-            "学区は、財政の健全化と教育資源の効率的な配分を目指しています。"
+            "インディアナポリス公立学校は、生徒数の急激な減少と予算不足に直面し、今学年度終了後に6校の閉鎖を提案しています。",
+            "この提案は、財政的な課題と生徒数の減少に対応するための措置です。",
+            "閉鎖が実現すれば、地域の教育環境に大きな影響を与えることになります。"
           ]
         },
         {
@@ -591,11 +620,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/indiana/2026/11/20/parents-criticize-ips-school-closure-plan-and-innovation-network-changes/",
           "translationStatus": "translated",
-          "titleJa": "IPSの学校閉鎖とイノベーションネットワーク契約再交渉案に保護者から批判",
+          "titleJa": "保護者、IPSの学校閉鎖とイノベーションネットワーク契約再交渉計画を批判",
           "summaryJa": [
-            "インディアナポリス公立学区（IPS）が提案している学校閉鎖計画に対し、保護者から批判の声が上がっています。",
-            "さらに、イノベーションネットワーク契約の再交渉についても、保護者たちは懸念を表明しています。",
-            "これらの計画は、地域の教育環境に大きな影響を与えるとして、反対意見が示されています。"
+            "インディアナポリス公立学校（IPS）が提案する学校閉鎖と、イノベーションネットワーク契約の再交渉計画に対し、保護者から批判の声が上がっています。",
+            "保護者たちは、これらの計画が教育の質や生徒に与える影響について懸念を表明しています。",
+            "この批判は、IPSの教育改革案に対する地域社会の反発を示しています。"
           ]
         },
         {
@@ -605,11 +634,11 @@
           "excerpt": "Democrat Montserrat Garibay, who won Texas House District 49 in this month’s history-making election, told The 74 she has big plans for edu...",
           "link": "https://www.the74million.org/article/now-we-have-to-deliver-new-texas-house-member-on-her-education-goals/",
           "translationStatus": "translated",
-          "titleJa": "テキサス州下院新議員、教育目標を語る「今こそ実行の時」",
+          "titleJa": "テキサス州新下院議員、教育目標について「今こそ実行すべき時」",
           "summaryJa": [
-            "今月の歴史的な選挙でテキサス州下院第49区を制した民主党のモンセラート・ガリバイ議員が、自身の教育目標について語りました。",
-            "ガリバイ議員は、教育分野において大きな計画を抱いていることを明かしています。",
-            "「今こそ実行の時だ」と述べ、公約実現への強い意欲を示しました。"
+            "今月の歴史的な選挙でテキサス州下院第49区を制した民主党のモンセラート・ガリバイ議員が、教育に関する大きな計画を持っていると述べました。",
+            "彼女は、教育目標の実現に向けて「今こそ実行すべき時」であると強調しています。",
+            "新議員の教育政策への意欲が示されています。"
           ]
         },
         {
@@ -619,11 +648,11 @@
           "excerpt": "When my 9-year-old son was little, I used to put him in a shirt that said, “Boys will be boys,” but the words were crossed out and undernea...",
           "link": "https://www.the74million.org/article/consent-and-the-courage-to-speak-up-must-be-taught-long-before-college/",
           "translationStatus": "translated",
-          "titleJa": "意見：同意と声を上げる勇気は大学入学前に教えるべき",
+          "titleJa": "意見：同意と発言する勇気は大学入学前から教えるべき",
           "summaryJa": [
-            "ある意見記事では、同意の概念と、不当な状況で声を上げる勇気を教えることの重要性が強調されています。",
-            "筆者は、これらの教育は大学に入るずっと前から始めるべきだと主張しています。",
-            "若者が社会で適切に行動するための基礎を築く上で、早期教育が不可欠であると述べています。"
+            "筆者は、同意の概念と、自分の意見を表明する勇気を、大学に入るずっと前から教えるべきだと主張しています。",
+            "これは、幼少期からの教育が、健全な人間関係を築く上で重要であるという考えに基づいています。",
+            "記事は、この教育が社会全体に良い影響をもたらすと示唆しています。"
           ]
         },
         {
@@ -633,11 +662,11 @@
           "excerpt": "Headlines following this month’s seismic midterm elections have largely focused on the high drama of national politics, from challenges to...",
           "link": "https://www.the74million.org/article/democrats-took-power-in-the-states-now-comes-the-hard-part-on-education/",
           "translationStatus": "translated",
-          "titleJa": "民主党が州政権を掌握、教育分野で困難な課題に直面へ",
+          "titleJa": "民主党が州で政権掌握、教育政策の困難な局面へ",
           "summaryJa": [
-            "民主党が各州で政権を掌握したことにより、教育分野において新たな局面が訪れています。",
-            "これから、教育政策の実行において困難な課題に直面すると予想されています。",
-            "民主党は、州レベルでの教育改革を進める上で厳しい試練に立ち向かうことになります。"
+            "今月の中間選挙で民主党が複数の州で政権を掌握しました。",
+            "これにより、教育政策の分野で困難な課題に直面することが予想されます。",
+            "州レベルでの教育改革や予算配分など、今後の動向が注目されます。"
           ]
         }
       ]
@@ -669,13 +698,13 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 35,
+    "translatedItems": 40,
     "failedBatches": [
       {
-        "category": "投資ニュース",
+        "category": "世界ニュース",
         "start": 0,
         "count": 10,
-        "error": "Expecting property name enclosed in double quotes: line 13 column 5 (char 316)"
+        "error": "Expecting ',' delimiter: line 29 column 6 (char 653)"
       }
     ]
   }
