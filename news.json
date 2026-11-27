@@ -1,150 +1,148 @@
 {
-  "generatedAt": "2026-11-27T03:39:18.893959Z",
+  "generatedAt": "2026-11-27T19:03:06.562687Z",
   "categories": [
     {
       "id": "world",
       "name": "世界ニュース",
       "items": [
         {
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
           "source": "BBC News",
-          "publishedAt": "2026-11-27T03:28:15Z",
-          "excerpt": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-          "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T18:52:33Z",
+          "excerpt": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+          "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "ニュージーランド与党連合、議会過半数に1議席不足",
+          "titleJa": "感謝祭パレード延期、マーチングバンドが費用捻出に奔走",
           "summaryJa": [
-            "ニュージーランドの国民党が率いる右派与党連合が、",
-            "議会で政権を樹立するために必要な過半数に達しなかった。",
-            "必要な議席数に1議席足りない状況となっている。"
+            "ニューヨーク市での悪天候により、メイシーズ感謝祭パレードが2日間延期された。",
+            "この延期により、一部のマーチングバンドは滞在費などの追加費用を賄う必要に迫られている。",
+            "バンド関係者は「簡単には諦められない」と語り、費用の捻出に奔走している。"
           ]
         },
         {
-          "title": "Spain and Morocco under-17 stars target World Cup 2030",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T02:58:48Z",
-          "excerpt": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "サッカーU-17W杯で2030年W杯共催国スペインとモロッコが対戦",
-          "summaryJa": [
-            "2030年ワールドカップの共催国であるスペインとモロッコが、",
-            "U-17ワールドカップで対戦した。",
-            "両国の若手選手たちが将来のW杯での活躍を目指している。"
-          ]
-        },
-        {
-          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T02:14:25Z",
-          "excerpt": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-          "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "ゼレンスキー大統領、ロシアの大規模攻撃を警告 トランプ氏はプーチン氏に撤退を促す",
-          "summaryJa": [
-            "ロシアとウクライナの攻撃が激化する中、ゼレンスキー大統領はロシアによる大規模攻撃を警告した。",
-            "一方、ドナルド・トランプ氏は、プーチン大統領に対し、",
-            "ヨーロッパでの軍事侵攻を「撤退」するよう促したと述べた。"
-          ]
-        },
-        {
-          "title": "Trump says the US has ‘close to 50%’ of world’s oil",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T01:44:02Z",
-          "excerpt": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "トランプ氏、米国は世界の石油の「ほぼ50%」を保有と主張",
-          "summaryJa": [
-            "ドナルド・トランプ氏は、湾岸地域に展開する兵士との電話会談で、",
-            "米国は世界の石油の「ほぼ50%」を保有していると主張した。",
-            "また、米国は「中東の石油を必要としない」と述べた。"
-          ]
-        },
-        {
-          "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T01:36:23Z",
-          "excerpt": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "UEFA試合中に衝突、トルコ人ファンがパレスチナ旗掲げ試合中断",
-          "summaryJa": [
-            "UEFAの試合中、ジョージア警察とトルコのクラブ「ベシクタシュ」のサポーターの間で衝突が発生した。",
-            "サポーターがパレスチナの旗を掲げたことで、試合が中断された。",
-            "この衝突により、試合進行に支障が出た。"
-          ]
-        },
-        {
-          "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T01:07:44Z",
-          "excerpt": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-          "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-          "translationStatus": "translated",
-          "titleJa": "AFP通信がサイバー攻撃被害、コンテンツプラットフォームを停止",
-          "summaryJa": [
-            "世界的な通信社であるAFP通信がサイバー攻撃を受け、",
-            "コンテンツプラットフォームを停止したと報じた。",
-            "フランスのサイバーセキュリティ責任者は、国内の脅威レベルが前例のない高さにあるとして、",
-            "集団的な対策を講じるよう求めている。"
-          ]
-        },
-        {
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
           "source": "BBC News",
-          "publishedAt": "2026-11-27T00:52:11Z",
-          "excerpt": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy r...",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T18:42:50Z",
+          "excerpt": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+          "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "米国で感謝祭の嵐、洪水と航空便遅延が発生",
+          "titleJa": "ウクライナ、厳しい冬を前に疲弊と決意",
           "summaryJa": [
-            "感謝祭の木曜日の夜、米国両海岸を嵐が襲い、強風と大雨をもたらした。",
-            "これにより、約100万世帯が停電に見舞われた。",
-            "全米で洪水や航空便の遅延が発生している。"
+            "ウクライナは再び厳しい冬を迎えようとしている。",
+            "戦争への疲弊感は広がるものの、後退の兆しは見られない。",
+            "戦争がどのように終結するのかという問いが続く中、ウクライナは冬に備えている。"
           ]
         },
         {
-          "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
           "source": "BBC News",
-          "publishedAt": "2026-11-27T00:48:11Z",
-          "excerpt": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T18:00:40Z",
+          "excerpt": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
           "translationStatus": "translated",
-          "titleJa": "英警察の誤判で人生を台無しにされたとケニア人男性が訴え",
+          "titleJa": "ゼレンスキー大統領、トランプ氏とプーチン氏の「奇妙な友情」を批判",
           "summaryJa": [
-            "2011年にケニアのリゾート地ラムで発生した英国人カップル襲撃事件で、",
-            "アリ・コロロ氏が有罪判決を受けた。",
-            "英国警察官の証拠が有罪判決に貢献したが、コロロ氏は誤って有罪とされ、",
-            "メトロポリタン警察によって人生を台無しにされたと主張している。"
+            "ウクライナのゼレンスキー大統領はBBCのインタビューで、トランプ前米大統領とプーチン露大統領の「奇妙な友情」を批判した。",
+            "大統領は米国への不満を表明し、米国が和平交渉でロシアに対し十分な圧力をかけていないと述べた。",
+            "戦争終結に向けた和平交渉の進展に懸念を示している。"
           ]
         },
         {
-          "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-          "source": "BBC News",
-          "publishedAt": "2026-11-27T00:47:43Z",
-          "excerpt": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-          "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-          "translationStatus": "translated",
-          "titleJa": "死刑判決を受けたハシナ元首相の帰国計画、バングラデシュとインドに緊張",
-          "summaryJa": [
-            "死刑判決を受けたシェイク・ハシナ元首相の12月の帰国計画が、",
-            "バングラデシュ国内に新たな不安をもたらしている。",
-            "この計画は、ダッカとデリー間の緊張を深め、新たな騒乱のリスクを高めている。"
-          ]
-        },
-        {
-          "title": "Inside Ukraine’s power crisis amid its war with Russia",
+          "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T00:46:19Z",
-          "excerpt": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+          "publishedAt": "2026-11-27T17:58:36Z",
+          "excerpt": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+          "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
           "translationStatus": "translated",
-          "titleJa": "ロシアとの戦争下、ウクライナの電力危機が深刻化",
+          "titleJa": "メキシコ、麻薬取締局の通報窓口巡り米国に抗議",
           "summaryJa": [
-            "ロシアとの戦争が続くウクライナの首都では、",
-            "電力と水の不足が日常生活の一部となっている。",
-            "市民は厳しい生活を強いられている。"
+            "メキシコは、米麻薬取締局（DEA）が設置した麻薬密売人に関する通報窓口について米国に抗議した。",
+            "この通報窓口を巡り、両国間の緊張が高まっている。",
+            "メキシコは、二国間対立が深まる中で自国の主権尊重を強調している。"
+          ]
+        },
+        {
+          "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T17:44:50Z",
+          "excerpt": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "カナリア諸島に数百人の移民到着、スペイン軍が対応",
+          "summaryJa": [
+            "スペイン領カナリア諸島に数百人の移民が到着した。",
+            "エル・イエロ島に上陸した移民に対し、スペイン軍緊急事態対処部隊が派遣され治療にあたっている。",
+            "移民の流入が続いており、人道的な対応が求められている。"
+          ]
+        },
+        {
+          "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T17:44:33Z",
+          "excerpt": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+          "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "ウクライナ、黒海停戦を提案 ロシアは海軍を増強",
+          "summaryJa": [
+            "ウクライナは黒海での停戦を提案し、ロシアの回答を待っている。",
+            "一方、ロシアのプーチン大統領は海軍の増強を進めている。",
+            "ゼレンスキー大統領は、トランプ前米大統領とプーチン大統領の「友情」を批判している。"
+          ]
+        },
+        {
+          "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T17:41:24Z",
+          "excerpt": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
+          "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "メッカ協定同盟国、サウジアラビアへのフーシ派攻撃を非難",
+          "summaryJa": [
+            "パキスタン、サウジアラビア、トルコの関係者がイスラマバードで会談した。",
+            "会談では、サウジアラビアに対するフーシ派の「凶悪な」攻撃を非難した。",
+            "各国はサウジアラビア王国の安全保障を守ることを誓約した。"
+          ]
+        },
+        {
+          "title": "Why India’s captain wants saliva back in cricket",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T17:39:57Z",
+          "excerpt": "India captain Shubman Gill wants cricket’s Covid-era saliva ban relaxed after a five-day Test in Wellington.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "インド代表主将、クリケットでの唾液使用禁止緩和を要求",
+          "summaryJa": [
+            "インドのクリケット代表主将シュブマン・ギル選手が、唾液の使用禁止措置の緩和を求めている。",
+            "ウェリントンでの5日間のテストマッチ後、この要求が出された。",
+            "この禁止措置は、新型コロナウイルス感染症対策として導入されたもの。"
+          ]
+        },
+        {
+          "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+          "source": "BBC News",
+          "publishedAt": "2026-11-27T17:19:31Z",
+          "excerpt": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+          "translationStatus": "translated",
+          "titleJa": "ケニアの終末論カルト指導者、さらに123人の殺害で有罪判決",
+          "summaryJa": [
+            "ケニアの終末論カルト指導者ポール・マッケンジー被告が、さらに123人の信者殺害で有罪となった。",
+            "同被告は数週間前にも、子供たちの大量殺害で投獄されたばかりだった。",
+            "彼の信者たちは、飢餓によって死亡したとされている。"
+          ]
+        },
+        {
+          "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T17:15:35Z",
+          "excerpt": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+          "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+          "translationStatus": "translated",
+          "titleJa": "スペイン総選挙、サンチェス首相が左派票の急増に期待",
+          "summaryJa": [
+            "スペインのペドロ・サンチェス首相は、日曜日の総選挙を前に最後の訴えを行った。",
+            "首相は、世論調査に反して左派票が急増することに期待をかけている。",
+            "右派政党に勝利するため、支持層への働きかけを強めている。"
           ]
         }
       ]
@@ -154,114 +152,131 @@
       "name": "日本ニュース",
       "items": [
         {
-          "title": "明日28日(土)は関東で警報級大雨のおそれ 日本海側も土砂災害の危険が高まる(日本気象協会tenki.jp)",
+          "title": "“2つの窓口”が抱えるジレンマ…市と児相で“食い違い”福島・3歳児暴行死(テレビ朝日系（ANN）)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:37:41Z",
-          "excerpt": "本州の南岸を進む低気圧の影響で、関東では明日28日の未明から朝にかけて激しい雨の降る所があり、警報級の大雨となる可能性があります。低い土地の浸水などに注意・警戒してください。一方、日本海側の地域も大気",
-          "link": "https://news.yahoo.co.jp/articles/244804bec2ebfb2d07b9994501a62f4c6adecc22?source=rss",
+          "publishedAt": "2026-11-27T16:18:16Z",
+          "excerpt": "福島県いわき市で今月、3歳の男の子が母親の交際相手からの暴行で死亡した事件。市は以前から虐待の可能性を覚知し、県の児童相談所に相談していたとする一方で、児相側は市が対応するべきだったと、双方の主張が食",
+          "link": "https://news.yahoo.co.jp/articles/e872314335eeea7a20db489f4fe02f76a6691427?source=rss",
           "translationStatus": "translated",
-          "titleJa": "明日28日(土) 関東で警報級大雨のおそれ、日本海側も土砂災害に警戒",
+          "titleJa": "福島3歳児暴行死、市と児相で対応に食い違い",
           "summaryJa": [
-            "明日28日(土)は、本州南岸を進む低気圧の影響で、関東地方では未明から朝にかけて激しい雨が降る見込みです。",
-            "警報級の大雨となる可能性があり、低い土地での浸水に注意・警戒が必要です。",
-            "一方、日本海側の地域でも土砂災害の危険が高まるとして、警戒が呼びかけられています。"
+            "福島県いわき市で今月、3歳の男の子が母親の交際相手による暴行で死亡する事件が発生しました。",
+            "いわき市は以前から虐待の可能性を認識し、県の児童相談所に相談していたと主張しています。",
+            "しかし、児童相談所側は市が対応すべきだったとの見解を示しており、双方の主張が食い違っています。"
           ]
         },
         {
-          "title": "参院本会議 関文科大臣 問責決議案 否決(ABEMA TIMES)",
+          "title": "2遺体は山中の近い場所で発見(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:36:16Z",
-          "excerpt": "関文部科学大臣の政治資金パーティー問題をめぐり、立憲民主党などの野党が提出した問責決議案が与党などの反対多数で否決されました。【映像】問責決議案、否決の瞬間 問責決議案はさきほど、参議院本会議で審議さ",
-          "link": "https://news.yahoo.co.jp/articles/1405312d64271d36a90679d0c281889d28f69bd5?source=rss",
+          "publishedAt": "2026-11-27T16:16:46Z",
+          "excerpt": "神奈川県警は28日、2遺体は、宮城県七ケ宿町の山中の近い場所で見つかったと明らかにした。30日に司法解剖し、死因などを調べる。",
+          "link": "https://news.yahoo.co.jp/articles/b0545eb1675ae79a200b17d84a9f04a9a2180c73?source=rss",
           "translationStatus": "failed"
         },
         {
-          "title": "東海は27日夜は広く雨 雨の後は寒くなり、29日は岐阜県の山間部で積雪へ(日本気象協会tenki.jp)",
+          "title": "宮城県の山中で2人の遺体 1人は横浜市の女子高校生か(ABEMA TIMES)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:35:19Z",
-          "excerpt": "東海地方は、今日27日(金)は天気は下り坂で、夜は広く雨が降るでしょう。雨の後は次第に寒気が流れ込むため、29日(日)は寒くなり、山では雪が降る見込みです。一方、来週は名古屋などで20℃前後まで上がる",
-          "link": "https://news.yahoo.co.jp/articles/7f6cca36631499c0e619a9ce387e41440dd32f54?source=rss",
+          "publishedAt": "2026-11-27T15:36:16Z",
+          "excerpt": "27日、先月から行方不明になっている横浜市の高校1年生の女子生徒とみられる遺体が、宮城県内で見つかったことがわかりました。【映像】山中で2人の遺体発見 1人は行方不明の女子高校生か 捜査関係者によりま",
+          "link": "https://news.yahoo.co.jp/articles/f2a7c36034b06a25f39c6d34617f03772c663395?source=rss",
           "translationStatus": "translated",
-          "titleJa": "東海地方、27日夜は広く雨 29日(日)は岐阜山間部で積雪の可能性",
+          "titleJa": "宮城の山中で2遺体発見、1人は横浜の不明女子高生か",
           "summaryJa": [
-            "東海地方では27日(金)夜に広く雨が降る見込みです。",
-            "雨の後は次第に寒気が流れ込み、29日(日)は気温が下がり、岐阜県の山間部では雪が降る可能性があります。",
-            "来週には名古屋などで20℃前後まで気温が上がる予報も出ています。"
+            "27日、宮城県内の山中で2人の遺体が見つかったことが捜査関係者への取材で判明しました。",
+            "このうち1人は、先月から行方不明になっていた横浜市の高校1年生の女子生徒とみられています。",
+            "警察は身元の特定を急ぐとともに、事件の経緯を詳しく調べています。"
           ]
         },
         {
-          "title": "Tepco delays completion date of Niigata nuclear plant’s anti-terrorism facility",
-          "source": "The Japan Times",
-          "publishedAt": "2026-11-27T03:34:00Z",
-          "excerpt": "The contracting company informed Tepco that construction needs to be extended by more than a year due to factors including labor shortages.",
-          "link": "https://www.japantimes.co.jp/business/2026/11/27/companies/tepco-kashiwazaki-kariwa-delay-antiterrorism/",
+          "title": "不明女子高生の家族は10月26日に届け出(共同通信)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-27T15:35:51Z",
+          "excerpt": "捜査関係者によると、行方不明になっている女子高校生の家族からは、10月26日に「帰ってこない」と神奈川県警に届け出があった。",
+          "link": "https://news.yahoo.co.jp/articles/d593b159870a4459a1d049c69d031386169b2930?source=rss",
           "translationStatus": "failed"
         },
         {
-          "title": "別人名義でレンタルボックス借りた容疑、幸平一家系組長ら2人逮捕 警視庁(産経新聞)",
+          "title": "宮城の山中に2遺体 1人は横浜の女子高校生か(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:32:30Z",
-          "excerpt": "他人名義でレンタルボックスを契約したとして、警視庁暴力団対策課は詐欺の疑いで、指定暴力団住吉会幸平一家系組長、山本良容疑者（43）＝東京都新宿区大久保＝ら2人を逮捕した。いずれも認否は明らかにしていな",
-          "link": "https://news.yahoo.co.jp/articles/48d43f6e0193c3c1f9efd0cd18ffe54087da6ea5?source=rss",
+          "publishedAt": "2026-11-27T15:32:05Z",
+          "excerpt": "神奈川県警が27日、宮城県七ケ宿町の山中で2人の遺体を見つけたことが捜査関係者への取材で分かった。県警はうち1人を、行方不明になっていた横浜市泉区の高校1年の女子生徒（16）の可能性があるとみて調べて",
+          "link": "https://news.yahoo.co.jp/articles/b234734929ea231f38f47fc2102c47bb7eb5e830?source=rss",
           "translationStatus": "translated",
-          "titleJa": "他人名義でレンタルボックス契約、組長ら2人を詐欺容疑で逮捕",
+          "titleJa": "宮城の山中に2遺体発見、横浜の不明女子高生か",
           "summaryJa": [
-            "警視庁暴力団対策課は、他人名義でレンタルボックスを契約したとして、詐欺の疑いで2人を逮捕しました。",
-            "逮捕されたのは、指定暴力団住吉会幸平一家系組長の山本良容疑者（43）らです。",
-            "2人の認否は明らかにされていません。"
+            "27日、神奈川県警は宮城県七ケ宿町の山中で2人の遺体を発見しました。",
+            "警察は、このうち1体が行方不明になっていた横浜市泉区の高校1年生の女子生徒（16）である可能性が高いとみて調べています。",
+            "現在、身元の特定と事件の詳しい状況について捜査が進められています。"
           ]
         },
         {
-          "title": "「怖いと思うけど、夜の世界できる？」 客に性風俗店での勤務を要求 元ホスト再逮捕(産経新聞)",
+          "title": "女子高生誘拐の疑いで男逮捕(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:31:28Z",
-          "excerpt": "勤務していたホストクラブの女性客に性風俗店での勤務を要求したとして、警視庁保安課は風営法違反の疑いで、東京都新宿区歌舞伎町の元ホスト、竹岡拓人被告（27）＝同法違反罪などで起訴＝を再逮捕した。調べに「",
-          "link": "https://news.yahoo.co.jp/articles/febc03184859762565405bcc79e9eb0f634a9ddc?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "〈富士山・外国人無謀登山〉「滑落すると五合目まで止まらないことも」地元警察が冬の富士山の危険性を警告「懸賞金の件は確認していない話です」(集英社オンライン)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:30:36Z",
-          "excerpt": "冬山装備も持たずに閉山中の富士山に入り、遭難したとみられる中国人男性。その父親が、発見した人に懸賞金を出すと中国メディアが報じた。男性は依然発見されておらず、懸賞金の件も実態があるのかどうか不透明なま",
-          "link": "https://news.yahoo.co.jp/articles/3f9d72288a3f06350c1b93b7507762590f47661f?source=rss",
+          "publishedAt": "2026-11-27T15:20:04Z",
+          "excerpt": "宮城県の山中で2遺体が見つかった事件に絡み、神奈川県警は28日までに、行方不明になった横浜市の女子高校生を誘拐した疑いで宮城県の男を逮捕した。捜査関係者への取材で分かった。",
+          "link": "https://news.yahoo.co.jp/articles/ab90bc824f7ad19509cfa9a2c4658a510eefb712?source=rss",
           "translationStatus": "translated",
-          "titleJa": "冬の富士山で遭難か、地元警察が危険性を警告 懸賞金報道は未確認",
+          "titleJa": "不明女子高生誘拐容疑で男を逮捕、宮城の2遺体事件関連",
           "summaryJa": [
-            "冬山装備を持たずに閉山中の富士山に入り、遭難したとみられる中国人男性がいます。",
-            "地元警察は、冬の富士山は滑落すると五合目まで止まらないこともあると危険性を警告しています。",
-            "男性を発見した人に懸賞金を出すという中国メディアの報道については、警察は確認していないと述べています。",
-            "男性は依然として発見されていません。"
+            "宮城県の山中で2遺体が見つかった事件に関連し、神奈川県警は28日までに男を逮捕しました。",
+            "逮捕されたのは宮城県の男で、行方不明になっていた横浜市の女子高校生を誘拐した疑いが持たれています。",
+            "警察は事件の全容解明に向けて捜査を進めています。"
           ]
         },
         {
-          "title": "消費税減税法成立に全力と自民参院会長(共同通信)",
+          "title": "宮城で2遺体、1人は横浜の女子高校生か(共同通信)",
           "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:28:46Z",
-          "excerpt": "自民党の松山政司参院議員会長は27日、関文科相に対する問責決議案否決を受け「謙虚で丁寧な国会運営に努め、消費税減税関連法案の成立に全力を尽くしたい」と記者団に述べた。",
-          "link": "https://news.yahoo.co.jp/articles/b30fb593b369a018c78517dce98c9cba2ec61a86?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "政府起用のナオキマン動画に苦言 厚労相、降圧薬リスク巡り(共同通信)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:28:20Z",
-          "excerpt": "陰謀論や都市伝説を扱い、政府広報に起用されたユーチューバー「ナオキマン」氏が自身の動画で「降圧薬が脳卒中のリスクを高める」との趣旨の情報発信をしたことに対し、上野賢一郎厚生労働相は27日の閣議後記者会",
-          "link": "https://news.yahoo.co.jp/articles/3296b66700825b93e353898c7de0ad3168f8d6d8?source=rss",
-          "translationStatus": "failed"
-        },
-        {
-          "title": "スマホで指示受けたか 愛知・小牧市の強盗殺人未遂事件で中高生ら5人を再逮捕 車両から被害女性の財布も(メ〜テレ（名古屋テレビ）)",
-          "source": "Yahoo!ニュース 国内",
-          "publishedAt": "2026-11-27T03:28:02Z",
-          "excerpt": "愛知県小牧市の住宅で女性が襲われ金品が奪われた事件で、逮捕された5人が乗っていた車から、女性の財布が見つかっていたことがわかりました。 この事件ではブラジル国籍の派遣社員トミタ・フェラリ・エンゾ・スエ",
-          "link": "https://news.yahoo.co.jp/articles/a03fcecfead48c3e5da34316426473f69ffae3b8?source=rss",
+          "publishedAt": "2026-11-27T15:18:15Z",
+          "excerpt": "捜査関係者によると、宮城県内の山中で27日、2人の遺体が見つかった。神奈川県警はうち1人を、行方不明になっていた横浜市の女子高校生の可能性があるとみて調べている。",
+          "link": "https://news.yahoo.co.jp/articles/62bf9c8cfe076f13004a7fea937617b0ae4daf7f?source=rss",
           "translationStatus": "translated",
-          "titleJa": "愛知・小牧市の強盗殺人未遂事件、中高生ら5人を再逮捕 車内から被害者の財布発見",
+          "titleJa": "宮城の山中で2遺体発見、横浜の不明女子高生か",
           "summaryJa": [
-            "愛知県小牧市の住宅で女性が襲われ金品が奪われた強盗殺人未遂事件で、中高生ら5人が再逮捕されました。",
-            "逮捕された5人が乗っていた車の中から、被害女性の財布が見つかっていたことが新たに判明しました。",
-            "この事件では、ブラジル国籍の派遣社員トミタ・フェラリ・エンゾ・スエ容疑者も逮捕されています。"
+            "27日、宮城県内の山中で2人の遺体が見つかったことが捜査関係者への取材で判明しました。",
+            "神奈川県警は、このうち1体が行方不明になっていた横浜市の女子高校生である可能性が高いとみて身元の確認を進めています。",
+            "警察は事件の詳しい状況について捜査を進めています。"
+          ]
+        },
+        {
+          "title": "「勘弁してくれよ」酷暑に少雨を経て迎えた“収穫の秋”熊本地震から4カ月(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-27T15:12:17Z",
+          "excerpt": "今年7月の熊本地震からまもなく4カ月。季節は夏から晩秋へと移り変わりました。今年の熊本は地震だけではなく、記録的な高温、そして少雨にも見舞われました。その影響は木々だけではなく、農作物にも出ています。",
+          "link": "https://news.yahoo.co.jp/articles/ea8815307d3fa9e050991bd06a5ebe374ce199c2?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "熊本地震から4カ月、酷暑と少雨が農作物に影響",
+          "summaryJa": [
+            "今年7月の熊本地震からまもなく4カ月が経過し、熊本は晩秋を迎えました。",
+            "しかし、今年は地震に加え、記録的な高温と少雨にも見舞われました。",
+            "これらの気象条件は、木々だけでなく農作物にも大きな影響を与えています。"
+          ]
+        },
+        {
+          "title": "【速報】宮城県の山中で2人の遺体 1人は横浜市の女子高校生か 誘拐容疑で33歳男逮捕(テレビ朝日系（ANN）)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-27T15:06:27Z",
+          "excerpt": "27日、先月から行方不明になっている横浜市の高校1年生の女子生徒とみられる遺体が、宮城県内で見つかったことが分かりました。 捜査関係者によりますと27日、宮城県内の山の中で2人の遺体が見つかり、そのう",
+          "link": "https://news.yahoo.co.jp/articles/8b44bb2acc485a65f2624a9583cbd7d08c8e4463?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "宮城の山中で2遺体、1人は横浜の不明女子高生か 誘拐容疑で男逮捕",
+          "summaryJa": [
+            "27日、宮城県内の山中で2人の遺体が見つかり、このうち1体は先月から行方不明の横浜市の高校1年生の女子生徒とみられています。",
+            "この事件に関連し、警察は誘拐の疑いで33歳の男を逮捕しました。",
+            "警察は身元の特定と事件の全容解明に向けて捜査を進めています。"
+          ]
+        },
+        {
+          "title": "「計画参加するつもりなかった」“ルフィ”トップの男(ABEMA TIMES)",
+          "source": "Yahoo!ニュース 国内",
+          "publishedAt": "2026-11-27T15:06:17Z",
+          "excerpt": "“ルフィ”などと名乗るグループのトップの裁判で、トップの男は東京・狛江市での強盗致死事件について、「計画に参加するつもりはなかった」と話しました。【映像】 「参加するつもりなかった」“ルフィ”トップの",
+          "link": "https://news.yahoo.co.jp/articles/263484c86c1036103d7836ee181288ea21157885?source=rss",
+          "translationStatus": "translated",
+          "titleJa": "“ルフィ”トップの男、狛江強盗致死事件への関与を否定",
+          "summaryJa": [
+            "“ルフィ”などと名乗る強盗グループのトップとされる男の裁判が行われました。",
+            "男は東京・狛江市で発生した強盗致死事件について、「計画に参加するつもりはなかった」と述べ、関与を否定しました。",
+            "裁判では、事件における男の役割や責任が争点となっています。"
           ]
         }
       ]
@@ -271,144 +286,143 @@
       "name": "投資ニュース",
       "items": [
         {
-          "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+          "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-27T18:53:00Z",
+          "excerpt": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+          "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "Nvidia株が急騰した週、最も上昇した銘柄たち",
+          "summaryJa": [
+            "Nvidiaの株価は今週急騰した。",
+            "しかし、11月には約28%下落し、2026年通年では21%の下落となっている。",
+            "これは、NvidiaのファンCEOの復帰が注目された一週間の中で起きた動きである。"
+          ]
+        },
+        {
+          "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-27T03:30:23Z",
-          "excerpt": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
-          "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+          "publishedAt": "2026-11-27T18:46:20Z",
+          "excerpt": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+          "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
           "translationStatus": "translated",
-          "titleJa": "クウェートのドローン攻撃でイタリア人2人死亡、イラン外相は「戦争の既成事実化」と指摘",
+          "titleJa": "ファン氏復帰でAI株一時上昇も、市場の不安定さ続く",
           "summaryJa": [
-            "クウェートで発生したドローン攻撃により、イタリア人2人が死亡しました。",
-            "トランプ氏は、イランとの戦争は「私が望めばいつでも終わる」と発言。",
-            "イランのアラグチ外相は、この事件を「疑わしく、戦争を仕組んだもののように見える」と述べました。"
+            "Jensen Huang氏の復帰は、AI関連株の一時的な上昇を促した。",
+            "しかし、AI市場の不安を完全に和らげるには至らなかった。",
+            "継続する市場の変動は、投資家にとって資金を投入する新たな機会となった。"
           ]
         },
         {
-          "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+          "title": "The warnings behind this week’s stock-market rally",
+          "source": "MarketWatch",
+          "publishedAt": "2026-11-27T18:40:00Z",
+          "excerpt": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+          "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+          "translationStatus": "translated",
+          "titleJa": "今週の株式市場の回復の裏にある警告",
+          "summaryJa": [
+            "今週末の読み物には、メディケア登録に関する重要なヒントが含まれている。",
+            "また、オンラインショッピング詐欺を見破る方法も紹介されている。",
+            "さらに、The Moneyistからの夫婦関係に関するアドバイスも掲載されている。"
+          ]
+        },
+        {
+          "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-27T02:04:09Z",
-          "excerpt": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has b...",
-          "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+          "publishedAt": "2026-11-27T18:24:06Z",
+          "excerpt": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+          "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
           "translationStatus": "translated",
-          "titleJa": "中国工業企業の利益、10月に20.1%増 5カ月ぶり高水準",
+          "titleJa": "SpaceX株が4%超上昇、テクノロジー株高とマスク氏のトランプ氏関連株寄付発言で",
           "summaryJa": [
-            "中国の工業企業の利益成長率が、10月に前年同月比20.1%増を記録しました。",
-            "これは5カ月ぶりの高水準となります。",
-            "中国経済は二つの速度で動いており、AI関連製造業と輸出が成長を牽引しています。"
+            "金曜日の取引でSpaceXの株価が急騰した。",
+            "これは、イーロン・マスク氏がX（旧Twitter）で発表した発言が背景にある。",
+            "マスク氏は、毎年アメリカの子供たちに株式を寄付すると述べた。"
           ]
         },
         {
-          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-27T01:15:00Z",
-          "excerpt": "Doing nothing and maintaining an even temperament is often the work of gods.",
-          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "Nvidiaのジェンスン・フアン氏復帰と401(k)への影響",
-          "summaryJa": [
-            "Nvidiaのジェンスン・フアン氏の復帰について、筆者は複雑な感情を抱いています。",
-            "個人的には彼の復帰を好まないものの、それが自身の401(k)に良い影響を与えていることを歓迎しています。",
-            "記事では、何もしないで平静を保つことが「神のなせる業」であると述べています。"
-          ]
-        },
-        {
-          "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-27T01:00:00Z",
-          "excerpt": "“My wife stopped working outside the home in 1970.”",
-          "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "結婚58年の夫婦が問う、家計を別にするカップルの心理",
-          "summaryJa": [
-            "結婚58年になる夫婦が、家計管理について自身の考えを述べています。",
-            "筆者は、財産は「彼のもの」「彼女のもの」ではなく、「私たちのもの」であると主張しています。",
-            "多くのカップルが家計を別々に管理する理由について疑問を呈しています。",
-            "筆者の妻は1970年に外での仕事を辞めたと述べられています。"
-          ]
-        },
-        {
-          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-          "source": "MarketWatch",
-          "publishedAt": "2026-11-27T00:31:00Z",
-          "excerpt": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-          "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-          "translationStatus": "translated",
-          "titleJa": "Nvidia CEOジェンスン・フアン氏の影響力と401(k)への懸念",
-          "summaryJa": [
-            "NvidiaのCEOであるジェンスン・フアン氏が個人の401(k)残高に影響を与える現状について、懸念が示されています。",
-            "記事は、このような時代を「危険な時代」と表現しています。",
-            "フアン氏のような先見の明を持つ未来学者が、なぜすべての道が彼に通じるような会社を築いたのかという問いが投げかけられています。"
-          ]
-        },
-        {
-          "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+          "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-27T00:22:29Z",
-          "excerpt": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-          "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+          "publishedAt": "2026-11-27T18:20:32Z",
+          "excerpt": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company...",
+          "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
           "translationStatus": "translated",
-          "titleJa": "政府系ファンド、プライベートエクイティ大手化しリスクも継承",
+          "titleJa": "格安航空会社ノース・アトランティック、資金確保できず欧州で破産申請",
           "summaryJa": [
-            "政府系ファンドが、プライベートエクイティ（PE）大手のように行動する傾向を強めています。",
-            "これにより、PE企業が抱えるリスクも継承しつつあります。",
-            "政府系ファンドは、自ら取引を組成し、支配的株式を取得し、独自の投資プラットフォームを構築するケースが増加しています。"
+            "格安航空会社ノース・アトランティックが金曜日に破産を申請した。",
+            "同社は、高騰する燃料費が経営を圧迫した結果、資金確保に失敗したと説明している。",
+            "欧州での破産申請となる。"
           ]
         },
         {
-          "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+          "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-26T22:00:00Z",
-          "excerpt": "“Our financial and healthcare situation has become increasingly concerning.”",
-          "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-27T17:31:00Z",
+          "excerpt": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+          "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "50歳専業主婦、夫の失業と持病で家計逼迫：401(k)取り崩しは賢明か？",
+          "titleJa": "実家の片付けは法的な悪夢だった。子供たちに同じ苦労をさせずに規模を縮小するには？",
           "summaryJa": [
-            "50歳の専業主婦が、夫の失業と自身の持病により経済的に困難な状況に直面しています。",
-            "夫婦は、夫の401(k)を早期に取り崩すべきか悩んでいます。",
-            "記事では、彼らの財政と医療の状況が「ますます懸念される」と述べられています。"
+            "今年のブラックフライデーには、反消費主義的なアドバイスが提示されている。",
+            "それは、物を買うのをやめること。",
+            "さらに、規模を縮小するための他のルールも含まれている。"
           ]
         },
         {
-          "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+          "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-26T21:45:00Z",
-          "excerpt": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-          "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+          "publishedAt": "2026-11-27T17:04:00Z",
+          "excerpt": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+          "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "市場暴落への不安、退職貯蓄の一部を年金に投資すべきか",
+          "titleJa": "イワシとクロックスチャームの12日間：アドベントカレンダーは制御不能になっているのか？",
           "summaryJa": [
-            "市場の暴落を恐れるある投資家が、退職貯蓄100万ドルのうち40万ドルを年金に投資すべきか検討しています。",
-            "夫婦は45万ドル相当の家を所有しており、世帯合算の年間収入は12万5000ドルです。",
-            "記事は、この状況における資産配分に関する問いを提示しています。"
+            "特に高級アドベントカレンダーの売上が急増している。",
+            "これらは数百ドルに達することもある。",
+            "その人気の理由が注目されている。"
           ]
         },
         {
-          "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+          "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
           "source": "CNBC Markets",
-          "publishedAt": "2026-11-26T21:13:17Z",
-          "excerpt": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately inv...",
-          "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+          "publishedAt": "2026-11-27T16:43:14Z",
+          "excerpt": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other re...",
+          "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
           "translationStatus": "translated",
-          "titleJa": "トランプ氏、第3四半期GDP上方修正を「記録的な誤り」と批判し調査要求",
+          "titleJa": "AIショッピングエージェントが注目される中、Amazonなどがその成長を阻害する恐れ",
           "summaryJa": [
-            "ドナルド・トランプ前大統領は、第3四半期の国内総生産（GDP）データが大幅に上方修正されたことについて言及しました。",
-            "彼はこのGDP修正を「記録的な誤り」であると見なし、間違いであると主張しています。",
-            "トランプ氏は、この件について直ちに調査が行われるべきだと要求しています。"
+            "OpenAI、Meta、Google、InstinctなどのAIショッピングエージェントが、ユーザーの買い物支援を約束している。",
+            "しかし、これらのエージェントはAmazonをはじめとする多くのサイトで障壁に直面している。",
+            "そのため、彼らの成長が阻害される可能性が指摘されている。"
+          ]
+        },
+        {
+          "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+          "source": "CNBC Markets",
+          "publishedAt": "2026-11-27T16:08:10Z",
+          "excerpt": "A wide swath of consumer products are becoming less reliable and durable, even as their prices rise, research shows.",
+          "link": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+          "translationStatus": "translated",
+          "titleJa": "気のせいではない：耐久消費財の信頼性が低下、車の不調からスマートTVの不具合まで",
+          "summaryJa": [
+            "研究によると、幅広い耐久消費財の信頼性と耐久性が低下している。",
+            "これは、価格が上昇しているにもかかわらず発生している現象である。",
+            "車の不調やスマートTVの不具合など、具体的な例が挙げられている。"
           ]
         },
         {
           "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
           "source": "MarketWatch",
-          "publishedAt": "2026-11-26T19:00:00Z",
+          "publishedAt": "2026-11-27T16:00:00Z",
           "excerpt": "“Retirement is a financial status, not an age.”",
           "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
           "translationStatus": "translated",
-          "titleJa": "貯蓄わずか500ドルで定年を迎える66歳看護師の苦境",
+          "titleJa": "貯蓄わずか500ドルで引退に直面する66歳の看護師。誰の責任か？",
           "summaryJa": [
-            "66歳の看護師が、わずか500ドルの貯蓄で定年を迎えようとしています。",
-            "記事は、このような状況になった責任は誰にあるのかという問いを投げかけています。",
-            "引用として、「定年とは年齢ではなく、経済的な状態である」という言葉が紹介されています。"
+            "「引退とは年齢ではなく、経済的な状態である。」",
+            "この言葉は、引退に関する一般的な認識に一石を投じる。",
+            "経済的な準備の重要性を示唆している。"
           ]
         }
       ]
@@ -424,11 +438,11 @@
           "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its pu...",
           "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
           "translationStatus": "translated",
-          "titleJa": "NVIDIA、東南アジアへのチップ出荷を一時停止 米国の規制強化受け",
+          "titleJa": "Nvidia、東南アジアへのチップ出荷を一時停止 米国の規制強化受け",
           "summaryJa": [
-            "NVIDIAは、米国の規制強化を受け、製造パートナーに対しマレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。",
-            "これは、米国が半導体輸出に関する規制を強化している動きに対応するものです。",
-            "東南アジア諸国へのAI関連チップ供給に影響が出る可能性があります。"
+            "Nvidiaは、米国による規制強化を受け、製造パートナーに対しマレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。",
+            "これは、AI関連技術の輸出管理が厳しくなる中で、企業が対応を迫られている状況を示しています。",
+            "東南アジア市場への影響が懸念されます。"
           ]
         },
         {
@@ -438,25 +452,11 @@
           "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment laun...",
           "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
           "translationStatus": "translated",
-          "titleJa": "『グランド・セフト・オートVI』、効率性だけが美徳ではないことを証明",
+          "titleJa": "「グランド・セフト・オートVI」が効率性だけが美徳ではないことを証明",
           "summaryJa": [
-            "Anthropicが株式市場に参入した日、手作業で丹念に作られたビデオゲームが最も成功したエンターテイメントローンチの一つとなりました。",
-            "これは、効率性のみを追求するのではなく、人間的な労力と創造性が重要であることを示唆しています。",
-            "『グランド・セフト・オートVI』の成功は、その価値を裏付けています。"
-          ]
-        },
-        {
-          "title": "Jensen Huang deepfakes are the hot new AI slop",
-          "source": "The Verge AI",
-          "publishedAt": "2026-11-26T12:29:18Z",
-          "excerpt": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crow...",
-          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-          "translationStatus": "translated",
-          "titleJa": "NVIDIA元CEOジェンスン・フアン氏のディープフェイク動画が拡散",
-          "summaryJa": [
-            "NVIDIAの元CEOであるジェンスン・フアン氏がイビサ島でパーティーを楽しんでいるとされる動画がInstagramで約600万回再生されています。",
-            "しかし、この動画はAIによって生成されたディープフェイクであると報じられています。",
-            "AI技術を用いた偽情報が新たなトレンドとして注目されています。"
+            "Anthropicが株式市場に参入した日、緻密に作り込まれた人間味あふれるビデオゲーム「グランド・セフト・オートVI」が、最も成功したエンターテイメントローンチの一つとなりました。",
+            "この出来事は、AIによる効率化が進む現代において、手間をかけた人間の創造性が依然として大きな価値を持つことを示唆しています。",
+            "技術の進歩と人間の芸術性のバランスについて考えさせられる事例です。"
           ]
         },
         {
@@ -466,11 +466,11 @@
           "excerpt": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptc...",
           "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
           "translationStatus": "translated",
-          "titleJa": "42州の司法長官、Character.AIのユーザーチャット販売阻止を試みる",
+          "titleJa": "42州の司法長官がCharacter.AIのユーザーチャット販売阻止を試みる",
           "summaryJa": [
             "42州の司法長官連合が、Character.AIがユーザーデータを販売することを阻止しようとしています。",
-            "同社は現在、連邦破産法第11条の適用を申請し、再建手続きを進めています。",
-            "司法長官らは、ユーザーのプライバシー保護を懸念しています。"
+            "同社は現在、連邦破産法第11条の適用を申請しており、その過程でユーザーデータの扱いが問題となっています。",
+            "ユーザーのプライバシー保護と企業のデータ利用に関する議論が活発化しています。"
           ]
         },
         {
@@ -480,11 +480,11 @@
           "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
           "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
           "translationStatus": "translated",
-          "titleJa": "S&P、NVIDIAの信用格付け引き下げを検討 ガバナンスと「キーマン」リスクで",
+          "titleJa": "S&P、Nvidiaの信用格付け引き下げを検討 ガバナンスと「キーマン」リスクで",
           "summaryJa": [
-            "信用格付け機関S&Pは、NVIDIAの信用格付けをAA-に引き下げる可能性を検討しています。",
-            "これは、同社のガバナンスと「キーマン」リスクが懸念されているためです。",
-            "AA-は4番目に高い格付けです。"
+            "信用格付け機関S&Pが、Nvidiaの信用格付けをAA-（4番目に高い格付け）に引き下げる可能性を検討しています。",
+            "この検討は、同社のガバナンス体制と「キーマン」リスクが懸念されているためです。",
+            "企業統治の健全性と主要人物への依存度が、企業の信用評価に影響を与える事例として注目されます。"
           ]
         },
         {
@@ -494,11 +494,25 @@
           "excerpt": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated vide...",
           "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
           "translationStatus": "translated",
-          "titleJa": "GoogleのAI動画フィード特許、エンターテイメントの未来に暗い影",
+          "titleJa": "GoogleのAI生成動画フィード特許、エンターテイメントの未来に暗い影を落とす",
           "summaryJa": [
-            "Googleは昨年、「My Channel」と呼ばれるシステムに関する特許を申請しました。",
-            "このシステムは、パーソナライズされたAI生成動画で満たされたフィードを作成するものです。",
-            "この特許は、エンターテイメントの未来について懸念を抱かせるものと報じられています。"
+            "Googleが昨年、「My Channel」と呼ばれる、パーソナライズされたAI生成動画で満たされたフィードを作成するシステムに関する特許を申請しました。",
+            "AIによるコンテンツ生成が主流となることで、エンターテイメントの多様性や人間の創造性が失われる可能性が懸念されています。",
+            "この特許は、エンターテイメントの未来像について議論を呼んでいます。"
+          ]
+        },
+        {
+          "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+          "source": "The Verge AI",
+          "publishedAt": "2026-11-25T21:43:14Z",
+          "excerpt": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It n...",
+          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+          "translationStatus": "translated",
+          "titleJa": "AndroidのDIYウィジェット、パーソナルなAI活用で楽しさ提供",
+          "summaryJa": [
+            "AndroidのDIYウィジェット機能は、ユーザーが自分好みにカスタマイズできる楽しさを提供しています。",
+            "カレンダー管理だけでなく、AIを活用してバスの乗り遅れを知らせるようなパーソナルなニーズにも対応可能です。",
+            "この機能は、ユーザーが日常生活でAIをより身近に、そして楽しく活用できる可能性を示しています。"
           ]
         },
         {
@@ -508,11 +522,11 @@
           "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
           "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
           "translationStatus": "translated",
-          "titleJa": "OpenAI、ChatGPTの利用制限強化へ チャットとワーク機能統合で",
+          "titleJa": "OpenAI、ChatGPTの利用制限強化を発表 チャットとワーク統合で",
           "summaryJa": [
-            "OpenAIは、ChatGPTのチャット機能とワーク機能の統合に伴い、単一の利用量メーターを導入します。",
-            "これにより、ChatGPTを頻繁に利用するユーザーは、より早く利用制限に達する可能性があります。",
-            "ユーザーは新しい利用体系に注意が必要です。"
+            "OpenAIは、ChatGPTのチャット機能とワーク機能を統合するに伴い、単一の利用メーターを導入すると発表しました。",
+            "これにより、ヘビーユーザーは以前よりも早く利用制限に達する可能性があるとされています。",
+            "ユーザーは、新しい利用ポリシーと制限について注意を払う必要があります。"
           ]
         },
         {
@@ -522,11 +536,11 @@
           "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
           "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
           "translationStatus": "translated",
-          "titleJa": "ジェンスン・フアン氏、NVIDIAの行動規範に違反か 従業員に影響も",
+          "titleJa": "Nvidia CEOジェンスン・フアン氏が行動規範に違反、従業員の記憶に残る可能性",
           "summaryJa": [
-            "ジェンスン・フアン氏がNVIDIAの行動規範に違反したと報じられています。",
-            "ほとんどの行動規範は企業文化を反映するものであり、今回の件はNVIDIAに影響を及ぼす可能性があります。",
-            "従業員がこの件を忘れない可能性も指摘されています。"
+            "NvidiaのCEOであるジェンスン・フアン氏が、同社の行動規範に違反したと報じられています。",
+            "行動規範は企業文化を反映するものであり、今回の違反はNvidiaに影響を及ぼす可能性があります。",
+            "従業員の間でこの件がどのように受け止められ、今後の企業運営にどう影響するかが注目されます。"
           ]
         },
         {
@@ -538,9 +552,9 @@
           "translationStatus": "translated",
           "titleJa": "Anthropic CEO、AIへの人間制御放棄の批判を「不合理」と反論",
           "summaryJa": [
-            "Anthropicのダリオ・アモデイCEOは、人間がAIに制御を明け渡すことを支持しているという競合他社からの批判に対し、「不合理だ」と反論しました。",
-            "彼は、主要なAI企業がAIの安全性と制御について議論を深めている中で、この主張を否定しています。",
-            "アモデイ氏は、人間の主体性をAIに譲るという考え方を否定する姿勢を示しました。"
+            "AnthropicのCEO、ダリオ・アモデイ氏が、人間がAIに制御を明け渡すことを支持しているという競合他社からの批判に対し、「不合理だ」と反論しました。",
+            "主要なAI企業がAIの安全性と倫理について議論を深める中、同氏は人間の主体性を維持することの重要性を強調しています。",
+            "AI開発における倫理的責任と人間の役割に関する議論が続いています。"
           ]
         },
         {
@@ -550,11 +564,11 @@
           "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exp...",
           "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
           "translationStatus": "translated",
-          "titleJa": "ニューヨーク州、AIチャットボット玩具を5年間禁止へ",
+          "titleJa": "ニューヨーク州、AIチャットボット玩具を5年間禁止 安全性懸念で",
           "summaryJa": [
-            "ニューヨーク州は、AIチャットボット玩具を5年間禁止すると発表しました。",
-            "Common Sense Mediaの新たな調査により、これらの玩具に安全上の問題が指摘されたためです。",
-            "具体的には、個人情報の漏洩などの懸念が挙げられています。"
+            "ニューヨーク州が、AIチャットボット玩具の販売を5年間禁止する措置を導入しました。",
+            "Common Sense Mediaの新たな調査により、これらの玩具にプライバシー侵害などの深刻な安全上の問題が指摘されたためです。",
+            "消費者、特に子供たちの安全とプライバシー保護を目的とした規制強化の動きが広がっています。"
           ]
         }
       ]
@@ -564,17 +578,45 @@
       "name": "教育ニュース",
       "items": [
         {
+          "title": "New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit",
+          "source": "The 74",
+          "publishedAt": "2026-11-27T17:30:00Z",
+          "excerpt": "New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s...",
+          "link": "https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/",
+          "translationStatus": "translated",
+          "titleJa": "ニューメキシコ州の教育関係者らが連邦教育税額控除に反対",
+          "summaryJa": [
+            "ニューメキシコ州の教育擁護団体、教職員組合代表者、州議会議員が火曜日に記者会見を開きました。",
+            "彼らは、連邦教育税額控除に反対する姿勢を表明しました。",
+            "この動きは、州の教育政策に対する懸念を反映しています。"
+          ]
+        },
+        {
+          "title": "Opinion: Behind the Teacher Recruitment and Retention Problem Is a Crisis of Mattering",
+          "source": "The 74",
+          "publishedAt": "2026-11-27T11:30:00Z",
+          "excerpt": "Across the country, schools struggle to recruit and retain talented teachers. These challenges are often described as a staffing problem. B...",
+          "link": "https://www.the74million.org/article/behind-the-teacher-recruitment-and-retention-problem-is-a-crisis-of-mattering/",
+          "translationStatus": "translated",
+          "titleJa": "教員採用・定着問題の背景にある「存在意義の危機」",
+          "summaryJa": [
+            "全国の学校で、優秀な教員の採用と定着が困難になっています。",
+            "この問題はしばしば人員不足として語られますが、筆者はより深い原因があると指摘しています。",
+            "教員が自身の仕事に「存在意義」を感じられないことが、根本的な危機であると論じています。"
+          ]
+        },
+        {
           "title": "Texas Sports Academy, Tied to AI-Driven Alpha School, is Texas’ Biggest Voucher Recipient So Far",
           "source": "The 74",
           "publishedAt": "2026-11-26T17:30:00Z",
           "excerpt": "The biggest recipient of Texas’ new school voucher program so far is a sports academy connected to Alpha School, the artificial intelligenc...",
           "link": "https://www.the74million.org/article/texas-sports-academy-tied-to-ai-driven-alpha-school-is-texas-biggest-voucher-recipient-so-far/",
           "translationStatus": "translated",
-          "titleJa": "テキサス州、AI活用アルファ校関連のスポーツアカデミーが最大のバウチャー受給者に",
+          "titleJa": "テキサス州、AI関連スポーツアカデミーが最大の学校バウチャー受給者に",
           "summaryJa": [
             "テキサス州の新しい学校バウチャープログラムにおいて、これまでの最大の受給者が判明しました。",
-            "それは、AIを活用したアルファ校と関連するスポーツアカデミーです。",
-            "このアカデミーが、同州のバウチャー制度で最も多くの資金を受け取っています。"
+            "それは、AI駆動のアルファスクールと関連するスポーツアカデミーです。",
+            "この事実は、州の教育資金配分における新たな傾向を示しています。"
           ]
         },
         {
@@ -584,11 +626,11 @@
           "excerpt": "States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creat...",
           "link": "https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/",
           "translationStatus": "translated",
-          "titleJa": "貧困地域の学校で教師を定着させる実績ある方法が衰退",
+          "titleJa": "貧困地域の学校で教員定着を促す実績ある方法が衰退",
           "summaryJa": [
-            "全米の州や学区は、教師が貧困度の高い学校を離れる傾向にあるという共通の問題に直面しています。",
-            "この状況は、貧困地域の学校での教師不足を深刻化させています。",
-            "かつて実績があった教師定着策が、現在ではその効果を失いつつあると報じられています。"
+            "全国の州や学区は、共通の問題に直面しています。",
+            "貧困度の高い学校では、教員が離職する傾向が非常に高いとされています。",
+            "教員をこれらの学校に留めるための実績ある方法が、現在その効果を失いつつあります。"
           ]
         },
         {
@@ -598,11 +640,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/chicago/2026/11/25/thotakura-files-petition-for-recount-in-school-board-race/",
           "translationStatus": "translated",
-          "titleJa": "シカゴ学区理事会選挙、ダウンタウン代表の議席で再集計を要求",
+          "titleJa": "シカゴ学区理事会選挙、中心部代表の議席で再集計を要求",
           "summaryJa": [
-            "シカゴの学区理事会選挙において、ダウンタウン地区の代表議席を巡り再集計が要求されました。",
-            "選挙結果に異議が唱えられ、票の正確な確認が求められています。",
-            "この再集計により、最終的な当選者が決定される見込みです。"
+            "シカゴの学区理事会選挙において、中心部を代表する議席で再集計が要求されました。",
+            "これは選挙結果に異議が唱えられていることを示唆しています。",
+            "選挙の最終結果に影響を与える可能性があります。"
           ]
         },
         {
@@ -614,9 +656,9 @@
           "translationStatus": "translated",
           "titleJa": "ノースカロライナ州の地方郡でドゥーラケアが拡大、母子の健康向上目指す",
           "summaryJa": [
-            "ノースカロライナ州の地方郡で、母子の健康と福祉の向上を目指すドゥーラケアの利用が拡大しています。",
-            "ドゥーラは出産前後の女性を精神的・身体的にサポートする専門家です。",
-            "ある妊婦はドゥーラに対し「出産で死にたくない」と語っており、ケアの重要性が示されています。"
+            "ノースカロライナ州の地方郡で、ドゥーラケアの利用が拡大しています。",
+            "これは、妊産婦の健康と福祉の向上を目的としています。",
+            "妊婦が「出産で死にたくない」と語るなど、ドゥーラへの期待が高まっています。"
           ]
         },
         {
@@ -626,11 +668,11 @@
           "excerpt": "McMahon Eyes Potential Settlement With ‘Ring Boys’ Josh Moody Wed, 11/25/2026 - 02:03 PM Education Secretary Linda McMahon and co-defendant...",
           "link": "https://www.insidehighered.com/news/government/politics-elections/2026/11/25/mcmahon-eyes-potential-settlement-ring-boys",
           "translationStatus": "translated",
-          "titleJa": "マクマホン氏、「リングボーイズ」との和解の可能性を検討",
+          "titleJa": "マクマホン氏、「リングボーイズ」との和解を検討か",
           "summaryJa": [
-            "リンダ・マクマホン教育長官が、「リングボーイズ」と呼ばれる関係者との間で和解の可能性を探っています。",
-            "共同被告人であるマクマホン氏が、係争中の問題解決に向けて動いている模様です。",
-            "この動きは、訴訟の終結に向けた一歩となる可能性があります。"
+            "リンダ・マクマホン教育長官が、「リングボーイズ」との間で和解の可能性を探っている模様です。",
+            "記事は、マクマホン氏と共同被告人が関与していることを示唆しています。",
+            "この件は、教育分野における法的な動きとして注目されます。"
           ]
         },
         {
@@ -642,9 +684,9 @@
           "translationStatus": "translated",
           "titleJa": "マンハッタン下部でAI高校計画を阻止、代わりに中学校が拡張へ",
           "summaryJa": [
-            "マンハッタン下部地区の保護者たちが、AIを活用した高校の設立計画に反対し、これを阻止しました。",
-            "その結果、AI高校の代わりに既存の中学校が拡張されることになりました。",
-            "この決定は、地域住民の意向が教育計画に影響を与えた事例として注目されています。"
+            "マンハッタン下部で、保護者たちがAI高校の設立計画に反対し、これを阻止しました。",
+            "その結果、代わりに既存の中学校が拡張されることになりました。",
+            "この動きは、地域社会が教育の方向性に影響を与えた事例として注目されます。"
           ]
         },
         {
@@ -654,11 +696,11 @@
           "excerpt": "Did you know search engines like Google are changing the way you see news? Keep Chalkbeat’s valuable education coverage at the top of your...",
           "link": "https://www.chalkbeat.org/detroit/2026/11/25/dpscd-weighs-student-mentoring-expansion-to-prevent-violence/",
           "translationStatus": "translated",
-          "titleJa": "デトロイト学区理事会、地域暴力介入団体との連携で440万ドルのメンタープログラム拡大を検討",
+          "titleJa": "デトロイト学区理事会、地域暴力介入団体とのメンターシップ拡大を検討",
           "summaryJa": [
-            "デトロイトの学区理事会が、地域暴力介入団体と連携し、メンタープログラムの拡大を検討しています。",
-            "この計画には440万ドルの予算が計上されており、生徒への支援強化が目的です。",
-            "地域社会の安全向上と教育環境の改善を目指す取り組みとして注目されています。"
+            "デトロイトの学区理事会が、440万ドルを投じるメンターシッププログラムの拡大を検討しています。",
+            "このプログラムは、地域暴力介入団体との連携を伴います。",
+            "生徒支援と地域安全の向上を目指す動きとして注目されます。"
           ]
         },
         {
@@ -668,39 +710,11 @@
           "excerpt": "This essay first appeared on Alexander Russo’s The Grade When I walked into The 74’s newsroom on my first day in January of 2024, I couldn’...",
           "link": "https://www.the74million.org/article/anger-then-action-from-classroom-teacher-to-investigative-reporter/",
           "translationStatus": "translated",
-          "titleJa": "意見：怒りを行動へ、教室の教師から調査報道記者へ",
+          "titleJa": "意見：怒りから行動へ、教室の教員から調査報道記者へ転身",
           "summaryJa": [
-            "本稿は、教室の教師が調査報道記者へと転身した経緯について述べる意見記事です。",
-            "筆者は2024年1月にニュースルームに入った際の経験を語っています。",
-            "自身の怒りを原動力に、教育現場の問題を深く掘り下げる活動へと進んだことが示唆されています。"
-          ]
-        },
-        {
-          "title": "Opinion: 4 Approaches to Keep Students from Offloading Their Thinking to AI",
-          "source": "The 74",
-          "publishedAt": "2026-11-25T15:30:00Z",
-          "excerpt": "One in 10 American teenagers say they complete all or most of their schoolwork with the help of artificial intelligence chatbots. These are...",
-          "link": "https://www.the74million.org/article/4-approaches-to-keep-students-from-offloading-their-thinking-to-ai/",
-          "translationStatus": "translated",
-          "titleJa": "意見：生徒がAIに思考を委ねるのを防ぐ4つのアプローチ",
-          "summaryJa": [
-            "アメリカの10代の若者の10人に1人が、学校の課題の大部分をAIチャットボットの助けを借りて完了していると報告されています。",
-            "この意見記事では、生徒がAIに思考を丸投げするのを防ぐための4つのアプローチを提案しています。",
-            "AIの利用が進む中で、生徒の批判的思考能力を育む教育的対策の重要性が強調されています。"
-          ]
-        },
-        {
-          "title": "Teachers Are Changing How They Teach Thanksgiving",
-          "source": "The 74",
-          "publishedAt": "2026-11-25T15:00:00Z",
-          "excerpt": "",
-          "link": "https://www.the74million.org/article/turkey-art-history-myths-how-thanksgiving-lessons-evolved-across-centuries/",
-          "translationStatus": "translated",
-          "titleJa": "教師たちが感謝祭の教え方を変革",
-          "summaryJa": [
-            "教師たちが、感謝祭の授業方法を見直しています。",
-            "伝統的な教え方から、より現代的で多角的な視点を取り入れる動きが見られます。",
-            "これは、感謝祭の歴史や文化に対する理解を深めるための取り組みです。"
+            "この意見記事は、教室の教員が調査報道記者へと転身した経緯を綴っています。",
+            "筆者は、教育現場での経験から感じた「怒り」が行動の原動力になったと述べています。",
+            "2024年1月にThe 74のニュースルームに入った初日の様子が語られています。"
           ]
         }
       ]
@@ -726,7 +740,7 @@
     "enabled": true,
     "limitPerCategory": 10,
     "delaySeconds": 70,
-    "translatedItems": 45,
+    "translatedItems": 48,
     "failedBatches": []
   }
 }
